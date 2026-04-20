@@ -2,152 +2,102 @@
 
 ## 1. Upper Limb
 
-### Brachial Plexus
-- Roots:
-  `C5-T1`.
-- Trunks:
-  upper, middle, lower.
-- Cords:
-  lateral, medial, posterior.
-- Terminal branches:
-  musculocutaneous, axillary, radial, median, ulnar.
+### Brachial Plexus & Nerve Injuries
+- **Roots**: C5-T1.
+- **Erb-Duchenne Palsy (C5-C6)**: 
+    - Site: Erb's Point (6 nerves meet).
+    - Cause: Birth trauma, fall on shoulder.
+    - Clinical: **Waiters' Tip / Policeman's Tip hand**.
+    - Muscles paralyzed: Deltoid, Biceps, Brachialis, Brachioradialis.
+- **Klumpke's Palsy (C8-T1)**:
+    - Cause: Sudden upward pull of arm.
+    - Clinical: **Complete Claw Hand** + Horner's Syndrome (due to T1 involvement).
+- **Radial Nerve (C5-T1)**: 
+    - Axilla (Crutch palsy), Mid-shaft humerus (Spiral groove - **Wrist Drop**), Neck of radius (PIN injury - Finger drop, NO wrist drop).
+- **Median Nerve**: 
+    - At wrist (Carpal Tunnel - **Ape Thumb**), At elbow (Supracondylar fracture - **Pointing index / Hand of Benediction**).
+- **Ulnar Nerve**: 
+    - Behind medial epicondyle (Funny bone), At Wrist (Guyon's canal). Clinical: **Ulnar Claw Hand** (worse if lesion is distal - Ulnar Paradox).
 
-### Important Lesions
-- Erb palsy:
-  `C5-C6`, waiter tip posture.
-- Klumpke palsy:
-  `C8-T1`, claw hand, may involve Horner syndrome.
-- Long thoracic nerve:
-  winging of scapula.
-- Axillary nerve:
-  surgical neck fracture, deltoid weakness.
-- Radial nerve:
-  wrist drop.
-- Median nerve:
-  ape thumb, thenar wasting, hand of benediction.
-- Ulnar nerve:
-  clawing, interossei weakness.
-
-### Cubital Fossa
-- Boundaries:
-  pronator teres medially, brachioradialis laterally, imaginary line between epicondyles superiorly.
-- Contents from lateral to medial:
-  tendon of biceps, brachial artery, median nerve.
-- Radial nerve lies laterally.
-
-### Spaces
-- Quadrangular space:
-  axillary nerve, posterior circumflex humeral artery.
-- Upper triangular space:
-  circumflex scapular artery.
-- Lower triangular space:
-  radial nerve, profunda brachii artery.
-
-### Hand
-- Carpal tunnel contents:
-  median nerve, FDS four tendons, FDP four tendons, FPL tendon.
-- Flexor retinaculum roof; carpal bones floor.
-- Palmar interossei adduct, dorsal interossei abduct.
+### Cubital Fossa & Hand
+- **Cubital Fossa Contents (Medial to Lateral)**: **MBBR**
+    - **M**: Median Nerve.
+    - **B**: Brachial Artery (bifurcates here).
+    - **B**: Biceps Brachii Tendon.
+    - **R**: Radial Nerve (not true content, but in lateral boundary).
+- **Carpal Tunnel**: 
+    - **Contents**: 9 Tendons (4 FDS, 4 FDP, 1 FPL) + **Median Nerve**.
+    - **Not in tunnel**: Palmaris longus, Ulnar nerve/artery.
+- **Anatomical Snuffbox**:
+    - **Boundaries**: EPL (medial), EPB & APL (lateral).
+    - **Floor**: Scaphoid bone (most common fracture).
+    - **Content**: Radial Artery.
 
 ## 2. Lower Limb
 
-### Femoral Triangle
-- Boundaries:
-  inguinal ligament, sartorius, adductor longus.
-- Contents lateral to medial:
-  femoral nerve, artery, vein, empty space, lymphatics.
+### Thigh & Gluteal Region
+- **Femoral Triangle (Lateral to Medial)**: **NAVY** (Nerve, Artery, Vein, Y-fronts/Lymphatics).
+- **Femoral Sheath**: Contains Artery, Vein, Lymphatics (**NOT the Nerve**).
+- **Adductor Canal (Hunter's)**: Site for femoral artery ligation. Roof by Sartorius.
+- **Gluteal Injections**: Superolateral quadrant to avoid **Sciatic Nerve**.
+- **Trendelenburg Sign**: Injury to **Superior Gluteal Nerve**. Weakness of Gluteus Medius/Minimus. Pelvis tilts towards healthy side when standing on affected leg.
 
-### Adductor Canal
-- Boundaries:
-  vastus medialis, adductor longus/magnus, sartorius roof.
-- Contents:
-  femoral artery, femoral vein, saphenous nerve, nerve to vastus medialis.
+### Nerves & Injuries
+- **Common Peroneal (L4-S2)**: Winds around neck of fibula. Injury = **Foot Drop** (Loss of dorsiflexion and eversion).
+- **Tibial Nerve**: Passes deep to flexor retinaculum. Injury = Loss of plantar flexion (cannot stand on tiptoes).
 
-### Gluteal Region
-- Safe intramuscular injection:
-  superolateral quadrant.
-- Superior gluteal nerve injury:
-  Trendelenburg gait.
-- Inferior gluteal nerve:
-  gluteus maximus.
-
-### Sciatic And Peroneal
-- Sciatic nerve leaves through greater sciatic foramen below piriformis.
-- Common peroneal nerve vulnerable at neck of fibula.
-- Tibial nerve passes behind medial malleolus in tarsal tunnel.
-
-### Knee And Foot
-- ACL prevents anterior displacement of tibia.
-- PCL prevents posterior displacement of tibia.
-- Medial meniscus is less mobile and injured more often.
-- Foot arches maintained by plantar aponeurosis, ligaments, and muscles.
+### Knee & Ankle
+- **Knee Joint**:
+    - **ACL**: Prevents anterior sliding of tibia. Locked in extension (Taut).
+    - **Meniscus**: Medial is C-shaped (more fixed), Lateral is Circular (more mobile).
+- **Ankle**: **Deltoid ligament** is the strongest. Lateral ligaments (Anterior Talofibular) are most commonly sprained.
 
 ## 3. Thorax
 
-### Mediastinum
-- Superior mediastinum:
-  arch of aorta, trachea, esophagus, thymus, vagus, phrenic.
-- Middle mediastinum:
-  heart, pericardium, roots of great vessels.
-- Posterior mediastinum:
-  descending thoracic aorta, esophagus, thoracic duct, azygos system.
+### Mediastinum & Topography
+- **Sternal Angle (Angle of Louis - T4/T5)**:
+    - Arch of aorta begins/ends.
+    - Trachea bifurcates.
+    - Thoracic duct crosses from R to L.
+    - Superior/Inferior mediastinum boundary.
+- **Azygos vein**: Arches over the root of the right lung.
 
-### Heart
-- SA node at SVC-right atrium junction.
-- AV node near coronary sinus opening.
-- RCA usually supplies SA node in most people and AV node in many.
-- LAD supplies anterior wall and anterior two-thirds of IV septum.
+### Heart & Lungs
+- **Heart Supply**:
+    - **LAD (Widow maker)**: Supplies anterior wall and septum.
+    - **SA Node**: Supplied by RCA in 60%.
+    - **AV Node**: Supplied by RCA in 90% (Right dominant).
+- **Coronary Sinus**: Opens into the Right Atrium; guarded by Thebesian valve.
+- **Lungs**:
+    - **Right**: 3 lobes, 10 bronchopulmonary segments.
+    - **Left**: 2 lobes + Lingula (homologue of right middle lobe).
+    - **Foreign body**: Most likely in **Right Main Bronchus** (Wider, Shorter, More vertical).
 
-### Lungs
-- Right lung:
-  three lobes, horizontal fissure.
-- Left lung:
-  two lobes, lingula, cardiac notch.
-- Right main bronchus:
-  wider, shorter, more vertical.
-
-### Pleura
-- Costodiaphragmatic recess is main site of pleural fluid collection.
-- Needle should be inserted above upper border of rib to avoid VAN.
+### Diaphragm
+- **Openings**:
+    - **T8 (Vena Caval)**: IVC, Right Phrenic.
+    - **T10 (Oesophageal)**: Oesophagus, Vagus, Left Gastric vessels.
+    - **T12 (Aortic)**: Aorta, Thoracic duct, Azygos vein (**Red, White, and Blue**).
 
 ## 4. Abdomen
 
-### Inguinal Canal
-- Anterior wall:
-  external oblique aponeurosis.
-- Posterior wall:
-  transversalis fascia.
-- Roof:
-  arching fibers of internal oblique and transversus abdominis.
-- Floor:
-  inguinal ligament.
-- Indirect hernia is lateral to inferior epigastric vessels.
-- Direct hernia is medial to inferior epigastric vessels.
+### Regions & Walls
+- **Inguinal Canal**:
+    - **Boundaries**: MALT (Muscles-2, Aponeurosis-1, Ligaments-1, Tendon-1).
+    - **Positions**: **Indirect Hernia** (Lateral to inferior epigastric), **Direct Hernia** (Medial to vessels, through Hesselbach's triangle).
+    - **Hesselbach's Triangle**: Lateral border of Rectus, Inguinal Ligament, Inferior Epigastric vessels.
 
-### Arterial Supply
-- Celiac trunk:
-  foregut.
-- SMA:
-  midgut.
-- IMA:
-  hindgut.
+### Viscera & Blood Supply
+- **Celiac Trunk (T12)**: Foregut (Oesophagus to 2nd part of duodenum).
+- **SMA (L1)**: Midgut (2nd part duodenum to distal 1/3 transverse colon).
+- **IMA (L3)**: Hindgut (transverse colon to upper rectum).
+- **Liver**: Couinaud classification (8 segments). Segment I is Caudate lobe (independent supply).
+- **Porta Hepatis (PBD)**: **P**ortal vein, **B**ile duct, Hepatic **D**uct (or rather hepatic artery branches).
+- **Pancreas**: Uncinate process is posterior to SMA/SMV.
 
-### Portal-Systemic Anastomosis
-- Lower esophagus:
-  left gastric with azygos.
-- Umbilicus:
-  paraumbilical with superficial epigastric.
-- Rectum:
-  superior rectal with middle/inferior rectal.
-
-### Lesser Sac
-- Communicates with greater sac via epiploic foramen.
-- Epiploic foramen boundaries:
-  portal triad anteriorly, IVC posteriorly.
-
-## 5. High-Yield Clinical Correlations
-- Midshaft humerus fracture causes radial nerve palsy.
-- Neck of fibula fracture causes foot drop.
-- Posterior dislocation of hip may injure sciatic nerve.
-- Right main bronchus is common site for aspirated foreign body.
-- Direct vs indirect hernia is a recurrent exam question.
+### Clinical Pearls
+- **McBurney's Point**: Initial site of appendicitis pain is peri-umbilical (T10), later shifts to RIF.
+- **Left Renal Vein**: Long, passes between Aorta and SMA (Nutcracker Syndrome).
+- **Ureter**: Crosses "Over the iliac, Under the water (uterine artery)".
+- **Smallest Muscle**: Stapedius.
+- **Longest Nerve**: Sciatic.

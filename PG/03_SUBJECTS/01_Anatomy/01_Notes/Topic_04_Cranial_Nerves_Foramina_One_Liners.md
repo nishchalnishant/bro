@@ -1,53 +1,52 @@
 # Cranial Nerves, Foramina, And One-Liners
 
-## Cranial Nerves Quick Table
-- `I`: smell, cribriform plate.
-- `II`: vision, optic canal.
-- `III`: most extraocular muscles, superior orbital fissure.
-- `IV`: superior oblique, superior orbital fissure.
-- `V1`: cornea/forehead sensation, superior orbital fissure.
-- `V2`: midface sensation, foramen rotundum.
-- `V3`: mastication + lower face sensation, foramen ovale.
-- `VI`: lateral rectus, superior orbital fissure.
-- `VII`: facial expression, internal acoustic meatus then stylomastoid foramen.
-- `VIII`: hearing and balance, internal acoustic meatus.
-- `IX`: posterior one-third tongue taste/sensation, jugular foramen.
-- `X`: palate/pharynx/larynx, jugular foramen.
-- `XI`: SCM and trapezius, jugular foramen.
-- `XII`: tongue muscles, hypoglossal canal.
+## 1. Cranial Nerves: Functional Components
+*Crucial for NEET PG Brainstem cross-section questions.*
 
-## Parasympathetic Ganglia
-- Ciliary ganglion:
-  `III`.
-- Pterygopalatine and submandibular ganglia:
-  `VII`.
-- Otic ganglion:
-  `IX`.
+- **General Somatic Efferent (GSE)**: Motor to extraocular (`III, IV, VI`) and tongue muscles (`XII`).
+- **Special Visceral Efferent (SVE)**: Motor to branchial arch muscles (`V, VII, IX, X`).
+- **General Visceral Efferent (GVE)**: Parasympathetic to glands/smooth muscle (`III, VII, IX, X`).
+- **General Visceral Afferent (GVA)**: Sensation from viscera (`IX, X`).
+- **Special Visceral Afferent (SVA)**: Taste (`VII, IX, X`) and Smell (`I`).
+- **General Somatic Afferent (GSA)**: General sensation from face/scalp (`V, VII, IX, X`).
+- **Special Somatic Afferent (SSA)**: Vision (`II`), Hearing/Balance (`VIII`).
 
-## Common Exam One-Liners
-- Corneal reflex:
-  afferent `V1`, efferent `VII`.
-- Jaw jerk:
-  trigeminal.
-- Gag reflex:
-  afferent `IX`, efferent `X`.
-- Bell palsy is LMN facial palsy.
-- Hypoglossal lesion causes tongue deviation to same side.
-- Abducens is most commonly affected in raised intracranial pressure.
+## 2. Advanced Foramina Master Table
+| Foramen | Primary Content | Secondary/Hidden Content |
+| :--- | :--- | :--- |
+| **Optic Canal** | Optic Nerve (`II`) | **Ophthalmic Artery**, SNS plexus |
+| **Superior Orbital Fissure** | `III, IV, V1, VI` | **Superior Ophthalmic Vein**, SNS fibers |
+| **Foramen Rotundum** | Maxillary Nerve (`V2`) | - |
+| **Foramen Ovale** | Mandibular Nerve (`V3`) | **Accessory Meningeal Artery**, Lesser Petrosal Nerve, Emissary veins |
+| **Foramen Spinosum** | Middle Meningeal Artery | **Nervus Spinosus** (V3 branch) |
+| **Internal Acoustic Meatus** | `VII, VIII` | **Labyrinthine Artery** |
+| **Jugular Foramen** | `IX, X, XI` | **Internal Jugular Vein**, Inferior Petrosal Sinus, Meningeal branch of Occipital artery |
+| **Hypoglossal Canal** | `XII` | Meningeal branch of ascending pharyngeal artery, Emissary vein |
+| **Foramen Magnum** | Spinal Cord (Medulla) | **Vertebral Arteries**, Spinal Accessory N. (ascending), Ant/Post Spinal Arteries |
 
-## High-Yield Foramina
-- Cribriform plate:
-  olfactory nerve fibers.
-- Optic canal:
-  optic nerve, ophthalmic artery.
-- Internal acoustic meatus:
-  `VII`, `VIII`.
-- Stylomastoid foramen:
-  facial nerve exit.
-- Foramen lacerum:
-  mostly filled with cartilage.
+## 3. High-Yield One-Liners (Clinical & Facts)
+1. **Abducens Nerve (`VI`)**: Longest intracranial course; first to be affected in raised ICP.
+2. **Trochlear Nerve (`IV`)**: Only nerve to exit from the **dorsal** surface of the brainstem; longest peripheral course.
+3. **Internal Acoustic Meatus**: Site of Acoustic Neuroma; affects `VIII` first, then `VII` and `V`.
+4. **Corneal Reflex**: Afferent `V1` (Ciliary nerve), Efferent `VII` (Zygomatic branch).
+5. **Gag Reflex**: Afferent `IX` (Glossopharyngeal), Efferent `X` (Vagus).
+6. **Parasympathetic to Parotid**: `IX` -> Tympanic n. -> Lesser petrosal n. -> **Otic Ganglion** -> Auriculotemporal n.
+7. **Parasympathetic to Lacrimal**: `VII` -> Greater petrosal n. -> Nerve of Pterygoid canal -> **Pterygopalatine Ganglion** -> Zygomatic n. -> Lacrimal n.
+8. **Anosmia**: Loss of smell; commonly due to fracture of **Cribriform Plate**.
+9. **Mydriasis**: Dilated pupil; seen in `III` nerve palsy (unopposed sympathetic).
+10. **Hyperacusis**: Sensitivity to loud sounds; due to paralysis of **Stapedius** (`VII`).
+11. **Uvula Deviation**: Deviates away from the side of the lesion (`X`).
+12. **Tongue Deviation**: Deviates towards the side of the lesion (`XII`).
+13. **Sternocleidomastoid Paralysis**: Inability to turn head to the **opposite** side (`XI`).
+14. **Smallest Cranial Nerve**: Trochlear (`IV`).
+15. **Largest Cranial Nerve**: Trigeminal (`V`).
 
-## Red Flag Confusions
-- Facial nerve is not sensory nerve of face; trigeminal is.
-- Recurrent laryngeal nerve does not supply cricothyroid; external laryngeal does.
-- Parasympathetic to parotid is from glossopharyngeal, not facial.
+## 4. Reflex Mastery Table
+| Reflex | Afferent | Efferent | Center |
+| :--- | :--- | :--- | :--- |
+| **Light Reflex** | `II` | `III` | Pretectal Nucleus |
+| **Corneal** | `V1` | `VII` | Pons |
+| **Jaw Jerk** | `V3` (Sensory) | `V3` (Motor) | Pons |
+| **Gag** | `IX` | `X` | Medulla |
+| **Lacrimation** | `V1` | `VII` | Pons |
+| **Sneezing** | `V1` | `X` | Medulla |

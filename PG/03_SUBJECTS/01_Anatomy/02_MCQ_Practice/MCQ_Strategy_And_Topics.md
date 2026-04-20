@@ -1,4 +1,35 @@
-# Anatomy MCQ Strategy And Topics
+# Anatomy# MCQ Strategy And Topics: Anatomy
+
+Mastering Anatomy MCQs requires a mix of factual recall and spatial reasoning. Use these strategies to improve your accuracy.
+
+## 1. The "Except" Trap Strategy
+Anatomy is famous for "All of the following are true EXCEPT" questions.
+- **Rule**: If you see a list of 4 structures (e.g., muscles of the palate), one is always the exception (Tensor Veli Palatini).
+- **Pro-Tip**: Memorize the "One Exception" for every major muscle group and nerve supply.
+
+## 2. Image-Based Question (IBQ) Strategy
+- **Orientation First**: If shown a CT or MRI, first identify the level (e.g., T4, L1, or Brainstem section).
+- **Pointer Identification**: Look for "unique" structures nearby (e.g., if pointing to a vessel near the SMA, it's likely the SMV or a renal vein).
+- **Radiological Signs**: Memorize signs like "Mickey Mouse" (Midbrain) or "Light-bulb" (Shoulder dislocation).
+
+## 3. High-Yield Topic Prioritization
+If you are 2 weeks before the exam, focus only on these:
+1. **Neuroanatomy**: Brainstem, Internal Capsule, Circle of Willis.
+2. **Head & Neck**: Triangles, Tongue, Thyroid, Cranial Nerves.
+3. **Abdomen**: Hernias, Liver segments, Diaphragm levels.
+4. **Upper Limb**: Brachial plexus and Hand spaces.
+
+## 4. Integrated Questions
+NEET PG often integrates Anatomy with:
+- **Surgery**: "During a thyroidectomy, which nerve is at risk?" (RLN).
+- **Medicine**: "Patient has loss of pain/temp on left side; which tract is affected?" (Spinothalamic).
+- **OBGYN**: "Site for pudendal block?" (Ischial spine).
+
+## 5. Mock Test Analysis
+- After every Grand Test (GT), log specifically **WHY** you missed an Anatomy question:
+    - *Was it a memory gap?* (Add to One-Liners).
+    - *Was it a relation confusion?* (Add to the Trap Log).
+    - *Was it an Image miss?* (Review the Image Checklist).
 
 ## Core Rule
 - Anatomy MCQs are rarely random if you master five buckets:

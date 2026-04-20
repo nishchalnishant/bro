@@ -1,15 +1,3 @@
-# 50 Must-Do Anatomy MCQ Themes
-
-1. Erb palsy.
-2. Klumpke palsy.
-3. Long thoracic nerve injury.
-4. Axillary nerve in surgical neck fracture.
-5. Radial nerve in spiral groove injury.
-6. Median nerve in carpal tunnel.
-7. Ulnar nerve lesion at elbow vs wrist.
-8. Cubital fossa contents.
-9. Rotator cuff tear.
-10. Quadrangular space contents.
 11. Femoral triangle contents.
 12. Adductor canal contents.
 13. Trendelenburg gait.

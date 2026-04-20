@@ -1,13 +1,3 @@
-# 50 Must-Do Physiology MCQ Themes
-
-1. Resting membrane potential.
-2. Action potential.
-3. NMJ.
-4. Hemostasis.
-5. ABO incompatibility.
-6. Cardiac cycle.
-7. Pressure-volume loop.
-8. Heart sounds.
 9. Frank-Starling law.
 10. ECG intervals.
 11. Cardiac output.

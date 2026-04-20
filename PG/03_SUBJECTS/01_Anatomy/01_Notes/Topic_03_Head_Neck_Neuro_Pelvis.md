@@ -2,139 +2,86 @@
 
 ## 1. Head And Neck
 
-### Scalp
-- Layers:
-  skin, connective tissue, aponeurosis, loose areolar tissue, pericranium.
-- Loose areolar tissue is danger area.
+### Scalp & Face
+- **Scalp Layers**: **SCALP** (Skin, Connective tissue, Aponeurosis, Loose areolar tissue, Pericranium).
+    - **Danger Area**: Loose areolar tissue (4th layer) - infection spreads to intracranial sinuses via emissary veins.
+- **Sensory of Face**: Trigeminal Nerve (`V1, V2, V3`).
+- **Motor of Face**: Facial Nerve (`VII`) - muscles of expression.
 
-### Neck Triangles
-- Posterior triangle:
-  spinal accessory nerve vulnerable.
-- Carotid triangle:
-  common carotid bifurcation, internal jugular vein, vagus relations nearby.
+### Triangles of the Neck
+- **Anterior Triangle**: Subdivided into Submandibular, Carotid, Muscular, and Submental.
+    - **Carotid Triangle**: Contains bifurcation of Common Carotid, IJV, Vagus, Hypoglossal, and Ansa Cervicalis.
+- **Posterior Triangle**: Boundaries - SCM, Trapezius, Clavicle.
+    - **Floor**: Splenius capitis, Levator scapulae, Scalenus medius.
+    - **Content**: Spinal Accessory Nerve (`XI`) - most vulnerable nerve here.
 
-### Thyroid And Parathyroid
-- Recurrent laryngeal nerve relation is key in thyroid surgery.
-- Superior thyroid artery ligated close to gland?
-  no, close to gland for inferior thyroid veins/artery relation nuance to protect nerve depending on vessel.
-- Inferior thyroid artery relation to recurrent laryngeal nerve is surgically important.
-
-### Parotid Gland
-- Structures in gland:
-  facial nerve, retromandibular vein, external carotid artery.
-- Facial nerve lesion leads to facial paralysis but sensation over parotid region is not by facial nerve.
+### Thyroid & Salivary Glands
+- **Thyroid Surgery**: 
+    - Ligate **Superior Thyroid Artery** close to the gland to protect the **External Laryngeal Nerve**.
+    - Ligate **Inferior Thyroid Artery** far from the gland to protect the **Recurrent Laryngeal Nerve**.
+- **Parotid Gland**: 
+    - **Structures within**: (Superficial to Deep) Facial Nerve -> Retromandibular Vein -> External Carotid Artery.
+    - **Nerve Supply**: Secretomotor from **Glossopharyngeal (IX)** via Otic Ganglion.
 
 ### Tongue
-- General sensation anterior `2/3` by lingual nerve.
-- Taste anterior `2/3` by chorda tympani.
-- Posterior `1/3` general sensation and taste by glossopharyngeal.
-- Motor by hypoglossal except palatoglossus by vagus.
+- **Anterior 2/3**: Sensation (Lingual - `V3`), Taste (Chorda tympani - `VII`).
+- **Posterior 1/3**: Sensation & Taste (**Glossopharyngeal - IX**).
+- **Motor**: All muscles by **Hypoglossal (XII)** EXCEPT Palatoglossus (**Vagus - X**).
 
-## 2. Cavernous Sinus And Foramina
+## 2. Cavernous Sinus & Foramina
 
 ### Cavernous Sinus
-- In lateral wall:
-  `III`, `IV`, `V1`, `V2`.
-- Within sinus:
-  internal carotid artery, `VI`.
-- Infection from face can spread due to venous communications.
+- **Relations**:
+    - **Lateral Wall**: `III, IV, V1, V2`.
+    - **Center**: Internal Carotid Artery + `VI` (Abducens).
+- **Communications**: Ophthalmic veins, Pterygoid plexus, Emissary veins to facial vein.
 
-### Important Foramina
-- Superior orbital fissure:
-  `III`, `IV`, `V1`, `VI`, superior ophthalmic vein.
-- Foramen rotundum:
-  `V2`.
-- Foramen ovale:
-  `V3`, lesser petrosal nerve, accessory meningeal artery.
-- Foramen spinosum:
-  middle meningeal artery.
-- Jugular foramen:
-  `IX`, `X`, `XI`, sigmoid sinus continuation.
-- Hypoglossal canal:
-  `XII`.
+### Skull Base Foramina (Master List)
+- **Superior Orbital Fissure**: `III, IV, V1, VI`, Ophthalmic veins.
+- **Foramen Rotundum**: `V2`.
+- **Foramen Ovale**: **MALE** (Mandibular nerve `V3`, Accessory meningeal artery, Lesser petrosal nerve, Emissary vein).
+- **Foramen Spinosum**: Middle Meningeal Artery.
+- **Internal Acoustic Meatus**: `VII, VIII`, Labyrinthine artery.
+- **Jugular Foramen**: `IX, X, XI`, Sigmoid sinus continuation (IJV).
+- **Hypoglossal Canal**: `XII`.
 
-## 3. Cranial Nerves
+## 3. Neuroanatomy
 
-### Key Testing Points
-- `III` palsy:
-  ptosis, dilated pupil, down-and-out eye.
-- `IV` palsy:
-  vertical diplopia, difficulty going downstairs.
-- `VI` palsy:
-  inability to abduct eye.
-- `VII` palsy:
-  facial asymmetry, hyperacusis, loss of taste anterior `2/3`.
-- `IX/X` lesion:
-  absent gag reflex, uvula deviation.
-- `XII` palsy:
-  tongue deviates to side of lesion.
-
-## 4. Neuroanatomy
+### Brainstem - Rule of 4 (Very High Yield)
+- **4 nerves in Medulla**: `IX, X, XI, XII`.
+- **4 nerves in Pons**: `V, VI, VII, VIII`.
+- **4 nerves above Pons**: `I, II, III, IV` (`III/IV` in midbrain).
+- **Medial vs Lateral**: Nerves that divide into 12 (3, 4, 6, 12) are medial; those that don't are lateral.
 
 ### Internal Capsule
-- Anterior limb:
-  frontopontine, thalamocortical.
-- Genu:
-  corticobulbar.
-- Posterior limb:
-  corticospinal, sensory fibers.
-- Blood supply:
-  lenticulostriate branches of MCA, anterior choroidal artery.
+- **Parts**: Anterior limb, Genu, Posterior limb, Retrolentiform, Sublentiform.
+- **Posterior Limb**: Contains Corticospinal tract and Superior Thalamic Radiation (Sensory).
+- **Blood Supply**: **Lenticulostriate branches of MCA** (Charcot's artery of hemorrhage).
 
-### Brainstem
-- Midbrain:
-  red nucleus, substantia nigra, oculomotor nuclei.
-- Pons:
-  trigeminal nuclei, abducens nucleus, facial colliculus.
-- Medulla:
-  pyramids, olives, hypoglossal nucleus, dorsal motor nucleus of vagus.
+### Tracts & Blood Supply
+- **Circle of Willis**: Formed by ICA and Vertebro-basilar systems.
+- **Cerebellum**: Posterior Inferior Cerebellar Artery (PICA) lesion = Wallenberg Syndrome (Lateral Medullary Syndrome).
+- **CSF Flow**: Lateral Ventricles -> (Monro) -> 3rd -> (Aqueduct) -> 4th -> (Luschka/Magendie) -> Subarachnoid space.
 
-### Ascending Tracts
-- Dorsal column:
-  fine touch, vibration, proprioception; decussates in medulla.
-- Spinothalamic:
-  pain and temperature; crosses within spinal cord.
-- Spinocerebellar:
-  unconscious proprioception.
+## 4. Pelvis And Perineum
 
-### Descending Tracts
-- Corticospinal:
-  voluntary movement.
-- Rubrospinal, vestibulospinal, reticulospinal:
-  posture and tone.
+### Pelvic Diaphragm & Support
+- **Levator Ani**: Puborectalis (key for fecal continence), Pubococcygeus, Iliococcygeus.
+- **Uterine Support**: 
+    - **Primary/Mechanical**: Pelvic diaphragm, Perineal body.
+    - **Secondary/Ligamentous**: **Cardinal (Mackenrodt's) Ligament** (strongest), Uterosacral ligament.
+    - **Note**: Round ligament only maintains anteversion; does not provide support.
 
-### Ventricles And CSF
-- Lateral ventricle to third via foramen of Monro.
-- Third to fourth via cerebral aqueduct.
-- Fourth to subarachnoid via foramina of Magendie and Luschka.
+### Pudendal Nerve & Perineum
+- **Course**: Leaves pelvis via greater sciatic foramen -> Hooks around sacrospinous ligament -> Enters lesser sciatic foramen (Alcock's canal).
+- **Pudendal Block**: Injected near the **Ischial Spine**.
+- **Perineal Pouches**:
+    - **Superficial**: Contains erectile tissue (Bulbs/Crus) and muscles (Ischiocavernosus, Bulbospongiosus).
+    - **Deep**: Contains Sphincter urethrae, Deep transverse perineal muscle, and Bulbourethral glands (in males).
 
-## 5. Pelvis And Perineum
-
-### Pelvic Diaphragm
-- Levator ani:
-  puborectalis, pubococcygeus, iliococcygeus.
-- Maintains continence and pelvic support.
-
-### Uterine Supports
-- Primary:
-  pelvic diaphragm, perineal body, urogenital diaphragm, ligaments.
-- Cardinal ligament carries uterine vessels.
-- Uterosacral ligament supports cervix posteriorly.
-
-### Pudendal Nerve
-- Root value `S2-S4`.
-- Leaves pelvis via greater sciatic foramen, hooks around sacrospinous ligament, enters lesser sciatic foramen.
-- Block given near ischial spine.
-
-### Perineal Pouches
-- Superficial pouch:
-  erectile tissues and associated muscles.
-- Deep pouch:
-  sphincter urethrae and deep transverse perineal muscles.
-
-## 6. Must-Know Clinical Correlations
-- Cavernous sinus thrombosis causes multiple cranial nerve palsies.
-- Middle meningeal artery injury causes extradural hematoma.
-- Internal capsule lesion causes dense contralateral motor deficit.
-- Recurrent laryngeal nerve injury causes hoarseness.
-- Pudendal nerve block is an obstetric procedure favorite.
+## 5. Clinical Pearls
+- **Kiesselbach's Plexus (Little's Area)**: Common site of epistaxis (Septal branch of labial, Ant ethmoidal, Sphenopalatine, Greater palatine).
+- **Waldeyer's Ring**: Palatine, Pharyngeal (Adenoids), Lingual, and Tubal tonsils.
+- **Bell's Palsy**: LMN lesion of VII. Inability to frown, eye closure failure, Bell's phenomenon.
+- **Epidural Hematoma**: Rupture of Middle Meningeal Artery; "Lucid Interval" classic.
+- **Pterion**: Junction of Frontal, Parietal, Temporal, and Sphenoid (H-shaped). Vulnerable site for MCA/epidural bleed.
