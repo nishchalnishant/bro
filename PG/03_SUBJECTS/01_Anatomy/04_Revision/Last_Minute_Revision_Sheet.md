@@ -1,10 +1,21 @@
 # Anatomy Last-Minute Revision Sheet
 
-- Cranial nerves: nuclei, foramina, functions, lesions.
-- Brachial plexus and lumbosacral plexus root values.
-- Foramina and transmitted structures.
+- Brachial plexus root values and nerve lesions.
+- Cubital fossa and femoral triangle contents.
+- Rotator cuff and quadrangular space.
+- Common fracture-nerve pairs.
+- Mediastinal contents and coronary artery supply.
+- Bronchopulmonary segments.
+- Inguinal canal walls and direct vs indirect hernia.
+- Portosystemic anastomosis sites.
+- Uterine supports and pudendal nerve.
+- Cranial nerves with foramina.
+- Cavernous sinus contents.
+- Internal capsule blood supply.
+- Dorsal column vs spinothalamic tract.
 - Branchial arch, pouch, and cleft derivatives.
-- Cubital fossa, femoral triangle, inguinal canal boundaries.
-- Internal capsule blood supply and brainstem syndromes.
-- Uterine supports and perineal pouches.
-- Histology slide differentiators.
+- Germ layer derivatives.
+- Fetal circulation.
+- Histology:
+  spleen vs lymph node vs thymus.
+- PCT vs DCT, duodenum vs ileum vs colon.
