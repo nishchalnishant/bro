@@ -1,13 +1,3 @@
-# 50 Must-Do Biochemistry MCQ Themes
-
-1. Enzyme kinetics.
-2. Competitive inhibition.
-3. Noncompetitive inhibition.
-4. Vitamins.
-5. Mineral deficiencies.
-6. Glycolysis.
-7. TCA cycle.
-8. HMP shunt.
 9. Glycogenesis.
 10. Glycogenolysis.
 11. Gluconeogenesis.

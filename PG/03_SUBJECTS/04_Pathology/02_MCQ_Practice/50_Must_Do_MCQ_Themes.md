@@ -1,13 +1,3 @@
-# 50 Must-Do Pathology MCQ Themes
-
-1. Cell injury.
-2. Apoptosis.
-3. Necrosis types.
-4. Acute inflammation.
-5. Chronic inflammation.
-6. Granuloma.
-7. Wound healing.
-8. Shock.
 9. Thrombosis.
 10. Embolism.
 11. DIC.

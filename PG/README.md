@@ -8,7 +8,7 @@ Use it in this order:
 2. Build your plan in `01_MASTER_PLAN`.
 3. Store all study material in `02_RESOURCES`.
 4. Study each subject inside `03_SUBJECTS`.
-5. Capture revision material in `04_NOTES_BANK`.
+5. Access subject-specific high-yield assets in `03_SUBJECTS/XX_[Subject]/07_Notes_Bank`.
 6. Practice questions in `05_QUESTION_PRACTICE`.
 7. Track tests and improve using `06_TESTS_AND_ANALYSIS`.
 8. Run structured revisions in `07_REVISION_SYSTEM`.
@@ -20,14 +20,15 @@ Use it in this order:
 
 Core rule:
 
-- Every study session should produce one of these outputs: notes, solved questions, revision points, or mistakes logged.
+- Every study session should produce one of these outputs: notes, solved questions, revision points, or mistakes logged inside the respective subject folder.
 
 Recommended workflow:
 
 - Learn from a source.
-- Make concise notes.
+- Make concise notes in `01_Notes`.
+- Consolidate Flashcards/One-liners in `07_Notes_Bank`.
 - Solve QBank/PYQs.
-- Log mistakes.
+- Log mistakes in `05_Mistakes`.
 - Revise the same topic in spaced cycles.
 - Re-test weak topics.
 
