@@ -1,16 +1,13 @@
 # Surgery MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Trauma, shock, burns, and fluids.
-- Thyroid, breast, hernia, and acute abdomen.
-- Jaundice, pancreatitis, and surgical instruments.
+## Priority Order
+1. Trauma/shock.
+2. Hernia, thyroid, breast.
+3. Acute abdomen.
+4. Jaundice and pancreatitis.
+5. Instruments and staging.
 
-## Practice Method
-- Solve management-based MCQs after topic study.
-- Keep a separate image list for instruments and staging.
-- Repeat trauma algorithms weekly.
-
-## Accuracy Targets
-- First pass: 58%+
-- Second pass: 74%+
-- Final phase: 84%+
+## Common Traps
+- Wrong management sequence.
+- Missing red-flag diagnosis.
+- Instrument confusion.

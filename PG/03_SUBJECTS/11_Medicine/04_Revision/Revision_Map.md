@@ -1,16 +1,10 @@
 # Medicine Revision Map
 
-## First Revision
-- ECG, shock, heart failure, ABG, stroke, diabetes emergencies, and sepsis.
+## Revision 1
+- Cardio, respiratory, nephro.
 
-## Second Revision
-- Murmurs, liver disease, nephrology syndromes, rheumatology antibodies, and poisoning.
+## Revision 2
+- Endocrine, neuro, GIT/liver.
 
-## Final Revision
-- Clinical approach tables, investigations of choice, and emergency protocols.
-
-## Must Recall Lists
-- Causes of anion gap acidosis.
-- Murmur-radiation patterns.
-- Stroke syndromes.
-- Electrolyte correction rules.
+## Revision 3
+- ECG, ABG, shock, sepsis, poisoning, one-liners.

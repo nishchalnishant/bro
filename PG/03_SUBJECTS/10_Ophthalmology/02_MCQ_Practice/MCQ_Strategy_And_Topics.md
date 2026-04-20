@@ -1,17 +1,13 @@
 # Ophthalmology MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Cataract and glaucoma.
-- Retina and fundus images.
-- Cranial nerve palsies and squint.
-- Red eye differential and ocular trauma.
+## Priority Order
+1. Glaucoma.
+2. Cataract.
+3. Retina/fundus.
+4. Visual pathways and field defects.
+5. Cranial nerve palsies.
 
-## Practice Method
-- Solve image-based ophthalmology every week.
-- Make one list for visual field defects and fundus clues.
-- Group questions into lens, glaucoma, retina, and neuro-ophthal.
-
-## Accuracy Targets
-- First pass: 60%+
-- Second pass: 76%+
-- Final phase: 86%+
+## Common Traps
+- Painful vs painless visual loss.
+- Fundus image confusion.
+- Field defect localization.

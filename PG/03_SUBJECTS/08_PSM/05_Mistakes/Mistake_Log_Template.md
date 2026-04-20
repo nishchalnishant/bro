@@ -1,13 +1,7 @@
 # PSM Mistake Log
 
-## Error Categories
-- Formula calculation error.
-- Program-target mismatch.
-- Vaccine route/site confusion.
-- Waste color code error.
-
-## Log Format
+- Date:
 - Topic:
-- Correct number/fact:
-- Why missed:
-- Repeat review date:
+- Wrong formula/fact:
+- Correct fact:
+- Revision note:

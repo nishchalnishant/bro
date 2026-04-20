@@ -1,16 +1,10 @@
 # Ophthalmology Revision Map
 
-## First Revision
-- Cataract, glaucoma, retinal diseases, and visual pathway defects.
+## Revision 1
+- Cataract, glaucoma, uvea.
 
-## Second Revision
-- Uveitis, corneal lesions, squint, and ocular trauma.
+## Revision 2
+- Retina, neuro-ophthalmology, squint.
 
-## Final Revision
-- Fundus images, visual fields, and one-liner signs.
-
-## Must Recall Lists
-- Causes of red eye.
-- Fundus lesion clues.
-- Cranial nerve eye movement defects.
-- Glaucoma drug basics.
+## Revision 3
+- Fundus images, visual fields, one-liners.

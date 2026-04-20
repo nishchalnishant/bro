@@ -1,13 +1,7 @@
 # Surgery Mistake Log
 
-## Error Categories
-- Wrong management sequence.
-- Anatomy boundary error.
-- Staging or classification mistake.
-- Instrument misidentification.
-
-## Log Format
+- Date:
 - Topic/case:
-- Critical clue:
-- Correct decision:
-- Why I went wrong:
+- Wrong step:
+- Correct management:
+- Revision note:

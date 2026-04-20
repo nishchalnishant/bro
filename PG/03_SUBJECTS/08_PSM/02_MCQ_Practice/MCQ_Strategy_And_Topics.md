@@ -1,17 +1,14 @@
 # PSM MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Epidemiology formulas.
-- Screening and biostatistics.
-- Vaccines and national programs.
-- Biomedical waste and public health indicators.
+## Priority Order
+1. Epidemiology.
+2. Screening.
+3. Vaccines.
+4. Programs.
+5. Biomedical waste.
+6. MCH and indicators.
 
-## Practice Method
-- Solve formula questions daily in small sets.
-- Keep one running table for programs and target groups.
-- Repeat vaccine and cold chain MCQs weekly.
-
-## Accuracy Targets
-- First pass: 62%+
-- Second pass: 78%+
-- Final phase: 88%+
+## Common Traps
+- Formula inversion.
+- Program target mismatch.
+- Vaccine route/site confusion.

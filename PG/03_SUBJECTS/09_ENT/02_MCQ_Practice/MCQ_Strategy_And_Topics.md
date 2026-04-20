@@ -1,17 +1,13 @@
 # ENT MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Hearing loss and hearing tests.
-- Vertigo differentiation.
-- Epistaxis and nasal polyps.
-- Laryngeal lesions and airway questions.
+## Priority Order
+1. Ear and hearing tests.
+2. Vertigo.
+3. Nose and sinuses.
+4. Larynx and vocal cords.
+5. Instruments/images.
 
-## Practice Method
-- Solve ear, nose, and throat in separate blocks first.
-- Re-solve instrument and image questions weekly.
-- Track nerve lesion and vocal cord position questions.
-
-## Accuracy Targets
-- First pass: 60%+
-- Second pass: 76%+
-- Final phase: 86%+
+## Common Traps
+- Vertigo cause confusion.
+- Conductive vs sensorineural hearing loss.
+- Vocal cord position confusion.

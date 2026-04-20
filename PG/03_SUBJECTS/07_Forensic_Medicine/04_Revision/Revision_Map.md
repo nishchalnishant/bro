@@ -1,16 +1,10 @@
 # Forensic Medicine Revision Map
 
-## First Revision
-- Injury classification, asphyxia differences, and postmortem changes.
+## Revision 1
+- Thanatology, injuries, asphyxia.
 
-## Second Revision
-- Legal sections, consent rules, sexual offences, and poisoning charts.
+## Revision 2
+- Sexual offences, legal medicine, toxicology.
 
-## Final Revision
-- Characteristic signs, poisons, antidotes, and injury weapon correlations.
-
-## Must Recall Lists
-- Postmortem sequence.
-- Hanging vs strangulation.
-- Poison with pupil changes.
-- Important legal age limits.
+## Revision 3
+- Poison tables, age tables, one-liners.

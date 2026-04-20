@@ -1,16 +1,10 @@
 # Surgery Revision Map
 
-## First Revision
-- Trauma, shock, thyroid, breast, hernia, and acute abdomen.
+## Revision 1
+- General surgery, trauma, shock.
 
-## Second Revision
-- Intestinal obstruction, jaundice, pancreatitis, colorectal disease, and urology basics.
+## Revision 2
+- Thyroid, breast, hernia, GIT.
 
-## Final Revision
-- Instruments, staging systems, drains, and management algorithms.
-
-## Must Recall Lists
-- Types of shock.
-- Hernia boundaries.
-- Breast and thyroid cancers.
-- Surgical instruments and uses.
+## Revision 3
+- Hepatobiliary, urology, instruments, staging.

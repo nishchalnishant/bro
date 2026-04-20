@@ -1,16 +1,13 @@
 # Medicine MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- ECG, shock, sepsis, and acid-base disorders.
-- Diabetes emergencies, thyroid disease, and electrolytes.
-- Stroke, liver disease, and nephrology syndromes.
+## Priority Order
+1. ECG and shock.
+2. ABG and electrolytes.
+3. Endocrine emergencies.
+4. Stroke and seizures.
+5. Liver and kidney syndromes.
 
-## Practice Method
-- Mix system-wise and integrated case-based MCQs.
-- Maintain a separate sheet for emergency medicine.
-- Re-solve ABG and ECG sets repeatedly.
-
-## Accuracy Targets
-- First pass: 58%+
-- Second pass: 74%+
-- Final phase: 84%+
+## Common Traps
+- Picking diagnosis before stabilizing patient.
+- Missing emergency management sequence.
+- Misreading ABG.

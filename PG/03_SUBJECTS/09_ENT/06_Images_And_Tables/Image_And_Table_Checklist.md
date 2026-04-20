@@ -1,9 +1,7 @@
 # ENT Images And Tables Checklist
 
-## Must Review
 - Audiogram patterns.
-- Otoscopic images.
-- Sinus drainage pathways.
-- Vocal cord palsy positions.
-- Neck space infections chart.
-- ENT instrument set.
+- Otoscopic image bank.
+- Sinus drainage chart.
+- Vocal cord palsy chart.
+- ENT instruments.

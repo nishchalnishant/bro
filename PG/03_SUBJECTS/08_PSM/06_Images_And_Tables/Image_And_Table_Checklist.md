@@ -1,9 +1,7 @@
 # PSM Images And Tables Checklist
 
-## Must Review
-- Epidemiology formula table.
-- Vaccine route-site-storage table.
-- National programs summary table.
-- Biomedical waste chart.
+- Epidemiology formulas.
+- Vaccine route-site-storage.
+- National programs.
+- Biomedical waste.
 - Water purification methods.
-- Health indicators table.

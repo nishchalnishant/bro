@@ -1,16 +1,10 @@
 # Obstetrics And Gynecology Revision Map
 
-## First Revision
-- Antenatal care, labor, PPH, preeclampsia, ectopic pregnancy, and contraception.
+## Revision 1
+- Normal pregnancy, ANC, labor.
 
-## Second Revision
-- CTG, infertility, menstrual disorders, gynec tumors, and prolapse.
+## Revision 2
+- Obstetric emergencies and high-risk pregnancy.
 
-## Final Revision
-- Drug choices in pregnancy, labor management steps, and staging summaries.
-
-## Must Recall Lists
-- APH vs PPH causes.
-- Contraceptive contraindications.
-- Hypertensive disorder management.
-- Gynecologic cancer staging clues.
+## Revision 3
+- Gynecology, contraception, infertility, oncology, CTG.
