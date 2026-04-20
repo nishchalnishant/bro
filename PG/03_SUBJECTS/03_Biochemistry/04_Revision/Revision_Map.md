@@ -1,16 +1,10 @@
 # Biochemistry Revision Map
 
-## First Revision
-- Vitamins, rate-limiting enzymes, glycogen storage diseases, and molecular techniques.
+## Revision 1
+- Vitamins, enzymes, carbohydrate metabolism, molecular biology.
 
-## Second Revision
-- Lipoproteins, urea cycle, bilirubin metabolism, and genetics patterns.
+## Revision 2
+- Lipid metabolism, protein metabolism, bilirubin, nucleotides, genetics.
 
-## Final Revision
-- Enzyme deficiencies, cofactors, fed-fast cycle, and disease associations.
-
-## Must Recall Lists
-- Vitamin deficiency manifestations.
-- Enzyme inhibitors.
-- Inborn errors of metabolism.
-- Tumor markers and special tests.
+## Revision 3
+- One-liners, tumor markers, inborn errors, lab techniques.

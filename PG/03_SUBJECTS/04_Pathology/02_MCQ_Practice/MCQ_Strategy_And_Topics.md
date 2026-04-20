@@ -1,17 +1,14 @@
 # Pathology MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Inflammation and necrosis.
-- Neoplasia and tumor markers.
-- Hematology and anemia workup.
-- Renal and lung pathology images.
+## Priority Order
+1. General pathology.
+2. Neoplasia.
+3. Hematology.
+4. Renal pathology.
+5. Lung and liver pathology.
+6. Images.
 
-## Practice Method
-- Mix morphology-based and concept-based questions.
-- Maintain a separate wrong-image log.
-- Revisit hematology markers every week.
-
-## Accuracy Targets
-- First pass: 60%+
-- Second pass: 75%+
-- Final phase: 85%+
+## Common Traps
+- Mixing morphology with pathogenesis.
+- Mixing nephritic and nephrotic lesions.
+- Confusing leukemia/lymphoma markers.

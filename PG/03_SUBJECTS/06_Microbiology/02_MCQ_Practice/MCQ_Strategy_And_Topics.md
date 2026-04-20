@@ -1,17 +1,14 @@
 # Microbiology MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Immunology and hypersensitivity.
-- Culture media, stains, and lab tests.
-- Bacteriology toxins and virulence factors.
-- Virology and vaccines.
+## Priority Order
+1. Immunology.
+2. Stains and media.
+3. Bacteriology.
+4. Virology.
+5. Vaccines.
+6. Fungi and parasites.
 
-## Practice Method
-- Solve organisms by morphology clusters.
-- Make separate revision cards for fungi and parasites.
-- Repeat lab diagnosis questions weekly.
-
-## Accuracy Targets
-- First pass: 58%+
-- Second pass: 74%+
-- Final phase: 84%+
+## Common Traps
+- Confusing test with organism.
+- Confusing inclusion body with virus.
+- Confusing vaccine type.

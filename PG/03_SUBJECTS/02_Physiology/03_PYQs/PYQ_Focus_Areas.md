@@ -1,11 +1,12 @@
 # Physiology PYQ Focus Areas
 
-## Repeated PYQ Themes
-- Pressure-volume loop and heart sounds.
-- Oxyhemoglobin dissociation curve.
-- Clearance and acid-base interpretation.
-- Hormones with second messengers.
+## Repeated Themes
+- Cardiac cycle and ECG.
+- Respiratory graphs and oxygen transport.
+- Clearance and acid-base.
+- Hormone receptor-second messenger.
+- Special senses and CNS localization basics.
 
-## PYQ Workflow
-- Maintain a separate list of graphs and normal values.
-- Tag questions as concept, formula, or integration based.
+## PYQ Method
+- Solve graph PYQs separately.
+- Keep one error list for formulas and one for physiology logic.

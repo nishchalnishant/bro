@@ -1,16 +1,10 @@
 # Pharmacology Revision Map
 
-## First Revision
-- ANS drug prototypes, antibiotic mechanisms, anti-TB drugs, and antidotes.
+## Revision 1
+- ANS, CVS, antimicrobials.
 
-## Second Revision
-- Adverse effects, contraindications, pregnancy safety, and cancer drugs.
+## Revision 2
+- CNS, endocrine, anticancer, toxicology.
 
-## Final Revision
-- Drug of choice, mechanism-adverse effect pairs, and one-line toxicities.
-
-## Must Recall Lists
-- CYP inducers and inhibitors.
-- Antiarrhythmic classification.
-- Anticancer toxicities.
-- Poison-antidote pairs.
+## Revision 3
+- Drug of choice, antidotes, contraindications, one-liners.

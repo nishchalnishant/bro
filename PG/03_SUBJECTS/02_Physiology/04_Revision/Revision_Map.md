@@ -1,16 +1,26 @@
 # Physiology Revision Map
 
-## First Revision
-- CVS graphs, respiratory graphs, renal transport, endocrine axes, and acid-base.
+## Revision 1
+- CVS graphs, respiratory physiology, renal physiology, endocrine axes.
 
-## Second Revision
-- ECG waves, heart sounds, pulmonary function tests, menstrual cycle, and reflexes.
+## Revision 2
+- Acid-base, ECG, reproductive physiology, CNS pathways, special senses.
 
-## Final Revision
-- Equations, normal values, hormone actions, and classic physiology curves.
+## Revision 3
+- Formulas, normal values, graphs, and one-liners.
 
-## Must Recall Lists
-- Starling forces.
-- Oxygen dissociation shift causes.
-- Renal clearance formulas.
-- Hormones with second messengers.
+## 7-Day Rapid Cycle
+- Day 1:
+  cell, nerve, muscle, blood.
+- Day 2:
+  CVS.
+- Day 3:
+  respiratory.
+- Day 4:
+  renal and acid-base.
+- Day 5:
+  GIT and endocrine.
+- Day 6:
+  CNS and special senses.
+- Day 7:
+  reproductive, graphs, formulas.

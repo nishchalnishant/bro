@@ -1,17 +1,14 @@
 # Biochemistry MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- Vitamins and cofactors.
-- Rate-limiting enzymes.
-- Inborn errors of metabolism.
-- Molecular biology techniques.
+## Priority Order
+1. Vitamins and cofactors.
+2. Rate-limiting enzymes.
+3. Inborn errors.
+4. Molecular biology.
+5. Lipoproteins and bilirubin.
 
-## Practice Method
-- Solve pathway-based MCQs after drawing pathway skeletons.
-- Build one list for enzyme deficiency diseases.
-- Revise fed-fast state integration weekly.
-
-## Accuracy Targets
-- First pass: 55%+
-- Second pass: 72%+
-- Final phase: 82%+
+## Common Traps
+- Vitamin deficiency look-alikes.
+- Enzyme name confusion.
+- Technique-use mismatch.
+- Lipoprotein/apoprotein confusion.

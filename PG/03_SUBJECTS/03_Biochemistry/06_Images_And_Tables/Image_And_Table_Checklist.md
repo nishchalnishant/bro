@@ -1,9 +1,8 @@
 # Biochemistry Images And Tables Checklist
 
-## Must Review
-- Vitamin and cofactor table.
-- Rate-limiting enzyme table.
-- Glycogen storage disease chart.
+- Vitamin-cofactor table.
+- Rate-limiting enzyme chart.
+- Glycogen storage disease table.
 - Lipoprotein/apoprotein table.
-- Molecular technique comparison table.
+- Blotting technique comparison.
 - Tumor marker table.

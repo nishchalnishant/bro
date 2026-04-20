@@ -1,16 +1,10 @@
 # Pathology Revision Map
 
-## First Revision
-- Inflammation, necrosis, healing, neoplasia, and hematology classification.
+## Revision 1
+- General pathology and neoplasia.
 
-## Second Revision
-- Kidney pathology, lung pathology, liver pathology, and female genital tumors.
+## Revision 2
+- Hematology and systemic pathology.
 
-## Final Revision
-- Tumor markers, morphology-image correlation, and hematology one-liners.
-
-## Must Recall Lists
-- Necrosis types.
-- Nephritic vs nephrotic syndromes.
-- Leukemia and lymphoma markers.
-- Tumors with characteristic histology.
+## Revision 3
+- Images, tumor markers, one-liners.

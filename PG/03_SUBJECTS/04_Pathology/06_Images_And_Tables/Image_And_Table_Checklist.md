@@ -1,9 +1,8 @@
 # Pathology Images And Tables Checklist
 
-## Must Review
-- Necrosis types table.
-- Tumor suppressor and oncogene list.
-- Leukemia and lymphoma markers.
+- Necrosis table.
+- Tumor suppressor/oncogene table.
+- Leukemia marker table.
 - Renal pathology comparison chart.
-- Histology image bank.
-- Tumor marker table.
+- Lung tumor chart.
+- Classic histology image bank.

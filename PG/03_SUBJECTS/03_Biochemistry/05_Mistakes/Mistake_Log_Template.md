@@ -1,13 +1,8 @@
 # Biochemistry Mistake Log
 
-## Error Categories
-- Enzyme-pathway mismatch.
-- Vitamin-cofactor confusion.
-- Metabolic disorder mix-up.
-- Technique-use mismatch.
-
-## Log Format
-- Topic:
-- Correct association:
+- Date:
+- Pathway/topic:
+- Wrong link:
+- Correct enzyme/fact:
 - Memory hook:
-- Re-revision date:
+- Revise on:

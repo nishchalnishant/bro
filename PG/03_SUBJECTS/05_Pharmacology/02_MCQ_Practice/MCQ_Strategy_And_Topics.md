@@ -1,17 +1,15 @@
 # Pharmacology MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- ANS drug prototypes.
-- Antibiotics and toxicities.
-- Anti-TB drugs and antidotes.
-- CNS drug adverse effects.
+## Priority Order
+1. ANS.
+2. Antibiotics.
+3. Anti-TB and toxicology.
+4. CVS.
+5. Endocrine.
+6. CNS.
+7. Anticancer.
 
-## Practice Method
-- Solve by drug class, then mixed subject blocks.
-- Maintain one notebook for drug of choice.
-- Re-solve poisoning MCQs every week.
-
-## Accuracy Targets
-- First pass: 58%+
-- Second pass: 75%+
-- Final phase: 85%+
+## Common Traps
+- Similar mechanism but different adverse effects.
+- Drug of choice by scenario.
+- CYP inducer/inhibitor mix-up.

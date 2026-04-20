@@ -1,13 +1,7 @@
 # Pharmacology Mistake Log
 
-## Error Categories
-- Wrong mechanism.
-- Wrong adverse effect.
-- Wrong drug of choice.
-- Wrong antidote or contraindication.
-
-## Log Format
+- Date:
 - Drug/class:
-- Correct fact:
-- Confusing alternative:
-- Revision checkpoint:
+- Wrong mechanism/use/AE:
+- Correct anchor fact:
+- Revision note:

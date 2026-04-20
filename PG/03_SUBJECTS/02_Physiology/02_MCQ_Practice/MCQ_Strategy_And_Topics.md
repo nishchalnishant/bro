@@ -1,17 +1,22 @@
 # Physiology MCQ Strategy And Topics
 
-## Priority MCQ Zones
-- CVS graphs and cardiac cycle.
-- Respiratory physiology and lung volumes.
-- Renal physiology and acid-base disorders.
-- Endocrine axes and hormone actions.
+## Priority Order
+1. CVS.
+2. Respiratory.
+3. Renal and acid-base.
+4. Endocrine.
+5. CNS.
+6. Reproductive physiology.
+7. Blood and immunity.
 
-## Practice Method
-- Solve graph-based questions separately.
-- Convert formulas and values into flash recall.
-- Redo acid-base and ECG interpretation repeatedly.
+## Frequent MCQ Formats
+- Graph interpretation.
+- Formula-based calculation.
+- Hormone-mechanism match.
+- Integrated physiology scenario.
 
-## Accuracy Targets
-- First pass: 60%+
-- Second pass: 75%+
-- Final phase: 85%+
+## Common Traps
+- Mixing preload with afterload.
+- Confusing restrictive vs obstructive spirometry.
+- Missing compensation direction in acid-base.
+- Mixing tyrosine kinase with G-protein receptors.
