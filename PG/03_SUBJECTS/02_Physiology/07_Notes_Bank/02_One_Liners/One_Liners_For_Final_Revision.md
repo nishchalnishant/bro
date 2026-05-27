@@ -1,2 +1,0 @@
-- ACTH, FSH, LH, TSH use cAMP.
-- Slow-wave sleep is deepest restorative sleep.
