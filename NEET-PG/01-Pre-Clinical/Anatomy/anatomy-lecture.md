@@ -1,3 +1,74 @@
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                        ANATOMY — LECTURE OVERVIEW                            │
+│                    NEET PG · 9 Major Sections at a Glance                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+                                     │
+         ┌───────────┬───────────────┼───────────────┬───────────┐
+         │           │               │               │           │
+    UPPER LIMB   LOWER LIMB      THORAX          ABDOMEN    HEAD & NECK
+         │           │               │               │           │
+   ┌─────┤      ┌────┤          ┌────┤          ┌────┤      ┌────┤
+   │     │      │    │          │    │          │    │      │    │
+Brachial │   Femoral │       Coronary  │      Inguinal │  Cavernous │
+ Plexus  │  Triangle │        Supply   │       Canal  │    Sinus   │
+   │     │      │    │          │    │          │    │      │    │
+   ├─────┤      │  Sciatic   ┌──┴──┐ │        ┌─┴──┐ │   Thyroid  │
+   │     │      │   Nerve   LAD  RCA  │     Direct  │  │   Gland   │
+ Erb's   │      │    │       │    │  │    Indirect  │  │    │      │
+ Palsy   │      │  Foot    Valves │  │    Femoral   │  │  RLN &    │
+(C5,C6)  │      │   Drop   & Heart   │    Hernias  │  │ External  │
+         │      │  (Common  Sounds   │             │  │  Laryngeal │
+       Median   │  Peroneal)         │    Portal   │  │   Nerve   │
+       Nerve    │                    │    HTN &    │  │           │
+         │    Lumbar &           Mediastinum   Porto-  │  Cranial   │
+       Ulnar   Sacral              (Superior/  Systemic │  Nerve    │
+       Nerve   Plexus           Ant/Mid/Post) Anastomoses  Nuclei  │
+         │      │                                        │(III–XII) │
+       Radial ┌─┴──────┐                              Brainstem  │
+       Nerve Femoral Obturator                       Localization │
+  (Spiral   Nerve    Nerve                                       │
+   Groove)  (NAVY)  (Pelvis)
+  ● Wrist Drop  ● Knee Ext Loss  ● Adductor Weakness
+  ● Ulnar Claw  ● Trendelenburg  ● Obturator Foramen
+  ● AIN / PIN   ● Calcaneovalgus ● Pelvic Surgery Risk
+         │
+   ┌─────┴──────────────────────────────┐
+   │                                    │
+NEUROANATOMY          EMBRYOLOGY & HISTOLOGY
+   │                         │
+   ├─ Internal Capsule        ├─ Germ Layers
+   │   ├─ Anterior Limb       │   ├─ Ectoderm (skin, CNS, neural crest)
+   │   ├─ Genu (corticobulbar)│   ├─ Mesoderm (muscle, bone, kidneys)
+   │   └─ Posterior Limb      │   └─ Endoderm (GI, thyroid, lung, liver)
+   │       └─ Lenticulostriate │
+   │          Arteries→ HTN Bleed  ├─ Pharyngeal Arches
+   │                           │   ├─ Arch 1: V3 → Mastication, Malleus
+   ├─ Basal Ganglia            │   ├─ Arch 2: VII → Facial expression, Stapes
+   │   ├─ Direct Pathway (Go) │   ├─ Arch 3: IX → Stylopharyngeus
+   │   ├─ Indirect Path (Stop)│   └─ Arch 4/6: X → Laryngeal muscles
+   │   ├─ Parkinson's (↓DA)   │
+   │   └─ Huntington's (CAG)  ├─ Neural Tube Defects
+   │                           │   ├─ Anterior neuropore → Anencephaly
+   └─ Cerebellum               │   └─ Posterior neuropore → Spina bifida
+       ├─ Vermis (axial/gait) │
+       ├─ Intermediate zone   ├─ Heart Development
+       └─ Lateral hemispheres │   ├─ Atrial septation (PFO)
+           └─ Double-cross     │   ├─ Ventricular septation (VSD)
+              (ipsilateral     │   └─ Coarctation of aorta
+               limb ataxia)   │
+                               └─ Histology
+                                   ├─ Epithelium (simple→stratified)
+                                   ├─ Collagen Types (I–IV–VII)
+                                   │   ├─ Type I: Bone/Tendon (OI)
+                                   │   ├─ Type II: Cartilage
+                                   │   ├─ Type III: Vessels/Granulation
+                                   │   ├─ Type IV: Basement membranes (Alport)
+                                   │   └─ Type VII: Dermo-epidermal (EB)
+                                   └─ Mucociliary Escalator
+                                       └─ 9+2 axoneme · Kartagener's
+```
+
 # Anatomy: Lecture-Style Notes for NEET PG
 ### Written as if a great teacher is speaking to you
 
@@ -33,6 +104,9 @@ The funnel works like this: **Roots → Trunks → Divisions → Cords → Branc
 ### Roots to Trunks
 
 The five roots (C5–T1) form three trunks at the level of the posterior triangle of the neck:
+
+![Posterior triangle of the neck showing the brachial plexus roots emerging between scalenus anterior and scalenus medius, with the three trunks visible above the clavicle](../../images/posterior-triangle-neck-brachial-plexus.jpg)
+> **IBQ tip:** Look for the trunks visible in the posterior triangle between the two scalene muscles — upper, middle, and lower trunks are identifiable above the clavicle. Differentiate from a cystic hygroma (which is a translucent, fluctuant swelling in the same triangle but lacks the cord-like nerve structure).
 - C5 + C6 → **Upper trunk**
 - C7 alone → **Middle trunk**
 - C8 + T1 → **Lower trunk**
@@ -48,6 +122,9 @@ The trunks then each divide into anterior and posterior divisions behind the cla
 ### Cord to Branch: The Terminal Nerves
 
 The five terminal branches are: **musculocutaneous, median, ulnar, radial, axillary** — a mnemonic: "My Mother Used Rear Axle" (or choose your own).
+
+![Brachial plexus anatomical diagram showing roots C5–T1, three trunks, six divisions (anterior and posterior), three cords (lateral, medial, posterior) and five terminal branches with colour coding](../../images/brachial-plexus-roots-trunks-divisions-cords-branches.jpg)
+> **IBQ tip:** Trace the lateral cord (C5–C7 anterior divisions) giving musculocutaneous + lateral root of median, and the posterior cord (all posterior divisions) giving radial + axillary — this colour-coded diagram is the fastest way to answer "which cord is injured" questions. Differentiate a cord-level lesion from a root-level lesion by the presence of long thoracic nerve (C5–C7, root-level) or dorsal scapular nerve involvement.
 
 Each cord's branches make functional sense:
 
@@ -65,7 +142,13 @@ Imagine a baby being born with shoulder dystocia, or an adult thrown from a moto
 
 C5, C6 supply: shoulder abduction (deltoid), elbow flexion (biceps, brachialis), forearm supination (biceps), and wrist extension partially. When these are lost, the *unopposed* muscles produce the deformity. With no deltoid, the arm hangs. With no biceps, the elbow extends (triceps unopposed). With no supinator and biceps, the forearm pronates. The result is the classic "waiter's tip" position: arm adducted, elbow extended, forearm pronated, wrist flexed slightly. The baby looks like a waiter holding a hand out to receive a tip — palm facing backward and upward.
 
+![Erb's palsy waiter's tip position — infant with right arm hanging adducted at side, elbow extended, forearm pronated, wrist slightly flexed, palm facing posteriorly](../../images/erb-palsy-waiters-tip.jpg)
+> **IBQ tip:** The key visual is the forearm pronation combined with elbow extension — the palm faces backward (posteriorly), not just downward. Differentiate from Klumpke's palsy, which spares shoulder and elbow but claws all four fingers, and from a clavicle fracture, which produces pseudoparalysis with a normal arm posture when the limb is supported.
+
 The reason C5,C6 injury is "upper" — the upper roots are the most lateral, and when the neck and shoulder are forcibly separated, these uppermost fibers get the most traction stress.
+
+![Dermatome map of the upper limb showing individual spinal levels — C5 over the lateral arm (badge area), C6 over the thumb and lateral forearm, C7 over the middle finger and dorsal forearm, C8 over the little finger and medial forearm, T1 over the medial arm above the elbow](../../images/upper-limb-dermatome-map-spinal-levels.jpg)
+> **IBQ tip:** C6 (thumb) and C7 (middle finger) are the two most tested upper limb dermatomes — C6 loss (disc prolapse at C5/6) also reduces the biceps jerk, while C7 loss (disc at C6/7) reduces the triceps jerk. Differentiate a C6 radiculopathy (sensory loss on thumb + lateral forearm + reduced biceps reflex) from carpal tunnel syndrome (sensory loss lateral 3.5 fingers but preserved biceps reflex and no neck pain).
 
 **Klumpke's Palsy (C8, T1 injury — Lower Trunk)**
 
@@ -73,11 +156,17 @@ Now imagine the opposite mechanism: the arm is violently pulled upward — a bab
 
 C8, T1 supply: all the intrinsic hand muscles (interossei, lumbricals, thenar and hypothenar eminences), plus flexors of the fingers. With intrinsic muscles paralyzed but long flexors and extensors partially intact, the fingers hyperextend at the metacarpophalangeal joints (extensor digitorum pulls them back, with no lumbricals to counter) and flex at the interphalangeal joints — producing the **claw hand**. But in Klumpke's, it's a *total* claw (all four fingers), because both median (C8,T1 component) and ulnar (C8,T1) intrinsics are affected.
 
+![Klumpke's palsy total claw hand — all four fingers hyperextended at MCPJs and flexed at IPJs, with flattened thenar and hypothenar eminences, thumb also clawed](../../images/klumpke-palsy-total-claw-hand.jpg)
+> **IBQ tip:** In Klumpke's total claw, ALL four fingers claw (including index and middle), distinguishing it from ulnar claw where only ring and little fingers claw. Also look for ipsilateral Horner's syndrome (ptosis + miosis) if the T1 root is avulsed proximally — this combination is pathognomonic of a preganglionic lower trunk injury.
+
 Additionally, T1 fibers carry sympathetic fibers to the eye — specifically to dilator pupillae and superior tarsal muscle (Muller's muscle). If the T1 root is avulsed proximally enough, you get **Horner's syndrome**: ptosis (drooping lid), miosis (small pupil), anhidrosis on the face. This is a red flag sign telling you the injury is at the root level (preganglionic), not just the lower trunk or ulnar nerve distally.
 
 **Saturday Night Palsy / Radial Nerve Palsy (Spiral Groove)**
 
-A man falls asleep with his arm hanging over a park bench, or a chair edge, compressing the radial nerve in the spiral (radial) groove of the humerus. At this point, the radial nerve has already given off its branch to triceps (the long and medial heads of triceps get their branches proximally, before the groove), but has not yet given branches to the forearm extensors. Result: triceps works (elbow can extend), but wrist drop occurs — the patient cannot extend the wrist, cannot extend the fingers at the MCPJs, and cannot extend the thumb. The reason for wrist drop is the loss of extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, and extensor carpi ulnaris.
+A man falls asleep with his arm hanging over a park bench, or a chair edge, compressing the radial nerve in the spiral (radial) groove of the humerus. At this point, the radial nerve has already given off its branch to triceps (the long and medial heads of triceps get their branches proximally, before the groove), but has not yet given branches to the forearm extensors. Result: triceps works (elbow can extend), but wrist drop occurs — the patient cannot extend the wrist, cannot extend the fingers at the MCPJs, and cannot extend the thumb.
+
+![Saturday night palsy wrist drop — right hand hanging limp at the wrist with fingers semiflexed, patient unable to extend wrist or fingers at MCPJs, but elbow extension intact](../../images/saturday-night-palsy-wrist-drop-radial-nerve.jpg)
+> **IBQ tip:** The hallmark is wrist drop with preserved triceps function (elbow extension intact) — confirm by asking the patient to extend the elbow against resistance before testing the wrist. Differentiate from a more proximal radial nerve or posterior cord injury (triceps also weak) and from PIN palsy (finger drop only, wrist extension preserved via ECRL). The reason for wrist drop is the loss of extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, and extensor carpi ulnaris.
 
 > **Why wrist drop causes functional grip weakness:** Even though the flexors are intact, you cannot grip powerfully with a dropped wrist. The flexor tendons cross the wrist — if the wrist is flexed (dropped), the finger flexors are shortened and cannot generate full tension. This is why wrist extension actually potentiates grip — you can test this yourself. Radial nerve palsy thus weakens grip indirectly even though the grip muscles themselves are fine.
 
@@ -89,6 +178,12 @@ A man falls asleep with his arm hanging over a park bench, or a chair edge, comp
 | Axillary nerve (surgical neck) | C5, C6 | Humeral neck fracture, shoulder dislocation | Flat shoulder | Deltoid (abduction 15–90°) |
 | Long thoracic nerve | C5, C6, C7 | Neck dissection, compression | Winged scapula | Serratus anterior |
 
+![Winged scapula — posterior view of the back showing the right scapula's medial border and inferior angle protruding prominently away from the thoracic wall when the patient pushes against a wall with arms extended, due to serratus anterior paralysis](../../images/winged-scapula-long-thoracic-nerve.jpg)
+> **IBQ tip:** Winging is maximal when the patient pushes forward against a wall (protracts the scapula against resistance) — this is the standard provocative test. Differentiate serratus anterior palsy (long thoracic nerve, medial border and inferior angle wing posteriorly) from trapezius palsy (spinal accessory nerve, CN XI — the superior angle wings and the shoulder droops, with inability to shrug).
+
+![Axilla cross-section — transverse anatomical diagram showing the axillary artery at the centre, with the three cords of the brachial plexus (lateral, medial, posterior) in their named positions relative to the artery, the axillary vein medially, and the axillary lymph node levels](../../images/axilla-cross-section-brachial-plexus-cords.jpg)
+> **IBQ tip:** The posterior cord lies directly behind the axillary artery — a shoulder dislocation (anterior) or surgical neck of humerus fracture can stretch or compress the posterior cord, producing combined radial + axillary nerve palsy (wrist drop + deltoid paralysis). Differentiate from an isolated axillary nerve injury (deltoid loss only, patch of sensory loss over the regimental badge area of the upper lateral arm).
+
 ---
 
 ## 2. Upper Limb Nerves in Detail
@@ -97,9 +192,18 @@ A man falls asleep with his arm hanging over a park bench, or a chair edge, comp
 
 The median nerve forms in the axilla from the union of lateral cord (C6, C7) and medial cord (C8, T1) roots, meeting anterior to the axillary artery in a characteristic "V" or "M" shape. It is the nerve of the front of the forearm and the lateral palm — the "working hand" nerve.
 
-In the arm itself, the median nerve gives off *nothing* — it is just traveling, staying medial to the brachial artery, heading down toward the elbow. At the elbow, it passes medial to the brachial artery under the bicipital aponeurosis. This is clinically important: a supracondylar fracture in children — the most common elbow fracture in kids — can trap the median nerve here. If a child fractures the distal humerus and develops median nerve signs, you know the nerve is injured at or just above the elbow.
+In the arm itself, the median nerve gives off *nothing* — it is just traveling, staying medial to the brachial artery, heading down toward the elbow. At the elbow, it passes medial to the brachial artery under the bicipital aponeurosis. This is clinically important: a supracondylar fracture in children — the most common elbow fracture in kids — can trap the median nerve here.
 
-Immediately past the elbow, the median nerve dives between the two heads of pronator teres (superficial and deep). In some people, the nerve can be compressed here — **pronator teres syndrome**. It then gives off the **anterior interosseous nerve (AIN)**, which supplies the deep flexors: flexor pollicis longus (FPL), and the lateral half of flexor digitorum profundus (FDP to index and middle fingers). AIN also supplies pronator quadratus. The AIN has *no sensory function* — it is purely motor. This matters: AIN palsy produces motor loss without sensory loss. The classic sign: ask the patient to make an "OK" sign — they cannot, because they can't flex the distal phalanx of the thumb (FPL) or index finger (FDP lateral head). Instead of a circle, they make a "pinch" that looks like a triangle or flat-sided figure.
+![Cubital fossa contents — anterior elbow diagram showing the cubital fossa boundaries (brachioradialis laterally, pronator teres medially, biceps tendon in centre) with the brachial artery medial to the biceps tendon and the median nerve medial to the artery, plus the lateral cutaneous nerve of forearm and radial nerve at the lateral margin](../../images/cubital-fossa-contents-diagram.jpg)
+> **IBQ tip:** The mnemonic for cubital fossa contents from lateral to medial is "Really Need Beer To Be at My Best" (Radial Nerve, Biceps tendon, Brachial artery, Median nerve). The brachial artery is the landmark for blood pressure measurement and cardiac catheterisation pressure; injury to the median nerve here (supracondylar fracture) produces AIN palsy + forearm pronator weakness, distinct from carpal tunnel (wrist level) or pronator teres syndrome. If a child fractures the distal humerus and develops median nerve signs, you know the nerve is injured at or just above the elbow.
+
+Immediately past the elbow, the median nerve dives between the two heads of pronator teres (superficial and deep). In some people, the nerve can be compressed here — **pronator teres syndrome**. A high median nerve lesion (at or above the elbow) paralyzes both the intrinsic thenar muscles AND the long flexors (FDS, lateral FDP, FPL), so when the patient attempts to make a fist, the index and middle fingers fail to flex at both the PIP and DIP joints — they remain extended, producing the "Pope's blessing" or "hand of benediction" appearance (ring and little flex, index and middle stay straight).
+
+![Pope's blessing hand (hand of benediction) — patient with high median nerve lesion attempting to make a fist, showing index and middle fingers remaining extended while ring and little fingers flex, producing a characteristic preaching gesture](../../images/popes-blessing-hand-high-median-nerve.jpg)
+> **IBQ tip:** Pope's blessing appears on attempted fist closure (active) — at rest the hand looks normal. Differentiate from ulnar claw (which is present at REST with ring and little extended, index and middle normal) — the two signs are opposite in which fingers are extended and in the resting vs. active context. A high median nerve injury at the elbow produces Pope's blessing; wrist-level median nerve injury produces only thenar wasting (ape hand) because the long flexors are spared. It then gives off the **anterior interosseous nerve (AIN)**, which supplies the deep flexors: flexor pollicis longus (FPL), and the lateral half of flexor digitorum profundus (FDP to index and middle fingers). AIN also supplies pronator quadratus. The AIN has *no sensory function* — it is purely motor. This matters: AIN palsy produces motor loss without sensory loss. The classic sign: ask the patient to make an "OK" sign — they cannot, because they can't flex the distal phalanx of the thumb (FPL) or index finger (FDP lateral head). Instead of a circle, they make a "pinch" that looks like a triangle or flat-sided figure.
+
+![AIN palsy pinch sign — patient attempting OK sign, producing a flat-sided triangular pinch instead of a circle, with extended distal phalanx of thumb and index finger](../../images/ain-palsy-ok-sign-pinch-test.jpg)
+> **IBQ tip:** The AIN pinch sign is purely motor with NO sensory loss — if the patient also has palmar numbness, the lesion is the main median nerve, not the AIN branch. Differentiate from carpal tunnel (which has sensory symptoms and thenar wasting) and from a flexor tendon rupture (where passive flexion of the distal phalanx is also absent).
 
 The main median nerve continues and gives branches to: pronator teres, flexor carpi radialis (FCR), palmaris longus, flexor digitorum superficialis (FDS). All are forearm flexors/pronators. It then passes through the carpal tunnel.
 
@@ -111,9 +215,15 @@ Any condition that increases the *contents* of the tunnel (tenosynovitis, fluid 
 
 At the level of the carpal tunnel and beyond, the median nerve supplies: **LOAF muscles** — Lumbricals 1 and 2, Opponens pollicis, Abductor pollicis brevis, Flexor pollicis brevis (superficial head). These are the thenar muscles responsible for thumb opposition — the defining human hand movement. Also note: sensory supply is lateral 3.5 fingers (thumb, index, middle, half of ring) on the palmar surface.
 
+![Ape hand (median nerve palsy) — the thumb lies in the same plane as the fingers due to loss of opponens pollicis, abductor pollicis brevis, and thenar wasting, giving the hand a flat, simian appearance without the normal volar prominence of the thenar eminence](../../images/ape-hand-median-nerve-palsy.jpg)
+> **IBQ tip:** The thumb cannot be brought into opposition (across the palm) and instead lies flat in the plane of the fingers — the "ape" position. Differentiate from ulnar nerve palsy (where the thumb retains opposition but loses adduction, shown by positive Froment's sign) and from a combined median + ulnar palsy (global intrinsic loss with both thenar and hypothenar wasting plus all-four-finger claw).
+
 > **Carpal tunnel sensory trick:** The palmar cutaneous branch of the median nerve arises 5cm proximal to the flexor retinaculum and passes *superficial* to it — not through the carpal tunnel. This branch supplies the skin of the central palm. So in carpal tunnel syndrome, the central palm sensation is *preserved* even though the fingers are numb. If a patient has palm numbness too, the lesion is more proximal.
 
 The symptoms: burning, tingling in the lateral 3.5 fingers, worse at night (because nocturnal fluid redistribution increases tunnel pressure), relieved by hanging the hand over the bed (Flick sign). Thenar wasting in severe cases — the LOAF muscles waste. Opposition is lost: the patient cannot touch the thumb to the base of the little finger.
+
+![Carpal tunnel syndrome thenar wasting — right hand showing flattened thenar eminence on the radial side of the palm, with preserved hypothenar bulk on the ulnar side](../../images/carpal-tunnel-thenar-wasting-median-nerve.jpg)
+> **IBQ tip:** The wasting is confined to the thenar eminence (radial side of palm) — the hypothenar eminence (ulnar side) is preserved because hypothenar muscles are supplied by the ulnar nerve. Differentiate from combined median + ulnar nerve injury (global intrinsic wasting across entire palm) and from T1 root lesion (where thenar + hypothenar + all intrinsics waste together).
 
 ### Tracing the Ulnar Nerve: The "Musician's Nerve"
 
@@ -129,9 +239,15 @@ When the ulnar nerve is injured at the wrist (affecting interossei and lumbrical
 
 Lumbricals 3 and 4 normally flex the MCPJs and extend the IPJs. Without them, the extensor digitorum pulls the MCPJs into hyperextension, and the FDP (whose medial head to ring/little is still working because its branch came off at the elbow) pulls the IPs into flexion. Result: clawing of ring and little fingers (hyperextended MCP + flexed IP).
 
+![Ulnar claw hand — ring and little fingers hyperextended at MCPJs and flexed at IPJs, index and middle fingers unaffected, with hypothenar wasting visible](../../images/claw-hand-ulnar-nerve.jpg)
+> **IBQ tip:** Only ring and little fingers claw in ulnar nerve injury (lumbricals 3 and 4 lost) — index and middle fingers are spared because their lumbricals (1 and 2) are median-innervated and intact. Differentiate from Klumpke's total claw (all four fingers) and from a combined median + ulnar lesion (all four fingers claw with complete intrinsic wasting).
+
 > **"Ulnar paradox" — why wrist-level ulnar injury causes MORE clawing than elbow-level injury:** At the wrist, FDP to ring/little is intact (branch came off at elbow), so it actively pulls the IPs into flexion — producing visible clawing. At the elbow, both intrinsics AND FDP medial head are lost, so there is no active IP flexion — less dramatic claw. More proximal injury = less claw. This seems paradoxical (more muscles lost = less deformity) but makes mechanistic sense.
 
 **Froment's sign:** Ask the patient to grip a piece of paper between thumb and index finger. The adductor pollicis (ulnar) is paralyzed, so to grip, the patient compensates by flexing the thumb IP joint using FPL (median nerve). A flexed thumb IP while pinching = positive Froment's = ulnar nerve palsy.
+
+![Froment's sign — patient gripping paper between thumb and index finger with visible flexion of the thumb interphalangeal joint on the affected side, compared to a flat (extended) thumb on the normal side](../../images/froments-sign-ulnar-nerve.jpg)
+> **IBQ tip:** Compare both hands simultaneously — the affected thumb IP flexes to compensate for absent adductor pollicis, while the normal thumb remains extended (flat) during the same grip. Differentiate from a median nerve lesion, where the patient cannot make the pinch at all (AIN palsy) rather than making it with an abnormal thumb IP posture.
 
 ### Tracing the Radial Nerve: The Extension Expert
 
@@ -141,7 +257,13 @@ At the elbow, it divides into two branches:
 - **Superficial radial nerve** (purely sensory — dorsum of hand, lateral 3.5 fingers on the back)
 - **Posterior interosseous nerve (PIN)** (purely motor — enters the posterior compartment by piercing supinator muscle, supplies all finger extensors, thumb extensors, abductors)
 
+![Anatomical snuffbox — dorsal view of the right wrist showing the triangular depression between extensor pollicis longus (medially) and abductor pollicis longus + extensor pollicis brevis (laterally), with the scaphoid and radial styloid palpable at its floor](../../images/anatomical-snuffbox-surface-marking.jpg)
+> **IBQ tip:** Tenderness in the anatomical snuffbox after a fall on an outstretched hand indicates scaphoid fracture until proven otherwise — scaphoid X-rays may be normal initially (10–15% false negative), so MRI or bone scan is needed if clinical suspicion is high. Differentiate from de Quervain's tenosynovitis (tenderness along the tendons forming the lateral border of the snuffbox, positive Finkelstein's test) rather than at the floor.
+
 PIN entrapment at the supinator (Arcade of Frohse) causes finger drop without sensory loss and without wrist drop (because extensor carpi radialis longus gets its branch before the division). Classic PIN palsy: patient can extend the wrist (ECRL intact) but cannot extend fingers. This is different from spiral groove injury where wrist drop is present.
+
+![PIN palsy finger drop — hand held with wrist extended (intact ECRL) but fingers unable to extend at MCPJs, drooping at the knuckles, with no sensory deficit on dorsum of hand](../../images/pin-palsy-finger-drop-radial-nerve.jpg)
+> **IBQ tip:** The preserved wrist extension (radially deviated, because ECRL works but ECU does not) distinguishes PIN palsy from spiral groove radial nerve injury where the wrist also drops. No sensory loss in PIN palsy distinguishes it from superficial radial nerve injury (which causes dorsal hand numbness without motor loss).
 
 ---
 
@@ -154,6 +276,9 @@ Before you can understand the femoral triangle clinically, understand why it exi
 The femoral triangle is bounded by: inguinal ligament (superiorly), sartorius muscle (laterally), adductor longus muscle (medially), and the floor is made by iliacus and psoas (laterally) and pectineus (medially). The apex points inferiorly toward the adductor canal.
 
 The structures within the triangle from lateral to medial follow the mnemonic **NAVY** (Nerve-Artery-Vein-Y-lymphatics) where Y stands for the empty space (the femoral canal containing lymph node of Cloquet):
+
+![Femoral triangle cross-section showing NAVY arrangement — femoral Nerve (most lateral, outside sheath), femoral Artery, femoral Vein, and Y (femoral canal with Cloquet's node) from lateral to medial beneath the inguinal ligament](../../images/femoral-triangle-navy-cross-section.jpg)
+> **IBQ tip:** The femoral nerve lies OUTSIDE the femoral sheath (most lateral) while artery and vein are inside — this single fact explains why femoral nerve is unaffected by femoral hernias but femoral vein compression causes DVT. Differentiate the femoral triangle from the femoral canal: the canal is the most medial compartment of the femoral sheath and is the path of femoral hernias, not the entire triangle.
 
 - Nerve (femoral nerve) — most lateral, *outside* the femoral sheath
 - Artery (femoral artery) — within femoral sheath
@@ -183,11 +308,17 @@ At the neck of fibula, the common peroneal (fibular) nerve winds around the head
 
 When the common peroneal nerve is injured, ALL these muscles are lost. Result: the foot cannot dorsiflex (foot drop) and cannot evert. The foot is pulled into plantarflexion and inversion by the unopposed tibialis posterior and gastrocnemius (both tibial nerve). Walking becomes a "steppage gait" — the patient lifts the knee high to clear the dropped foot with each step. Sensory loss is over the dorsum of the foot and lateral leg.
 
+![Foot drop from common peroneal nerve injury — right foot hanging in plantarflexion and inversion, patient demonstrating steppage gait with exaggerated knee flexion to clear the dropped foot during the swing phase](../../images/foot-drop-common-peroneal-nerve.jpg)
+> **IBQ tip:** The foot hangs in plantarflexion AND inversion (tibialis posterior unopposed) — the inversion component distinguishes common peroneal palsy from an L5 root lesion, where hip abduction weakness (gluteus medius) accompanies the foot drop. Absent dorsal foot sensation confirms the peripheral nerve (not root) location of the lesion.
+
 > **Why foot drop at fibular neck but NOT in L4/L5 disc prolapse:** Disc prolapse at L4/5 compresses L5 root, affecting tibialis anterior (foot drop) but also causing weakness of hip abduction (gluteus medius, L5). If hip abduction is weak along with foot drop, think L5 radiculopathy. If only foot drop with no hip abduction weakness, think common peroneal nerve at fibular neck.
 
 ### The Lumbar and Sacral Plexus
 
 The lumbar plexus (L1–L4) forms within psoas major muscle. This is why psoas abscess (TB of spine, Crohn's disease) can compress the lumbar plexus, causing thigh numbness and hip flexion weakness. The femoral nerve (L2, L3, L4) is the major terminal branch — hip flexion and knee extension, with sensory supply to anterior thigh and medial leg/foot.
+
+![Lumbosacral plexus anatomical diagram showing L1–S3 roots forming the lumbar plexus (within psoas) giving femoral and obturator nerves, and the sacral plexus on piriformis giving sciatic, superior and inferior gluteal nerves](../../images/lumbosacral-plexus-diagram.jpg)
+> **IBQ tip:** The key differentiator on this diagram is that the femoral nerve (L2–L4) stays anterior to the hip joint while the sciatic nerve (L4–S3) exits posterior through the greater sciatic foramen — injuries at the hip joint (anterior dislocation vs. posterior dislocation) therefore affect different nerves. Psoas abscess compresses the lumbar plexus proximal to the inguinal ligament, producing combined femoral + obturator weakness rather than an isolated nerve palsy.
 
 The obturator nerve (L2, L3, L4) exits the pelvis through the obturator foramen, supplying adductors of the thigh and medial thigh sensation. In pelvic surgery (hysterectomy, pelvic lymph node dissection), the obturator nerve runs along the lateral pelvic wall — it is at risk of injury. Obturator nerve injury causes weakness of thigh adduction and sensory loss on medial thigh.
 
@@ -201,6 +332,9 @@ The sacral plexus (L4–S3) forms on the anterior surface of piriformis, within 
 | Common peroneal | L4,L5,S1 | Dorsiflexors, evertors | Foot drop, inversion |
 | Tibial | L4,L5,S1–S3 | Plantarflexors, intrinsic foot | Calcaneovalgus foot (heel walking) |
 | Superior gluteal | L4,L5,S1 | Gluteus medius/minimus | Trendelenburg gait |
+
+![Trendelenburg sign — patient standing on right leg with left superior gluteal nerve palsy, showing contralateral (left) pelvis dropping while ipsilateral (right) hip hikes up, with a compensatory trunk lean to the right](../../images/trendelenburg-sign-superior-gluteal-nerve.jpg)
+> **IBQ tip:** The pelvis drops on the OPPOSITE (contralateral) side to the weak gluteus medius — remember "the pelvis drops away from the lesion." Differentiate from an antalgic gait (where the patient leans toward the painful hip to reduce joint reaction force) by the characteristic pelvic tilt direction: Trendelenburg tilts contralaterally, antalgic tilts ipsilaterally.
 | Inferior gluteal | L5,S1,S2 | Gluteus maximus | Cannot rise from chair/climb stairs |
 
 ---
@@ -285,13 +419,28 @@ If the processus vaginalis fails to close, you have a patent channel from the pe
 
 **Direct inguinal hernia** is an acquired weakness — it pushes directly through the *posterior wall* of the inguinal canal (specifically Hesselbach's triangle: medial to inferior epigastric vessels, lateral to rectus abdominis, above inguinal ligament). It does not pass through the internal ring — it pushes directly forward through weakened transversalis fascia. Direct hernias are almost never in the scrotum, because they protrude medially, not down the canal path.
 
+![Hesselbach's triangle on laparoscopy — intraperitoneal view showing the triangle bounded by the inferior epigastric vessels laterally, rectus abdominis medially, and inguinal ligament inferiorly, with a direct hernia defect visible as a bulge through the posterior wall within the triangle](../../images/hesselbachs-triangle-laparoscopy-direct-hernia.jpg)
+> **IBQ tip:** On laparoscopy, the inferior epigastric vessels are the landmark — a direct hernia defect lies MEDIAL to these vessels (inside Hesselbach's triangle), while an indirect hernia enters through the internal ring LATERAL to the vessels. This medial vs. lateral relationship to the inferior epigastric artery is the single most reliable intraoperative differentiator.
+
 > **The coverings tell the story:** Indirect hernias acquire three coverings (internal spermatic fascia from transversalis fascia, cremasteric fascia from internal oblique, external spermatic fascia from external oblique) because the hernial sac passes through all three layers. Direct hernias only acquire external spermatic fascia (they push through the posterior wall, not through the internal ring).
+
+**Calot's triangle** (hepatocystic triangle): bounded by the cystic duct (inferiorly), the common hepatic duct (medially), and the inferior surface of the liver (superiorly). The cystic artery (usually a branch of the right hepatic artery) runs within this triangle — the surgeon must identify and clip it here during cholecystectomy.
+
+![Calot's triangle on laparoscopic cholecystectomy — intraoperative laparoscopic view showing the gallbladder retracted superiorly, with the cystic duct and cystic artery dissected free and identified within the hepatocystic triangle before clipping](../../images/calots-triangle-laparoscopic-cholecystectomy.jpg)
+> **IBQ tip:** The cystic artery is the key structure to identify within Calot's triangle before clipping — an accessory right hepatic artery passing through this triangle is a dangerous anatomical variant (present in ~20%) that can be mistaken for the cystic artery and inadvertently clipped. Differentiate the hepatocystic triangle (Calot's — bounded by liver, CHD, cystic duct) from the hepatoduodenal ligament (contains portal triad: portal vein, hepatic artery, bile duct).
 
 **The canal itself:** It runs from internal ring (in transversalis fascia, 1.5 cm above the midinguinal point) to external ring (in external oblique aponeurosis, above and medial to pubic tubercle), passing obliquely at roughly 4 cm. Its walls:
 - Anterior wall: external oblique aponeurosis (full length) + internal oblique (lateral one-third)
 - Posterior wall: transversalis fascia (full length) + conjoint tendon (medial one-third)
 - Roof: arched fibers of internal oblique and transversus abdominis
 - Floor: inguinal ligament + lacunar ligament medially
+
+### The Lesser Sac and Foramen of Winslow
+
+The lesser sac (omental bursa) is a potential space behind the stomach and lesser omentum, communicating with the greater peritoneal cavity only through the **foramen of Winslow** (epiploic foramen). The foramen of Winslow is bounded anteriorly by the free edge of the lesser omentum (containing the portal triad: portal vein, hepatic artery, bile duct), posteriorly by the inferior vena cava, superiorly by the caudate lobe of the liver, and inferiorly by the first part of the duodenum.
+
+![Lesser sac and foramen of Winslow on axial CT — axial CT of the upper abdomen showing the lesser sac as a fluid-containing space posterior to the stomach and anterior to the pancreas, with the foramen of Winslow visible as the communication point between lesser sac and greater peritoneal cavity at the hepatoduodenal ligament](../../images/lesser-sac-foramen-of-winslow-axial-ct.jpg)
+> **IBQ tip:** A pancreatic pseudocyst preferentially collects in the lesser sac because the pancreas forms its posterior wall — on CT, fluid behind the stomach anterior to the pancreas confined by the lesser sac boundaries is the classic appearance. Differentiate from a mesenteric cyst (freely mobile, not confined to the lesser sac boundaries) and from perigastric ascites (which communicates freely with the greater peritoneal cavity).
 
 ### Portal Hypertension and Porto-Systemic Anastomoses
 
@@ -305,6 +454,9 @@ Now, blood under high pressure seeks alternative routes — collateral channels 
 
 **2. Umbilicus:** Paraumbilical veins (remnants of umbilical vein, portal side) connect with superficial epigastric veins (systemic). These appear as dilated tortuous veins radiating from the umbilicus — **caput medusae** (the Medusa's head pattern).
 
+![Caput medusae — clinical photograph of the abdomen showing dilated, tortuous veins radiating outward from the umbilicus in all directions against a distended abdomen with ascites](../../images/caput-medusae-portal-hypertension.jpg)
+> **IBQ tip:** The veins radiate outward FROM the umbilicus in all directions — flow is away from the umbilicus (centrifugal). Differentiate from inferior vena cava obstruction, where dilated abdominal veins run vertically up both flanks with upward flow but do NOT converge at the umbilicus. Confirming flow direction by occluding and releasing is the classic clinical test.
+
 **3. Rectum:** Superior rectal vein (portal, drains from inferior mesenteric) connects with middle and inferior rectal veins (systemic, draining to internal iliac). These become **anorectal varices** — distinct from hemorrhoids (which are dilated venous plexuses unrelated to portal hypertension, though both can occur simultaneously).
 
 **4. Retroperitoneum:** Veins of Retzius — connections between retroperitoneal portal tributaries (colic veins) and systemic retroperitoneal veins. Also around the bare area of the liver.
@@ -315,7 +467,13 @@ Now, blood under high pressure seeks alternative routes — collateral channels 
 
 McBurney's point is located one-third of the way from the anterior superior iliac spine (ASIS) to the umbilicus. This point overlies the base of the appendix on the surface of the abdomen. But why does appendicitis cause *pain at this specific point*?
 
+![McBurney's point surface marking — anterior abdominal wall diagram showing the ASIS and umbilicus with a dot marked one-third of the distance from the ASIS to the umbilicus, overlying the right iliac fossa](../../images/mcburneys-point-surface-marking.jpg)
+> **IBQ tip:** The point is one-third from the ASIS (not one-third from the umbilicus) — a common reversal error in MCQs. On clinical examination, maximum tenderness here combined with a history of pain that migrated from the periumbilical region (T10 dermatome) to this spot is pathognomonic of appendicitis; Rovsing's sign (left-side pressure causing right-sided pain) further confirms peritoneal irritation at this location.
+
 The logic is in dermatomes. The appendix is supplied by visceral afferent nerves traveling with sympathetic fibers at the **T10** level. When inflammation first begins (acute visceral phase), the pain is referred to the **T10 dermatome** — which is the periumbilical region. This is classic appendicitis: starts with central, periumbilical, dull, poorly localized pain.
+
+![Dermatome map of the anterior and posterior trunk showing spinal levels T1 through S5, with T10 highlighted at the periumbilical level, T4 at the nipple line, and L1 at the inguinal/groin region](../../images/dermatome-map-trunk-spinal-levels.jpg)
+> **IBQ tip:** The T10 dermatome at the umbilicus is the highest-yield dermatome landmark — it explains periumbilical referral in appendicitis, ureteric colic (T10–L1), and testicular pain (T10, because the testis descended from the same embryological level as the appendix). Differentiate visceral (T10 referral, dull, poorly localised) from somatic (L1 at RIF, sharp, precisely localised) pain in appendicitis progression.
 
 As inflammation progresses and the parietal peritoneum overlying the appendix gets inflamed (somatic phase), the pain now involves **somatic afferents** of the overlying skin — which, in the right iliac fossa, are L1 dermatome fibers (ilioinguinal and iliohypogastric nerves, also supplying the groin and scrotum). The pain becomes sharp, localized, and exquisitely tender at McBurney's point — because that's where the inflamed appendix contacts the peritoneum.
 
@@ -332,6 +490,9 @@ Rovsing's sign (pressing on left side causes right-sided pain) works because pre
 The cavernous sinus is not a true sinus in the sense of a hollow channel — it is a trabeculated, sponge-like venous lake on either side of the sella turcica (the bony seat of the pituitary gland). Think of it as a blood-filled sponge perched beside the pituitary, through which several critical structures pass on their way from the brain to the orbit and face.
 
 What runs *through* the cavernous sinus (within its substance or its lateral wall):
+
+![Cavernous sinus on coronal MRI — T1 post-contrast coronal section showing paired cavernous sinuses on either side of the pituitary gland (sella turcica), with the internal carotid artery visible as a flow void within the sinus and the lateral wall structures including CN III, IV, V1, V2](../../images/cavernous-sinus-coronal-mri.jpg)
+> **IBQ tip:** On coronal MRI, the cavernous sinus appears as a signal-enhancing structure flanking the pituitary — asymmetric enhancement or lateral wall bulging indicates pathology. Differentiate cavernous sinus thrombosis (bilateral involvement, fever, chemosis) from a carotid-cavernous fistula (pulsatile proptosis, bruit audible over the orbit, arterialized conjunctival vessels).
 
 **Inside the sinus itself (surrounded by venous blood):**
 - Internal carotid artery (the cavernous segment, making its S-shaped carotid siphon)

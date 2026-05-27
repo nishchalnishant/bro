@@ -1,3 +1,58 @@
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    PATHOLOGY — NEET PG LECTURE MAP                          │
+└───────────────────────────────────┬─────────────────────────────────────────┘
+                                    │
+          ┌─────────────────────────┼──────────────────────────┐
+          │                         │                          │
+          ▼                         ▼                          ▼
+┌─────────────────┐     ┌───────────────────┐      ┌──────────────────────┐
+│  CELL INJURY    │     │   INFLAMMATION    │      │      NEOPLASIA       │
+│   & DEATH       │     │                   │      │                      │
+└────────┬────────┘     └─────────┬─────────┘      └──────────┬───────────┘
+         │                        │                            │
+   ┌─────┴──────┐           ┌─────┴──────┐              ┌─────┴──────┐
+   │ ● Cell     │           │ ● Acute    │              │ ● Oncogenes│
+   │   survival │           │   inflam.  │              │   (RAS,MYC)│
+   │   pillars  │           │ ● Neutro-  │              │ ● Tumor    │
+   │   (ATP,Ca²⁺│           │   phil     │              │   suppres- │
+   │   membrane,│           │   recruit. │              │   sors     │
+   │   DNA)     │           │ ● Chemical │              │   (p53,Rb) │
+   │ ● Ischemia │           │   mediators│              │ ● Multi-   │
+   │   & Reper- │           │ ● Chronic  │              │   step     │
+   │   fusion   │           │   inflam.  │              │   model    │
+   │   injury   │           │ ● Granuloma│              │   (CRC)    │
+   │ ● Apoptosis│           │   formation│              │ ● Metasta- │
+   │   vs       │           └────────────┘              │   sis      │
+   │   Necrosis │                                       └────────────┘
+   └────────────┘
+          │                         │                          │
+          └─────────────────────────┼──────────────────────────┘
+                                    │
+          ┌─────────────────────────┴──────────────────────────┐
+          │                                                     │
+          ▼                                                     ▼
+┌──────────────────────────┐                    ┌──────────────────────────────┐
+│       HEMATOLOGY         │                    │   CARDIOVASCULAR PATHOLOGY   │
+└────────────┬─────────────┘                    └──────────────┬───────────────┘
+             │                                                  │
+       ┌─────┴──────┐                                    ┌─────┴──────┐
+       │ ● Anemias  │                                    │ ● Athero-  │
+       │   from 1st │                                    │   sclerosis│
+       │   principles│                                   │   (endothe-│
+       │   (iron,   │                                    │   lial inj,│
+       │   B12, fol-│                                    │   foam     │
+       │   ate, HA) │                                    │   cells,   │
+       │ ● Sickle   │                                    │   plaque)  │
+       │   cell     │                                    │ ● Myocard- │
+       │   disease  │                                    │   ial      │
+       │   (mol.    │                                    │   infarct. │
+       │   basis,   │                                    │   (pathol. │
+       │   crises,  │                                    │   timeline)│
+       │   HbS)     │                                    └────────────┘
+       └────────────┘
+```
+
 # Pathology: Lecture Notes for NEET PG
 
 > "To understand disease, you must first understand the cell — because every disease, no matter how grand its clinical presentation, begins with a molecular event in a single cell."
@@ -11,6 +66,9 @@
 Before we can understand how a cell dies, we need to understand how it lives. Think of a cell as a tiny factory with four non-negotiable requirements: a steady supply of ATP, intact membranes that separate inside from outside, functional DNA that carries the blueprint, and tightly regulated calcium balance. Take away any one of these, and the factory shuts down. Take away all four simultaneously, and it collapses.
 
 ATP is the universal energy currency of the cell. The sodium-potassium ATPase pump uses ATP to maintain the electrochemical gradient across the plasma membrane — sodium out, potassium in. This gradient is everything. It drives nerve conduction, muscle contraction, and most critically, it determines the osmotic balance inside the cell. When ATP falls, this pump stops. Sodium accumulates inside the cell. Water follows by osmosis. The cell swells — a process called cellular edema or hydropic change. This is the first, reversible sign of cell injury, visible under light microscopy as cytoplasmic vacuolation. The cell is not dead yet; it is struggling. If ATP is restored, it can recover.
+
+![H&E slide showing swollen hepatocytes with clear cytoplasmic vacuoles (hydropic change / cellular edema) representing reversible cell injury](../../images/hydropic-change-cellular-edema.jpg)
+> **IBQ tip:** Look for enlarged cells with pale, watery, vacuolated cytoplasm and intact nuclei — the key feature of reversibility. Distinguish from fatty change (steatosis), where vacuoles are larger, rounder, and displace the nucleus to the periphery (signet-ring appearance in severe cases); fat stains (Oil Red O) will be positive only in steatosis.
 
 Calcium is the second pillar of cellular homeostasis. Normally, cytosolic calcium is maintained at extraordinarily low concentrations — about 0.1 micromolar — while extracellular calcium is 10,000 times higher. This steep gradient exists because the cell actively pumps calcium out using energy-dependent transporters. When ATP fails, calcium floods inward. And calcium, in high concentrations, is a cellular executioner. It activates phospholipases (which digest membranes), endonucleases (which chop DNA), and proteases (which destroy proteins). This is why calcium dysregulation is not just a consequence of cell injury — it is an amplifier of it.
 
@@ -49,6 +107,9 @@ The **extrinsic pathway** is triggered by external death signals — most import
 > **Key exam fact:** BCL-2 is the prototype anti-apoptotic protein. Overexpression of BCL-2 (via the t(14;18) translocation in follicular lymphoma) prevents lymphocytes from undergoing apoptosis → they accumulate and cause lymphoma. BCL-2 was literally discovered because it was the oncogene at the translocation breakpoint in follicular lymphoma.
 
 The distinction between apoptosis and necrosis is not always absolute. There is a spectrum — in severe injury, cells that were trying to undergo apoptosis may undergo secondary necrosis if their ATP is depleted (because apoptosis itself requires ATP). This is seen in the centers of large infarcts, where cells die by coagulative necrosis, while cells at the periphery may undergo apoptosis.
+
+![H&E slide of coagulative necrosis in a myocardial infarct showing preserved cellular outlines ("ghost cells") with deeply eosinophilic cytoplasm and pyknotic or absent nuclei, surrounded by viable myocardium at the periphery](../../images/coagulative-necrosis-myocardial-infarct.jpg)
+> **IBQ tip:** The hallmark of coagulative necrosis is the paradox of preserved architecture in dead tissue — you can still see the shape of cells and their arrangement, but nuclei are gone (karyolysis, karyorrhexis, or pyknosis). This differs from liquefactive necrosis (brain infarcts, abscesses) where architecture is completely dissolved into liquid debris, and from caseous necrosis where no outlines are seen at all.
 
 ---
 
@@ -100,11 +161,20 @@ Chronic inflammation is characterized by the simultaneous presence of tissue des
 
 A granuloma is the body's attempt to wall off something it cannot destroy. It consists of a central core of activated epithelioid macrophages (called epithelioid because they look vaguely like epithelial cells under the microscope — they are macrophages that have been activated to the point where their cytoplasm expands and the cell takes on a new morphology), surrounded by a rim of lymphocytes (primarily CD4+ T helper cells, which provide the cytokine signals — particularly IFN-gamma — that maintain the macrophage activation). Langhans giant cells (multinucleated, with nuclei arranged in a horseshoe pattern at the periphery) are seen in tuberculosis; foreign body giant cells (nuclei randomly distributed throughout) are seen in foreign body reactions.
 
+![H&E slide comparing a Langhans giant cell (nuclei in peripheral horseshoe/arc arrangement) with a foreign body giant cell (nuclei randomly scattered throughout cytoplasm), both within granulomatous tissue](../../images/langhans-vs-foreign-body-giant-cell.jpg)
+> **IBQ tip:** The single most important distinguishing feature is nuclear distribution — horseshoe or peripheral clustering = Langhans (tuberculosis, fungal infections, leprosy); haphazardly scattered nuclei = foreign body giant cell (sutures, talc, silica, keratin). Both have abundant eosinophilic cytoplasm, but the nuclear pattern is the exam anchor.
+
 The critical distinction for the exam is between **caseating** and **non-caseating** granulomas. In tuberculosis, the granuloma undergoes caseation necrosis at its center — so called because the center looks like white crumbly cheese (caseus = Latin for cheese). Why does caseation occur? Because Mycobacterium tuberculosis, even while walled off within the granuloma, continues to cause tissue destruction. The activated macrophages, despite being unable to kill the mycobacteria efficiently, release TNF-alpha and reactive nitrogen intermediates that damage the surrounding tissue. The center of the granuloma becomes a zone of necrotic, acellular material — the caseation. This is an important concept because caseation represents a failure to achieve full containment.
+
+![Gross pathology specimen of a tuberculous lung showing caseous necrosis — white-yellow, crumbly, cheese-like material filling the center of confluent granulomas](../../images/caseous-necrosis-tuberculous-lung-gross.jpg)
+> **IBQ tip:** On gross pathology, caseous necrosis is the only necrosis that looks like crumbly white cheese — no other pattern replicates this. On histology the center is completely acellular and amorphous (pink-grey on H&E), unlike coagulative necrosis which retains "ghost" cellular outlines, and liquefactive necrosis which is fluid-filled and contains pus cells.
 
 Non-caseating granulomas — seen in sarcoidosis, Crohn's disease, berylliosis, foreign body reactions — lack central necrosis. The immune response is strong enough to wall off the agent but not causing the same degree of tissue destruction. In sarcoidosis, the granulomas form throughout the body (lung, lymph nodes, skin, eye, liver) in response to an unknown antigen, and they do not caseate because there is no ongoing tissue destruction from the inciting agent.
 
 > **Key exam fact:** Granulomas need CD4+ T cells (specifically Th1 cells producing IFN-gamma) to form and persist. This is why patients with AIDS (profound CD4 depletion) and patients on anti-TNF therapy are prone to disseminated tuberculosis — they cannot form effective granulomas to contain mycobacteria.
+
+![H&E slide of a caseating granuloma in tuberculosis showing central amorphous pink caseous necrosis surrounded by a rim of epithelioid macrophages and peripheral lymphocytes, with a Langhans giant cell at the periphery](../../images/caseating-granuloma-tuberculosis-langhans.jpg)
+> **IBQ tip:** Fix your eyes on two features simultaneously — the ghost-like, cheese-textured acellular center (caseous necrosis) and the Langhans giant cell with its characteristic horseshoe/peripheral arc arrangement of nuclei. The key differential is a non-caseating granuloma (sarcoidosis, Crohn's, berylliosis): the center is absent or has only fibrinoid material but no caseous debris, and foreign body giant cells have nuclei scattered randomly throughout the cytoplasm rather than at the periphery.
 
 ---
 
@@ -200,6 +270,12 @@ Atherosclerosis begins with **endothelial dysfunction** — not necessarily endo
 
 Once in the intima, LDL undergoes **oxidative modification** — oxidized LDL (oxLDL) is the truly dangerous species. oxLDL is chemotactic for monocytes, which are recruited from the blood, adhere to the activated endothelium (via VCAM-1, ICAM-1, and E-selectin upregulated by inflammatory cytokines and oxLDL), and migrate into the intima where they differentiate into macrophages. These macrophages express scavenger receptors (SR-A, CD36) that, unlike the normal LDL receptor, are not downregulated by rising intracellular cholesterol — they continue to engulf oxLDL until they are bloated with lipid droplets. These lipid-laden macrophages are foam cells. Clusters of foam cells in the intima form the **fatty streak** — the earliest grossly visible lesion of atherosclerosis, visible in the aortas of teenagers and even children.
 
+![H&E slide of arterial intima showing foam cells — macrophages distended with numerous small cytoplasmic lipid vacuoles giving a foamy, bubbly cytoplasmic appearance — clustered beneath the endothelium forming a fatty streak](../../images/foam-cells-fatty-streak-atherosclerosis.jpg)
+> **IBQ tip:** Foam cells have abundant pale, vacuolated ("foamy") cytoplasm with a small, eccentric nucleus — the vacuoles represent dissolved lipid (removed during tissue processing). Distinguish from xanthoma cells in skin (also foam cells, but in the dermis in clusters called Touton giant cells in certain conditions) and from Gaucher cells (large macrophages with "crumpled tissue paper" cytoplasm, not vacuolated, PAS-positive).
+
+![Gross aorta specimen showing multiple flat, yellow longitudinal streaks (fatty streaks) on the intimal surface representing the earliest visible lesion of atherosclerosis](../../images/fatty-streak-aorta-gross.jpg)
+> **IBQ tip:** Fatty streaks appear as flat, yellow, linear deposits along the intimal surface — they do not protrude into the lumen and do not cause stenosis. The key distinction from advanced fibrous plaque is the absence of elevation above the intimal surface; fibrous plaques are raised, white-grey lesions that narrow the lumen visibly.
+
 The fatty streak is reversible. But the inflammatory process it triggers is self-perpetuating. Foam cells release cytokines (IL-1, TNF-alpha) that recruit more monocytes and activate smooth muscle cells in the media, which migrate into the intima and begin synthesizing extracellular matrix — collagen, elastin, proteoglycans. This forms the **fibrous plaque**: a lipid core surrounded by a fibrous cap of smooth muscle cells and matrix. Simultaneously, the fatty core begins to undergo necrosis — foam cells die (by apoptosis and necrosis), releasing their lipid contents into the extracellular space and forming the **necrotic core**.
 
 The **fibrous cap** overlying the necrotic core is the critical structural element that determines whether a plaque is stable or vulnerable. A thick, collagen-rich fibrous cap can withstand the hemodynamic forces of blood flow. But plaques rich in inflammatory cells (particularly macrophages) produce MMPs that digest the collagen and thin the fibrous cap. A plaque with a large necrotic core, a thin fibrous cap, and abundant macrophages at the shoulders of the plaque is a **vulnerable plaque** — it may be only 30-40% stenotic on angiography (not causing significant obstruction) but it is on the verge of rupture.
@@ -215,6 +291,9 @@ The pathological changes in an MI evolve in a predictable timeline that connects
 In the **first 1-6 hours**, there are no changes visible to the naked eye, and light microscopy is essentially normal. Only electron microscopy reveals swollen mitochondria and glycogen depletion. But cells are dying — and cardiac troponins (I and T) begin leaking from damaged myocytes into the bloodstream within 3-4 hours of the onset of ischemia. Troponin peaks at 12-24 hours and remains elevated for 7-14 days (due to slow release from structural proteins and continued myocyte death at the margins).
 
 At **6-24 hours**, coagulative necrosis becomes visible on light microscopy. Coagulative necrosis is the pattern where cell architecture is preserved (the ghosts of dead cells are visible) but the cells are dead — eosinophilic (pink) cytoplasm, pyknotic (condensed) nuclei, and the characteristic **wavy fibers** (dead cardiomyocytes are stretched by the contractile forces of adjacent living myocytes, creating a waviness). The gross appearance of the infarcted area may begin to show subtle pallor, but changes are minimal.
+
+![H&E slide of early myocardial infarction (6-24 hours) showing coagulative necrosis with wavy, undulating cardiomyocyte fibers — hypereosinophilic cytoplasm, nuclear pyknosis, and characteristic corrugated waviness of dead myofibers at the border zone with viable myocardium](../../images/wavy-fibers-coagulative-necrosis-mi-early.jpg)
+> **IBQ tip:** Wavy fibers are pathognomonic of early (6-24 hour) MI — the undulating, corrugated appearance results from mechanical stretch of dead, non-contracting myocytes by adjacent living myocytes still pulling. The fibers are deeply eosinophilic and lack the usual cross-striations. Contrast with contraction band necrosis (seen in reperfusion injury and catecholamine excess): that shows hypercontracted, densely eosinophilic transverse bands across fibers — caused by massive calcium influx causing terminal contraction, not passive stretching.
 
 At **1-3 days**, neutrophils flood the infarcted zone in response to the DAMPs released by necrotic cells. This is the neutrophil-dominated acute inflammatory phase. Grossly, the infarct appears yellow-tan (the color of necrotic tissue beginning to be infiltrated by inflammatory cells). CK-MB (creatine kinase MB isoform) — which peaks earlier than troponin (peaks at 24 hours, returns to normal by 48-72 hours) — is clinically useful for detecting reinfarction: if CK-MB re-elevates after initially normalizing, a second MI has occurred (troponin, remaining elevated, cannot be used for this purpose).
 

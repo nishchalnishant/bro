@@ -1,3 +1,79 @@
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                      PHYSIOLOGY — LECTURE OVERVIEW                           │
+│                    NEET PG · 7 Major Systems at a Glance                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+                                      │
+        ┌──────────┬──────────────────┼──────────────────┬──────────┐
+        │          │                  │                  │          │
+     BLOOD &     CVS            RESPIRATORY           RENAL     ENDOCRINE
+  COAGULATION    │                  │                  │          │
+        │        │                  │                  │          │
+   ┌────┤    ┌───┤             ┌────┤             ┌────┤     ┌────┤
+   │    │    │   │             │    │             │    │     │    │
+Primary│ Cardiac  │          Lung    │          GFR &  │  Insulin  │
+Hemo- │  Cycle   │         Volumes  │         Clearance│  & DM    │
+stasis │   │    │          (FRC)    │             │   │     │    │
+   │   │ ┌──┴──┐ │             │    │          Tubular│  Thyroid  │
+Platelet│Wiggers  │        Obstructive│          Handling  │   T3/T4  │
+ Plug  │Diagram  │         (COPD/   │             │   │  (TRH→TSH│
+(vWF,  │   │   │         Asthma)   │          ┌──┴──┐ │   →T3/T4)│
+GPIb, │ ┌─┴─┐  │             │    │         PCT DCT  │     │    │
+GPIIb) │S1  S2  │        Restrictive│         Loop  CD  │  Adrenal  │
+   │   │ │   │  │         (Fibrosis)│         Henle     │   Zones   │
+Second-│JVP    │             │    │             │   │  ┌───┴────┐  │
+ary   │Waves  │        V/Q Mismatch│          Acid-Base │ Glom  Fasc │
+Hemo- │(a,c,x,  │         ├─ Shunt  │          ├─ Met   │ (Aldo) (Cortisol│
+stasis │ v,y)  │         ├─ Dead Spc│          Acidosis │ Retic   CAH  │
+   │   │        │         └─ HPV    │          ├─ Met   │(DHEA)        │
+Cascade│Frank-  │                   │          Alkalosis│              │
+   │  Starling  │         Bohr Effect│          ├─ Resp  └─────────────┘
+   │   │Law     │         O2-Hb     │          Acidosis│
+Extrinsic│        │         Curve     │          └─ Resp  │
+ (VII) │  RAAS  │         ├─ Right   │          Alkalosis│
+Intrinsic│(Renin→ │         Shift     │                   │
+(XII→XI │AngII→  │         └─ Left   │          Diuretics│
+→IX→VIII│ Aldo)  │            Shift  │          Loop/Thiaz│
+Common  │        │                   │          /Spiro/Amil
+(X→II  │        │                   │
+→Fibrin)│        │                   │
+        │        │                   │
+     ┌──┴──┐  Heart      Chemoreceptors      ADH & AQP2
+  PT/INR  aPTT Sounds     ├─ Central (CO2)   Aldosterone
+  (Extrinsic)(Intrinsic)  └─ Peripheral (O2) ENaC / NKCC2
+     │
+  Warfarin                         │
+  Heparin              ┌───────────┼───────────────┐
+  Vit K                │                           │
+                 NEUROPHYSIOLOGY               GI PHYSIOLOGY
+                       │                           │
+                  ┌────┤                      ┌────┤
+                  │    │                      │    │
+              Action   │                 Gastric   │
+             Potential  │                  Acid    │
+               │    │                    (H+/K+   │
+            Resting  │                  ATPase)   │
+             MP &    │                      │    │
+           Threshold │               3 Phases of │
+               │    │                Secretion   │
+           NMJ:ACh   │            ├─ Cephalic (vagus)
+           Release   │            ├─ Gastric (gastrin)
+               │    │            └─ Intestinal
+           ┌───┴──┐  │                (secretin)  │
+         Botox MG   │                      │    │
+         SNARE Anti- │                GI Hormones │
+         cleave AChR │            ├─ Gastrin (G cells)
+                     │            ├─ Secretin (acid)
+                   Sleep          ├─ CCK (fat/protein)
+               ├─ NREM (SWS)      ├─ GIP (incretin)
+               │   └─ GH release  ├─ GLP-1 (L cells)
+               └─ REM             └─ Somatostatin
+                   ├─ Memory         (inhibits all)
+                   ├─ Atonia    ZE Syndrome test:
+                   └─ RBD→PD    Secretin → ↑Gastrin
+                      prodrome
+```
+
 # Physiology — Lecture-Style Notes for NEET PG
 
 *Written as a lecture transcript: first principles first, clinical medicine woven throughout, analogies made explicit. Read this like you are sitting in the front row.*

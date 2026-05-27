@@ -1,3 +1,61 @@
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                     BIOCHEMISTRY — LECTURE OVERVIEW                          │
+│                    NEET PG · 7 Major Topics at a Glance                      │
+└──────────────────────────────────────────────────────────────────────────────┘
+                                      │
+     ┌──────────┬────────────┬────────┼────────┬──────────┬──────────┐
+     │          │            │        │        │          │          │
+  CARBO-     LIPID        PROTEIN  MOLECULAR  VITAMINS  ENZYMES  COLLAGEN
+  HYDRATE  METABOLISM    & AMINO   BIOLOGY      │         │          │
+ METABOLISM    │          ACID        │         │         │          │
+     │         │         METAB.       │         │         │          │
+ ┌───┤      ┌──┤            │     ┌───┤      ┌──┤      ┌──┤      ┌───┤
+ │   │      │  │       ┌────┤     │   │      │  │      │  │      │   │
+Glycolysis │ FA Synth │ Essential  DNA   Fat-Sol   Km &   Type I  │
+ │   │     Beta-Ox  Urea Cycle Non-Essential Replic  Vit A,D  Vmax  │Bone,
+PFK-1  │   │   │     │   │   ORG ACID-   │    E,K   │      Tendon │
+ regul  │  │   │    OTC  ASS1  URIA   Replication│    │      │      │
+ AMP/   │  │  Carnitine ASL  Urea  DNMT    PCR   B-Vits  Compet  Type II
+ ATP/   │  │  Shuttle  Arginase      │    RT-PCR  │    │   vs Non-  Cart-
+ F2,6-BP│  │           │       │  Transcription │  B1: TPP Compet. ilage
+ Citrate│  │           │   PKU │  (RNA PolII)  │    │     │        │
+ │   │  │  │       Phenyl-  │   Translation  Wernicke's Lineweaver Type III
+TCA   │ Ketogenesis alanine │  (80S/70S)   │     │    Burk Plot  Vessels,
+Cycle  │   │   │   Accum. Maple  Antibiotics  B3: NAD+  │     Granulation
+ │   │  │   │   ↓Tyr   Syrup    ├─ 50S: CHL,  Pellagra  │        │
+ETC &  │  │  Cholesterol ↓Trp  Urine   ERY, LIN   │    │  Suicide  Type IV
+OxPhos │  │  Synthesis  ↓Mel  Disease  ├─ 30S: AMG,  B6: PLP  Inhibitors Basement
+ │   │  │   │   PKU Rx: Tetracyc.  Transamination  │    Membrane
+ │   │  │  HMG-CoA ↓Phe, +Tyr   └─ RIF: RNApol   INH→B6 Def  (Alport,
+GSD   │ │  Reductase              Mutations→   │    │    Good-
+ │   │ │  (STATINS)     │       Lynch Syn       B12-Folate  pasture)
+Type I  │ │   │          Amino    (MMR genes,    Methyl Trap │
+(Von   │ │  Lipoproteins  Acid    MSI)          │    │    Type VII
+Gierke) │ │   │          Metab     │          Megaloblastic  Dermo-
+Type II  │ │ Chylo→VLDL  │   │              Anemia    │  epidermal
+(Pompe) │ │  →IDL→LDL  Transamination         B12: MMA↑  (Epiderm-
+Type V   │ │   │       Urea Cycle         Neuro damage  olysis
+(McArdle)│ │  HDL (Reverse Oxidative        Folate:     Bullosa)
+  │    │ │ Cholesterol Deamination       No MMA, No   │
+Pyruvate│  Transport)              neuro damage  Collagen
+Dehydrog.│   │                               Synthesis:
+Complex  │  ApoB-48 (Chylo)                 Pre-pro-α→
+  │    │ ApoB-100 (VLDL/LDL)             Hydroxylation
+Thiamine │ ApoC-II (↑LPL)               (Vit C req.)→
+Required  ApoE (Remnant rec.)            Triple Helix→
+(TPP)    ApoA-I (↑LCAT,HDL)             Procollagen→
+          Tangier Dis (↓ApoA-I)          Tropocollagen→
+          Abetaliproteinemia             Cross-linking
+          (↓ApoB)                        (Lysyl Oxidase,
+                                          Cu-dependent)
+                                        ● Menkes (↓Cu)
+                                        ● Scurvy (↓VitC)
+                                        ● OI (Type I mut)
+                                        ● Alport (Type IV)
+                                        ● Ehlers-Danlos
+```
+
 # Biochemistry — NEET PG Lecture Notes
 
 *Written in the style of a classroom lecture: first principles, clinical reasoning, and metabolic logic. Read this like you are in the front row.*

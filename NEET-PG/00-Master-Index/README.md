@@ -56,37 +56,157 @@ All content is optimized for the current NEET PG format: **200 MCQs / 800 marks 
 
 ---
 
+## How to Use This Repository
+
+### The Two-File System
+
+Every subject folder contains exactly two files:
+
+| File | Purpose | When to Use |
+|---|---|---|
+| `*-lecture.md` | Detailed first-principles lecture notes — mechanisms, pathophysiology, full explanations | Phase 1 (first reading, months 1–6): read top-to-bottom to build deep understanding |
+| `*-notes.md` | Condensed exam-focused rapid revision notes — high-yield facts, tables, one-liners, key numbers | Phase 3–4 (revision, months 10–12): rapid cycling through core facts before the exam |
+
+**Rule of thumb:** Open the lecture file when you are learning. Open the notes file when you are revising.
+
+---
+
+## Recommended Study Order
+
+### Phase 1 — First Reading / Lecture Files (Months 1–6)
+Read each subject's `*-lecture.md` file in full. Focus on understanding mechanisms, not memorisation.
+
+| Month | Subjects | Files to Read |
+|---|---|---|
+| Month 1 | Anatomy | `anatomy-lecture.md` |
+| Month 2 | Physiology | `physiology-lecture.md` |
+| Month 2–3 | Biochemistry | `biochemistry-lecture.md` |
+| Month 3 | Pathology | `pathology-lecture.md` |
+| Month 3–4 | Pharmacology | `pharmacology-lecture.md` |
+| Month 4 | Microbiology | `microbiology-lecture.md` |
+| Month 4–5 | General Medicine | `medicine-lecture.md` |
+| Month 5 | General Surgery | `surgery-lecture.md` |
+| Month 5–6 | OBG | `obg-lecture.md` |
+| Month 6 | Pediatrics | `pediatrics-lecture.md` |
+| Month 6 | SPM/Community Medicine | `spm-lecture.md` |
+
+### Phase 2 — MCQ Practice + PYQ Analysis (Months 7–9)
+Finish remaining small subjects and begin intensive MCQ work alongside PYQ analysis.
+
+| Month | Activity |
+|---|---|
+| Month 7 | ENT (`ent-lecture.md`), Ophthalmology (`ophthalmology-lecture.md`), Dermatology (`dermatology-lecture.md`) |
+| Month 8 | Orthopedics, Psychiatry, Forensic, Anesthesia, Radiology — lecture files |
+| Months 7–9 | Subject-wise QBank: 100–150 MCQs/day; PYQ analysis per subject |
+| Month 9 | Year-wise NEET PG papers (2024 → 2019); milestone: 10,000+ MCQs done |
+
+### Phase 3 — Notes File Revision Cycles (Months 10–11)
+Switch from lecture files to notes files exclusively. Run rapid revision cycles.
+
+- Open `*-notes.md` for each subject in rotation (one subject per day)
+- Supplement with `05-Quick-Revision/` materials (mnemonics, one-liners, comparison tables)
+- Continue grand tests weekly
+
+### Phase 4 — Final Month (Month 12)
+Quick revision materials only. No new learning.
+
+- `05-Quick-Revision/Last-Day-Notes/`
+- `05-Quick-Revision/One-Liners/master-one-liners.md`
+- `05-Quick-Revision/Mnemonics/master-mnemonics.md`
+- `05-Quick-Revision/High-Yield-Tables/comparison-tables.md`
+- Grand tests 3–4 times per week
+
+---
+
 ## Folder Structure
 
 ```
 NEET-PG/
 ├── 00-Master-Index/          ← You are here
-│   └── README.md             ← This file
+│   ├── README.md             ← This file (master index + study guide)
+│   └── study-schedule.md    ← Full 12-month week-by-week timetable
 │
 ├── 01-Pre-Clinical/          ← First-year MBBS subjects
 │   ├── Anatomy/
+│   │   ├── README.md
+│   │   ├── anatomy-lecture.md     ← First-principles lecture notes
+│   │   └── anatomy-notes.md       ← Rapid revision notes
 │   ├── Physiology/
+│   │   ├── README.md
+│   │   ├── physiology-lecture.md
+│   │   └── physiology-notes.md
 │   └── Biochemistry/
+│       ├── README.md
+│       ├── biochemistry-lecture.md
+│       └── biochemistry-notes.md
 │
 ├── 02-Para-Clinical/         ← Second-year MBBS subjects
 │   ├── Pathology/
+│   │   ├── README.md
+│   │   ├── pathology-lecture.md
+│   │   └── pathology-notes.md
 │   ├── Pharmacology/
+│   │   ├── README.md
+│   │   ├── pharmacology-lecture.md
+│   │   └── pharmacology-notes.md
 │   ├── Microbiology/
+│   │   ├── README.md
+│   │   ├── microbiology-lecture.md
+│   │   └── microbiology-notes.md
 │   ├── Forensic-Medicine/
+│   │   ├── README.md
+│   │   ├── forensic-lecture.md
+│   │   └── forensic-notes.md
 │   └── Community-Medicine-SPM/
+│       ├── README.md
+│       ├── spm-lecture.md
+│       └── spm-notes.md
 │
 ├── 03-Clinical/              ← Third/Final year MBBS subjects
 │   ├── General-Medicine/
+│   │   ├── README.md
+│   │   ├── medicine-lecture.md
+│   │   └── medicine-notes.md
 │   ├── General-Surgery/
+│   │   ├── README.md
+│   │   ├── surgery-lecture.md
+│   │   └── surgery-notes.md
 │   ├── OBG/
+│   │   ├── README.md
+│   │   ├── obg-lecture.md
+│   │   └── obg-notes.md
 │   ├── Pediatrics/
+│   │   ├── README.md
+│   │   ├── pediatrics-lecture.md
+│   │   └── pediatrics-notes.md
 │   ├── ENT/
+│   │   ├── README.md
+│   │   ├── ent-lecture.md
+│   │   └── ent-notes.md
 │   ├── Ophthalmology/
+│   │   ├── README.md
+│   │   ├── ophthalmology-lecture.md
+│   │   └── ophthalmology-notes.md
 │   ├── Psychiatry/
+│   │   ├── README.md
+│   │   ├── psychiatry-lecture.md
+│   │   └── psychiatry-notes.md
 │   ├── Dermatology/
+│   │   ├── README.md
+│   │   ├── dermatology-lecture.md
+│   │   └── dermatology-notes.md
 │   ├── Orthopedics/
+│   │   ├── README.md
+│   │   ├── orthopedics-lecture.md
+│   │   └── orthopedics-notes.md
 │   ├── Anesthesia/
+│   │   ├── README.md
+│   │   ├── anesthesia-lecture.md
+│   │   └── anesthesia-notes.md
 │   └── Radiology/
+│       ├── README.md
+│       ├── radiology-lecture.md
+│       └── radiology-notes.md
 │
 ├── 04-PYQ-Analysis/          ← Previous Year Question analysis
 │   ├── pyq-analysis-overview.md   ← Strategy guide for PYQs
@@ -114,29 +234,6 @@ NEET-PG/
 ```
 
 ---
-
-## How to Use This Repository
-
-### For New Users (Starting Preparation)
-1. Read this README completely.
-2. Go to `06-Books-and-Resources/recommended-books.md` — study the full phase-wise strategy.
-3. Begin subject notes in the order recommended (Anatomy → Physiology → Biochemistry → ...).
-4. After finishing each subject, review `04-PYQ-Analysis/High-Yield-Topics/high-yield-topics.md` for that subject.
-
-### During Active Preparation
-- Subject notes live in `01-Pre-Clinical/`, `02-Para-Clinical/`, `03-Clinical/`
-- After each subject, solve PYQs and add errors to `07-Grand-Tests/Error-Notebook/`
-- After grand tests, update `07-Grand-Tests/Performance-Tracker/`
-
-### During Revision Phase (Last 3–4 Months)
-- `05-Quick-Revision/` is your primary workspace
-- Rotate through mnemonics, one-liners, and comparison tables daily
-- Run year-wise PYQ papers from `04-PYQ-Analysis/Year-Wise/`
-
-### Last Week Before Exam
-- Only `05-Quick-Revision/Last-Day-Notes/` + `master-one-liners.md` + `master-mnemonics.md`
-- No new topics
-- Review high-value comparison tables (comparison-tables.md) once per day
 
 ---
 
@@ -180,29 +277,38 @@ NEET-PG/
 ## Quick Links — All Subjects
 
 ### Pre-Clinical
-- Anatomy Notes → `/01-Pre-Clinical/Anatomy/`
-- Physiology Notes → `/01-Pre-Clinical/Physiology/`
-- Biochemistry Notes → `/01-Pre-Clinical/Biochemistry/`
+
+| Subject | Lecture File | Notes File |
+|---|---|---|
+| Anatomy | [`anatomy-lecture.md`](/01-Pre-Clinical/Anatomy/anatomy-lecture.md) | [`anatomy-notes.md`](/01-Pre-Clinical/Anatomy/anatomy-notes.md) |
+| Physiology | [`physiology-lecture.md`](/01-Pre-Clinical/Physiology/physiology-lecture.md) | [`physiology-notes.md`](/01-Pre-Clinical/Physiology/physiology-notes.md) |
+| Biochemistry | [`biochemistry-lecture.md`](/01-Pre-Clinical/Biochemistry/biochemistry-lecture.md) | [`biochemistry-notes.md`](/01-Pre-Clinical/Biochemistry/biochemistry-notes.md) |
 
 ### Para-Clinical
-- Pathology Notes → `/02-Para-Clinical/Pathology/`
-- Pharmacology Notes → `/02-Para-Clinical/Pharmacology/`
-- Microbiology Notes → `/02-Para-Clinical/Microbiology/`
-- Forensic Medicine Notes → `/02-Para-Clinical/Forensic-Medicine/`
-- SPM/Community Medicine Notes → `/02-Para-Clinical/Community-Medicine-SPM/`
+
+| Subject | Lecture File | Notes File |
+|---|---|---|
+| Pathology | [`pathology-lecture.md`](/02-Para-Clinical/Pathology/pathology-lecture.md) | [`pathology-notes.md`](/02-Para-Clinical/Pathology/pathology-notes.md) |
+| Pharmacology | [`pharmacology-lecture.md`](/02-Para-Clinical/Pharmacology/pharmacology-lecture.md) | [`pharmacology-notes.md`](/02-Para-Clinical/Pharmacology/pharmacology-notes.md) |
+| Microbiology | [`microbiology-lecture.md`](/02-Para-Clinical/Microbiology/microbiology-lecture.md) | [`microbiology-notes.md`](/02-Para-Clinical/Microbiology/microbiology-notes.md) |
+| Forensic Medicine | [`forensic-lecture.md`](/02-Para-Clinical/Forensic-Medicine/forensic-lecture.md) | [`forensic-notes.md`](/02-Para-Clinical/Forensic-Medicine/forensic-notes.md) |
+| SPM/Community Medicine | [`spm-lecture.md`](/02-Para-Clinical/Community-Medicine-SPM/spm-lecture.md) | [`spm-notes.md`](/02-Para-Clinical/Community-Medicine-SPM/spm-notes.md) |
 
 ### Clinical
-- General Medicine Notes → `/03-Clinical/General-Medicine/`
-- General Surgery Notes → `/03-Clinical/General-Surgery/`
-- OBG Notes → `/03-Clinical/OBG/`
-- Pediatrics Notes → `/03-Clinical/Pediatrics/`
-- ENT Notes → `/03-Clinical/ENT/`
-- Ophthalmology Notes → `/03-Clinical/Ophthalmology/`
-- Psychiatry Notes → `/03-Clinical/Psychiatry/`
-- Dermatology Notes → `/03-Clinical/Dermatology/`
-- Orthopedics Notes → `/03-Clinical/Orthopedics/`
-- Anesthesia Notes → `/03-Clinical/Anesthesia/`
-- Radiology Notes → `/03-Clinical/Radiology/`
+
+| Subject | Lecture File | Notes File |
+|---|---|---|
+| General Medicine | [`medicine-lecture.md`](/03-Clinical/General-Medicine/medicine-lecture.md) | [`medicine-notes.md`](/03-Clinical/General-Medicine/medicine-notes.md) |
+| General Surgery | [`surgery-lecture.md`](/03-Clinical/General-Surgery/surgery-lecture.md) | [`surgery-notes.md`](/03-Clinical/General-Surgery/surgery-notes.md) |
+| OBG | [`obg-lecture.md`](/03-Clinical/OBG/obg-lecture.md) | [`obg-notes.md`](/03-Clinical/OBG/obg-notes.md) |
+| Pediatrics | [`pediatrics-lecture.md`](/03-Clinical/Pediatrics/pediatrics-lecture.md) | [`pediatrics-notes.md`](/03-Clinical/Pediatrics/pediatrics-notes.md) |
+| ENT | [`ent-lecture.md`](/03-Clinical/ENT/ent-lecture.md) | [`ent-notes.md`](/03-Clinical/ENT/ent-notes.md) |
+| Ophthalmology | [`ophthalmology-lecture.md`](/03-Clinical/Ophthalmology/ophthalmology-lecture.md) | [`ophthalmology-notes.md`](/03-Clinical/Ophthalmology/ophthalmology-notes.md) |
+| Psychiatry | [`psychiatry-lecture.md`](/03-Clinical/Psychiatry/psychiatry-lecture.md) | [`psychiatry-notes.md`](/03-Clinical/Psychiatry/psychiatry-notes.md) |
+| Dermatology | [`dermatology-lecture.md`](/03-Clinical/Dermatology/dermatology-lecture.md) | [`dermatology-notes.md`](/03-Clinical/Dermatology/dermatology-notes.md) |
+| Orthopedics | [`orthopedics-lecture.md`](/03-Clinical/Orthopedics/orthopedics-lecture.md) | [`orthopedics-notes.md`](/03-Clinical/Orthopedics/orthopedics-notes.md) |
+| Anesthesia | [`anesthesia-lecture.md`](/03-Clinical/Anesthesia/anesthesia-lecture.md) | [`anesthesia-notes.md`](/03-Clinical/Anesthesia/anesthesia-notes.md) |
+| Radiology | [`radiology-lecture.md`](/03-Clinical/Radiology/radiology-lecture.md) | [`radiology-notes.md`](/03-Clinical/Radiology/radiology-notes.md) |
 
 ---
 
