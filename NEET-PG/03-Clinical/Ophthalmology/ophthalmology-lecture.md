@@ -1,57 +1,49 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["👁️ OPHTHALMOLOGY — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Glaucoma"]
+    A --> C["Retina"]
+    A --> D["Lens & Cataract"]
+    A --> E["Cornea & External Eye"]
+    A --> F["Neuro-Ophthalmology"]
+    A --> G["Infections & Tropical"]
+
+    B --> B1["POAG<br/>Painless / Open angle / C:D >0.6"]
+    B --> B2["PACG<br/>Acute painful / Mid-dilated pupil"]
+    B --> B3["Tonometry<br/>Goldmann applanation / IOP >21 mmHg"]
+
+    C --> C1["CRAO<br/>Cherry red spot / Sudden painless loss"]
+    C --> C2["CRVO<br/>Blood-and-thunder fundus"]
+    C --> C3["Diabetic Retinopathy<br/>PDR → PRP / Anti-VEGF"]
+    C --> C4["ARMD<br/>Drusen / Wet (CNV) / Dry type"]
+
+    D --> D1["Cataract Types<br/>Nuclear / Cortical / PSC"]
+    D --> D2["Surgery<br/>PHACO / ECCE / ICCE / IOL"]
+    D --> D3["Posterior Capsule Opacity<br/>Nd:YAG laser capsulotomy"]
+
+    E --> E1["Corneal Ulcer<br/>Bacterial / Fungal / Acanthamoeba / HSV"]
+    E --> E2["Trachoma<br/>Chlamydia / WHO SAFE strategy"]
+    E --> E3["Conjunctivitis<br/>Bacterial / Viral / Allergic"]
+
+    F --> F1["Pupil Reactions<br/>RAPD / Argyll Robertson / Horner's"]
+    F --> F2["Squint<br/>Concomitant / Paralytic / Cover test"]
+    F --> F3["Optic Neuritis<br/>MS association / Color vision early loss"]
+
+    G --> G1["Trachoma<br/>Most common preventable blindness"]
+    G --> G2["Cataract<br/>Most common treatable blindness India"]
+    G --> G3["Onchocerciasis<br/>River blindness / Simulium blackfly"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    OPHTHALMOLOGY — OVERVIEW DIAGRAM                         │
-└─────────────────────────────┬───────────────────────────────────────────────┘
-                              │
-        ┌─────────────────────┼──────────────────────┐
-        ▼                     ▼                      ▼
-  ┌───────────┐        ┌────────────┐         ┌────────────┐
-  │  OPTICS   │        │  GLAUCOMA  │         │  RETINA    │
-  │           │        │            │         │            │
-  └─────┬─────┘        └─────┬──────┘         └─────┬──────┘
-        │                    │                       │
-  ┌─────┴──────┐       ┌─────┴──────┐        ┌──────┴──────┐
-  ▼            ▼       ▼            ▼        ▼              ▼
-┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────────┐ ┌──────────────┐
-│Refra-│ │Accom-│ │POAG  │ │PACG  │ │Diabetic  │ │Retinal       │
-│ctive │ │modat-│ │● TM  │ │● Pupil│ │Retinop.  │ │Detachment    │
-│Errors│ │ion / │ │  resis│ │  block│ │● Micro-  │ │● Rhegmato-  │
-│● Myo-│ │Presby│ │● Slow │ │● Iris │ │  aneurysm│ │  genous      │
-│  pia │ │  opia│ │  asymp│ │  bombe│ │  (peric. │ │  (break +    │
-│  (−) │ │● Near│ │● C:D  │ │● Acute│ │  loss)   │ │  PVD, myope) │
-│● Hyp-│ │  point│ │  ratio│ │  pain │ │● NPDR →  │ │● Tractional  │
-│  erm-│ │  rec- │ │  >0.6 │ │● Fixed│ │  PDR     │ │  (PDR, SCD)  │
-│  etr-│ │  edes │ │● Arcua│ │  mid- │ │● DME     │ │● Exudative   │
-│  opia│ │  +40y │ │  te   │ │  dil. │ │  (VEGF)  │ │  (melanoma,  │
-│  (+) │ │       │ │  scoto│ │  pupil│ │● Anti-   │ │  CSC)        │
-│● Ast-│ │       │ │● PGA  │ │● LPI  │ │  VEGF Rx │ │● Shifting    │
-│  igm-│ │       │ │  1st  │ │  emer-│ │          │ │  fluid sign  │
-│  atism│ │       │ │  line │ │  gency│ └──────────┘ └──────────────┘
-└──────┘ └──────┘ └──────┘ └──────┘
-                                        ┌──────────────────────────────┐
-        ┌─────────────────────┬──────────┤  LENS / UVEITIS / NEURO     │
-        ▼                     ▼          └──────────────────────────────┘
-  ┌───────────┐        ┌────────────┐
-  │ SQUINT &  │        │ OPTIC PATH │     ┌──────────┐ ┌──────────────┐
-  │ AMBLYOPIA │        │ FIELD      │     │ Cataract │ │ Uveitis      │
-  └─────┬─────┘        │ DEFECTS    │     │● Nuclear │ │● Anterior    │
-        │               └─────┬──────┘     │  sclerot │ │  (iritis)    │
-  ┌─────┴──────┐              │            │● PSC     │ │  HLA-B27     │
-  ▼            ▼        ┌─────┴──────┐     │  (ster-  │ │  flare+KPs   │
-┌──────┐ ┌──────────┐   │Optic nerve │     │  oids)   │ │● Posterior   │
-│Binocu│ │Critical  │   │ → monocula │     │● Phaco-  │ │  toxoplasma  │
-│lar   │ │period    │   │Chiasm      │     │  emulsif.│ │  CMV         │
-│fusion│ │< 7–8 yrs │   │ → bitempor │     │  + IOL   │ └──────────────┘
-│● Eso-│ │● Suppress│   │Optic tract │     └──────────┘
-│  trop│ │  ion →   │   │ → homonim. │   ┌──────────────────────────────┐
-│  ia  │ │  amblyop │   │Radiation   │   │ VISUAL FIELD DEFECT LOCATOR  │
-│● Exo-│ │  ia      │   │ temporal = │   ├───────────┬──────────────────┤
-│  trop│ │● Occlusi │   │ pie-in-sky │   │ Optic n.  │ Monocular blind. │
-│  ia  │ │  on Rx   │   │ parietal = │   │ Chiasm    │ Bitemporal hemi. │
-│      │ │  (patch) │   │ pie-on-flr │   │ Tract     │ Homonymous hemi. │
-└──────┘ └──────────┘   └────────────┘   │ Occipital │ + macular sparing│
-                                          └───────────┴──────────────────┘
-```
+
+**Subject Overview (plain text):**
+- Glaucoma: POAG (Painless/Open angle/C:D >0.6), PACG (Acute painful/Mid-dilated pupil), Tonometry (Goldmann applanation/IOP >21 mmHg)
+- Retina: CRAO (Cherry red spot/Sudden painless loss), CRVO (Blood-and-thunder fundus), Diabetic Retinopathy (PDR→PRP/Anti-VEGF), ARMD (Drusen/Wet/Dry)
+- Lens & Cataract: Cataract Types (Nuclear/Cortical/PSC), Surgery (PHACO/ECCE/ICCE/IOL), Posterior Capsule Opacity (Nd:YAG laser)
+- Cornea & External Eye: Corneal Ulcer (Bacterial/Fungal/Acanthamoeba/HSV), Trachoma (Chlamydia/WHO SAFE strategy), Conjunctivitis
+- Neuro-Ophthalmology: Pupil Reactions (RAPD/Argyll Robertson/Horner's), Squint (Concomitant/Paralytic/Cover test), Optic Neuritis (MS association)
+- Infections & Tropical: Trachoma (Most common preventable blindness), Cataract (Most common treatable blindness India), Onchocerciasis (River blindness)
 
 # Ophthalmology — Lecture Notes for NEET PG
 ### Written in the voice of a clinician teaching at the slit lamp
@@ -110,6 +102,12 @@ The mechanism of optic nerve damage in glaucoma is debated, but the two main the
 
 The optic disc in glaucoma undergoes characteristic changes as RGC axons die. The optic cup — the pale central depression of the disc — enlarges as the neural rim tissue (which is simply a cross-section of the RGC axons) thins. The cup-to-disc (C:D) ratio increases. The normal C:D ratio is < 0.4–0.5. A C:D ratio > 0.6 is suspicious; asymmetry between the two eyes of > 0.2 is particularly significant. Additional signs of glaucomatous disc damage: notching of the neural rim (especially inferotemporal and superotemporal — the "ISNT rule": in normal discs, the rim is thickest Inferior > Superior > Nasal > Temporal; glaucoma preferentially thins the inferior and superior rims), disc hemorrhages (Drance hemorrhages — at the disc margin, a sign of active progression), bayoneting of vessels (blood vessels appear to bend as they course over the excavated cup), RNFL (retinal nerve fiber layer) defects visible on OCT and on red-free fundus photography as dark wedge-shaped areas converging on the disc.
 
+![Fundoscopic view of glaucomatous optic disc cupping: markedly enlarged cup-to-disc ratio (>0.6), thinning and notching of the inferior neuroretinal rim, nasal displacement of retinal vessels, pale excavated cup with visible lamina cribrosa pores](../../images/ophthalmology-glaucomatous-cupping.jpg)
+> **IBQ tip:** Glaucomatous cupping shows C:D ratio >0.6 with inferior or inferotemporal rim notching (violating the ISNT rule) and nasal shift of vessels — distinguish from a physiologically large cup (which has a uniform, well-preserved pink rim all around and a C:D ratio that is symmetric between both eyes).
+
+![Humphrey visual field printout showing arcuate scotoma in glaucoma: superior or inferior arcuate defect curving from the blind spot around the fixation point following the RNFL arcuate fiber bundles, with a nasal step at the horizontal meridian](../../images/visual-field-arcuate-scotoma-glaucoma.jpg)
+> **IBQ tip:** A glaucomatous arcuate scotoma curves from the blind spot in an arc above or below fixation (following retinal nerve fiber layer anatomy) — contrast with a central scotoma (which involves fixation itself, as in optic neuritis) and with an altitudinal defect (which cuts straight horizontally, as in ischemic optic neuropathy).
+
 > **Key exam point:** POAG: bilateral, asymptomatic until late, open angle, elevated IOP (but 1/3 of patients have normal IOP — normal tension glaucoma). C:D ratio increased, neural rim thinning, visual field loss (arcuate scotomas, nasal step, eventually advanced). Central vision last to be affected. Treatment: prostaglandin analogues first-line (latanoprost, travoprost — increase uveoscleral outflow, once daily, effective, cosmetic side effects: iris darkening, lash growth). Target IOP: 30% reduction from baseline, individualized.
 
 ### Primary Angle-Closure Glaucoma (PACG)
@@ -140,6 +138,12 @@ As the disease progresses, increased vascular permeability allows plasma to leak
 
 As more capillaries close (capillary non-perfusion), the surrounding retina becomes ischemic. Ischemic retina releases VEGF — vascular endothelial growth factor — which is a powerful signal for new blood vessel growth. This is the switch from non-proliferative diabetic retinopathy (NPDR) to proliferative diabetic retinopathy (PDR). The new vessels (neovascularization) grow on the retinal surface and into the vitreous — they are fragile, lack a normal blood-retinal barrier, and are prone to bleeding. Vitreous hemorrhage (sudden severe visual loss) and tractional retinal detachment (fibrovascular membranes contract and pull the retina off) are the blinding complications of PDR.
 
+![Fundoscopic view of non-proliferative diabetic retinopathy (moderate NPDR): multiple microaneurysms as discrete red dots, dot-and-blot hemorrhages, yellow hard exudates with sharp margins in a circinate pattern around the macula, and grey-white cotton wool spots indicating focal ischemia](../../images/general-medicine-diabetic-retinopathy.jpg)
+> **IBQ tip:** In diabetic retinopathy, microaneurysms appear as discrete bright-red dots (smaller than a vein diameter) — distinguish hard exudates (sharp-edged, waxy yellow deposits) from cotton wool spots (fluffy grey-white, no sharp edges) and from drusen (which are yellowish deposits at the macula in AMD, without the vascular red dots of DR).
+
+![Fundoscopic view of proliferative diabetic retinopathy (PDR): frond-like new vessels at the disc (NVD) or elsewhere on the retina (NVE), fibrovascular proliferation, with pre-retinal or vitreous hemorrhage partially obscuring the disc](../../images/fundoscopy-diabetic-retinopathy-pdr-nvd.jpg)
+> **IBQ tip:** Neovascularization of the disc (NVD) appears as a fine, lacy tangle of new vessels on or within one disc diameter of the optic disc — contrast with normal disc vessels (which are orderly and radiate outward) and with disc drusen (which does not have fine vessel fronds).
+
 **Clinical connection:** This pathogenesis explains every treatment rationale. Laser photocoagulation (pan-retinal photocoagulation, PRP) in PDR destroys the ischemic peripheral retina — removing the VEGF-secreting tissue, reducing the drive for neovascularization, and allowing regression of new vessels. Anti-VEGF injections (ranibizumab, bevacizumab, aflibercept) block the VEGF signal directly — highly effective for diabetic macular edema and increasingly used for PDR. Intravitreal steroids reduce the inflammatory component of macular edema. Blood sugar control, blood pressure control, and lipid control all reduce the rate of progression.
 
 > **Key exam point:** NPDR stages: mild (microaneurysms only), moderate (+ dot/blot hemorrhages, hard exudates, cotton wool spots), severe (4-2-1 rule: hemorrhages in all 4 quadrants, or venous beading in 2+ quadrants, or IRMA in 1+ quadrant). PDR: neovascularization of disc (NVD) or elsewhere (NVE), vitreous hemorrhage, TRD. Diabetic macular edema (DME) can occur at any NPDR stage. Clinically significant macular edema (CSME): edema or hard exudates within 500 microns of fovea, or edema > 1 disc area within 1 disc diameter of fovea.
@@ -156,11 +160,24 @@ As more capillaries close (capillary non-perfusion), the surrounding retina beco
 
 ---
 
+### Retinal Vascular Occlusions
+
+![Fundoscopic view of central retinal vein occlusion (CRVO) showing the "stormy sunset" or "blood and thunder" fundus: flame-shaped hemorrhages in all four quadrants, dilated tortuous veins, disc swelling, and cotton wool spots throughout the entire retina](../../images/ophthalmology-central-retinal-vein-occlusion.jpg)
+> **IBQ tip:** CRVO produces hemorrhages in ALL four quadrants with dilated, tortuous veins — distinguish from branch RVO (BRVO) which has hemorrhages confined to one quadrant/sector following a single vein's territory, and from diabetic retinopathy (which has dot hemorrhages and hard exudates without the universal four-quadrant flame pattern).
+
+![Fundoscopic view of central retinal artery occlusion (CRAO): pale, opacified (milky-white) retina surrounding a bright cherry-red spot at the fovea, with attenuated arterioles; the fovea appears red because the thin foveal retina is transparent and reveals the underlying intact choroidal circulation](../../images/ophthalmology-central-retinal-artery-occlusion.jpg)
+> **IBQ tip:** The cherry red spot in CRAO stands out against a pale surrounding retina — the macula fovea is supplied by the choroid (not the central retinal artery) so it retains its red colour; contrast with Niemann-Pick / Tay-Sachs disease where a cherry red spot appears on a normal (non-pale) background retina due to ganglioside accumulation in surrounding ganglion cells.
+
+---
+
 ### Retinal Detachment
 
 The retina consists of two layers that were once separate — they fused during embryological development but remain a potential space. The outer layer is the retinal pigment epithelium (RPE), a monolayer of heavily pigmented cells resting on Bruch's membrane (and beneath that, the choroid). The inner layer is the neurosensory retina — the nine layers containing the photoreceptors (rods and cones), their connections, the ganglion cells, and the RNFL. The RPE and neurosensory retina are held together by several mechanisms: the mucopolysaccharide matrix in the potential space between them, metabolite exchange (the RPE pumps fluid out of the subretinal space), interdigitation of photoreceptor outer segments with RPE microvilli, and VEGF produced by the RPE that maintains the structural integrity of the choriocapillaris. There is no firm adhesion — the two layers can be separated by fluid. This is retinal detachment.
 
 The three types of retinal detachment each have a distinct mechanism, a distinct patient profile, and a distinct treatment. **Rhegmatogenous retinal detachment (RRD)** — from the Greek "rhegma" meaning tear — is caused by a break in the neurosensory retina (a hole or tear). Liquid vitreous (in the posterior vitreous compartment, after posterior vitreous detachment — the normal age-related separation of the vitreous from the retina) finds the break and seeps through → accumulates in the subretinal space → progressively separates the neurosensory retina from the RPE. The typical patient is myopic (a thin, stretched retina is more prone to tears), middle-aged or older (posterior vitreous detachment is the precipitating event), with symptoms of a sudden shower of floaters and flashes of light (the vitreous pulling on the retina stimulates photoreceptors — flashes; the hemorrhage from a torn blood vessel creates floaters), then a "curtain" or "shadow" across the visual field as the detachment extends.
+
+![Fundoscopic view of rhegmatogenous retinal detachment: grey, elevated, corrugated neurosensory retina with a horseshoe-shaped or round retinal tear visible at the superior periphery; subretinal fluid lifts the retina with an undulating, convex surface extending toward the macula](../../images/ophthalmology-rhegmatogenous-retinal-detachment.jpg)
+> **IBQ tip:** In RRD, the detached retina appears grey and wrinkled (corrugated) rather than the normal orange-red reflex, and a horseshoe tear is often visible at the flap edge — contrast with tractional RD (concave, no tear, restricted to posterior pole) and exudative RD (smooth, bullous, shifts with head position).
 
 **Tractional retinal detachment (TRD)** occurs when fibrovascular membranes (in proliferative diabetic retinopathy, proliferative vitreoretinopathy, or sickle cell retinopathy) on the retinal surface contract and physically pull the neurosensory retina away from the RPE. There is no break in the retina — the forces are mechanical. The detachment is concave (the retinal surface is pulled toward the fibrovascular membranes), typically does not extend to the ora serrata, and is less mobile than RRD.
 
@@ -188,6 +205,15 @@ The uveal tract is the middle, pigmented, vascular coat of the eye: iris + cilia
 
 Anterior uveitis is the most common form. The inflamed iris and ciliary body pour inflammatory cells into the anterior chamber — these cells (white blood cells) settle inferiorly by gravity, forming a hypopyon (a layered collection of white cells in the inferior AC). Protein leaks from the inflamed vessels — on slit-lamp examination, you see "flare" (the Tyndall effect — the protein-laden aqueous scatters the slit-lamp beam like dust in a sunbeam, visible against the normally optically clear aqueous). Inflammatory cells adhere to the corneal endothelium — keratic precipitates (KPs). The iris becomes swollen and may adhere to the anterior lens surface — posterior synechiae — which, if complete 360°, causes iris bombe (a circular posterior synechia that blocks aqueous flow through the pupil → iris bombe → angle closure glaucoma). Treatment: mydriatic drops (to break and prevent synechiae, by keeping the pupil dilated), topical steroids.
 
+![Slit-lamp photograph of hypopyon in anterior uveitis or fungal keratitis: a horizontal, white, layered collection of inflammatory cells in the inferior anterior chamber, forming a straight horizontal upper border, with the overlying cornea showing variable clarity](../../images/ophthalmology-hypopyon.jpg)
+> **IBQ tip:** Hypopyon is a gravity-dependent, sterile (in uveitis) or septic (in fungal/bacterial keratitis) white layer in the inferior AC — its hallmark is the flat, horizontal upper border; contrast with a fibrin membrane or posterior synechia which do not form a straight horizontal level and are adherent to adjacent structures.
+
+![Slit-lamp photograph of corneal ulcer with fluorescein staining: dendritic (branching, tree-like) fluorescein-positive epithelial defect with terminal bulbs in HSV keratitis, or geographic ulcer in advanced herpetic disease](../../images/ophthalmology-herpes-simplex-keratitis.jpg)
+> **IBQ tip:** An HSV dendritic ulcer stains bright green with fluorescein under cobalt blue light and shows a branching pattern with terminal bulbs at branch tips — contrast with an Acanthamoeba ring ulcer (stromal ring infiltrate, contact lens history) and with a bacterial corneal ulcer (central stromal infiltrate, no branching, more suppurative).
+
+![Slit-lamp photograph showing keratic precipitates (KPs) on corneal endothelium: large, greasy, mutton-fat KPs in granulomatous uveitis (sarcoidosis/TB) arranged in Arlt's triangle on the inferior cornea, versus fine grey KPs in non-granulomatous (HLA-B27) uveitis](../../images/slit-lamp-keratic-precipitates-mutton-fat.jpg)
+> **IBQ tip:** Mutton-fat KPs are large, white-grey, greasy-looking deposits on the inferior endothelium — their large size and greasy appearance indicate a granulomatous cause (sarcoid, TB); fine, stellate KPs indicate non-granulomatous uveitis (HLA-B27 diseases), and fresh KPs in a case of corneal edema plus halos should raise suspicion of acute angle closure.
+
 > **Key exam point:** Anterior uveitis (iritis) associations: HLA-B27 (ankylosing spondylitis, Reiter's syndrome, psoriatic arthritis, IBD-related arthritis), sarcoidosis, herpes simplex/zoster, TB, Behcet's disease. Posterior uveitis: toxoplasmosis (commonest cause — "headlight in the fog" appearance — white fluffy active lesion next to a pigmented old scar), CMV retinitis (immunocompromised — "pizza pie" appearance, brushfire progression), TB, sarcoidosis.
 
 ---
@@ -199,6 +225,9 @@ Anterior uveitis is the most common form. The inflamed iris and ciliary body pou
 The pupil is controlled by two opposing systems: the parasympathetic (constriction, CN III → ciliary ganglion → short ciliary nerves → sphincter pupillae) and the sympathetic (dilation, hypothalamus → ciliospinal center of Budge at C8-T1 → superior cervical ganglion → ophthalmic division of CN V → long ciliary nerves → dilator pupillae). Examining the pupils can localize lesions anywhere from the retina to the brain.
 
 The afferent pupillary defect (APD, or Marcus Gunn pupil) detects asymmetric afferent input (optic nerve or retinal disease). In the swinging flashlight test, the light is alternated between the two eyes. Normally both pupils constrict equally when either eye is illuminated (the consensual reflex is symmetric). In an APD, the affected eye sends a weaker signal → when the light swings to the affected eye, both pupils dilate (as if the light is being turned off). This is a relative APD (RAPD). It means significant optic nerve or retinal disease on the affected side. It does NOT occur with media opacity (cataract) or refractive error.
+
+![Swinging flashlight test demonstrating RAPD (relative afferent pupillary defect): when the torch swings to the affected eye (right, with optic nerve lesion), both pupils paradoxically dilate rather than maintaining constriction — the dilating response of the direct pupil is the key finding](../../images/ophthalmology-relative-afferent-pupillary-defect.jpg)
+> **IBQ tip:** RAPD is identified by the paradoxical dilation of BOTH pupils when light moves to the affected eye — the key is that the affected eye's direct reflex is weaker than the consensual reflex from the fellow eye; a dense cataract or refractive error does NOT cause RAPD (the pupillary reflex bypasses the visual cortex), making RAPD specific for optic nerve or extensive retinal disease.
 
 **Horner's syndrome** results from interruption of the sympathetic supply to the eye: ptosis (mild, from loss of Muller's muscle which supplements levator palpebrae), miosis (small pupil, from unopposed sphincter), anhidrosis (loss of facial sweating, if the lesion is below the superior cervical ganglion), enophthalmos (apparent, from the ptosis and lower lid elevation). The key is to localize the lesion to first (hypothalamus to C8-T1), second (T1 to superior cervical ganglion — lung apex, subclavian artery area), or third (superior cervical ganglion to eye — cavernous sinus, internal carotid). Cocaine drops dilate a normal pupil but cannot dilate a Horner's pupil (no norepinephrine in the synaptic cleft to prevent reuptake from). Hydroxyamphetamine drops release stored NE — dilate a third-order lesion pupil (postganglionic nerve is intact) but NOT a first or second order lesion pupil.
 
@@ -259,6 +288,9 @@ The price of this suppression is **amblyopia** — lazy eye. Amblyopia is the fa
 
 **Clinical connection:** This is why screening for amblyopia and strabismus in children is urgent, and why treatment before the critical period ends is essential. Treatment of amblyopia: first, address the underlying cause (correct any refractive error with spectacles — accommodative esotropia often resolves with hypermetropic correction alone because eliminating the need for excess accommodation eliminates the excess convergence); second, patch the good eye (occlusion therapy) to force the amblyopic eye to work and stimulate the suppressed cortical connections. Patching is ineffective after the critical period — after age 7–8, the cortical plasticity that allows it to work is gone. Surgery on the extraocular muscles corrects the cosmetic alignment but does not, by itself, treat the amblyopia — it must be combined with occlusion therapy.
 
+![Hirschberg corneal light reflex test showing esotropia: corneal light reflex in the fixating (left) eye is centered on the pupil, while the reflex in the deviating (right) eye is displaced temporally (toward the lateral limbus), indicating the right eye is turned inward (esotropia); each 1 mm displacement of the reflex from center equals approximately 15 prism diopters of deviation](../../images/hirschberg-test-esotropia.jpg)
+> **IBQ tip:** In Hirschberg test, a centered reflex in both pupils = orthophoria; if the reflex in one eye is displaced toward the temporal limbus (outward) the eye is esotropic (turned in) — displaced toward the nasal limbus means exotropia (turned out); contrast with the cover-uncover test which detects latent (phoria) as well as manifest (tropia) deviations.
+
 > **Key pearl:** Esotropia = eye turns inward (toward the nose). Exotropia = outward. Hypertropia = upward. Hypotropia = downward. Accommodative esotropia = hypermetropic child who accommodates excessively to compensate for hypermetropia → accommodative-convergence reflex drives the eyes inward → esotropia. Corrected by spectacles. Paralytic squint (cranial nerve palsy): acute diplopia, failure of eye movement in the direction of the paretic muscle — e.g., CN VI palsy → failure of abduction (eye deviates medially). Always check for a fresh paralytic squint in any adult presenting with acute diplopia.
 
 ---
@@ -279,11 +311,20 @@ Now every visual field defect becomes predictable by anatomy.
 
 **Bitemporal hemianopia** (loss of the outer — temporal — halves of both visual fields): optic chiasm lesion. The chiasm contains only the crossing nasal fibers — the nasal fibers from both eyes (which carry the temporal visual field information of each eye). A lesion at the chiasm selectively disrupts these crossing fibers, cutting both nasal retinal projections simultaneously. The temporal retinal fibers (which do not cross) are spared — each eye retains its nasal visual field. The patient loses the temporal field of each eye — the outer halves — producing the characteristic "blinkers" appearance. The most common cause: pituitary adenoma growing superiorly to compress the underside of the chiasm. The inferior nasal fibers cross more anteriorly in the chiasm — so a pituitary tumor compressing from below tends to first knock out the superior temporal quadrants (producing a "superior bitemporal quadrantanopia" initially) before producing the full bitemporal hemianopia.
 
+![Visual field diagram showing bitemporal hemianopia: loss of the temporal (outer) half of the visual field in both eyes, with an intact nasal field in each eye; the vertical midline divides the preserved from the lost field in each eye's plot](../../images/visual-field-bitemporal-hemianopia-pituitary.jpg)
+> **IBQ tip:** Bitemporal hemianopia respects the vertical midline in BOTH eyes but affects opposite (temporal) sides — it is the only field defect where each eye loses a different half (right eye loses right temporal, left eye loses left temporal); contrast with homonymous hemianopia where both eyes lose the SAME side (e.g., both lose the right half of their visual fields).
+
 **Analogy:** Think of the chiasm as a busy crossroads where only one type of traffic (nasal fibers) crosses. If you block the crossroads, the crossers cannot get through — and since there are crossers from both sides, you lose the temporal fields of both eyes simultaneously.
 
 **Homonymous hemianopia** (loss of the same half-field in both eyes): optic tract, lateral geniculate nucleus, optic radiation, or occipital cortex lesion — all behind the chiasm. The right optic tract, for example, contains: right temporal retinal fibers (right eye's temporal field — this is the right nasal visual field) AND left nasal retinal fibers (left eye's nasal field — this is the left temporal visual field). Together these represent the left visual field of both eyes. A right optic tract lesion produces a left homonymous hemianopia — loss of the left visual field in both eyes. A right MCA territory stroke typically produces a left homonymous hemianopia (the optic radiation runs through the temporal and parietal lobes in the MCA territory). A right occipital infarct (posterior cerebral artery territory — note: the occipital lobe is fed by the PCA, not the MCA) produces a left homonymous hemianopia that classically spares the macula (macular sparing — the macular fibers project to the occipital pole, which has a dual blood supply from both MCA and PCA, so a PCA infarct leaves the pole partially intact).
 
+![Visual field diagram showing left homonymous hemianopia from a right MCA stroke: the left half of the visual field is absent in both the left and right eye plots; the field defect is identical on the same side in both eyes (homonymous), respecting the vertical midline](../../images/visual-field-homonymous-hemianopia-mca-stroke.jpg)
+> **IBQ tip:** Homonymous hemianopia has the SAME side missing in both eyes — if the left field is gone in both eyes, the lesion is in the right hemisphere behind the chiasm; add macular sparing (a preserved island of central vision) to point toward an occipital/PCA lesion rather than an optic tract lesion.
+
 **Quadrantanopias:** optic radiation lesions. The optic radiation fans out from the lateral geniculate nucleus. The inferior fibers sweep anteriorly through the temporal lobe (Meyer's loop) before turning posteriorly — a temporal lobe lesion (temporal lobe epilepsy resection, temporal lobe glioma) cuts Meyer's loop → "pie in the sky" — superior contralateral quadrantanopia. The superior fibers run through the parietal lobe → parietal lobe lesion → "pie on the floor" — inferior contralateral quadrantanopia.
+
+![Visual field diagram showing superior homonymous quadrantanopia ("pie in the sky"): loss of the upper quadrant of the visual field on the same side in both eyes, produced by a temporal lobe lesion interrupting Meyer's loop of the inferior optic radiation](../../images/visual-field-pie-in-sky-temporal-lobe.jpg)
+> **IBQ tip:** "Pie in the sky" = superior quadrantanopia from temporal lobe (Meyer's loop); "pie on the floor" = inferior quadrantanopia from parietal lobe — both are homonymous (same side in both eyes) and quadrantic rather than a full hemianopia, which helps localise the lesion to the radiation rather than the optic tract or cortex.
 
 > **Key exam point:** Optic nerve → monocular defect. Chiasm → bitemporal hemianopia (pituitary tumor). Optic tract → homonymous hemianopia, incongruous (the two halves of the visual field defect are not identical). Optic radiation temporal = superior quadrantanopia (pie in sky). Optic radiation parietal = inferior quadrantanopia. Occipital cortex → homonymous hemianopia, congruous (perfectly matched defects in both eyes), with macular sparing. RAPD is present with optic nerve and optic tract lesions (before the lateral geniculate, where the pupillary fibers exit) but not with optic radiation or cortical lesions.
 
@@ -304,6 +345,12 @@ The iris becomes congested and swollen → the pupil becomes small (miotic, from
 **Posterior uveitis** is inflammation of the choroid (choroiditis), retina (retinitis), or both (chorioretinitis). The presenting symptom is floaters (inflammatory cells and exudate in the vitreous cast shadows on the retina — seen as black dots, strings, or cobwebs floating in the visual field) and reduced visual acuity or blurred vision (from vitreous haze, macular involvement, or retinal lesions). Unlike anterior uveitis, there is no external redness or ciliary flush — because the inflammation is posterior to the lens-iris diaphragm and the anterior segment is uninvolved.
 
 **Clinical connection:** Toxoplasma gondii is the commonest cause of posterior uveitis worldwide. Toxoplasmic chorioretinitis has a pathognomonic appearance: a white, fluffy, active satellite lesion adjacent to a pigmented, punched-out, old scar. The old scar is residue from a previous episode (either congenital toxoplasma or a reactivation) — reactivations are the rule, erupting at the edge of a pre-existing scar (the parasite cysts persist in the retina). The "headlight in the fog" description captures the slit-lamp appearance: the white fluffy active lesion (the headlight) obscured by the surrounding vitreous haze (the fog). In immunocompromised patients (HIV/AIDS), CMV retinitis is the concern — a "pizza pie" fundus with haemorrhages, whitish necrosis, and a "brushfire" advancing border. Treatment differs completely: toxoplasma → pyrimethamine + sulfadiazine ± clindamycin; CMV → ganciclovir.
+
+![Fundoscopic view of papilloedema: bilateral disc swelling with blurred/indistinct disc margins, disc elevation, absent venous pulsation, flame hemorrhages at the disc edge, and Paton's lines (concentric peripapillary retinal folds) in raised intracranial pressure](../../images/general-medicine-papilloedema.jpg)
+> **IBQ tip:** Papilloedema shows blurred disc margins (you cannot see where the disc edge ends) with disc elevation and peripapillary flame hemorrhages — distinguish from pseudopapilloedema (disc drusen, which shows anomalous elevation but no hemorrhages and has buried autofluorescent drusen) and from disc swelling in AION (which is sectoral/pallid swelling, unilateral, with altitudinal field loss).
+
+![Slit-lamp photograph of Kayser-Fleischer ring in Wilson's disease: a golden-brown to greenish-brown ring of copper deposits in Descemet's membrane at the peripheral cornea (limbus), best seen on gonioscopy or slit-lamp with oblique illumination, absent in the central cornea](../../images/ophthalmology-kayser-fleischer-ring.jpg)
+> **IBQ tip:** KF rings appear as a golden-brown/green arc at the very periphery of the cornea (Descemet's membrane level) — they begin at the 12 and 6 o'clock positions and eventually form a complete ring; distinguish from arcus senilis (white lipid arc in the elderly, starts at 3 and 9 o'clock, not pathological) and from corneal vascularization (red, not brown, and superficial).
 
 > **Key exam point:** Anterior uveitis: ciliary flush, KPs on endothelium, cells and flare in AC, small reactive pupil, posterior synechiae. Granulomatous (sarcoid, TB) = mutton-fat KPs, iris nodules (Koeppe at pupil margin, Busacca in iris stroma). Non-granulomatous (HLA-B27 diseases) = fine KPs, acute onset, recurrent. Posterior uveitis: floaters, reduced VA, vitreous haze, fundal lesions — examine the fundus carefully. Toxoplasma = satellite lesion at scar edge. CMV = immunocompromised, hemorrhagic necrotic retinitis.
 

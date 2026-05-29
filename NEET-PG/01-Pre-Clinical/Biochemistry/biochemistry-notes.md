@@ -1,5 +1,31 @@
 # Biochemistry - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#biochemistry) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](biochemistry-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 12 | 11 | 11 | 10 | 10 | 10 | **11** |
+
+**Trend:** Slight decline — focus on core metabolic pathways and vitamins.
+
+### Top 10 High-Yield Topics
+1. Enzyme kinetics (Km, Vmax, inhibition types)
+2. Glycolysis, TCA cycle — key enzymes and energy yield
+3. Amino acid metabolism (PKU, alkaptonuria, homocystinuria)
+4. Vitamins — deficiency diseases, coenzyme roles
+5. Lipid metabolism and ketogenesis
+6. DNA replication and repair mechanisms
+7. Glycogen metabolism and storage diseases
+8. Hemoglobin structure and variants
+9. Cholesterol metabolism and bile salt synthesis
+10. PCR and molecular biology techniques
+
+> **Strategy:** Vitamins (topic 4) and enzyme kinetics (topic 1) are the most reliable mark-scorers. Molecular biology questions are increasing in recent years.
+
+---
+
 ---
 
 ## Carbohydrate Metabolism

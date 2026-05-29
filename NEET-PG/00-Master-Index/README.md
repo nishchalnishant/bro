@@ -69,6 +69,8 @@ Every subject folder contains exactly two files:
 
 **Rule of thumb:** Open the lecture file when you are learning. Open the notes file when you are revising.
 
+> **Note — split subjects:** General Medicine and Pharmacology notes have been split into system-wise files. Their `*-notes.md` files are now **indexes** — open the index first, then navigate to the system file you need (e.g. `medicine-cardiology.md`, `pharma-antimicrobials.md`). See each subject's README for the full file list.
+
 ---
 
 ## Recommended Study Order
@@ -148,7 +150,15 @@ NEET-PG/
 │   ├── Pharmacology/
 │   │   ├── README.md
 │   │   ├── pharmacology-lecture.md
-│   │   └── pharmacology-notes.md
+│   │   ├── pharmacology-notes.md      ← index (split by drug class)
+│   │   ├── pharma-pharmacokinetics.md
+│   │   ├── pharma-autonomic.md
+│   │   ├── pharma-cns.md
+│   │   ├── pharma-cvs.md
+│   │   ├── pharma-antimicrobials.md
+│   │   ├── pharma-anticancer.md
+│   │   ├── pharma-endocrine.md
+│   │   └── pharma-side-effects.md
 │   ├── Microbiology/
 │   │   ├── README.md
 │   │   ├── microbiology-lecture.md
@@ -166,7 +176,13 @@ NEET-PG/
 │   ├── General-Medicine/
 │   │   ├── README.md
 │   │   ├── medicine-lecture.md
-│   │   └── medicine-notes.md
+│   │   ├── medicine-notes.md          ← index (split by organ system)
+│   │   ├── medicine-cardiology.md
+│   │   ├── medicine-endocrinology.md
+│   │   ├── medicine-gastroenterology.md
+│   │   ├── medicine-neurology.md
+│   │   ├── medicine-pulmonology.md
+│   │   └── medicine-rheumatology.md
 │   ├── General-Surgery/
 │   │   ├── README.md
 │   │   ├── surgery-lecture.md
@@ -289,7 +305,7 @@ NEET-PG/
 | Subject | Lecture File | Notes File |
 |---|---|---|
 | Pathology | [`pathology-lecture.md`](/02-Para-Clinical/Pathology/pathology-lecture.md) | [`pathology-notes.md`](/02-Para-Clinical/Pathology/pathology-notes.md) |
-| Pharmacology | [`pharmacology-lecture.md`](/02-Para-Clinical/Pharmacology/pharmacology-lecture.md) | [`pharmacology-notes.md`](/02-Para-Clinical/Pharmacology/pharmacology-notes.md) |
+| Pharmacology | [`pharmacology-lecture.md`](/02-Para-Clinical/Pharmacology/pharmacology-lecture.md) | [`pharmacology-notes.md`](/02-Para-Clinical/Pharmacology/pharmacology-notes.md) ← index; see subject README for system files |
 | Microbiology | [`microbiology-lecture.md`](/02-Para-Clinical/Microbiology/microbiology-lecture.md) | [`microbiology-notes.md`](/02-Para-Clinical/Microbiology/microbiology-notes.md) |
 | Forensic Medicine | [`forensic-lecture.md`](/02-Para-Clinical/Forensic-Medicine/forensic-lecture.md) | [`forensic-notes.md`](/02-Para-Clinical/Forensic-Medicine/forensic-notes.md) |
 | SPM/Community Medicine | [`spm-lecture.md`](/02-Para-Clinical/Community-Medicine-SPM/spm-lecture.md) | [`spm-notes.md`](/02-Para-Clinical/Community-Medicine-SPM/spm-notes.md) |
@@ -298,7 +314,7 @@ NEET-PG/
 
 | Subject | Lecture File | Notes File |
 |---|---|---|
-| General Medicine | [`medicine-lecture.md`](/03-Clinical/General-Medicine/medicine-lecture.md) | [`medicine-notes.md`](/03-Clinical/General-Medicine/medicine-notes.md) |
+| General Medicine | [`medicine-lecture.md`](/03-Clinical/General-Medicine/medicine-lecture.md) | [`medicine-notes.md`](/03-Clinical/General-Medicine/medicine-notes.md) ← index; see subject README for system files |
 | General Surgery | [`surgery-lecture.md`](/03-Clinical/General-Surgery/surgery-lecture.md) | [`surgery-notes.md`](/03-Clinical/General-Surgery/surgery-notes.md) |
 | OBG | [`obg-lecture.md`](/03-Clinical/OBG/obg-lecture.md) | [`obg-notes.md`](/03-Clinical/OBG/obg-notes.md) |
 | Pediatrics | [`pediatrics-lecture.md`](/03-Clinical/Pediatrics/pediatrics-lecture.md) | [`pediatrics-notes.md`](/03-Clinical/Pediatrics/pediatrics-notes.md) |

@@ -1,5 +1,31 @@
 # Pathology - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#pathology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](pathology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 18 | 18 | 19 | 18 | 17 | 18 | **18** |
+
+**Trend:** Stable — Pathology is one of the highest-yield para-clinical subjects.
+
+### Top 10 High-Yield Topics
+1. Tumor markers (PSA, AFP, CA-125, CEA, etc.)
+2. Glomerulonephritis — types, EM findings, immunofluorescence
+3. Leukemias — classification, markers, morphology
+4. Granulomatous diseases (TB, sarcoid, Crohn's — comparison)
+5. Wound healing — types, phases, complications
+6. Amyloidosis — types (AA, AL), organs affected
+7. Cell injury — apoptosis vs necrosis
+8. Carcinogenesis — oncogenes, tumor suppressors
+9. Vasculitis — classification and distinguishing features
+10. Paraneoplastic syndromes
+
+> **Strategy:** Tumor markers and leukemia markers appear every year — memorize the complete table. EM findings in glomerulonephritis are high-yield IBQs.
+
+---
+
 ---
 
 ## Cell Injury

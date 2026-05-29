@@ -1,17 +1,31 @@
-# Obstetrics and Gynaecology (OBG) — NEET PG
-**NEET PG Weight:** 15–16 questions (~7.5%)
-**Tier:** 2
+# Obstetrics and Gynaecology (OBG)
+
+OBG covers the physiology and management of pregnancy, labour, and the puerperium alongside gynaecological diseases including oncology, endocrinology, and contraception — contributing ~15 questions per NEET PG paper.
 
 ## Files in This Folder
-- `obg-lecture.md` — First-principles lecture notes for deep understanding (read in Month 5–6)
-- `obg-notes.md` — Condensed exam-focused notes for revision (use from Month 9 onwards)
 
-## Top NEET PG Topics
-1. Antepartum haemorrhage — placenta praevia vs abruption (clinical distinction, management algorithm)
-2. Hypertensive disorders of pregnancy — preeclampsia diagnostic criteria, eclampsia management, HELLP syndrome
-3. Gynaecological oncology — cervical carcinoma (staging, FIGO, HPV types), endometrial carcinoma, ovarian tumors (tumor markers)
+| File | Description |
+|------|-------------|
+| `obg-notes.md` | Condensed exam-focused notes covering obstetrics and gynaecology for revision |
+| `obg-lecture.md` | In-depth lecture notes with clinical algorithms, staging systems, and drug protocols |
+| `obg-mcqs.md` | MCQ bank with high-yield obstetric and gynaecological case-based questions |
+| `WEAK-TOPICS.md` | Personally flagged weak areas requiring extra revision attention |
 
-## Study Tips
-- Learn the partograph, Bishop score, and labour definitions precisely — these are direct Q sources with numerical cutoffs.
-- Contraceptive failure rates (Pearl index) and mechanisms of action are asked repeatedly; maintain a comparison table.
-- Screening protocols (cervical cytology, Down's syndrome, gestational diabetes) require precise week-by-week knowledge.
+## High-Yield Areas
+
+- Antepartum haemorrhage: placenta praevia vs abruption placentae — clinical distinction, grading, and management algorithm
+- Hypertensive disorders of pregnancy: pre-eclampsia diagnostic criteria, eclampsia management protocol, HELLP syndrome features
+- Gynaecological oncology: cervical carcinoma (FIGO staging, HPV 16/18 association), endometrial carcinoma risk factors, ovarian tumour markers
+- Labour and partograph: Bishop score, partograph interpretation, stages of labour, and indications for operative delivery
+- Contraception: Pearl index values, mechanism of action for each method, contraindications, and failure rates
+
+## Quick Navigation
+
+- [Notes](obg-notes.md)
+- [Lecture](obg-lecture.md)
+- [MCQs](obg-mcqs.md)
+- [Weak Topics](WEAK-TOPICS.md)
+
+## NEET PG Weight
+
+Avg 15 questions/year (2019–2024). Stable trend — obstetric emergencies (APH, PPH, eclampsia) and gynaecological oncology staging are the most consistently tested areas; numerical cutoffs (Bishop score, Hb thresholds) are direct Q sources.

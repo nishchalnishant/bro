@@ -1,54 +1,49 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    FORENSIC MEDICINE — TOPIC MAP                            │
-└───────────────────────────────┬─────────────────────────────────────────────┘
-                                │
-        ┌───────────────────────┼───────────────────────────┐
-        │                       │                           │
-        ▼                       ▼                           ▼
-┌───────────────┐     ┌─────────────────┐        ┌─────────────────────┐
-│  POSTMORTEM   │     │ WOUND ANALYSIS  │        │    TOXICOLOGY       │
-│   CHANGES     │     └────────┬────────┘        └──────────┬──────────┘
-└───────┬───────┘              │                            │
-        │              ┌───────┼──────────┐        ┌────────┼────────┐
-   ┌────┼────┐         ▼       ▼          ▼        ▼        ▼        ▼
-   ▼    ▼    ▼      Incised  Lacerated  Stab   OP Poison  Carbon  Alcohol
-Rigor Livor Algor   Wound    Wound    Wound   (SLUDGE/   Monoxide
-Mortis Mortis Mortis                           Aging)   (COHb)
-   │
-   └─→ Putrefaction
-        (48-72 hr+)
-        │
-        ├─→ Adipocere
-        └─→ Mummification
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-┌─────────────────┐    ┌─────────────────────┐    ┌────────────────────────┐
-│  AGE ESTIMATION │    │  SEXUAL OFFENCES     │    │    LEGAL ASPECTS       │
-└────────┬────────┘    └──────────┬──────────┘    └───────────┬────────────┘
-         │                        │                            │
-   ┌─────┼──────┐         ┌───────┼───────┐          ┌────────┼────────┐
-   ▼     ▼      ▼         ▼       ▼       ▼          ▼        ▼        ▼
-Skeletal Dental Legal   Sec 164A Hymenal Specimen  IPC Secs Consent Negligence
- Bones  Gustaf- Thresh- CrPC     Exam   Collection 304A/319  Sec 88  304A/
-        son's   old                               /320/375         Jacob
-        Method  (18 yr)                                            Mathew
-         │
-    ┌────┼─────────┐
-    ▼    ▼         ▼
-CRITOE Iliac   Medial
-Elbow  Crest   Clavicle
-Seq.   (17-21) (18-30 yr)
-                  └─→ Key marker for 18-yr legal threshold
+```mermaid
+graph TD
+    A["⚖️ FORENSIC MEDICINE — NEET PG<br/>6 Major Domains"]
 
-◆ FIREARM WOUNDS (sub-topic of Wound Analysis)
-  ├─→ Contact range  → stellate tear + CO cherry-red + muzzle impression
-  ├─→ Close range    → blackening (wipeable soot)
-  ├─→ Intermediate   → tattooing/stippling (NOT wipeable)
-  └─→ Distant range  → contusion ring + grease ring only
-       Entry: smaller, inverted, contusion ring ←──┐
-       Exit : larger, everted, no rings           │
-                                                  └─ opposite mechanics
+    A --> B["Thanatology<br/>(Death)"]
+    A --> C["Injuries & Wounds"]
+    A --> D["Toxicology"]
+    A --> E["Medical Jurisprudence"]
+    A --> F["Clinical Forensics"]
+    A --> G["Identification"]
+
+    B --> B1["Signs of Death<br/>Rigor / Hypostasis / Decomposition"]
+    B --> B2["Rigor Mortis<br/>2–6h starts / 12h complete / 48h passes"]
+    B --> B3["Drowning<br/>Diatom test / Emphysema aquosum"]
+    B --> B4["Post-Mortem Changes<br/>Vitreous humor last to decompose"]
+
+    C --> C1["Wound Classification<br/>Incised / Lacerated / Contused / Firearm"]
+    C --> C2["Defense Wounds<br/>Forearms & hands"]
+    C --> C3["Hanging vs Strangulation<br/>Ligature mark differences"]
+
+    D --> D1["Organophosphates<br/>SLUD / Atropine + Pralidoxime"]
+    D --> D2["Alcohol<br/>Ethanol / Methanol / Congeners"]
+    D --> D3["Heavy Metals<br/>Lead / Arsenic / Mercury poisoning"]
+
+    E --> E1["McNaughton Rule<br/>IPC Sec 84 / Not guilty by insanity"]
+    E --> E2["MTP Act<br/>Termination criteria / 20 weeks limit"]
+    E --> E3["POCSO Act<br/>Protection of children <18 yrs"]
+
+    F --> F1["Sexual Offences<br/>Rape / Consent age 18 / Medical exam"]
+    F --> F2["Age Estimation<br/>Dental / Skeletal / Pubertal signs"]
+    F --> F3["Autopsy Types<br/>Medico-legal / Clinical"]
+
+    G --> G1["DNA Fingerprinting<br/>RFLP / STR (most sensitive)"]
+    G --> G2["Finger Prints<br/>Loop (most common) / Whorl / Arch"]
+    G --> G3["Ossification Centres<br/>Age estimation via X-ray"]
 ```
+
+**Subject Overview (plain text):**
+- Thanatology (Death): Signs of Death (Rigor/Hypostasis/Decomposition), Rigor Mortis timings, Drowning (Diatom test), Post-Mortem Changes
+- Injuries & Wounds: Wound Classification (Incised/Lacerated/Contused/Firearm), Defense Wounds, Hanging vs Strangulation
+- Toxicology: Organophosphates (SLUD/Atropine+Pralidoxime), Alcohol (Ethanol/Methanol), Heavy Metals (Lead/Arsenic/Mercury)
+- Medical Jurisprudence: McNaughton Rule (IPC Sec 84), MTP Act (termination criteria), POCSO Act
+- Clinical Forensics: Sexual Offences (Rape/Consent), Age Estimation (Dental/Skeletal), Autopsy types
+- Identification: DNA Fingerprinting (RFLP/STR), Finger Prints (Loop/Whorl/Arch), Ossification Centres
 
 # Forensic Medicine — Lecture Notes for NEET PG
 ### Written in the style of a forensic pathologist guiding you through your first autopsy
@@ -83,6 +78,9 @@ At death, ATP production stops. The mitochondria cease oxidative phosphorylation
 
 Now the forensic implications: rigor mortis begins in small muscles first (face, jaw, hands) because small muscles have less total ATP to deplete and reach the ATP-exhausted state more quickly. It progresses to larger muscles (neck, trunk, legs) over the next several hours. The fully rigored state is typically reached in 6-12 hours. Rigor then passes off — not because the muscles relax physiologically, but because proteolytic enzymes (released from lysosomes in the dead cells, in a process called autolysis) begin to break down the actin and myosin proteins themselves. The structural proteins are degraded → the cross-bridges are dissolved → the muscle softens again. Rigor fully passes in 24-48 hours.
 
+![Body diagram showing rigor mortis progression pattern: early rigor (2-6 hours) affecting small muscles — jaw/masseter, facial muscles, hands — indicated by shading, with arrows showing progression to intermediate stage (6-12 hours) involving neck, shoulders, elbows, and late/fully rigored stage affecting hips and knees, with timeline bar beneath](../../images/rigor-mortis-distribution-pattern-progression.jpg)
+> **IBQ tip:** The key differentiating feature is onset in small muscles first (jaw/masseter, then neck, then limbs) — this cephalocaudal progression from small to large muscle groups allows forensic staging by testing sequential muscle groups; cadaveric spasm (instantaneous whole-body rigor at the moment of death in extreme exertion) begins without the preceding flaccid period that distinguishes ordinary rigor.
+
 The forensic timeline: rigor begins at 2-6 hours, fully established by 6-12 hours, begins to pass at 12-36 hours, fully passed by 24-48 hours. Note that these intervals are heavily modified by temperature (heat accelerates all biochemical reactions → faster onset and passing; cold slows them → slower onset and passing), body size (obese individuals with more insulating fat → slower temperature change → different timing), and activity preceding death (if the person was exercising vigorously just before death, they already consumed much of their ATP → rigor begins faster — "cadaveric spasm" in drowning victims who are found still gripping vegetation).
 
 > **Exam key:** Cadaveric spasm (instantaneous rigor at the moment of death) occurs in situations of extreme muscular activity immediately before death — drowning, violent struggle. It is forensically important because it fixes the position of objects held at the time of death (a gun gripped in the hand of a suicide victim). Unlike true rigor, it begins immediately and is not preceded by a period of flaccidity. It cannot be simulated postmortem.
@@ -97,6 +95,9 @@ It appears in the most dependent parts of the body: on the back if the body is s
 
 After 6-12 hours, livor becomes fixed. What happens at this point? The RBCs in the dependent vessels have hemolyzed (the membranes break down without circulation to maintain ion gradients and prevent osmotic stress) → free hemoglobin diffuses out of the vessels and stains the surrounding tissue directly. Tissue staining cannot be shifted by repositioning. Pressing on fixed lividity does not blanch it (the pigment is in the tissue, not in vessels that can be compressed).
 
+![Two-panel diagram of livor mortis: left panel (unfixed, 0-6 hours) shows blue-purple discoloration on the posterior surface of a supine body with a finger pressing on the lividity producing blanching (white mark), indicating blood still in compressible vessels; right panel (fixed, >12 hours) shows the same posterior distribution but the finger pressure produces no blanching because hemoglobin has diffused into tissue](../../images/livor-mortis-fixed-vs-unfixed-blanching-test.jpg)
+> **IBQ tip:** Blanching on finger pressure is the single test that distinguishes unfixed (early, <6-12 hours) from fixed (late, >12 hours) livor — unfixed blood is still intravascular and can be displaced by pressure, fixed hemoglobin is in tissue and cannot be blanched. The forensic implication: if lividity position is inconsistent with how the body was found (e.g., lividity on the front but body supine), the body was moved after fixation (>12 hours post-death), indicating crime scene tampering.
+
 **The forensic significance of fixed lividity.** If a body is found face-up (supine) but the lividity is on the front (anterior surface), the lividity has fixed in a position inconsistent with the body's current position. This means the body was moved more than 6-12 hours after death — it was lying face-down and was later repositioned. This is powerful evidence of a crime scene that has been tampered with.
 
 **Lividity color as a diagnostic clue.** Normal livor is blue-purple (reduced hemoglobin in dependent vessels). But the color can be altered by the manner of death:
@@ -104,6 +105,9 @@ After 6-12 hours, livor becomes fixed. What happens at this point? The RBCs in t
 - Cherry-red/bright pink lividity: carbon monoxide poisoning. CO binds hemoglobin with 250x greater affinity than oxygen → carboxyhemoglobin → bright red color that persists even after death. Cyanide poisoning also causes bright red lividity (CN inhibits cytochrome oxidase → cells cannot use oxygen → blood remains oxygenated → oxyhemoglobin).
 - Pale/absent lividity: severe anemia or massive hemorrhage — not enough blood in vessels to cause visible discoloration.
 - Greenish/brown lividity: putrefaction — sulphemoglobin formation from bacterial decomposition of hemoglobin.
+
+![Comparison diagram of lividity colors: left panel shows normal blue-purple postmortem lividity on a dependent body surface; right panel shows cherry-red/bright pink lividity from carbon monoxide poisoning (carboxyhemoglobin), with a color swatch and label indicating COHb; a third inset shows the greenish discoloration of early putrefaction](../../images/livor-mortis-color-comparison-normal-cherry-red-co-poisoning.jpg)
+> **IBQ tip:** Cherry-red lividity is the postmortem signature of carbon monoxide poisoning (carboxyhemoglobin) or cyanide poisoning (oxyhemoglobin retained because cytochrome oxidase is blocked) — both produce bright red blood; distinguish CO (history of enclosed space/combustion source, breath smells of nothing) from cyanide (bitter almonds odor, rapid death). The definitive laboratory test is co-oximetry measuring COHb percentage.
 
 > **Exam key:** Cherry-red lividity = CO poisoning or cyanide poisoning. The smell of bitter almonds (hydrogen cyanide) at the scene supports cyanide. The history of a closed space (garage, car) with an engine running supports CO. Both are diagnosed by laboratory measurement of carboxyhemoglobin (CO) or cyanide levels, and both show bright red blood.
 
@@ -116,6 +120,12 @@ The forensic limitations of algor mortis are significant: temperature varies eno
 ### Putrefaction: Microbiology Takes Over
 
 After 48-72 hours (in warm conditions), putrefaction begins. The normal gut flora (primarily Clostridium perfringens and other anaerobes) begin breaking down tissues. Gas is produced (CO2, H2S, CH4) → the abdomen becomes distended. H2S combines with hemoglobin to form sulphemoglobin → the body turns green, starting in the right iliac fossa (where the caecum is, with the highest bacterial load) and spreading. Putrefaction in warm, humid conditions is dramatically accelerated — a body left in tropical summer conditions may be skeletonized within weeks. In cold, dry conditions or peat bogs, putrefaction may be arrested entirely (producing adipocere or mummification), preserving the body for decades or centuries.
+
+![Body diagram showing putrefaction progression: early stage with green discoloration beginning in the right iliac fossa (caecum location) spreading across the abdomen with marbling (green-black branching lines following superficial veins from haemolysis and gas tracking), progressing to bloating and skin blistering in later stages, with geographic spread indicated by arrows](../../images/putrefaction-marbling-green-discoloration-right-iliac-fossa.jpg)
+> **IBQ tip:** The green discoloration starting in the right iliac fossa is the diagnostic visual — it begins there because the caecum has the highest anaerobic bacterial load; marbling (the green-black branching pattern following superficial veins) is caused by haemolysis products tracking along vessel walls and is a reliable indicator of established putrefaction distinguishing it from early livor (which is blue-purple and follows gravity, not vessel patterns).
+
+![Comparison diagram: adipocere (left) showing a waxy, soap-like yellowish-grey solidified body preserved in a moist/waterlogged environment; mummification (right) showing a dried, shrunken, leathery brown preserved body from a hot, dry, well-ventilated environment, with environmental conditions labeled beneath each](../../images/adipocere-vs-mummification-comparison-preservation-types.jpg)
+> **IBQ tip:** The key differentiator is the environment: adipocere (saponification of body fat into fatty acids forming a soap-like mass) requires moisture and anaerobic conditions (waterlogged, buried in wet soil); mummification (desiccation) requires heat and dryness with good air circulation. Adipocere preserves body shape and can retain forensic evidence; mummification produces hard, parchment-like skin. Neither is true putrefaction — both arrest further decomposition.
 
 ---
 
@@ -133,6 +143,9 @@ An incised wound (a cut) is caused by a sharp-edged object drawn across the surf
 
 Hair at the wound edges is cleanly cut, not crushed or abraded. Blood flows freely and immediately from incised wounds because the blood vessels are cleanly divided (not torn or stretched, which causes more vessel wall contraction and spasm). The base of the wound is often visible and clean.
 
+![Close-up diagram of an incised wound showing: clean, sharply defined margins with no abrasion or bruising of wound edges, no tissue bridges crossing the wound lumen, cleanly cut hair follicles at both margins, a wound that is longer (horizontal dimension) than it is deep, and a visible clean wound base — all labeled with arrows](../../images/incised-wound-clean-margins-no-tissue-bridges.jpg)
+> **IBQ tip:** The defining features of an incised wound are the clean sharp margins and complete absence of tissue bridges — these two features together exclude blunt force (which produces abraded margins and bridges) and distinguish from stab wounds (which are deeper than wide). Defense incised wounds on the palmar surface of the hand/forearm also confirm the victim was alive and reactive, as an incapacitated victim cannot produce defensive injuries.
+
 Incised wounds are typically seen on the front of the body — a perpetrator draws a blade across exposed skin (throat, forearm). Defense wounds — incised wounds on the palmar surface of the hands and forearms — indicate that the victim was attempting to grab or deflect a blade. The palmar surface contacts the sharp edge → incised wound. This tells you the victim was alive and reactive when attacked — an incapacitated victim cannot produce defense wounds.
 
 **Clinical connection:** Surgeons make incised wounds deliberately — scalpel incisions. Notice that surgical incisions heal better than lacerations because the margins are clean and can be apposed precisely → less scarring. The same principle applies forensically: a knife wound that is truly incised will have clean, apposable margins.
@@ -143,6 +156,9 @@ A laceration is caused by blunt force — an object that crushes and tears tissu
 
 Abrasion and contusion around the wound are common in lacerations — the blunt object crushed the skin at the edges before tearing it, leaving a rim of bruised, abraded skin. This is absent in incised wounds. Hair in a lacerated wound is crushed and kinked, not cleanly cut.
 
+![Close-up diagram of a lacerated wound showing: irregular, ragged stellate margins with crushed and abraded skin at the wound edges, tissue bridges (strands of collagen and blood vessels) spanning across the wound lumen, crushed/kinked hair follicles at margins, contusion (bruising) surrounding the wound, and irregular wound depth — all labeled with arrows contrasting each feature against the incised wound equivalent](../../images/lacerated-wound-tissue-bridges-abraded-margins.jpg)
+> **IBQ tip:** Tissue bridges are the pathognomonic feature of laceration — they represent collagen bundles and vessels that survived the blunt-force tear because they were not in the direct line of failure; they are absolutely absent in incised wounds (where the blade cleaves everything in its path) and stab wounds. The combination of tissue bridges plus abraded/contused margins plus crushed hair identifies blunt-force mechanism even without the weapon.
+
 **Analogy:** Think of skin like a piece of felt. A sharp knife cuts it cleanly. A hammer blow tears it irregularly. The felt analogy explains why lacerations have ragged edges and bridges — the hammer cannot separate fibers as cleanly as a knife.
 
 The anatomical location of a laceration tells you about the mechanism: lacerations overlying bony prominences (scalp, shin, cheek) are most common because skin is compressed between the weapon and the underlying bone, with no room to move — it bursts. Lacerations in areas without bone underneath are less common from blunt force because the tissue simply deforms under the force rather than tearing.
@@ -152,6 +168,9 @@ The anatomical location of a laceration tells you about the mechanism: laceratio
 A stab wound is caused by a pointed object pushed into the body perpendicular (or at an angle) to the surface. The entry wound is typically smaller than the widest cross-section of the weapon because skin is elastic — it stretches around the entering object and then recoils partially after the object is removed. A knife with a 2 cm wide blade may leave a wound that appears only 1.5 cm wide because of skin elasticity.
 
 The shape of the entry wound reflects the cross-section of the weapon: a single-edged knife produces a wound with one sharp end (from the cutting edge) and one blunt, split end (from the back of the blade). A double-edged blade (like a stiletto) produces a wound with two sharp ends (a "fish-mouth" appearance). A screwdriver produces a cruciate wound (the four quadrants from the rotating profile).
+
+![Stab wound entry diagram showing three weapon cross-section comparisons: single-edged knife producing a wound with one acute angle (sharp blade side) and one squared/notched end (back of blade); double-edged blade producing a spindle-shaped wound with two acute angles (fish-mouth); and a screwdriver producing a cruciate/plus-shaped wound — all labeled with depth-greater-than-surface-width annotation and skin elasticity recoil arrow](../../images/stab-wound-entry-shape-single-double-edged-blade.jpg)
+> **IBQ tip:** The shape of the stab wound angles is the weapon fingerprint — one sharp angle plus one squared/blunt angle identifies a single-edged blade (most common kitchen knives), while two sharp angles (fish-mouth/spindle shape) identifies a double-edged blade; the wound's surface width is always smaller than the actual blade width due to skin elasticity recoil, so minimum weapon width = measured wound width (never maximum). Depth of the track at autopsy gives minimum weapon length.
 
 The depth of a stab wound often exceeds the blade length visibly on the surface — if the weapon is pushed in with the abdominal wall and then the abdominal wall moves during withdrawal, the effective depth can exceed the weapon length. Conversely, partial withdrawal and reinsertion produces complex track patterns. A forensic pathologist probing the wound track at autopsy must document its direction (which tells the relative positions of victim and assailant), depth (which tells minimum weapon length), and any internal injuries along the track.
 
@@ -194,6 +213,9 @@ CO's toxicity has two components. First, it binds hemoglobin with approximately 
 **Clinical connection:** Pulse oximetry is dangerously misleading in CO poisoning. Standard pulse oximeters measure light absorption at two wavelengths and compute oxygen saturation (SpO2) — but carboxyhemoglobin absorbs light at nearly the same wavelength as oxyhemoglobin. The oximeter reads COHb as if it were oxyHb → SpO2 appears normal or near-normal even when the patient has 40-50% COHb. Diagnosis requires co-oximetry (multi-wavelength), which specifically measures COHb. Treat with high-flow 100% oxygen (displaces CO from hemoglobin by mass action — the half-life of COHb falls from ~5 hours on room air to ~90 minutes on 100% O2 to ~30 minutes in a hyperbaric chamber).
 
 Forensic post-mortem findings: cherry-red discoloration of the skin, mucous membranes, and viscera (COHb is bright red). Blood drawn at autopsy is bright cherry-red. If the victim survived long enough, the brain shows bilateral globus pallidus necrosis (the globus pallidus is exquisitely sensitive to hypoxic/metabolic injury — this is also seen in Wilson's disease and methanol poisoning).
+
+![Postmortem photograph illustration of carbon monoxide poisoning showing: bright cherry-red skin coloration on the lips and dependent skin surfaces, cherry-red blood in vessels, and an inset cross-section of the brain showing bilateral symmetrical necrosis of the globus pallidus (pale/necrotic basal ganglia bilaterally) — all labeled with anatomical and toxicological annotations](../../images/co-poisoning-cherry-red-skin-globus-pallidus-necrosis.jpg)
+> **IBQ tip:** Cherry-red skin and viscera is the cardinal postmortem visual of CO poisoning — the COHb pigment is the same bright red whether in skin, blood, or muscle; the bilateral globus pallidus necrosis on brain cross-section (symmetric basal ganglia lesions) is the neuropathological hallmark that distinguishes CO from cyanide (which also gives cherry-red lividity but without the specific globus pallidus predilection). Confirm with co-oximetry showing elevated COHb percentage.
 
 ---
 
@@ -268,6 +290,10 @@ The biology: epiphyses appear as separate ossification centers at predictable ag
 Key fusion timelines for forensic use:
 
 - **Elbow joint:** The CRITOE sequence — Capitulum (1-3 years), Radial head (3-5 years), Internal (medial) epicondyle (5-7 years), Trochlea (7-9 years), Olecranon (9-11 years), External (lateral) epicondyle (11-13 years). Fusion of all elbow epiphyses is complete by about 14-16 years.
+
+![Anteroposterior elbow X-ray diagram showing the six CRITOE ossification centers labeled with their approximate appearance ages: Capitulum (C, 1-3 yr) at the lateral condyle, Radial head (R, 3-5 yr) at the proximal radius, Internal/medial epicondyle (I, 5-7 yr) on the medial side, Trochlea (T, 7-9 yr) at the medial condyle articular surface, Olecranon (O, 9-11 yr) at the proximal ulna posterior, and External/lateral epicondyle (E, 11-13 yr) — with mnemonic CRITOE and age ranges annotated](../../images/critoe-elbow-ossification-centers-xray-age-sequence.jpg)
+> **IBQ tip:** The mnemonic CRITOE gives both the name and the sequence of appearance on X-ray — if a center that should appear earlier (e.g., Trochlea at 7-9 yr) is visible without the Internal epicondyle (5-7 yr), suspect the "Internal epicondyle" is an avulsed fragment rather than a non-ossified center, because centers always appear in CRITOE order. The medial epicondyle (I) is the most commonly avulsed in elbow dislocation — its absence from its expected position with the other centers present is the radiological clue.
+
 - **Iliac crest apophysis:** Fuses at 17-21 years — particularly useful for determining whether a young person has attained 18 years of age.
 - **Medial clavicle:** The last epiphysis in the body to fuse — fusion begins at 18-20 years and is complete by 25-30 years. An unfused medial clavicle virtually guarantees the person is under 30; complete fusion indicates at least 25 years of age. This is the single most important epiphysis for the common forensic question of "is this person over 18?"
 - **Vertebral ring apophysis:** Fuses at 25 years — fully fused vertebral rings indicate skeletal maturity.
@@ -294,6 +320,9 @@ For adults (where no more eruption occurs), Gustafson (1950) described six micro
 4. **Cementum apposition:** Cementum (the bone-like tissue covering the root) is continuously deposited throughout life, adding layers like tree rings. The cementum thickness increases predictably with age. Scored 0-3.
 5. **Root resorption:** The apical end of the root undergoes resorption with age. Scored 0-3.
 6. **Root transparency:** With age, the dentinal tubules in the root gradually become obliterated by mineral deposits, making the root translucent when held against light. This root transparency begins at the apex and progresses toward the crown, and it increases measurably with age. Scored 0-3. Root transparency is considered the single most reliable of Gustafson's six criteria.
+
+![Longitudinal section diagram of a tooth showing all six Gustafson criteria labeled simultaneously: enamel surface showing attrition (wear facets at the crown), reduced pulp chamber with secondary dentine deposits (thickened dentine walls), periodontal recession at the root surface (exposed cementum extending below enamel-cementum junction), thickened cementum layer on root surface (annual rings visible in magnified inset), apical root resorption (irregular blunt apex), and root transparency in the apical third (translucent area shown with light transmission arrow)](../../images/gustafson-tooth-age-estimation-six-criteria-cross-section.jpg)
+> **IBQ tip:** Root transparency is the single most reliable of Gustafson's six criteria — it progresses predictably from apex to crown as dentinal tubules mineralize with age and can be measured with a simple transmitted light source; distinguish it from attrition (the most visually obvious but least reliable criterion due to dietary variation) — exam questions testing "most reliable Gustafson criterion" always answer root transparency. Total score formula: Age = (score × 4.56) + 13.45.
 
 Each criterion is scored 0-3, giving a total score of 0-18. Gustafson's formula: Age = (total score × 4.56) + 13.45. The estimated error is approximately ±5-10 years — sufficient for forensic purposes when combined with other findings.
 
@@ -355,21 +384,36 @@ Firearm wounds are among the most complex and information-rich wounds in forensi
 
 **Entry wound characteristics and the physics of contact range:**
 
-The entry wound reflects the bullet's shape (it arrives pointed-first) and the conditions at the skin surface. The bullet arrives moving at high velocity, strikes the skin, and pushes it inward before penetrating (the skin "tents" inward briefly). This inward tenting, followed by penetration as the bullet punches through, creates the characteristic entry wound features: a **contusion ring** (abrasion ring, margin ring) — a collar of abraded, scraped skin around the entry wound where the bullet's surface scraped the wound margin as it penetrated. This is present in all entry wounds regardless of range. Additionally, the bullet carries a thin film of lubricant, grease, and barrel deposits on its surface — these are wiped off onto the wound margin as the bullet enters, creating a **grease ring** (dirt ring) inside the contusion ring. Both rings are typically absent in exit wounds.
+The entry wound reflects the bullet's shape (it arrives pointed-first) and the conditions at the skin surface. The bullet arrives moving at high velocity, strikes the skin, and pushes it inward before penetrating (the skin "tents" inward briefly). This inward tenting, followed by penetration as the bullet punches through, creates the characteristic entry wound features: a **contusion ring** (abrasion ring, margin ring) — a collar of abraped, scraped skin around the entry wound where the bullet's surface scraped the wound margin as it penetrated. This is present in all entry wounds regardless of range. Additionally, the bullet carries a thin film of lubricant, grease, and barrel deposits on its surface — these are wiped off onto the wound margin as the bullet enters, creating a **grease ring** (dirt ring) inside the contusion ring. Both rings are typically absent in exit wounds.
 
 The **range** at which a firearm is discharged profoundly affects the entry wound appearance, because the propellant gases and combustion products travel with and behind the bullet:
 
 - **Contact range (barrel touching skin):** The muzzle gases (propellant gas, carbon particles, burning powder) are discharged directly into the wound as the bullet enters. The gas jet splits and expands, tearing the skin in a star-shaped (stellate) pattern around the bullet entry point — the wound is "blown out" by the gas. The wound edges are blackened (carbonization from the gases), and the deeper tissue shows a reddish-pink cherry discoloration from carbon monoxide (CO from the propellant gases binds myoglobin in the muscle). The barrel pressed against the skin leaves an impression of the muzzle ("contact abrasion" or "muzzle contusion"). This is the hardest contact wound to confuse with another cause of death.
 
+![Contact range gunshot wound diagram showing: stellate/star-shaped tear radiating from a central bullet hole, with blackened carbonized wound edges, a muzzle imprint/contusion ring matching the barrel's circular profile impressed into the skin surface, and a cross-section inset showing cherry-red CO-stained muscle deep to the wound from muzzle gas CO diffusion into tissue](../../images/contact-range-gunshot-stellate-tear-muzzle-imprint-co-muscle.jpg)
+> **IBQ tip:** The stellate tear (star pattern) is unique to contact range — the muzzle gases inflate and burst the skin from within; no other range produces this pattern. The muzzle imprint (contact abrasion in the shape of the barrel/muzzle profile) and cherry-red deep muscle from CO together create the contact shot triad: stellate tear + muzzle imprint + CO cherry-red muscle. Close range shows blackening but no stellate tear or muzzle imprint.
+
 - **Close range (a few centimeters to about 30-60 cm):** The gases and particles emerge from the muzzle and have partly dispersed by the time they hit the skin. The wound shows **blackening** (from partially burned powder particles depositing as soot — this can be wiped off, distinguishing it from tattooing) and **singeing** of hair and skin (from the heat of the muzzle gases). No stellate tearing because the gas pressure at this distance is insufficient to blow the wound open.
+
+![Close range gunshot wound diagram showing: a central bullet entry hole with contusion ring and grease ring, surrounded by a zone of black soot/powder deposit (blackening/fouling) on the skin surface and singed hair follicles at the wound margins — with a wipe-test arrow indicating the soot layer is superficial and removable, distinguishing it from embedded tattooing](../../images/close-range-gunshot-blackening-soot-singeing.jpg)
+> **IBQ tip:** Blackening (soot deposit) from close range can be wiped off with a wet swab — this is the forensic wipe test that distinguishes close range (surface soot, removable) from intermediate range tattooing (powder grains embedded in dermis, not removable). Close range also shows hair singeing from muzzle heat; no stellate tear (insufficient gas pressure) and no tattooing (powder has not yet dispersed to embed individually).
 
 - **Intermediate range (approximately 30 cm to 2 meters, firearm-specific):** Burning and unburned powder particles ("grains") are propelled from the muzzle and embed in the skin around the wound. These embedded particles create **tattooing** (also called stippling or powder tattooing) — small red-brown puncture marks in the skin surrounding the entry wound from the individually embedded powder grains. Critical forensic point: tattooing cannot be wiped off (the particles are embedded in the dermis), unlike blackening (which is surface soot and can be removed). If you wipe a wound and the marks disappear, it was soot (close range). If they persist, it is tattooing (intermediate range). This distinction determines the range of firing.
 
+![Intermediate range gunshot wound diagram showing: central bullet entry hole with contusion ring and grease ring, surrounded by stippling/tattooing — multiple small red-brown puncture marks scattered around the wound periphery representing individually embedded powder grains in the dermis — with a wipe-test arrow showing the stipples remain after wiping (contrast with close-range soot), and a magnified skin inset showing a single powder grain embedded in the dermis](../../images/intermediate-range-gunshot-tattooing-stippling-powder-grains.jpg)
+> **IBQ tip:** Tattooing/stippling cannot be wiped off because the powder grains are physically embedded in the dermis — this is the single most important forensic distinction between intermediate range (tattooing, fixed) and close range (blackening/soot, wipeable). The distribution pattern of stippling around the entry wound can be used to estimate the shooting angle (asymmetric stippling indicates an oblique shot) and the distance (denser stippling = closer; sparser/wider spread = farther).
+
 - **Distant range (beyond 2 meters, approximately):** Neither soot nor tattooing is present. The entry wound shows only the contusion ring and grease ring. The range cannot be further specified from wound appearance alone.
+
+![Distant range gunshot entry wound diagram showing: a clean round bullet entry hole with only the contusion ring (abrasion collar, scraped skin zone around the bullet's path) and grease ring (thin dark ring of lubricant/barrel residue inside the contusion ring) — no blackening, no tattooing, no singeing — labeled with annotations distinguishing these two rings as the only range-independent entry wound features](../../images/distant-range-gunshot-entry-contusion-ring-grease-ring-only.jpg)
+> **IBQ tip:** The contusion ring (abrasion collar) and grease ring are present at ALL entry wounds regardless of range — they are the entry-wound fingerprint created by the bullet's surface scraping the wound margin as it penetrates; their absence identifies an exit wound. The grease ring (innermost) is distinct from the contusion ring (outermost): grease ring = lubricant/barrel residue deposit; contusion ring = abrasion from bullet surface contact.
 
 **Exit wound characteristics — why they are different:**
 
 When a bullet exits the body, it strikes the skin from the inside, moving outward. The skin is pushed outward by the bullet — it is not "tented" inward and then penetrated (as at the entry site), but instead stretched and torn from within. The result: the exit wound is typically **larger** than the entry wound (the bullet may have deformed, fragmented, or dragged tissue with it; additionally, the temporary cavity collapse sends a pressure wave that can tear the exit site; and the bullet exits base-first, presenting a larger cross-sectional area). The margins of the exit wound are **irregular and everted** (pushed outward) — the opposite of the entry wound's slightly inverted margins. There is **no contusion ring** (no abrasion, because the skin was not scraped by the bullet's surface passing through it — the bullet punched through from inside without the scraping contact). There is **no soot, no tattooing** at the exit — the propellant products are deposited at and near the entry, not carried through the entire body.
+
+![Side-by-side comparison diagram of entry wound (left) versus exit wound (right): entry wound shows smaller size, slightly inverted/inturned wound edges, contusion ring (abrasion collar) and grease ring around the periphery, with range-specific features (soot/tattooing) in the surrounding skin; exit wound shows larger irregular size, everted/outturned wound edges, absence of contusion ring, absence of soot/tattooing, and irregular stellate tearing — with mechanical arrows showing inward bullet tenting at entry vs outward skin stretching at exit](../../images/entry-vs-exit-wound-comparison-contusion-ring-everted-margins.jpg)
+> **IBQ tip:** The contusion ring (abrasion collar) is the single most reliable feature to identify entry vs exit — it is always present at entry (the bullet scrapes the wound edge as it enters tip-first) and always absent at exit (the bullet punches out from inside without scraping contact). Exit wounds are larger and everted; entry wounds are smaller and have slightly inverted margins. A shored exit wound (skin backed against a hard surface) may have an abrasion ring and mimic an entry wound — the key is correlation with the wound track direction.
 
 **Analogy:** Imagine pushing a nail through a piece of cardboard from the top — the edges of the hole are pushed downward (inverted, abraded by the nail shaft) as the nail goes in. Now push the same nail out from the bottom — the edges are pushed upward (everted, irregular). The entry wound is the first scenario, the exit wound the second. The mechanics of penetration from outside-in versus inside-out produce opposite wound edge morphologies.
 

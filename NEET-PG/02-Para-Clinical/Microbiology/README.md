@@ -1,17 +1,29 @@
-# Microbiology — NEET PG
-**NEET PG Weight:** 12–13 questions (~6%)
-**Tier:** 2
+# Microbiology
+
+Microbiology covers bacteriology, virology, mycology, parasitology, and immunology as they apply to human infectious disease — contributing ~13 questions per NEET PG paper.
 
 ## Files in This Folder
-- `microbiology-lecture.md` — First-principles lecture notes for deep understanding (read in Month 4)
-- `microbiology-notes.md` — Condensed exam-focused notes for revision (use from Month 9 onwards)
 
-## Top NEET PG Topics
-1. Bacteriology — culture media, staining characteristics, virulence factors, toxin mechanisms
-2. Immunology — hypersensitivity types (I–IV), complement system, immunoglobulin classes, CD markers
-3. Virology — hepatitis viruses (serological markers), HIV pathogenesis, herpesvirus group
+| File | Description |
+|------|-------------|
+| `microbiology-notes.md` | Condensed exam-focused notes covering organisms, culture media, staining, and immunology |
+| `microbiology-lecture.md` | In-depth lecture notes organized by organism class with pathogenesis and clinical features |
+| `WEAK-TOPICS.md` | Personally flagged weak areas requiring extra revision attention |
 
-## Study Tips
-- Maintain a table of culture media per organism — Lowenstein-Jensen, TCBS, MacConkey, Thayer-Martin — direct Q source.
-- Staining characteristics (Gram, Ziehl-Neelsen, India ink, Giemsa) are frequently tested with case-based scenarios.
-- Immunology is increasingly cross-tested with Medicine (autoimmune diseases) — unified learning pays off.
+## High-Yield Areas
+
+- Bacteriology: culture media per organism, Gram staining and special stains, virulence factors, and toxin mechanisms
+- Immunology: hypersensitivity types I–IV, complement pathways, immunoglobulin classes, CD markers, and autoantibodies
+- Virology: hepatitis virus serological markers, HIV pathogenesis and CD4 thresholds, herpesvirus group features
+- Parasitology: malaria species differences (Plasmodium falciparum vs vivax), lifecycle stages, and drug treatment
+- Mycology and sterilisation: medically important fungi (Candida, Cryptococcus, Aspergillus), sterilisation methods and validation
+
+## Quick Navigation
+
+- [Notes](microbiology-notes.md)
+- [Lecture](microbiology-lecture.md)
+- [Weak Topics](WEAK-TOPICS.md)
+
+## NEET PG Weight
+
+Avg 13 questions/year (2019–2024). Stable trend — immunology and bacteriology together account for the majority of questions; hepatitis serology is tested every year without exception.

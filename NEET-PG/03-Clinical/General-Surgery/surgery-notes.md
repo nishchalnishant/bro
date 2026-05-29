@@ -1,5 +1,29 @@
 # General Surgery - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#general-surgery) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](surgery-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 16 | 15 | 16 | 15 | 15 | 15 | **15** |
+
+**Trend:** Stable — 15–16 questions per year consistently.
+
+### Top 10 High-Yield Topics
+1. Hernia — types, sac layers, complications
+2. Thyroid — investigation algorithm, surgical anatomy
+3. Breast cancer — staging, sentinel node, surgical options
+4. Intestinal obstruction — causes, radiology
+5. Appendicitis — Alvarado score, complications
+6. Fluid and electrolyte management
+7. Burns — rule of 9s, fluid resuscitation (Parkland formula)
+8. Colorectal carcinoma — staging (Duke's/TNM), screening
+9. Gallstone disease — types, complications, ERCP
+10. Shock — classification, management
+
+> **Strategy:** Hernias and thyroid appear every year. Burns calculations (Rule of 9s + Parkland formula) are direct mark-scorers.
+
 ---
 
 ## SHOCK

@@ -1,17 +1,29 @@
-# Dermatology — NEET PG
-**NEET PG Weight:** 7 questions (~3.5%)
-**Tier:** 3
+# Dermatology
+
+Dermatology covers skin diseases including inflammatory conditions, infections, sexually transmitted infections, drug reactions, and cutaneous manifestations of systemic disease — contributing ~7 questions per NEET PG paper.
 
 ## Files in This Folder
-- `dermatology-lecture.md` — First-principles lecture notes for deep understanding (read in Month 7)
-- `dermatology-notes.md` — Condensed exam-focused notes for revision (use from Month 9 onwards)
 
-## Top NEET PG Topics
-1. Drug reactions — Stevens-Johnson syndrome vs TEN (extent of BSA, causative drugs), fixed drug eruption, DRESS syndrome
-2. Sexually transmitted infections — syphilis (stages, VDRL vs TPHA), chancroid, LGV, gonorrhoea
-3. Eczema vs psoriasis differentiation — histology, clinical features, nail changes, distribution patterns
+| File | Description |
+|------|-------------|
+| `dermatology-notes.md` | Condensed exam-focused notes covering skin diseases, STIs, and drug reactions |
+| `dermatology-lecture.md` | In-depth lecture notes with histopathological correlates and clinical descriptions |
+| `WEAK-TOPICS.md` | Personally flagged weak areas requiring extra revision attention |
 
-## Study Tips
-- Dermatology Qs commonly describe a clinical picture or skin biopsy — learn to read descriptions and match to diagnoses.
-- Dermatological manifestations of systemic disease (diabetes, SLE, sarcoidosis, thyroid) are cross-tested with Medicine.
-- Focus on high-yield lesion descriptions: acantholysis (pemphigus), subepidermal bulla (pemphigoid), parakeratosis (psoriasis).
+## High-Yield Areas
+
+- Drug reactions: Stevens-Johnson syndrome vs TEN (BSA extent threshold, causative drugs), fixed drug eruption site, DRESS syndrome features
+- Sexually transmitted infections: syphilis stages and serological tests (VDRL vs TPHA), chancroid vs LGV distinction, gonorrhoea management
+- Eczema and psoriasis: clinical differentiation, nail changes (pitting vs onycholysis), histological features (acanthosis, parakeratosis)
+- Blistering disorders: pemphigus vulgaris (acantholysis, Nikolsky sign, oral involvement) vs bullous pemphigoid (subepidermal, elderly)
+- Cutaneous manifestations of systemic disease: diabetic dermopathy, SLE skin findings, sarcoidosis (lupus pernio), and thyroid skin signs
+
+## Quick Navigation
+
+- [Notes](dermatology-notes.md)
+- [Lecture](dermatology-lecture.md)
+- [Weak Topics](WEAK-TOPICS.md)
+
+## NEET PG Weight
+
+Avg 7 questions/year (2019–2024). Stable trend — questions commonly present clinical descriptions or biopsy findings requiring pattern recognition; drug reactions and STIs are the two most reliably tested chapters.

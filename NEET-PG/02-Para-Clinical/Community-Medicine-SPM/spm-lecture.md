@@ -1,54 +1,48 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│              COMMUNITY MEDICINE / SPM — TOPIC MAP                           │
-└──────────────────────────────┬──────────────────────────────────────────────┘
-                               │
-     ┌─────────────────────────┼──────────────────────────┐
-     │                         │                          │
-     ▼                         ▼                          ▼
-┌──────────────┐    ┌───────────────────┐     ┌────────────────────┐
-│ EPIDEMIOLOGY │    │  BIOSTATISTICS    │     │ NATIONAL HEALTH    │
-└──────┬───────┘    └────────┬──────────┘     │    PROGRAMS        │
-       │                     │                └─────────┬──────────┘
-  ┌────┼────────┐      ┌─────┼──────┐               ┌──┴──────────────┐
-  ▼    ▼        ▼      ▼     ▼      ▼               ▼                 ▼
-Study  Epi    Measures p-val Type   Sens/        TB-NIKSHAY        Polio
-Design Triangle of Dis/ &CI  I/II   Spec/         (DOTS/           (OPV vs
-       (Agent/ Assoc.        Errors PPV/NPV        MDR-TB)          IPV /
-       Host/   RR/OR/        Power  SnNout/                        AFP surv)
-       Env)    AR/PAR        ↓      SpPin                    ┌──────┴───────┐
-                                                             ▼              ▼
-  ┌────┼────────────┐                                      RMNCH+A        ICDS
-  ▼    ▼            ▼                                    (ANC 4 visits)  (AWW /
-Case- Cohort       RCT                                                  Anganwadi)
-Ctrl  (RR,Incid.)  (Gold Std.
-(OR)   └→ Framingham  Randomiz.)
- └→ Recall bias    └→ Cannot use
-                      for harm
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-┌──────────────────┐   ┌──────────────────────┐   ┌──────────────────────────┐
-│    NUTRITION     │   │ VACCINES & COLD CHAIN │   │  OCCUPATIONAL HEALTH     │
-└────────┬─────────┘   └──────────┬───────────┘   └──────────────┬───────────┘
-         │                        │                               │
-   ┌─────┼──────────┐       ┌─────┼───────────┐       ┌──────────┼──────────┐
-   ▼     ▼          ▼       ▼     ▼           ▼       ▼          ▼          ▼
-Marasmus Kwashiorkor Vit A Live  Killed    Conjugate Silicosis Asbestosis Coal
-(calorie (protein   Defic- Atten. (IPV,    (Hib,    (NLRP3/  (Frustrated Workers'
-deficit) deficit)   iency  (BCG,  HepA,    PCV)     Silicotic Phagocyte/ Pneumo-
-  │        │          │    OPV,   Rabies)    │       Nodule/  Asbestos   coniosis
-  ▼        ▼          ▼    MMR)    └→Multi  └→T-dep. Egg-shell Bodies/   (Coal
-No edema Edema+    Night  └→1-2   dose+    Response Calcif.) Mesothel.) macules)
-Wasted  Fatty liver blind- doses   boosters │
-        Flag sign  ness   └→Immuno Freeze-  └─→ Cold Chain Temps:
-        Flaky skin  │     comprom. sensitive   OPV: -15 to -25°C (frozen)
-                    ▼     contrain. (DPT/HepB)  Measles: light-sensitive
-                 Bitot's           └─Shake test BCG: discard 4 hr post-recon
-                 Spots→
-                 Xero-                       ◆ Silicotuberculosis:
-                 phthalmia→                    Silicosis + TB → lethal combo
-                 Kerato-                       Screen all silica workers for TB
-                 malacia
+```mermaid
+graph TD
+    A["🏥 COMMUNITY MEDICINE — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Epidemiology"]
+    A --> C["Biostatistics"]
+    A --> D["National Programs"]
+    A --> E["Nutrition"]
+    A --> F["Vital Statistics"]
+    A --> G["Environment & Screening"]
+
+    B --> B1["Study Designs<br/>RCT / Cohort / Case-control / Cross-sec"]
+    B --> B2["Rates<br/>Incidence / Prevalence / Attack rate"]
+    B --> B3["Hill's Causality<br/>9 criteria / Temporality essential"]
+
+    C --> C1["Sensitivity & Specificity<br/>Sn=TP/TP+FN / Sp=TN/TN+FP"]
+    C --> C2["PPV & NPV<br/>Affected by prevalence"]
+    C --> C3["Bias & Errors<br/>Type I (α) / Type II (β)"]
+
+    D --> D1["UIP Vaccine Schedule<br/>BCG/OPV/Penta/MR/JE"]
+    D --> D2["NTEP (TB)<br/><10/1L target / DSTB / DRTB"]
+    D --> D3["Infrastructure<br/>Sub-ctr 5K / PHC 30K / CHC 1L"]
+
+    E --> E1["PEM<br/>Marasmus (calorie) vs Kwashiorkor (protein)"]
+    E --> E2["Micronutrients<br/>Vit A / Iodine / Iron deficiency"]
+    E --> E3["ICDS<br/>0–6 yrs / Anganwadi / 6 services"]
+
+    F --> F1["IMR & MMR<br/>IMR ~28 / MMR ~97 India"]
+    F --> F2["CBR / CDR / TFR<br/>India CBR ~19 / TFR ~2.0"]
+    F --> F3["Notifiable Diseases<br/>Cholera / Plague / Yellow fever"]
+
+    G --> G1["Wilson-Jungner Criteria<br/>10 screening criteria"]
+    G --> G2["Water Quality<br/>Nitrate 45 mg/L / Fluoride 1 mg/L"]
+    G --> G3["Cold Chain<br/>2–8°C PHC / -20°C regional"]
 ```
+
+**Subject Overview (plain text):**
+- Epidemiology: Study Designs (RCT/Cohort/Case-control/Cross-sectional), Rates (Incidence/Prevalence/Attack rate), Hill's Causality criteria
+- Biostatistics: Sensitivity & Specificity, PPV & NPV (affected by prevalence), Bias & Errors (Type I/Type II)
+- National Programs: UIP Vaccine Schedule (BCG/OPV/Penta/MR/JE), NTEP (TB control), Infrastructure norms (Sub-centre/PHC/CHC)
+- Nutrition: PEM (Marasmus vs Kwashiorkor), Micronutrient deficiencies (Vit A/Iodine/Iron), ICDS program
+- Vital Statistics: IMR & MMR (India figures), CBR/CDR/TFR, Notifiable Diseases
+- Environment & Screening: Wilson-Jungner Criteria, Water Quality standards, Cold Chain maintenance
 
 # Community Medicine / SPM — Lecture Notes for NEET PG
 ### Written in the style of an epidemiologist explaining public health to a clinician who thinks it is just statistics
@@ -106,6 +100,9 @@ You are screening a population for pulmonary TB using sputum smear microscopy. S
 - False Positive (FP): D-, T+ — the test falsely alarms a non-TB person (the danger of a test that lacks specificity)
 - True Negative (TN): D-, T- — the test correctly clears a non-TB person
 
+![2x2 contingency table with rows labeled Test Positive and Test Negative, columns labeled Disease Present and Disease Absent; cells filled with TP (top-left), FP (top-right), FN (bottom-left), TN (bottom-right); margin totals and formulas for Sensitivity = TP/(TP+FN), Specificity = TN/(TN+FP), PPV = TP/(TP+FP), NPV = TN/(TN+FN) labeled on each axis](../../images/2x2-contingency-table-sensitivity-specificity.jpg)
+> **IBQ tip:** The 2x2 table is always oriented with disease status as columns and test result as rows — sensitivity reads down the left column (TP over all true disease-positives), specificity reads down the right column (TN over all true disease-negatives). PPV reads across the top row (TP over all test-positives) and NPV reads across the bottom row. Sensitivity and specificity do NOT change with disease prevalence; PPV and NPV DO — a high-prevalence population raises PPV and lowers NPV for the same test.
+
 **Sensitivity = TP / (TP + FN)** — of all the people who truly have TB, what fraction did your test correctly identify? A highly sensitive test misses few true cases — it has a low false negative rate. A test with 95% sensitivity misses 5% of true TB cases.
 
 **Specificity = TN / (TN + FP)** — of all the people who truly do not have TB, what fraction did your test correctly exclude? A highly specific test generates few false alarms — it has a low false positive rate. A test with 90% specificity wrongly flags 10% of truly negative people.
@@ -113,6 +110,9 @@ You are screening a population for pulmonary TB using sputum smear microscopy. S
 The critical trade-off: sensitivity and specificity are inversely related for any given test when you change the diagnostic threshold (cutoff). If you lower the cutoff for smear positivity (call fewer AFB a positive), you will classify more true TB cases as positive (higher sensitivity) — but you will also classify more truly negative people as positive (lower specificity). If you raise the cutoff, fewer false positives (higher specificity) but more missed cases (lower sensitivity).
 
 **Clinical connection:** For a screening test (you want to miss as few cases as possible), prioritize sensitivity. For a confirmatory test (you want to avoid false positives that lead to unnecessary treatment), prioritize specificity. The mnemonic "SnNout" — a highly Sensitive test, when Negative, rules the disease OUT (a negative result on a sensitive test means the patient almost certainly doesn't have the disease). "SpPin" — a highly Specific test, when Positive, rules the disease IN (a positive result on a specific test means the patient almost certainly has the disease).
+
+![ROC curve: graph with sensitivity (true positive rate) on the y-axis (0 to 1) and 1-specificity (false positive rate) on the x-axis (0 to 1); a diagonal reference line representing random chance (AUC = 0.5); a curved line bowing toward the upper-left corner showing a good test (AUC = 0.85); dotted lines marking the optimal cutpoint at the point of maximum distance from the diagonal](../../images/roc-curve-auc-interpretation.jpg)
+> **IBQ tip:** The ROC curve shows every possible threshold for a test — each point on the curve is one cutoff value. A perfect test (AUC = 1.0) goes to the top-left corner (100% sensitivity and 100% specificity simultaneously). A useless test (AUC = 0.5) follows the diagonal. The optimal cutpoint is the point on the ROC curve closest to the top-left corner (maximizes both sensitivity and specificity). AUC > 0.9 = excellent discrimination; AUC 0.7–0.9 = good; AUC < 0.7 = poor.
 
 **Predictive Values are prevalence-dependent — this is the most important thing about them.** Positive Predictive Value (PPV) = TP / (TP + FP): of all people who tested positive, what fraction truly have the disease? PPV is devastatingly dependent on disease prevalence (pre-test probability). Consider a screening test with 99% sensitivity and 99% specificity. In a population where TB prevalence is 10% (high-burden setting): of 1000 people, 100 have TB — the test picks up 99 of them (99 TP, 1 FN). Of 900 non-TB people, 9 are falsely positive (9 FP, 891 TN). PPV = 99/(99+9) = 91.7% — excellent. Now apply the same test in a low-prevalence population (1% TB): of 1000 people, 10 have TB — test picks up 9.9 (≈10 TP, 0 FN). Of 990 non-TB people, 9.9 (≈10 FP). PPV = 10/(10+10) = 50% — half of all positives are false positives. The same excellent test, in a low-prevalence population, produces results where you cannot trust a positive result.
 
@@ -146,6 +146,9 @@ The insufficiency of p-values: a study with a very large sample size can find a 
 
 This is why confidence intervals (CIs) are required alongside p-values. A 95% CI for the drug's effect on blood pressure of [-0.1, 1.1] mmHg tells you that the true effect is likely very small (and includes values near zero), even if p < 0.05. A 95% CI of [15, 45] mmHg for another drug tells you the effect is both statistically and clinically significant.
 
+![Normal distribution bell curve: symmetric bell-shaped curve centered on mean = median = mode; vertical lines at ±1 SD (enclosing 68.2% of area), ±2 SD (enclosing 95.4%), and ±3 SD (enclosing 99.7%); shaded regions labeled with 34.1%, 13.6%, and 2.1% for each half-SD zone](../../images/normal-distribution-bell-curve-sd-zones.jpg)
+> **IBQ tip:** The normal (Gaussian) distribution is identified by its perfect symmetry — mean = median = mode all at the center peak. Questions test the 68-95-99.7 rule: 68% of values fall within ±1 SD, 95% within ±2 SD, 99.7% within ±3 SD. Distinguish from a skewed distribution where mean ≠ median ≠ mode: in right skew (positive skew) the tail pulls to the right and mean > median > mode; in left skew the tail pulls left and mean < median < mode.
+
 ### Type I and Type II Errors: The Courtroom Analogy
 
 **Type I error (α):** You reject the null hypothesis when it is actually true — a false positive finding. You conclude the drug works when it does not. **Analogy:** Convicting an innocent defendant. The conventional acceptable Type I error rate is 5% (α = 0.05) — we accept that 1 in 20 of our "positive" studies will be false positives.
@@ -157,6 +160,12 @@ The courtroom analogy is instructive. Preferring to acquit guilty people rather 
 **Power** = 1 - β = the probability of detecting a real effect if it exists. Power increases with: larger sample size (more data → more ability to detect small effects), larger true effect size (easier to detect a big effect than a small one), lower variability in the outcome (less noise → easier to detect signal), and higher α (but this increases Type I error — a trade-off). Sample size calculations for clinical trials are essentially the answer to: "How many patients do I need to achieve 80% power to detect a clinically meaningful effect at α = 0.05?"
 
 > **Exam key:** Type I error = false positive = α = 0.05. Type II error = false negative = β = 0.20. Power = 1 - β = 0.80 (80%). A study that is underpowered risks Type II error. A study with too many secondary outcomes without adjustment risks inflating Type I error (multiple comparison problem — if you test 20 outcomes, one will be "significant" by chance alone at α = 0.05). The Bonferroni correction addresses this by dividing α by the number of comparisons.
+
+![Forest plot from a meta-analysis: vertical axis listing individual study names; horizontal axis showing effect size (e.g., relative risk or odds ratio) with a vertical line of no effect at RR=1; each study shown as a square (size proportional to study weight) with horizontal line (95% CI); summary diamond at the bottom showing pooled estimate with its 95% CI; a funnel plot inset showing publication bias as asymmetry of the plotted studies](../../images/forest-plot-meta-analysis.jpg)
+> **IBQ tip:** In a forest plot, each square represents a study's point estimate and the horizontal lines represent 95% CIs — a CI that crosses the line of no effect (RR=1 or OR=1) is not statistically significant at p<0.05. The pooled diamond's width represents the 95% CI of the meta-analytic estimate; if the diamond does not touch RR=1, the pooled result is significant. Study weight (square size) is proportional to sample size and precision. Heterogeneity (I² statistic) >50% suggests studies are too different to pool meaningfully.
+
+![Funnel plot for publication bias: scatter plot with effect size on x-axis and standard error (or study size) on y-axis inverted (larger studies at top); a symmetric inverted funnel shape represents no publication bias; an asymmetric funnel (gap on one side, usually the lower-left for positive-results bias) indicates that small negative studies were not published](../../images/funnel-plot-publication-bias.jpg)
+> **IBQ tip:** The funnel plot should be symmetric — large studies (at the top, small SE) cluster near the true effect; small studies (at the bottom, large SE) scatter widely around it. Asymmetry (missing studies in the lower-left corner) means small negative studies were not published (publication bias toward positive results). The Egger test quantifies this asymmetry statistically. A symmetric funnel does NOT rule out bias — it only makes obvious publication bias less likely.
 
 ---
 
@@ -208,6 +217,9 @@ The ICDS scheme, launched in 1975, is the world's largest integrated child devel
 
 The package of services delivered at the AWC is not arbitrary — it is designed around the major causes of child morbidity and mortality in this age group. Supplementary nutrition (addressing the massive burden of protein-energy malnutrition and micronutrient deficiency — vitamin A and iron supplementation are included). Immunization (AWW facilitates immunization under UIP — Universal Immunization Programme — for the under-6 population). Health check-ups and referral. Preschool non-formal education (for 3-6 year olds). Nutrition and health education for mothers. Growth monitoring (monthly weighing → plotting on growth chart → detecting failure to thrive early enough to intervene before irreversible stunting occurs).
 
+![Growth monitoring Road-to-Health card: weight-for-age chart with age in months on x-axis and weight in kilograms on y-axis; three percentile curves labeled (50th, 25th, and 3rd percentiles or WHO z-score curves); a child's weight plotted as a series of connected dots showing the growth trajectory; downward slope or plateau of the plotted line indicating faltering growth requiring intervention](../../images/growth-monitoring-road-to-health-card.jpg)
+> **IBQ tip:** The Road-to-Health card (weight-for-age chart) assesses growth velocity — it is the trend line that matters, not a single measurement. A child whose weight curve crosses downward across percentile lines (faltering) requires investigation even if the child is not yet below the 3rd percentile. Distinguish weight-for-age (detects underweight; used in growth monitoring) from weight-for-height (detects acute wasting; used to diagnose SAM/MAM) and height-for-age (detects stunting, reflects chronic malnutrition).
+
 > **Exam key — AWW population norms:** One AWW per 1000 population (or 40-400 children under 6). AWW is a community volunteer (not a government employee), paid an honorarium. The AWW is the frontline of India's child health system — she is the link between the community and the formal health system, and she maintains the critical records (birth, death, immunization status) that feed into the health management information system (HMIS).
 
 ### Epidemiological Surveillance: How We Know What We Know
@@ -217,6 +229,9 @@ Surveillance is the continuous, systematic collection, analysis, and interpretat
 India's Integrated Disease Surveillance Programme (IDSP) is the national surveillance system, established in 2004. It operates on three streams of surveillance data: S (suspected) cases — reported by community and field workers; P (probable) cases — reported by health facilities; L (laboratory-confirmed) cases — reported by laboratories. The tiered system allows early outbreak detection (through S and P data, which are faster but less specific) and precise characterization (through L data, which is slower but definitive).
 
 The COVID-19 pandemic was the most dramatic demonstration of surveillance in action — contact tracing (identifying secondary cases from a known case), containment (quarantining exposed individuals to break the chain of transmission), and mitigation (reducing transmission in the population through non-pharmaceutical interventions) are all epidemiological strategies applied in real time. The basic reproduction number R0 (pronounced "R-naught") is the average number of new cases generated by one case in a completely susceptible population. COVID-19 Omicron had R0 of 8-15 — meaning one infected person, on average, infected 8-15 others in a naive population. For an epidemic to be controlled, the effective reproduction number (Re, accounting for partial immunity and interventions) must be reduced below 1. Vaccines, masks, and distancing all work by reducing Re — by reducing the probability of transmission per contact, the number of contacts, or by reducing the proportion of contacts who are susceptible (through immunity).
+
+![Epidemic curve shapes: three bar graphs side by side — point source curve showing a single sharp symmetric peak with rapid rise and fall and all cases within one incubation period; propagated (person-to-person) curve showing multiple progressive peaks each larger than the last; continuous exposure curve showing a sustained plateau with a gradual rise and fall](../../images/epidemic-curve-shapes-point-propagated-continuous.jpg)
+> **IBQ tip:** Identify epidemic curve type by the peak pattern: point source (single common exposure, e.g., contaminated buffet) — one sharp peak, all cases within one maximum incubation period of each other. Propagated (person-to-person spread, e.g., measles) — multiple waves, each wave separated by approximately one incubation period, with increasing case counts. Continuous exposure (ongoing contaminated water source) — sustained plateau. The shape alone tells you the likely transmission mode before epidemiological investigation.
 
 > **Exam key — herd immunity threshold:** The proportion of a population that must be immune to reduce Re below 1 and stop epidemic spread = 1 - (1/R0). For measles (R0 ≈ 15), herd immunity threshold = 1 - 1/15 = 93%. This is why measles vaccination coverage must be >95% to prevent outbreaks — a coverage gap of even 5-7% leaves enough susceptible individuals for outbreaks to occur in clusters. For COVID-19 (R0 ≈ 3-4 for original strain), herd immunity threshold ≈ 67-75%. For polio (R0 ≈ 5-7), herd immunity threshold ≈ 80-86%.
 
@@ -274,6 +289,9 @@ Marasmus occurs when total calorie intake falls catastrophically — the child i
 
 The clinical result of this process is unmistakable: the child has no subcutaneous fat (the skin hangs in folds from bony prominences), no muscle mass (the limbs are stick-thin, the temporal muscles are wasted giving a "sunken temples" appearance), and a weight-for-height that is dramatically below normal. But — and this is the critical distinguishing feature — **there is no edema in marasmus**. The serum albumin (the major determinant of plasma oncotic pressure) may be low, but it is not profoundly low, because the body has catabolized muscle protein and some of that protein is available for hepatic albumin synthesis.
 
+![Marasmus clinical photograph appearance: severely wasted infant with absent subcutaneous fat, skin hanging loosely from bony prominences, visible ribcage and scapulae, stick-thin limbs, sunken temples from temporal muscle wasting, alert but irritable facial expression — the classic "old man face" with wizened features but NO edema](../../images/marasmus-clinical-appearance.jpg)
+> **IBQ tip:** The marasmic child looks like a tiny elderly person — extreme wasting with loose wrinkled skin, prominent bones, and no edema anywhere. This is the definitive visual distinction from kwashiorkor: marasmus = dry and wasted; kwashiorkor = puffy and edematous. If the image shows pitting edema of the legs or a moon-faced appearance with a visibly distended abdomen, it is kwashiorkor or marasmic-kwashiorkor, not pure marasmus.
+
 **Kwashiorkor: Protein Deficit with Adequate Calories — The Edema Paradox**
 
 Kwashiorkor is the disease of protein deficiency in the presence of adequate (or near-adequate) calorie intake. The classic setting: a child weaned from breast milk (which provides adequate protein) to a diet primarily of starchy weaning foods (maize porridge, cassava — high in calories from carbohydrates, low in protein). The child's calorie intake is sufficient to suppress the full starvation response of marasmus — insulin levels remain relatively normal, preventing aggressive muscle proteolysis. But protein intake is profoundly inadequate. The liver receives insufficient amino acids to synthesize the proteins it must export: albumin, transferrin, clotting factors, lipoproteins (VLDL).
@@ -285,6 +303,9 @@ The consequences of hypoalbuminemia drive the classic kwashiorkor features:
 2. **Fatty liver (hepatomegaly):** The liver requires apolipoprotein B (ApoB) to package and export fat as VLDL particles. ApoB synthesis requires adequate amino acid supply. In protein deficiency, ApoB synthesis fails → the liver cannot export its triglycerides as VLDL → fat accumulates in hepatocytes → fatty liver (hepatic steatosis) → hepatomegaly. The same liver is failing to synthesize albumin (explaining the edema) and clotting factors (explaining bleeding tendency) — kwashiorkor is a liver disease in the sense that the liver's synthetic failure is driving much of the pathophysiology.
 
 3. **Skin and hair changes:** The classic "flaky paint" or "crazy pavement" skin (hyperpigmented plaques that peel off, leaving depigmented areas) reflects impaired skin protein turnover. Hair changes are distinctive: kwashiorkor hair is depigmented (red, brown, or blonde in a dark-haired child — called "flag sign" or Kwashiorkor's sign — alternating bands of depigmented and normally pigmented hair reflecting periods of protein deficiency interrupted by periods of relative adequacy during the illness).
+
+![Kwashiorkor clinical photograph appearance: toddler with pitting edema of bilateral feet and legs, distended abdomen (hepatomegaly + ascites), moon-faced puffy appearance, "flaky paint" depigmented skin patches on lower extremities, and sparse reddish-brown hair; flag sign shown as alternating light and dark bands in a hair strand](../../images/kwashiorkor-edema-flag-sign.jpg)
+> **IBQ tip:** The kwashiorkor image is identified by the combination of edema (puffy face and swollen legs) plus skin changes (flaky depigmented patches) plus hair changes (flag sign — alternating pigmented and depigmented bands, which in an image appears as alternating dark and light stripes along the hair shaft). The moon face from facial edema is the most striking visual feature. Distinguish from nephrotic syndrome edema: nephrotic syndrome has normal or elevated albumin-repletion mechanisms and no flaky skin or flag sign hair.
 
 **Analogy:** Think of the liver as a factory that produces export goods (albumin, VLDL, clotting factors). In kwashiorkor, the factory has electricity (calories) but has run out of raw materials (amino acids from protein). The factory cannot produce its goods → the downstream consequences (no oncotic pressure, no fat export, no clotting) manifest as the clinical picture. In marasmus, the factory has no power (no calories) — everything shuts down, and the factory starts cannibalizing its own structure for fuel.
 
@@ -317,6 +338,10 @@ Beyond the retina, vitamin A (specifically retinoic acid, the active form in non
 In the eye, squamous metaplasia of the conjunctival epithelium produces **xerophthalmia** (from the Greek "xeros" — dry): the conjunctiva loses its mucus-secreting goblet cells → the tear film becomes deficient in its mucin component → the conjunctival surface becomes dry, hazy, and wrinkled. Characteristic findings:
 
 - **Bitot's spots:** Superficial, foamy, pearly-white deposits on the temporal conjunctiva — accumulations of desquamated, keratinized epithelial cells and gas-producing bacteria (primarily Corynebacterium xerosis) in a keratinized surface that no longer clears secretions effectively. Bitot's spots are pathognomonic for vitamin A deficiency in the appropriate clinical context (though they can rarely persist after vitamin A therapy — called "older Bitot's spots" — and can occasionally occur without vitamin A deficiency).
+
+![Bitot's spots on temporal conjunctiva: close-up photograph of the eye showing a triangular, foamy, cheese-like white deposit on the temporal (outer) conjunctiva, with a dull, dry, wrinkled conjunctival surface surrounding it and relatively preserved cornea; the deposit has a distinctive frothy or bubbly texture](../../images/bitots-spots-xerophthalmia-vitamin-a.jpg)
+> **IBQ tip:** Bitot's spots are always on the temporal conjunctiva (not nasal), always appear foamy or bubbly (not a smooth white plaque), and the surrounding conjunctiva looks dry and wrinkled rather than glistening. The closest look-alike is a conjunctival dermoid or pinguecula — distinguish by location (dermoid is at the limbus; pinguecula is also temporal but fleshy/yellowish without the foamy texture) and by the clinical context of malnutrition. Bitot's spots alone = WHO stage X1B; if the cornea is hazy or ulcerated, it is X2 or X3.
+
 - **Conjunctival xerosis (XN) → Corneal xerosis (X2) → Corneal ulceration (X3A) → Keratomalacia (X3B):** As the deficiency worsens, the avascular cornea suffers. The corneal epithelium undergoes squamous metaplasia, becomes keratinized, and then softens and melts — keratomalacia is a full-thickness liquefactive necrosis of the cornea, resulting in permanent corneal perforation and blindness. Keratomalacia is a nutritional emergency: once the cornea has perforated, vision cannot be restored.
 
 **WHO Classification of Xerophthalmia:**
@@ -383,6 +408,9 @@ The cold chain is the system of refrigerated storage and transport that maintain
 - **Hepatitis B vaccine** is relatively heat-stable (killed vaccine) and can be stored at 2-8°C without freezing. However, it must NOT be frozen — freezing destroys the aluminum adjuvant's structure (causing it to form large aggregates) and reduces immunogenicity. Freezing hepatitis B vaccine is actually more damaging than modest heat exposure — a counterintuitive point that the cold chain must account for.
 - **DPT (DTP)** similarly must not be frozen — freezing aggregates the adjuvant. The "shake test" can detect frozen-damaged adjuvanted vaccines: if the vaccine forms a firm precipitate that does not disperse upon shaking, it has been frozen and must be discarded.
 
+![Vaccine cold chain temperature diagram: vertical thermometer or zoned bar showing temperature ranges — deep freezer zone at -15°C to -25°C (labeled OPV storage), ILR refrigerator zone at +2°C to +8°C (labeled measles, BCG, DPT, hepatitis B, IPV), and the danger zone above +8°C; a separate freeze-danger zone below 0°C labeled "DPT, Hep B — DO NOT FREEZE"; VVM color indicator shown as inner square progressively darkening with heat exposure](../../images/vaccine-cold-chain-temperature-zones.jpg)
+> **IBQ tip:** The cold chain diagram tests two temperature rules simultaneously — heat sensitivity (upper limit) AND freeze sensitivity (lower limit). OPV is the only vaccine stored at -15 to -25°C (frozen); all others are stored at +2 to +8°C in the ILR. DPT and hepatitis B are FREEZE-SENSITIVE — they must never go below 0°C. The VVM (Vaccine Vial Monitor) inner square darkens cumulatively with heat — discard when inner square matches or is darker than outer ring. The shake test differentiates frozen-damaged adjuvanted vaccines (firm precipitate) from undamaged ones (uniform suspension after shaking).
+
 **Vaccine Open Vial Policy:** Once a multi-dose vial of a killed vaccine (DPT, hepatitis B, OPV) is opened at a session site, the opened vial can be carried back and used at subsequent sessions within 28 days, provided it has been stored correctly (2-8°C), the cold chain was not broken, and the vial does not show signs of contamination. This policy does NOT apply to live vaccines (BCG, measles): once reconstituted (mixed with diluent), they must be discarded at the end of the session (4-6 hours) because the attenuated organisms begin to lose viability and contamination risk increases.
 
 > **Exam key:** Most heat-sensitive: OPV (stored frozen at -15 to -25°C). Most freeze-sensitive: DPT, hepatitis B (adjuvant destroyed by freezing — use shake test). Measles vaccine is also light-sensitive. Once reconstituted, live vaccines (BCG, measles) must be used within 4-6 hours. The cold chain equipment: ILR (Ice Lined Refrigerator) at PHC level for short-term storage at 2-8°C; deep freezer for OPV at district level. VVM (Vaccine Vial Monitor) — a color-change indicator on each vial that turns darker with cumulative heat exposure — is the standard tool for detecting heat-damaged vaccines.
@@ -417,6 +445,9 @@ Silica particles (quartz, cristobalite) are crystalline forms of silicon dioxide
 
 The consequence of this repeated cycle: the massive inflammatory signals from dying macrophages activate fibroblasts → collagen deposition → progressive pulmonary fibrosis. The characteristic histological lesion of silicosis is the **silicotic nodule** — a whorled (concentrically laminated) fibrotic nodule containing silica particles surrounded by layers of collagen and a rim of activated macrophages and lymphocytes. These nodules coalesce and grow with continued exposure. On chest X-ray, silicotic nodules appear as upper zone nodular opacities (bilateral, nodular, predominating in the upper lobes — because the upper lobes have lower lymphatic drainage and higher ventilation, making them sites of preferential dust deposition and impaired clearance). In advanced cases, nodules coalesce into **progressive massive fibrosis (PMF)** — large (>1 cm) conglomerate masses of fibrosis in the upper lobes, often with "egg-shell calcification" of the hilar lymph nodes (calcification at the periphery of the lymph node, creating the characteristic egg-shell appearance on CXR).
 
+![Silicosis chest X-ray: PA chest radiograph showing bilateral upper-lobe small rounded nodules (1-5 mm) with upper zone predominance; hilar lymph nodes showing peripheral (egg-shell) calcification creating a ring-like calcified outline around the node; in advanced cases, large conglomerate masses (PMF) in upper zones with surrounding hyperinflation of lower lobes](../../images/silicosis-chest-xray-eggshell-calcification.jpg)
+> **IBQ tip:** Silicosis CXR is identified by upper-lobe nodules (not lower-lobe — that would be asbestosis) plus the pathognomonic egg-shell calcification of hilar nodes (calcification at the rim of the node, not throughout). Eggshell calcification in hilar nodes is virtually unique to silicosis (and occasionally sarcoidosis treated with radiation). Asbestosis shows basal (lower-lobe) reticular shadowing plus pleural plaques. CWP shows upper-lobe nodules similar to silicosis but without eggshell calcification and with coal dust exposure history (miners, not quarry/sandblast workers).
+
 **Coal Dust vs Silica: Why Are They Different?**
 
 Coal dust is not inert — but it is far less reactive than crystalline silica. Coal particles phagocytosed by macrophages do not cause the same lysosomal membrane disruption and inflammatory cascade that silica does. The macrophage accumulates coal dust in phagolysosomes (forming "dust cells") and may transport them to the lymphatics or retain them in peribronchiolar macrophage aggregations → black pigment deposits → **coal macules** and **coal nodules** (less fibrous than silicotic nodules). In simple coal workers' pneumoconiosis (CWP), the functional impairment may be minimal for years. PMF in CWP is more common when the coal seam contains mixed silica content — "the more silica in the coal, the more fibrogenic the dust."
@@ -426,6 +457,9 @@ Coal dust is not inert — but it is far less reactive than crystalline silica. 
 Asbestos is a fibrous silicate mineral — the key word is "fibrous." Unlike silica (which is a particle), asbestos arrives in the lung as a fiber, which presents a different geometric challenge to the macrophage. Macrophages can engulf particles up to about 10-15 micrometers in diameter. A long asbestos fiber (>20 micrometers) extends beyond what the macrophage can engulf — the macrophage tries to wrap its membrane around the fiber but cannot fully enclose it. This is the literal "frustrated phagocyte" — the macrophage remains chronically activated at the site of the fiber it cannot fully engulf, continuously secreting inflammatory mediators and reactive oxygen species into the surrounding tissue → chronic inflammation → fibrosis in a pattern following the fiber distribution in the lung (basal in distribution, unlike silicosis which is upper-lobe dominant).
 
 Asbestos fibers that are phagocytosed become coated with hemosiderin and proteins, forming **asbestos bodies** (ferruginous bodies) — the pathological hallmark of asbestos exposure. Asbestos bodies have a golden-brown, beaded, "dumbbell" or "drumstick" appearance on histology. Their presence confirms asbestos exposure; their quantity suggests degree of exposure.
+
+![Asbestosis chest X-ray: PA chest radiograph showing bilateral basal (lower-lobe) reticular shadowing (honeycombing pattern) with subpleural predominance; bilateral diaphragmatic pleural plaques appearing as irregular calcified opacities along the diaphragmatic surfaces and lateral chest walls; absent upper-lobe nodules (distinguishing from silicosis)](../../images/asbestosis-chest-xray-pleural-plaques.jpg)
+> **IBQ tip:** Asbestosis CXR is identified by lower-lobe (basal) fibrosis plus pleural plaques — the bilateral combination of basal reticular shadowing and calcified pleural plaques along the diaphragm or lateral walls is characteristic. The lower-lobe distribution is the key radiological distinction from silicosis (upper-lobe). Pleural plaques alone (without parenchymal fibrosis) indicate asbestos exposure but not asbestosis. Mesothelioma appears as unilateral pleural effusion or pleural thickening encasing the lung, not bilateral symmetric plaques.
 
 Asbestos causes not just pulmonary fibrosis (asbestosis — diffuse bilateral interstitial fibrosis, predominantly basal and subpleural) but also malignant mesothelioma (cancer of the pleura or peritoneum — almost exclusively caused by asbestos, particularly crocidolite "blue asbestos"). The latency period between asbestos exposure and mesothelioma is typically 20-40 years — meaning a worker exposed in the 1980s may develop mesothelioma in the 2000s-2020s.
 
@@ -451,6 +485,26 @@ A critically important — and exam-tested — association is silicosis and TB (
 | Liver | Normal or small | Fatty (hepatomegaly) |
 | Mood | Alert, irritable, hungry | Apathetic, anorexic |
 | MUAC | <11.5 cm (SAM) | <11.5 cm (SAM) |
+
+#### Nutritional Deficiency Clinical Signs Summary
+
+| Deficiency | Pathognomonic Sign | Visual Pattern to Recognize |
+|---|---|---|
+| Vitamin A | Bitot's spots (X1B); Keratomalacia (X3B) | Foamy triangular temporal conjunctival deposit; corneal melting |
+| Niacin (B3) | Pellagra — Casal's necklace | Hyperpigmented dermatitis in sun-exposed areas forming a necklace pattern around the neck; the 4 Ds: Dermatitis, Diarrhea, Dementia, Death |
+| Riboflavin (B2) | Angular stomatitis + cheilosis | Cracking and redness at the corners of the mouth; magenta tongue |
+| Iodine | Goitre | Visible or palpable anterior neck swelling from thyroid enlargement; endemic in inland/mountainous regions |
+| Kwashiorkor | Flag sign in hair + flaky paint skin | Alternating depigmented/pigmented hair bands; peeling hyperpigmented skin patches |
+| Marasmus | Severe wasting, "old man face" | Extreme subcutaneous fat loss, wrinkled loose skin, visible bones |
+
+![Pellagra Casal's necklace: photograph of a patient's neck showing a well-demarcated, symmetrical hyperpigmented and thickened skin rash encircling the lower neck like a necklace — the Casal's collar — with sharp borders at the necklace line transitioning to normal skin above and below; sun-exposed distribution](../../images/pellagra-casals-necklace-niacin-deficiency.jpg)
+> **IBQ tip:** Pellagra (niacin/B3 deficiency) is identified by the necklace distribution of the dermatitis — the rash forms a symmetrical band around the lower neck (Casal's necklace) because this is a sun-exposed area. The same rash appears on the dorsum of hands and forearms. The skin is hyperpigmented, thickened, and scaly with sharp borders. Distinguish from angular stomatitis (B2 deficiency) — angular stomatitis is at the corners of the mouth only, not a neck rash. Pellagra context: maize-based diet (maize is low in niacin and tryptophan), alcoholism, carcinoid syndrome (tryptophan diverted to serotonin).
+
+![Angular stomatitis: close-up photograph of the mouth showing bilateral redness, cracking, maceration and fissuring at the corners of the mouth (oral commissures); surrounding lip tissue appears dry and inflamed; associated with riboflavin (B2) deficiency or iron deficiency anaemia](../../images/angular-stomatitis-riboflavin-b2-deficiency.jpg)
+> **IBQ tip:** Angular stomatitis (perleche) shows bilateral cracking specifically at the corners of the mouth — not on the lips generally, not inside the mouth. It is caused by riboflavin (B2), iron, or zinc deficiency. Distinguish from herpes labialis (cold sores), which is unilateral, vesicular, and painful rather than bilateral dry cracks. In the exam context, angular stomatitis + glossitis (smooth, red tongue) = B2 deficiency; angular stomatitis + pallor = iron deficiency anemia.
+
+![Goitre appearance: photograph showing visible anterior neck swelling that moves upward on swallowing; the swelling is smooth and symmetrical in simple endemic goitre; a nodular or multinodular goitre shows irregular lobular surface; the trachea may be deviated in large goitres](../../images/goitre-iodine-deficiency.jpg)
+> **IBQ tip:** Goitre is identified by the anterior midline neck swelling that moves upward with swallowing — this movement distinguishes thyroid swelling from other neck masses (lymph nodes do not move with swallowing). Simple (diffuse) goitre from iodine deficiency is smooth and symmetric. A multinodular goitre has an irregular lobulated surface. The key clinical distinction from thyroglossal cyst: thyroglossal cyst moves with tongue protrusion (attached to hyoid), thyroid goitre does not.
 
 #### Vaccine Type Comparison
 

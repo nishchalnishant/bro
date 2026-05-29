@@ -1,57 +1,54 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🔬 PATHOLOGY — NEET PG<br/>7 Major Domains"]
+
+    A --> B["General Pathology"]
+    A --> C["Hematology"]
+    A --> D["Cardiovascular"]
+    A --> E["Respiratory"]
+    A --> F["GI & Hepatic"]
+    A --> G["Neoplasia"]
+    A --> H["Renal & Endocrine"]
+
+    B --> B1["Cell Injury<br/>Reversible / Irreversible / Apoptosis"]
+    B --> B2["Inflammation<br/>Acute / Chronic / Granuloma"]
+    B --> B3["Amyloid<br/>Congo red → apple-green birefringence"]
+
+    C --> C1["Anemias<br/>Iron / B12 / Folate / Hemolytic"]
+    C --> C2["WBC Disorders<br/>CML / CLL / AML / ALL"]
+    C --> C3["Lymphoma<br/>Hodgkin (RS cells) / NHL"]
+
+    D --> D1["IHD<br/>STEMI / NSTEMI / Troponin timeline"]
+    D --> D2["Endocarditis<br/>Bacterial / NBTE / Libman-Sacks"]
+    D --> D3["Atherosclerosis<br/>Fatty streak → Fibrous plaque"]
+
+    E --> E1["Pneumonia<br/>Lobar / Broncho / Interstitial"]
+    E --> E2["TB<br/>Ghon focus / Ranke complex / Cavitation"]
+    E --> E3["Lung Ca<br/>SCC / Adeno / SCLC / Mesothelioma"]
+
+    F --> F1["Hepatitis<br/>Viral / Alcoholic / Cirrhosis / HCC"]
+    F --> F2["GI Tumors<br/>Carcinoid / Adenoca / GIST"]
+    F --> F3["Pancreatitis<br/>Acute (Ranson) / Chronic (calcification)"]
+
+    G --> G1["Oncogenes<br/>RAS / MYC / HER2 / BCR-ABL"]
+    G --> G2["Tumor Suppressors<br/>TP53 / RB / BRCA1/2 / APC"]
+    G --> G3["Tumor Markers<br/>AFP / CEA / CA-125 / PSA / βhCG"]
+
+    H --> H1["Glomerulonephritis<br/>Nephrotic vs Nephritic syndrome"]
+    H --> H2["Thyroid<br/>Papillary (psammoma) / Follicular / MTC"]
+    H --> H3["Adrenal<br/>Conn's / Cushing's / Phaeochromocytoma"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    PATHOLOGY — NEET PG LECTURE MAP                          │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-          ┌─────────────────────────┼──────────────────────────┐
-          │                         │                          │
-          ▼                         ▼                          ▼
-┌─────────────────┐     ┌───────────────────┐      ┌──────────────────────┐
-│  CELL INJURY    │     │   INFLAMMATION    │      │      NEOPLASIA       │
-│   & DEATH       │     │                   │      │                      │
-└────────┬────────┘     └─────────┬─────────┘      └──────────┬───────────┘
-         │                        │                            │
-   ┌─────┴──────┐           ┌─────┴──────┐              ┌─────┴──────┐
-   │ ● Cell     │           │ ● Acute    │              │ ● Oncogenes│
-   │   survival │           │   inflam.  │              │   (RAS,MYC)│
-   │   pillars  │           │ ● Neutro-  │              │ ● Tumor    │
-   │   (ATP,Ca²⁺│           │   phil     │              │   suppres- │
-   │   membrane,│           │   recruit. │              │   sors     │
-   │   DNA)     │           │ ● Chemical │              │   (p53,Rb) │
-   │ ● Ischemia │           │   mediators│              │ ● Multi-   │
-   │   & Reper- │           │ ● Chronic  │              │   step     │
-   │   fusion   │           │   inflam.  │              │   model    │
-   │   injury   │           │ ● Granuloma│              │   (CRC)    │
-   │ ● Apoptosis│           │   formation│              │ ● Metasta- │
-   │   vs       │           └────────────┘              │   sis      │
-   │   Necrosis │                                       └────────────┘
-   └────────────┘
-          │                         │                          │
-          └─────────────────────────┼──────────────────────────┘
-                                    │
-          ┌─────────────────────────┴──────────────────────────┐
-          │                                                     │
-          ▼                                                     ▼
-┌──────────────────────────┐                    ┌──────────────────────────────┐
-│       HEMATOLOGY         │                    │   CARDIOVASCULAR PATHOLOGY   │
-└────────────┬─────────────┘                    └──────────────┬───────────────┘
-             │                                                  │
-       ┌─────┴──────┐                                    ┌─────┴──────┐
-       │ ● Anemias  │                                    │ ● Athero-  │
-       │   from 1st │                                    │   sclerosis│
-       │   principles│                                   │   (endothe-│
-       │   (iron,   │                                    │   lial inj,│
-       │   B12, fol-│                                    │   foam     │
-       │   ate, HA) │                                    │   cells,   │
-       │ ● Sickle   │                                    │   plaque)  │
-       │   cell     │                                    │ ● Myocard- │
-       │   disease  │                                    │   ial      │
-       │   (mol.    │                                    │   infarct. │
-       │   basis,   │                                    │   (pathol. │
-       │   crises,  │                                    │   timeline)│
-       │   HbS)     │                                    └────────────┘
-       └────────────┘
-```
+
+**Subject Overview (plain text):**
+- General Pathology: Cell Injury (Reversible/Irreversible/Apoptosis), Inflammation (Acute/Chronic/Granuloma), Amyloid (Congo red → apple-green birefringence)
+- Hematology: Anemias (Iron/B12/Folate/Hemolytic), WBC Disorders (CML/CLL/AML/ALL), Lymphoma (Hodgkin RS cells/NHL)
+- Cardiovascular: IHD (STEMI/NSTEMI/Troponin timeline), Endocarditis (Bacterial/NBTE/Libman-Sacks), Atherosclerosis
+- Respiratory: Pneumonia (Lobar/Broncho/Interstitial), TB (Ghon focus/Ranke complex/Cavitation), Lung Ca (SCC/Adeno/SCLC/Mesothelioma)
+- GI & Hepatic: Hepatitis (Viral/Alcoholic/Cirrhosis/HCC), GI Tumors (Carcinoid/Adenoca/GIST), Pancreatitis (Acute/Chronic)
+- Neoplasia: Oncogenes (RAS/MYC/HER2/BCR-ABL), Tumor Suppressors (TP53/RB/BRCA1-2/APC), Tumor Markers
+- Renal & Endocrine: Glomerulonephritis (Nephrotic vs Nephritic), Thyroid tumors (Papillary/Follicular/MTC), Adrenal disorders
 
 # Pathology: Lecture Notes for NEET PG
 

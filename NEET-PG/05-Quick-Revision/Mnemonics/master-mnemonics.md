@@ -533,6 +533,526 @@ Each scored 0–2; total 0–10; normal ≥7
 
 ---
 
+## PSYCHIATRY
+
+### MDD Symptoms — "SIGECAPS"
+**[SIGECAPS]** = Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicidal ideation
+> Diagnose MDD with 5+ symptoms for ≥2 weeks, must include depressed mood or anhedonia.
+
+---
+
+### Schizophrenia Symptoms — "DPHON"
+**[DPHON]** = Delusions, Poverty of speech, Hallucinations, Other negative symptoms, N (disorganized/negative)
+> Two or more Criterion A symptoms ≥1 month; at least one must be D, H, or disorganized speech.
+
+---
+
+### Lithium Monitoring — "TREK"
+**[TREK]** = Thyroid, Renal function, ECG, K+ (electrolytes)
+> Monitor these before initiating and periodically; therapeutic level 0.6–1.2 mEq/L.
+
+---
+
+### Antidepressant Classes — "SMAM"
+**[SMAM]** = SSRIs, MAOIs, Atypicals (e.g., bupropion, mirtazapine), MAs (Monoamine TCAs)
+> First-line = SSRIs; MAOIs require tyramine-free diet (cheese reaction).
+
+---
+
+### ECT Indications — "SCART"
+**[SCART]** = Severe depression, Catatonia, Antidepressant failure, Risk of suicide, Treatment-Resistant Depression
+> ECT is fastest-acting treatment for severe/TRD; memory loss is the main side effect.
+
+---
+
+### Personality Disorder Clusters
+- Cluster A = "**Odd/eccentric**" — Paranoid, Schizoid, Schizotypal
+- Cluster B = "**Dramatic/emotional**" — Borderline, Antisocial, Narcissistic, Histrionic
+- Cluster C = "**Anxious/fearful**" — Avoidant, Dependent, OCPD
+> Cluster B = "Bad Boys Act Histrionically"; Cluster C = "Can't Decide Or quit"
+
+---
+
+### Panic Attack Symptoms — "CHEST PAIN"
+**[CHEST PAIN]** = Choking, Heart pounding, ESt (dErealization/Estrangement), Sweating, Trembling, Paresthesia, Abdominal distress, Intense fear, Nausea
+> Panic attack peaks within 10 minutes; agoraphobia commonly co-occurs.
+
+---
+
+### Delirium vs Dementia
+- Delirium = **Acute, Fluctuating, Inattention** (3 As: Acute onset, Attention impaired, Altered consciousness)
+- Dementia = **Chronic, Stable, Attention relatively intact**
+> Key differentiator: consciousness impaired in delirium, preserved in dementia.
+
+---
+
+### Alcohol Dependence Screening — "CAGE"
+**[CAGE]** = Cut down (felt need to), Annoyed (by criticism), Guilty (about drinking), Eye-opener (morning drink)
+> ≥2 positive answers is clinically significant for alcohol use disorder.
+
+---
+
+### Antipsychotic Side Effects — "DREAD"
+**[DREAD]** = Dystonia (acute), cogRigidity/EPS (subacute), Akathisia, tardive Dyskinesia (TD — chronic)
+> Tardive dyskinesia: irreversible orofacial movements after prolonged typical antipsychotic use.
+
+---
+
+### McNaughton Rules — "NAQ"
+**[NAQ]** = Nature of act (did not know the nature), Appreciate wrongness (didn't know it was wrong), Quality of act
+> McNaughton criteria = legal insanity; disease of the mind must impair cognition, not just impulse control.
+
+---
+
+### Bipolar Triggers — "SLEPT"
+**[SLEPT]** = Sleep deprivation, Life events, Excitement, Psychostimulants, Thyroid disease
+> Mania trigger most commonly = sleep deprivation; thyroid disease (hyperthyroidism) mimics mania.
+
+---
+
+### Serotonin Syndrome vs NMS
+- Serotonin syndrome: **hyperreflexia + clonus + diarrhea + agitation** (onset hours)
+- NMS: **lead-pipe rigidity + bradyreflexia + no diarrhea** (onset days–weeks)
+> NMS = antipsychotics; SS = serotonergic drugs; both cause hyperthermia and autonomic instability.
+
+---
+
+### OCD Treatment — "SECT"
+**[SECT]** = SSRIs (first-line), Exposure + response prevention (ERP — best psychotherapy), Clomipramine (if SSRI fails), TCA (last resort)
+> Higher SSRI doses often needed for OCD than for depression.
+
+---
+
+### Suicide Risk Factors — "SAD PERSONS"
+**[SAD PERSONS]** = Sex (male), Age (elderly/adolescent), Depression, Previous attempt, Ethanol, Rational thinking loss, Social support lacking, Organized plan, No spouse, Sickness
+> Previous attempt is the single strongest predictor of completed suicide.
+
+---
+
+## DERMATOLOGY
+
+### Psoriasis Classic Features — "ASK"
+**[ASK]** = Auspitz sign (pinpoint bleeding on scale removal), Silver scaling, Koebner phenomenon
+> Psoriasis: well-demarcated, salmon-pink plaques with silvery scales; nail involvement in 50%.
+
+---
+
+### Psoriasis Nail Changes — "PODS"
+**[PODS]** = Pitting, Oil drop sign, Distal onycholysis, Subungual hyperkeratosis
+> Nail pitting is the most common nail change; oil drop (salmon patch) is pathognomonic.
+
+---
+
+### Lichen Planus — "4 Ps"
+**[4 Ps]** = Purple, Polygonal, Pruritic, Papules (+ Wickham's striae on surface)
+> Flexor surfaces of wrists; oral mucosa involvement in 50%; Koebner positive.
+
+---
+
+### Pemphigus vs Bullous Pemphigoid — "PV vs BP"
+- **PV**: young, intraepidermal, Nikolsky+, desmoglein 3 (suprabasal split)
+- **BP**: old, subepidermal, Nikolsky−, BP180/230 (hemidesmosome)
+> "PV = vicious and fragile (intraepidermal); BP = basement membrane = Below Please"
+
+---
+
+### Leprosy Reactions
+- Type 1 (Reversal): immune upgrade, Type IV HSR, during/after MDT
+- Type 2 (ENL): immune complex (Type III), "**Type 2 = Two words: Erythema Nodosum**"
+> Treat Type 1 with prednisolone; Type 2 with thalidomide or prednisolone.
+
+---
+
+### Leprosy MDT Regimens
+- **PB = "RD 6"**: Rifampicin + Dapsone for 6 months
+- **MB = "RDC 12"**: Rifampicin + Dapsone + Clofazimine for 12 months
+> Rifampicin is the only bactericidal drug in MDT; given monthly supervised.
+
+---
+
+### Melanoma — "ABCDE"
+**[ABCDE]** = Asymmetry, Border irregular, Color variation, Diameter >6mm, Evolution (change)
+> Evolution (change over time) is now considered most important criterion.
+
+---
+
+### Tinea Distribution
+- Children: Tinea **Capitis** (scalp)
+- Adults: Tinea **Cruris** (groin), **Corporis** (body), **Pedis** (feet — most common overall)
+> Tinea capitis in adults = think immunocompromise; Wood's lamp: M. canis fluoresces green.
+
+---
+
+### Acne Severity — "CCNK"
+**[CCNK]** = Comedones → Closed/open → Nodules/papules → Keloids (nodulocystic/scarring)
+> Grade I = comedones only; Grade IV = nodulocystic acne requiring isotretinoin.
+
+---
+
+### DRESS Syndrome — Causes "ACVS"
+**[DRESS]** = Drug Rash + Eosinophilia + Systemic Symptoms (fever, lymphadenopathy, organ involvement)
+**[ACVS]** causes = Allopurinol, Carbamazepine, Vancomycin, Sulfonamides
+> Onset 2–8 weeks after drug initiation; HHV-6 reactivation is a hallmark.
+
+---
+
+### Koebner Phenomenon Diseases — "PAPA LP"
+**[PAPA LP]** = Psoriasis, Lichen planus, vitiligo (Albinism), Plane warts, wArts, LP (lichen planus again)
+> Also: molluscum contagiosum; inverse Koebner = lesions heal in traumatized areas (Darier's).
+
+---
+
+### Bullous Diseases by Level
+- Intraepidermal: **Pemphigus** (acantholysis — suprabasal split)
+- Subepidermal: **BP, DH (coeliac), PCT, EBA** (all below epidermis)
+> DH (dermatitis herpetiformis) = IgA deposits at dermal papillae tips; treat with dapsone + gluten-free diet.
+
+---
+
+### Vitiligo Associations — "ADTA"
+**[ADTA]** = Addison's disease, Diabetes mellitus (Type 1), Thyroid disease, Alopecia areata
+> All autoimmune; screen vitiligo patients for thyroid disease (most common association).
+
+---
+
+### Scabies — "SWAB"
+**[SWAB]** = Sites (interdigital webs, wrists, areola, belt area), Web spaces, Anus/genitalia, Burrow (pathognomonic linear track)
+> Treat all household contacts simultaneously; permethrin 5% cream is first-line.
+
+---
+
+### TEN vs SJS
+- SJS: <10% BSA; TEN: >30% BSA; Overlap: 10–30%
+- **"TEN = Total Extensive Necrosis"**
+> Most common cause: sulfonamides, allopurinol, anticonvulsants; treat like burns in ICU.
+
+---
+
+## ORTHOPEDICS
+
+### Salter-Harris Classification — "SALTR"
+**[SALTR]** = Slipped (Type I), Above physis/metaphysis (Type II — most common), Lower/epiphysis (Type III), Through all layers (Type IV), Rammed/crushed (Type V — worst prognosis)
+> Type II = most common (75%); Type V = crush injury, easily missed on X-ray.
+
+---
+
+### Colles' Fracture Deformity — "DURAL"
+**[DURAL]** = Dinner-fork deformity, Ulnar styloid fracture, Radial shortening, Anterior tilting (dorsal angulation), Lateral displacement of distal fragment
+> "Dinner fork" deformity: distal fragment displaced dorsally and radially.
+
+---
+
+### Nerve Injuries with Fractures
+- Spiral humerus → **Radial nerve** (wrist drop)
+- Medial epicondyle → **Ulnar nerve** (claw hand 4th/5th)
+- Supracondylar → **AIN** (anterior interosseous nerve; "OK sign" lost)
+- Surgical neck humerus → **Axillary nerve** (deltoid wasting, loss of shoulder abduction)
+- Fibula neck → **Common peroneal nerve** (foot drop)
+
+---
+
+### Hip Fracture AVN Risk — "Garden 3 and 4"
+- Garden III and IV (displaced intracapsular) = high AVN risk + non-union
+- AVN = disruption of retinacular vessels (medial circumflex femoral artery)
+> Garden I/II = undisplaced → cannulated screws; Garden III/IV elderly → THR.
+
+---
+
+### Compartment Syndrome — "6 Ps"
+**[6 Ps]** = Pain (out of proportion to injury), Pressure (↑ intracompartmental), Pallor, Paralysis, Paresthesia, Pulselessness (late and ominous sign)
+> Fasciotomy indicated if compartment pressure >30 mmHg or within 30 mmHg of diastolic BP.
+
+---
+
+### Bone Tumors by Location — "GOLF"
+**[GOLF]** = Giant cell tumor (epiphysis), Osteosarcoma (metaphysis), Leukemia/Lymphoma (diaphysis), Fibrous dysplasia (diaphysis/metadiaphysis)
+> "GOLF" helps place each tumor at the right zone of the long bone.
+
+---
+
+### Bone Tumor X-ray Signs — "SOG"
+**[SOG]** = Sunburst → Osteosarcoma; Onion-skin → Ewing's sarcoma; Giant cell → Soap bubble (epiphysis)
+> Codman's triangle (periosteal elevation) seen in both osteosarcoma and Ewing's.
+
+---
+
+### Gout vs Pseudogout Crystals
+- Gout: **Needle-shaped, negatively birefringent** (yellow when parallel to polarizer) = Monosodium Urate
+- Pseudogout: **Rhomboid, positively birefringent** (blue when parallel) = Calcium Pyrophosphate
+> "Gout = Needle-shaped, Yellow (parallel) = NY Yankees = Negative Yellow"
+
+---
+
+### IVDP Nerve Root Levels
+- **L4–L5** disc → L5 nerve root → foot drop, weak big toe dorsiflexion, no reflex lost
+- **L5–S1** disc → S1 nerve root → weak plantarflexion, ankle reflex lost
+> S1 = Achilles reflex; L4 = knee (patellar) reflex affected by L3–L4 disc.
+
+---
+
+### DDH Tests — "OB"
+**[OB]** = Ortolani (Out → reduction — "clunk" as dislocated hip reduces), Barlow (Back in → dislocation — provokes dislocation)
+> Ortolani = relocates; Barlow = dislocates; perform gently in neonates.
+
+---
+
+### Pott's Disease Complications — "PAPA"
+**[PAPA]** = Paraplegia (Pott's paraplegia), Abscess (psoas/cold abscess), Pott's spine (gibbus deformity), Arachnoiditis
+> Most common site: lower thoracic spine (T10–L1); anterior vertebral body affected first.
+
+---
+
+### Fracture Healing: Children vs Adults
+- Children heal faster: thicker periosteum, better blood supply, greater remodeling capacity
+> "Children Heal Faster and Better" — remodeling can correct up to 30° angulation in young children.
+
+---
+
+### Intertrochanteric vs Intracapsular NOF Fracture
+- **Intertrochanteric** = extracapsular = intact blood supply = low AVN risk → Dynamic Hip Screw (DHS)
+- **Intracapsular** = disrupts retinacular vessels = high AVN risk → THR if displaced (elderly)
+> Young patient with intracapsular fracture → attempt ORIF to preserve femoral head.
+
+---
+
+### SUFE — "Ice Cream Slipping Off Cone"
+- Obese adolescent male; gradual or acute-on-chronic hip/knee pain
+- X-ray: widened physis, epiphysis slips posteromedially — "**Ice cream scoop slipping off cone**"
+> Bilateral in 20–40%; urgent fixation with cannulated screws in situ.
+
+---
+
+### Looser's Zones vs Stress Fracture
+- **Looser's zones**: bilateral, symmetric, medial cortex — sign of **osteomalacia**
+- **Stress fracture**: unilateral, overuse, common in metatarsals/tibia
+> Looser's zones = pseudofractures; associated with low vitamin D, malabsorption.
+
+---
+
+## ANESTHESIA
+
+### Induction Agents — "KPET"
+**[KPET]** = Ketamine (hypovolemic shock/asthma), Propofol (TIVA/day surgery), Etomidate (cardiac compromise), Thiopentone (neurosurgery — reduces CMRO2)
+> Etomidate: adrenal suppression with prolonged use; avoid for sedation. Ketamine: raises ICP and BP.
+
+---
+
+### Succinylcholine Contraindications — "BUMHDK"
+**[BUMHDK]** = Burns (after 24h), Upregulation of receptors (denervation/immobilization), Myopathies, Hyperkalemia, Denervation injuries, Kidney disease (severe — hyperkalemia risk)
+> Succinylcholine is the only depolarizing NMBA; causes fasciculations → K+ release → cardiac arrest if hyperkalemic.
+
+---
+
+### Malignant Hyperthermia Treatment — "DACS"
+**[DACS]** = Dantrolene (specific antidote — inhibits SR Ca2+ release), Airway (100% O2 + hyperventilate), Cooling (active), Stop trigger agent immediately
+> MH = autosomal dominant RYR1 mutation; triggered by volatile agents + succinylcholine.
+
+---
+
+### Spinal vs Epidural Anaesthesia
+- **Spinal**: Sharp needle, Single shot, Sudden onset, Small volume (≤3 mL), Subarachnoid
+- **Epidural**: Epidural space (extra-dural), Extended by catheter, External to dura, Slower onset
+> Epidural has no upper level risk; spinal has defined dermatomal spread.
+
+---
+
+### Local Anesthetic Fiber Block Order — "Before Completing Any Difficult Mission"
+**[B, C, Aδ, Aβ, Aγ, Aα]** = B (autonomic), C (pain/temp), Aδ (sharp pain/cold), Aβ (touch/pressure), Aγ (proprioception), Aα (motor — last blocked)
+> Pain blocked before motor; explains "pins and needles" then numbness sequence during onset.
+
+---
+
+### PDPH Features — "PDPH"
+**[PDPH]** = Postural (worse sitting/standing, better lying flat), Dull/throbbing, Pulsating, Hours to days post-dural puncture
+> Treat with bed rest, hydration, caffeine; epidural blood patch is definitive.
+
+---
+
+### Cormack-Lehane Grading
+- Grade 1: full vocal cords visible
+- Grade 2: partial cords/arytenoids only
+- Grade 3: epiglottis only (difficult intubation)
+- Grade 4: nothing visible (failed intubation)
+> Grade ≥3 = difficult airway; have bougie/videolaryngoscope ready.
+
+---
+
+### Volatile Agent MAC Values
+- Halothane: MAC 0.75% (highest potency)
+- Isoflurane: MAC 1.2%
+- Sevoflurane: MAC 2%
+- Desflurane: MAC ~6% (lowest potency, fastest onset/offset)
+- N2O: MAC 104% (cannot achieve surgical anesthesia alone)
+> Lower MAC = more potent (lipid solubility theory — Meyer-Overton correlation).
+
+---
+
+### Reversal Agents
+- **Neostigmine**: reverses non-depolarizing NMBAs (anticholinesterase) → give with **atropine** to prevent bradycardia
+- **Sugammadex**: reverses rocuronium/vecuronium selectively (cyclodextrin encapsulation)
+> Sugammadex can reverse profound block; no atropine needed.
+
+---
+
+### Mandatory ASA Monitoring — "TEMP"
+**[TEMP]** = Temperature, ECG, MAP (non-invasive blood pressure), Pulse oximetry + ETCO2
+> ETCO2 is mandatory during general anaesthesia to confirm tracheal intubation.
+
+---
+
+### Ketamine Contraindications — "HIGH PRESSURE"
+**[HIGH PRESSURE]** = Hypertension, Ischemic heart disease, Glaucoma, Hyperthyroidism, Psychiatric disorders, Raised ICP
+> Ketamine raises BP, heart rate, ICP, and IOP — avoid in all "high pressure" states.
+
+---
+
+### Dermatomal Levels for Spinal Block
+- **T4** = nipple line
+- **T6** = xiphisternum
+- **T10** = umbilicus
+- **L1** = inguinal ligament
+> Know for assessing spinal block height; T4 block needed for caesarean section.
+
+---
+
+### Propofol Uses — "TIVA SEED"
+**[TIVA SEED]** = TIVA (total IV anesthesia), Sedation (ICU/procedural), Emesis prevention (antiemetic), Epilepsy (terminates refractory status), Day surgery (rapid recovery)
+> Propofol infusion syndrome: rare, fatal metabolic acidosis with prolonged high-dose infusion.
+
+---
+
+### Lipid Emulsion for LAST — "20% Lipid = Life"
+- Local Anesthetic Systemic Toxicity (LAST) → **20% lipid emulsion IV bolus** (1.5 mL/kg)
+- Mechanism: **lipid sink theory** — sequesters lipophilic LA from cardiac tissue
+> Bupivacaine most cardiotoxic LA; levobupivacaine and ropivacaine are safer alternatives.
+
+---
+
+### Phases of General Anaesthesia — "IIME"
+**[IIME]** = Induction, Intubation (airway securing), Maintenance, Emergence
+> Guedel's stages (I–IV) historically described ether anesthesia depths; Stage III = surgical anaesthesia.
+
+---
+
+## RADIOLOGY
+
+### Classic X-ray Signs
+- **Coffee Bean sign** = Sigmoid volvulus (large midline air shadow)
+- **Double Bubble** = Duodenal atresia (stomach + proximal duodenum gas, no distal gas)
+- **String of Beads** = Small bowel obstruction
+> Coffee bean: apex points to RUQ (sigmoid volvulus); Double bubble: diagnosed antenatally on USS.
+
+---
+
+### MRI Signal Characteristics — "T1 = Fat, T2 = Water"
+- **T1**: Fat = bright; fluid = dark → "1 Fat Person"
+- **T2**: Water/fluid = bright; fat = moderately bright → "2 = Too much water"
+> T1 useful for anatomy; T2 useful for pathology (most lesions are T2-bright due to edema/fluid).
+
+---
+
+### CXR Cardiac Silhouettes — Congenital Heart Shapes
+- **Boot (Coeur en sabot)** = Tetralogy of Fallot (TOF)
+- **Flask/globular** = Pericardial effusion
+- **Egg-on-side** = Transposition of Great Arteries (TGA)
+- **Snowman/figure-of-8** = TAPVC (supracardiac type)
+> TOF: decreased pulmonary vascularity + boot shape; TGA: increased vascularity + egg shape.
+
+---
+
+### Periosteal Reactions
+- **Sunburst pattern** = Osteosarcoma
+- **Onion-skin layers** = Ewing's sarcoma
+- **Codman's triangle** = aggressive tumors (both osteosarcoma and Ewing's)
+> Codman's triangle = periosteum lifted by aggressive tumor growth.
+
+---
+
+### Pulmonary Edema Progression — PCWP Correlation
+**[Kerley B → Bat-wing → Effusion → Consolidation]**
+- Kerley B lines (PCWP 18–20), bat-wing opacification (20–25), pleural effusion (>25), airspace consolidation
+> Treat underlying cause; furosemide reduces PCWP rapidly.
+
+---
+
+### Ultrasound Signs
+- **Target sign (bull's eye)** = Intussusception (transverse view: alternating hypo/hyperechoic rings)
+- **String of pearls** = Small bowel obstruction (dilated loops with air-fluid levels)
+- **Bull's eye (liver)** = Liver metastases (hypoechoic rim around echogenic lesion)
+> Target/doughnut sign on USS = intussusception until proven otherwise in a child with colicky pain.
+
+---
+
+### CT Hounsfield Units — "Air to Bone Scale"
+- Air = **−1000**; Fat = **−100**; Water = **0**; Soft tissue = **+30–70**; Bone = **+1000**
+- Acute blood = ~**+60** (isodense to brain acutely, hyperdense vs CSF)
+> Subacute blood becomes isodense (7–14 days); chronic blood becomes hypodense (<+20).
+
+---
+
+### DWI MRI Interpretation — "BRIGHT DWI + DARK ADC = Real Restriction"
+- True restricted diffusion: **hyperintense DWI + hypointense ADC map**
+- Seen in: acute ischaemic stroke, abscess, hypercellular tumors
+> "T2 shine-through" = bright DWI but also bright ADC = not true restriction.
+
+---
+
+### CT Contrast Phases — "25-70-300"
+- **Arterial phase** = 25–30s → hypervascular lesions (HCC, carcinoid, RCC)
+- **Portal venous phase** = 60–70s → liver lesions, majority of abdominal pathology
+- **Delayed phase** = 3–5 min → collecting system, cholangiocarcinoma, fibrotic lesions
+> Most liver scans use triple-phase; pancreatic protocol adds pancreatic parenchymal phase.
+
+---
+
+### Barium Meal/Enema Signs
+- **Apple-core lesion** = Colorectal carcinoma
+- **String sign (of Kantor)** = Crohn's disease (terminal ileum stricture)
+- **Bird's beak** = Achalasia (smooth tapered narrowing at LOS)
+- **Rat-tail** = Oesophageal carcinoma (irregular shouldered narrowing)
+- **Coffee bean** = Sigmoid volvulus
+> Bird's beak = smooth (achalasia); rat-tail = irregular (malignancy).
+
+---
+
+### Pneumoperitoneum Detection
+- **Erect CXR**: most sensitive — free air under right hemidiaphragm (rigler's sign if bilateral)
+- **Left lateral decubitus**: if patient cannot stand — air rises above liver
+> As little as 1 mL of free air detectable on erect CXR; CT most sensitive overall.
+
+---
+
+### HRCT Lung Patterns — "HCTG"
+- **Honeycomb** = UIP/IPF (subpleural, basal predominant)
+- **Crazy-paving** (ground-glass + septal lines) = PCP, PAP, COVID-19
+- **Tree-in-bud** = Endobronchial spread of TB, bronchopneumonia
+- **Ground-glass opacity** = Early edema, PCP, COVID-19, hypersensitivity pneumonitis
+> Honeycombing with traction bronchiectasis = UIP pattern = poor prognosis.
+
+---
+
+### Skull Fractures — Types
+- **Linear** = most common; low energy
+- **Depressed** = requires elevation if depth >full skull thickness (or overlying open wound)
+- **Pond (growing)** = children; dura torn → leptomeningeal cyst
+- **Contre-coup** = brain injury opposite to impact site
+> Middle meningeal artery = temporal bone = extradural hematoma = biconvex hyperdense on CT.
+
+---
+
+### Nuclear Medicine Tracers — "BTMP"
+**[BTMP]** = Bone scan (Tc-99m MDP), Thyroid (I-131 therapy / I-123 imaging), Myocardial perfusion (Thallium-201 or Tc-99m MIBI), PET (F-18 FDG)
+> Tc-99m MDP: hot spots = osteoblastic activity (mets, Paget's); cold spots = avascular necrosis.
+
+---
+
+### Radiation Doses — "ALARA"
+**[ALARA]** = As Low As Reasonably Achievable
+- CXR = 0.02 mSv; CT chest = 7 mSv; CT abdomen = 8 mSv; background = 2.4 mSv/year
+> CT chest = ~350 CXR equivalent; justify, optimize, limit dose (3 principles of radiation protection).
+
+---
+
 ## QUICK REFERENCE: CROSS-SUBJECT MNEMONICS
 
 ### Signs Named After Eponyms — "Know the Common Ones"

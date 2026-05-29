@@ -1,60 +1,50 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["⚗️ BIOCHEMISTRY — NEET PG<br/>7 Major Topics"]
+
+    A --> B["Carbohydrate Metabolism"]
+    A --> C["Lipid Metabolism"]
+    A --> D["Protein & AA Metabolism"]
+    A --> E["Molecular Biology"]
+    A --> F["Vitamins"]
+    A --> G["Clinical Biochemistry"]
+
+    B --> B1["Glycolysis<br/>PFK-1 rate-limiting"]
+    B --> B2["TCA Cycle<br/>Isocitrate DH rate-limiting"]
+    B --> B3["HMP Shunt<br/>G6PD deficiency"]
+    B --> B4["Glycogen Storage<br/>von Gierke / Pompe / McArdle"]
+
+    C --> C1["Beta-Oxidation<br/>Mitochondria"]
+    C --> C2["FA Synthesis<br/>Cytoplasm / ACC rate-limiting"]
+    C --> C3["Ketogenesis<br/>HMG-CoA → Acetoacetate"]
+    C --> C4["Lipoproteins<br/>Chylomicron→VLDL→IDL→LDL→HDL"]
+
+    D --> D1["Urea Cycle<br/>CPS-1 rate-limiting"]
+    D --> D2["PKU / Alkaptonuria<br/>Homocystinuria / MSUD"]
+    D --> D3["Transamination<br/>ALT & AST (PLP cofactor)"]
+
+    E --> E1["DNA Replication<br/>DNA Pol III (prokaryotes)"]
+    E --> E2["Transcription<br/>RNA Pol II → mRNA"]
+    E --> E3["Molecular Techniques<br/>PCR / Southern / Northern / FISH"]
+
+    F --> F1["Fat-Soluble A D E K<br/>Stored in liver / fat"]
+    F --> F2["Water-Soluble B-complex<br/>B1 Thiamine → Wernicke's"]
+    F --> F3["Vitamin C<br/>Scurvy / Collagen synthesis"]
+
+    G --> G1["LFTs<br/>ALT>AST viral; AST>ALT alcohol"]
+    G --> G2["Cardiac Markers<br/>Troponin / CK-MB / LDH"]
+    G --> G3["Tumor Markers<br/>AFP / CEA / CA-125 / PSA"]
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                     BIOCHEMISTRY — LECTURE OVERVIEW                          │
-│                    NEET PG · 7 Major Topics at a Glance                      │
-└──────────────────────────────────────────────────────────────────────────────┘
-                                      │
-     ┌──────────┬────────────┬────────┼────────┬──────────┬──────────┐
-     │          │            │        │        │          │          │
-  CARBO-     LIPID        PROTEIN  MOLECULAR  VITAMINS  ENZYMES  COLLAGEN
-  HYDRATE  METABOLISM    & AMINO   BIOLOGY      │         │          │
- METABOLISM    │          ACID        │         │         │          │
-     │         │         METAB.       │         │         │          │
- ┌───┤      ┌──┤            │     ┌───┤      ┌──┤      ┌──┤      ┌───┤
- │   │      │  │       ┌────┤     │   │      │  │      │  │      │   │
-Glycolysis │ FA Synth │ Essential  DNA   Fat-Sol   Km &   Type I  │
- │   │     Beta-Ox  Urea Cycle Non-Essential Replic  Vit A,D  Vmax  │Bone,
-PFK-1  │   │   │     │   │   ORG ACID-   │    E,K   │      Tendon │
- regul  │  │   │    OTC  ASS1  URIA   Replication│    │      │      │
- AMP/   │  │  Carnitine ASL  Urea  DNMT    PCR   B-Vits  Compet  Type II
- ATP/   │  │  Shuttle  Arginase      │    RT-PCR  │    │   vs Non-  Cart-
- F2,6-BP│  │           │       │  Transcription │  B1: TPP Compet. ilage
- Citrate│  │           │   PKU │  (RNA PolII)  │    │     │        │
- │   │  │  │       Phenyl-  │   Translation  Wernicke's Lineweaver Type III
-TCA   │ Ketogenesis alanine │  (80S/70S)   │     │    Burk Plot  Vessels,
-Cycle  │   │   │   Accum. Maple  Antibiotics  B3: NAD+  │     Granulation
- │   │  │   │   ↓Tyr   Syrup    ├─ 50S: CHL,  Pellagra  │        │
-ETC &  │  │  Cholesterol ↓Trp  Urine   ERY, LIN   │    │  Suicide  Type IV
-OxPhos │  │  Synthesis  ↓Mel  Disease  ├─ 30S: AMG,  B6: PLP  Inhibitors Basement
- │   │  │   │   PKU Rx: Tetracyc.  Transamination  │    Membrane
- │   │  │  HMG-CoA ↓Phe, +Tyr   └─ RIF: RNApol   INH→B6 Def  (Alport,
-GSD   │ │  Reductase              Mutations→   │    │    Good-
- │   │ │  (STATINS)     │       Lynch Syn       B12-Folate  pasture)
-Type I  │ │   │          Amino    (MMR genes,    Methyl Trap │
-(Von   │ │  Lipoproteins  Acid    MSI)          │    │    Type VII
-Gierke) │ │   │          Metab     │          Megaloblastic  Dermo-
-Type II  │ │ Chylo→VLDL  │   │              Anemia    │  epidermal
-(Pompe) │ │  →IDL→LDL  Transamination         B12: MMA↑  (Epiderm-
-Type V   │ │   │       Urea Cycle         Neuro damage  olysis
-(McArdle)│ │  HDL (Reverse Oxidative        Folate:     Bullosa)
-  │    │ │ Cholesterol Deamination       No MMA, No   │
-Pyruvate│  Transport)              neuro damage  Collagen
-Dehydrog.│   │                               Synthesis:
-Complex  │  ApoB-48 (Chylo)                 Pre-pro-α→
-  │    │ ApoB-100 (VLDL/LDL)             Hydroxylation
-Thiamine │ ApoC-II (↑LPL)               (Vit C req.)→
-Required  ApoE (Remnant rec.)            Triple Helix→
-(TPP)    ApoA-I (↑LCAT,HDL)             Procollagen→
-          Tangier Dis (↓ApoA-I)          Tropocollagen→
-          Abetaliproteinemia             Cross-linking
-          (↓ApoB)                        (Lysyl Oxidase,
-                                          Cu-dependent)
-                                        ● Menkes (↓Cu)
-                                        ● Scurvy (↓VitC)
-                                        ● OI (Type I mut)
-                                        ● Alport (Type IV)
-                                        ● Ehlers-Danlos
-```
+
+**Subject Overview (plain text):**
+- Carbohydrate Metabolism: Glycolysis (PFK-1 rate-limiting), TCA Cycle (Isocitrate DH), HMP Shunt (G6PD deficiency), Glycogen Storage diseases
+- Lipid Metabolism: Beta-Oxidation, Fatty Acid Synthesis (ACC rate-limiting), Ketogenesis, Lipoproteins
+- Protein & AA Metabolism: Urea Cycle (CPS-1 rate-limiting), PKU/Alkaptonuria/Homocystinuria/MSUD, Transamination
+- Molecular Biology: DNA Replication, Transcription, PCR/Southern/Northern/FISH techniques
+- Vitamins: Fat-Soluble (A D E K), Water-Soluble B-complex (B1 Thiamine → Wernicke's), Vitamin C/Scurvy
+- Clinical Biochemistry: LFTs, Cardiac Markers (Troponin/CK-MB/LDH), Tumor Markers
 
 # Biochemistry — NEET PG Lecture Notes
 
@@ -84,6 +74,9 @@ Now here is where it gets intellectually satisfying: PFK-1 is the rate-limiting 
 
 **Analogy:** Think of PFK-1 as the throttle of a car. F2,6-BP is the accelerator pedal pressed down by insulin (postprandial state). ATP is the cruise control that says "you're already moving fast enough, ease off." Citrate accumulating from the TCA cycle signals that acetyl-CoA supply is abundant, so there is no need to push more pyruvate through.
 
+![Glycolysis pathway diagram showing glucose at the top, the two ATP-investing steps (hexokinase: glucose→G6P; PFK-1: F6P→F1,6-BP) highlighted with red arrows, the cleavage step, and the two ATP-generating 3-carbon segments ending in pyruvate; PFK-1 regulatory inputs labeled: AMP/ADP/F2,6-BP as activators (green arrows) and ATP/citrate as inhibitors (red T-bars)](../../images/glycolysis-pathway-pfk1.jpg)
+> **IBQ tip:** PFK-1 at the fructose-6-phosphate step is the key regulatory checkpoint — in a diagram showing allosteric effectors, ATP and citrate inhibit (indicating energy surplus or TCA overflow) while AMP and F2,6-BP activate; a question showing citrate accumulation inhibiting PFK-1 means the TCA cycle is saturated and glycolysis should slow, distinguishing this from hexokinase inhibition by G6P accumulation (a separate upstream regulatory point).
+
 ### The TCA Cycle: A Circular Economy
 
 The pyruvate produced by glycolysis is transported into the mitochondria and converted to acetyl-CoA by the pyruvate dehydrogenase complex (PDC). This is an irreversible step — once acetyl-CoA is made, you cannot go back to glucose. This irreversibility is metabolically significant: it explains why fatty acids (which enter as acetyl-CoA) cannot be converted to glucose, and why excessive pyruvate dehydrogenase activity in thiamine deficiency leads to lactic acidosis (pyruvate can't be processed, backs up, becomes lactate).
@@ -91,6 +84,9 @@ The pyruvate produced by glycolysis is transported into the mitochondria and con
 The TCA cycle is best understood not as a series of named intermediates to memorize, but as an electron extraction machine. Each turn of the cycle takes one acetyl group (2 carbons), combines it with oxaloacetate (4 carbons) to form citrate (6 carbons), and then systematically oxidizes the carbons, releasing 2 CO2 and — critically — reducing 3 NAD+ to NADH and 1 FAD to FADH2. These reduced cofactors are the real product. They carry high-energy electrons to the electron transport chain, where oxidative phosphorylation converts their energy into ATP. One turn of the TCA cycle yields 1 GTP, 3 NADH, and 1 FADH2 — which ultimately translate into about 10 ATP.
 
 The cycle is "circular" because oxaloacetate is regenerated at the end and is ready to accept another acetyl-CoA. But oxaloacetate is also a gluconeogenic precursor, which creates an important tension: if the cell is using OAA for gluconeogenesis, there is less to drive the TCA cycle. In starvation, when gluconeogenesis is running full speed, the TCA cycle can be rate-limited by OAA depletion. Ketogenesis, which we discuss later, is partly a consequence of this bottleneck — acetyl-CoA builds up because OAA isn't available to accept it.
+
+![TCA cycle diagram showing the circular pathway from oxaloacetate + acetyl-CoA → citrate → isocitrate → α-ketoglutarate → succinyl-CoA → succinate → fumarate → malate → oxaloacetate, with NADH and FADH2 production points labeled, entry points for amino acid carbon skeletons (glutamate→α-KG, aspartate→OAA, succinyl-CoA←propionyl-CoA from odd-chain fatty acids) indicated, and CO2 release steps marked](../../images/tca-cycle-diagram.jpg)
+> **IBQ tip:** The two CO2-releasing steps (isocitrate dehydrogenase and α-ketoglutarate dehydrogenase) are the key energy-releasing points and both require thiamine (TPP) — a question showing TCA cycle disruption with lactic acidosis and elevated α-ketoglutarate points to thiamine deficiency; distinguish from a TCA inhibition by fluoroacetate which blocks aconitase (citrate accumulates) rather than a dehydrogenase step.
 
 **Clinical connection:** Isocitrate dehydrogenase (IDH) mutations are found in gliomas and AML. The mutant IDH produces 2-hydroxyglutarate (an oncometabolite) instead of α-ketoglutarate. This is a perfect example of how understanding the enzyme's normal function helps you understand the disease: if IDH normally converts isocitrate to α-KG (a step that generates NADH and drives the cycle forward), then a mutant IDH that produces a dead-end metabolite simultaneously impairs the TCA cycle AND generates a toxic compound. The accumulation of 2-HG inhibits α-KG-dependent dioxygenases, causing epigenetic dysregulation and malignant transformation.
 
@@ -136,6 +132,9 @@ The entire fatty acid synthase (FAS) complex is a single multifunctional enzyme 
 
 **Analogy:** Think of beta-oxidation as a disassembly line in the mitochondrial factory — the fatty acid comes in and is taken apart two carbons at a time, with each piece releasing energy. Fatty acid synthesis is the assembly line in the cytoplasmic factory — raw 2-carbon units are welded together, powered by NADPH (which itself comes primarily from the pentose phosphate pathway and the malic enzyme). The two factories run in different buildings (compartments) so you can run them independently.
 
+![Beta-oxidation versus fatty acid synthesis compartment diagram showing a cell with nucleus and mitochondria: left side (cytoplasm) shows fatty acid synthesis pathway with acetyl-CoA carboxylase (ACC) producing malonyl-CoA, FAS complex assembling palmitate, NADPH as reductant, and insulin/glucagon regulatory arrows; right side (mitochondrial matrix) shows beta-oxidation spiral with acyl-CoA dehydrogenase, NADH and FADH2 outputs per cycle, acetyl-CoA entering TCA; carnitine shuttle (CPT-I and CPT-II) at the inner mitochondrial membrane connecting cytoplasm to matrix](../../images/fatty-acid-synthesis-vs-beta-oxidation-compartments.jpg)
+> **IBQ tip:** The carnitine shuttle (CPT-I on the outer face, CPT-II on the inner face of the inner mitochondrial membrane) is the rate-limiting transport step for beta-oxidation — malonyl-CoA (made by ACC when insulin is high) inhibits CPT-I, simultaneously promoting synthesis and blocking degradation; a diagram question showing malonyl-CoA inhibiting a transporter at the mitochondrial membrane specifically identifies CPT-I, not CPT-II.
+
 **Clinical connection:** Carnitine deficiency impairs fatty acid transport into mitochondria. The result is fatty acid oxidation deficiency — particularly severe during fasting when fat is the primary fuel. Patients present with hypoglycemia (can't oxidize fat, must use more glucose), hypoketotic hypoglycemia (can't make ketones either), and lipid myopathy (fat accumulates in muscle). This is a classic cause of sudden death in infants with MCAD (medium-chain acyl-CoA dehydrogenase) deficiency, the most common fatty acid oxidation disorder.
 
 ### Ketogenesis: The Brain's Emergency Fuel System
@@ -170,6 +169,9 @@ Think of lipoproteins as specialized cargo ships for fat in the aqueous bloodstr
 
 > **Key exam fact:** ApoB-48 is on chylomicrons; ApoB-100 is on VLDL, IDL, LDL. ApoC-II activates LPL. ApoE is the remnant receptor ligand. ApoA-I activates LCAT. Abetalipoproteinemia (absent ApoB) causes fat malabsorption, acanthocytosis, ataxia, retinitis pigmentosa.
 
+![Lipoprotein structure and size comparison diagram showing concentric circle representations of chylomicron (largest, >75 nm), VLDL (30–80 nm), IDL, LDL (~20 nm), and HDL (smallest, 8–12 nm) drawn to relative scale, each with a surface monolayer of phospholipids/cholesterol and a core of triglycerides/cholesterol esters, with key apolipoproteins labeled on each particle (ApoB-48 on chylomicron; ApoB-100 on VLDL/LDL; ApoA-I on HDL; ApoC-II on chylomicron/VLDL)](../../images/lipoprotein-structure-size-comparison.jpg)
+> **IBQ tip:** Size and density are inversely related — chylomicrons are the largest and least dense (float to the top of plasma in the "chylomicron test tube" test, forming a creamy layer), while HDL is the smallest and most dense; a question showing a creamy supernatant after overnight refrigeration indicates chylomicronemia (hypertriglyceridemia type I or V), not an LDL or HDL abnormality.
+
 ---
 
 ## 3. Protein and Amino Acid Metabolism
@@ -186,6 +188,32 @@ Amino acids are constantly being turned over — broken down and resynthesized. 
 
 The urea cycle begins in the mitochondrial matrix: ammonia + CO2 → carbamoyl phosphate (catalyzed by CPS1, requiring N-acetylglutamate as an allosteric activator). Carbamoyl phosphate condenses with ornithine to form citrulline (OTC, the most commonly deficient enzyme). Citrulline exits the mitochondria, condenses with aspartate to form argininosuccinate (ASS1), which is cleaved to arginine + fumarate (ASL). Arginine is hydrolyzed to urea + ornithine by arginase, and ornithine re-enters the mitochondria. Net result: 2 nitrogens (one from NH3, one from aspartate) are incorporated into one urea molecule.
 
+![Urea cycle diagram showing the two-compartment pathway: mitochondrial matrix contains CPS1 (NH3 + CO2 → carbamoyl phosphate) and OTC (carbamoyl phosphate + ornithine → citrulline); cytoplasm contains ASS1 (citrulline + aspartate → argininosuccinate), ASL (argininosuccinate → arginine + fumarate), and arginase (arginine → urea + ornithine); ornithine transporter across the inner mitochondrial membrane; orotic acid accumulation pathway from excess carbamoyl phosphate in OTC deficiency shown with dotted arrow](../../images/urea-cycle-diagram.jpg)
+> **IBQ tip:** OTC deficiency causes orotic aciduria because carbamoyl phosphate accumulates in the mitochondria and leaks into the cytoplasm to enter pyrimidine synthesis, producing orotic acid — this distinguishes OTC deficiency from CPS1 deficiency (no orotic aciduria, as the block is before carbamoyl phosphate is made); both cause hyperammonemia, but the presence or absence of orotic acid in the urine is the key distinguishing finding.
+
+> **ASCII diagram:**
+> ```
+> MITOCHONDRIA                        CYTOPLASM
+> ─────────────────────────────────────────────────────
+> NH3 + CO2
+>     ↓ CPS-I (needs N-acetylglutamate)
+> Carbamoyl phosphate ──[OTC defect: leaks out]──→ Orotic acid ↑
+>     ↓ OTC  ←── Ornithine (returns from cytoplasm)
+> Citrulline ──────────────────────────────────→ Citrulline
+>                                                     + Aspartate
+>                                                     ↓ ASS1
+>                                               Argininosuccinate
+>                                                     ↓ ASL
+>                                               Arginine + Fumarate
+>                                                     ↓ Arginase
+>                                               Ornithine + UREA
+>                                                     ↓
+>                                               Ornithine returns ←──┘
+>
+> OTC defect → ↑ orotic acid (carbamoyl-P leaks to pyrimidine path)
+> CPS1 defect → NO orotic acid (block before carbamoyl-P)
+> ```
+
 **Urea cycle defects — derive the phenotype from the block.** All urea cycle defects cause hyperammonemia — the fundamental consequence of impaired nitrogen disposal. But they differ in what accumulates before the block. CPS1 and OTC deficiency produce hyperammonemia WITHOUT orotic aciduria, because the block is before carbamoyl phosphate can enter the cytoplasm. When carbamoyl phosphate does enter the cytoplasm (in OTC deficiency, it accumulates and leaks out), it enters the pyrimidine synthesis pathway and is converted to orotic acid. Wait — actually OTC deficiency DOES cause orotic aciduria, because carbamoyl phosphate accumulates in the mitochondria and leaks into the cytoplasm where it enters pyrimidine synthesis. CPS1 deficiency does not cause orotic aciduria (block is before carbamoyl phosphate is made). Argininosuccinic aciduria (ASL deficiency) causes argininosuccinate accumulation and is the most common urea cycle defect to cause hepatomegaly. Arginase deficiency is unique: it causes elevated arginine rather than ammonia, and the clinical picture is spastic diplegia rather than acute encephalopathy.
 
 > **Key exam fact:** OTC deficiency is X-linked (the OTC gene is on the X chromosome). All other urea cycle defects are autosomal recessive. OTC deficiency is the most common urea cycle defect.
@@ -197,6 +225,24 @@ Phenylalanine is an essential amino acid that normally gets converted to tyrosin
 Phenylalanine accumulates dramatically in plasma and brain. At high concentrations, phenylalanine is a competitive inhibitor of other large neutral amino acid transporters at the blood-brain barrier, reducing brain uptake of tryptophan, tyrosine, and other aromatic amino acids. Since tryptophan is the precursor to serotonin, and tyrosine is the precursor to dopamine and norepinephrine, the developing brain is deprived of multiple neurotransmitters simultaneously. Excess phenylalanine is transaminated to phenylpyruvate, phenyllactate, and phenylacetate — the "phenylketones" that give the disease its name, detected as a musty/mousy odor in urine. Melanin synthesis is also impaired (tyrosine → melanin), explaining the characteristic fair skin and blue eyes of untreated PKU patients.
 
 The treatment is elegantly logical: restrict phenylalanine in the diet (keep it just above zero, since it is essential) and supplement tyrosine (which is now conditionally essential because the body cannot make it from phenylalanine). For BH4-responsive PKU (a milder variant with residual PAH activity), pharmacologic doses of sapropterin (synthetic BH4) can stabilize the enzyme and increase its activity.
+
+![PKU metabolic pathway diagram showing phenylalanine at the top with PAH enzyme (requiring BH4 cofactor) blocked by a red cross, leading to phenylalanine accumulation; the normal pathway to tyrosine is interrupted; downstream consequences shown: phenylalanine → phenylpyruvate/phenyllactate/phenylacetate (musty odor); tyrosine pathway downstream showing melanin (blocked → fair skin), DOPA → dopamine → norepinephrine (reduced); BH4 cofactor cycle shown alongside](../../images/pku-metabolic-pathway.jpg)
+> **IBQ tip:** In PKU, the block at PAH makes tyrosine conditionally essential (cannot be synthesized from phenylalanine) — distinguishing it from albinism where tyrosine is present but tyrosinase (tyrosine → melanin) is blocked (normal phenylalanine, isolated pigmentation loss, normal neurotransmitters); a patient with intellectual disability, fair skin AND musty urine odor points to PKU, not albinism.
+
+> **ASCII diagram:**
+> ```
+> Phenylalanine ──[PAH + BH4]──→ Tyrosine
+>      │  (PAH deficient in PKU)       ↓
+>      │  ✗ blocked                Melanin (↓ → fair skin)
+>      ↓                           Dopamine / Norepinephrine (↓)
+> Phenylpyruvate
+> Phenylacetate   → musty/mousy urine odor
+> Phenyllactate   → intellectual disability
+>                   fair skin, blue eyes
+>
+> BH4 (cofactor) deficiency → also ↓ serotonin (Trp hydroxylase needs BH4)
+> Treatment: ↓ Phe diet + supplement Tyrosine + sapropterin (BH4-responsive PKU)
+> ```
 
 **Clinical connection:** Maternal PKU is a critical exam topic. If a woman with PKU is not on a phenylalanine-restricted diet during pregnancy, her elevated phenylalanine crosses the placenta and is teratogenic to the fetus — causing microcephaly, cardiac defects, and intellectual disability in the infant even if the infant does not have PKU. This is a metabolic teratogen, not a genetic disease of the fetus.
 
@@ -211,6 +257,9 @@ DNA replication is fundamentally a problem of accurately copying 3 billion base 
 The key chemistry: DNA polymerase can only add nucleotides to a free 3'-OH group, adding them in the 5'→3' direction. This is a fundamental chemical constraint — the 3'-OH performs a nucleophilic attack on the α-phosphate of the incoming dNTP, releasing pyrophosphate. The reaction is energetically driven by the hydrolysis of pyrophosphate. There is no biochemical mechanism to add nucleotides to a 5' end. This single chemical fact forces the entire architecture of replication: you need a primer (RNA, synthesized by primase, providing a 3'-OH) to start synthesis, the leading strand can be synthesized continuously toward the replication fork, but the lagging strand must be synthesized away from the fork in short fragments (Okazaki fragments, ~100-200 nt in eukaryotes, ~1000-2000 nt in prokaryotes), each requiring its own primer.
 
 The proofreading function resides in the 3'→5' exonuclease activity of DNA polymerase — if a mismatched nucleotide is incorporated, the enzyme pauses, removes the incorrect nucleotide (going backwards, 3'→5'), and then resynthesizes correctly. This reduces the error rate from ~1/10^5 to ~1/10^7. Mismatch repair after replication brings the final rate to ~1/10^9.
+
+![DNA replication fork diagram showing the double helix unwound at the origin of replication by helicase, with topoisomerase ahead of the fork; leading strand synthesized continuously toward the fork (5'→3'); lagging strand synthesized in Okazaki fragments away from the fork (each requiring an RNA primer shown as short red segments), with primase, DNA polymerase III (elongation), DNA polymerase I (primer removal/replacement), and DNA ligase (sealing nicks) labeled at their respective positions](../../images/dna-replication-fork-diagram.jpg)
+> **IBQ tip:** The lagging strand Okazaki fragments are synthesized in the 5'→3' direction but overall move away from the replication fork — a diagram showing the lagging strand with multiple short fragments each preceded by an RNA primer (shown in a different color) indicates normal lagging strand synthesis; if asked which enzyme removes RNA primers, it is DNA polymerase I (in prokaryotes) using its 5'→3' exonuclease activity, not RNase H alone.
 
 **Clinical connection:** Defects in mismatch repair genes (MLH1, MSH2, MSH6, PMS2) cause Lynch syndrome (hereditary non-polyposis colorectal cancer, HNPCC) — the most common hereditary colorectal cancer syndrome. Without mismatch repair, errors accumulate rapidly, particularly at microsatellite repeats (causing "microsatellite instability," a diagnostic marker). The logic: lose proofreading → accumulate mutations → cancer accelerates.
 
@@ -252,6 +301,11 @@ The fat-soluble vitamins are stored in adipose tissue and the liver. This means 
 
 Kidney disease impairs the final activation step, causing renal osteodystrophy (a combination of osteomalacia from Vitamin D deficiency and secondary hyperparathyroidism from hypocalcemia). Liver disease impairs the first hydroxylation, but the liver has tremendous reserve capacity, so significant Vitamin D deficiency from liver disease alone requires severe hepatic dysfunction.
 
+Rickets (Vitamin D deficiency in children) causes failure of bone mineralization at the growth plates — the cartilage is not calcified, so the growth plate widens and the metaphysis flares and softens.
+
+![Rickets X-ray of wrist and knee showing characteristic changes at the growth plate: cupping and fraying of the metaphyses (the normally sharp metaphyseal margin becomes irregular and widened), widened growth plate space, and flared metaphyseal ends; compared to normal growth plate appearance with a sharp, well-defined metaphyseal margin](../../images/rickets-xray-cupping-fraying-metaphyses.jpg)
+> **IBQ tip:** Rickets X-ray shows cupping (concave deformity of the metaphyseal end) and fraying (irregular, indistinct metaphyseal margin) as the hallmarks — distinguished from scurvy X-ray which shows a dense "white line of Frankel" at the metaphysis (calcified cartilage that cannot be remodeled) with a "Trummerfeld zone" of rarefaction just beneath it and subperiosteal hemorrhage along the shaft.
+
 **Vitamin K** is required for the gamma-carboxylation of glutamate residues in coagulation factors II, VII, IX, X, and proteins C, S, Z. The carboxylation reaction (catalyzed by gamma-glutamyl carboxylase) requires Vitamin K as a cofactor and CO2 — it adds a carboxyl group to the gamma-carbon of glutamate, creating gamma-carboxyglutamate (Gla). These Gla residues can chelate calcium ions, anchoring the coagulation factors to phospholipid membranes at sites of vascular injury — calcium is the bridge between the protein and the membrane. Warfarin inhibits Vitamin K epoxide reductase (VKOR), blocking the recycling of Vitamin K to its active form. The PT/INR is prolonged because factors II, VII, IX, X are depleted.
 
 ### B Vitamins as Coenzymes
@@ -264,7 +318,17 @@ The clinical consequence of thiamine deficiency is strikingly logical: the cells
 
 **Niacin (B3)** is the precursor to NAD+ and NADP+, the electron carriers of metabolism. Without NAD+, glycolysis and the TCA cycle shut down entirely — niacin deficiency (pellagra) causes the 4 D's: Dermatitis (photosensitive, in sun-exposed areas), Diarrhea, Dementia, Death. Niacin can be synthesized from tryptophan (60 mg tryptophan = 1 mg niacin), which is why carcinoid syndrome (tumor secreting serotonin, consuming tryptophan) can cause pellagra.
 
+Pellagra's dermatitis has a pathognomonic distribution: it affects sun-exposed areas in a symmetric pattern, most classically a scarf-like distribution around the neck called "Casal's necklace."
+
+![Pellagra skin rash showing the Casal's necklace distribution — a symmetric, sharply demarcated, hyperpigmented and scaly rash encircling the neck in a collar-like pattern, with similar rash on the dorsum of the hands and forearms (sun-exposed areas), and clear sparing of clothed/sun-protected skin](../../images/pellagra-rash-casals-necklace.jpg)
+> **IBQ tip:** Pellagra's Casal's necklace distribution (symmetric collar-like rash around the neck and on dorsum of hands) is sharply demarcated at the sun-exposure line — distinguishing it from contact dermatitis (follows the contact pattern, not sun distribution) and from the butterfly malar rash of SLE (face only, spares nasolabial folds, not the neck collar pattern).
+
 **Pyridoxine (B6)** in its active form (pyridoxal phosphate, PLP) is required for transamination reactions (the primary mechanism by which amino groups are moved between amino acids), decarboxylation of amino acids (for synthesis of neurotransmitters — DOPA decarboxylase, histidine decarboxylase, glutamic acid decarboxylase all need PLP), and heme synthesis (ALA synthase). Isoniazid (INH) used for TB treatment is a structural analog that inactivates PLP — hence INH causes B6 deficiency, manifesting as peripheral neuropathy. Pyridoxine supplementation prevents this.
+
+Angular cheilitis (cracking at the corners of the mouth) is a clinical sign of B2 (riboflavin) deficiency, often co-occurring with glossitis and seborrheic dermatitis.
+
+![Angular cheilitis photograph showing bilateral fissuring and erythema at the corners of the mouth (oral commissures), with cracked, inflamed skin extending from the mouth angles onto adjacent facial skin; the central lip and oral mucosa are spared](../../images/angular-cheilitis-b2-deficiency.jpg)
+> **IBQ tip:** Angular cheilitis at the corners of the mouth (commissures) with glossitis (magenta/beefy red tongue) indicates B2 (riboflavin) deficiency — distinguished from the central lip fissuring of B3 (niacin/pellagra) deficiency which affects the lips as part of the broader photosensitive dermatitis, and from the atrophic glossitis of B12 deficiency which presents with a smooth, beefy-red tongue without the commissure fissuring.
 
 ### The B12-Folate Relationship: The Methyl Trap
 
@@ -300,6 +364,26 @@ Vmax is the maximum velocity — the rate when every enzyme molecule has its act
 
 The Lineweaver-Burk (double-reciprocal) plot is a linear transformation of the Michaelis-Menten equation: 1/v vs 1/[S]. The y-intercept is 1/Vmax and the x-intercept is -1/Km. For competitive inhibition: same y-intercept (Vmax unchanged), different x-intercept (Km increased → x-intercept shifts toward zero). For non-competitive inhibition: different y-intercept (Vmax decreased → y-intercept increases), same x-intercept (Km unchanged). These are the logical consequences of the definitions — no memorization required.
 
+![Lineweaver-Burk double-reciprocal plot showing 1/v on y-axis and 1/[S] on x-axis: three lines intersecting at different points — the normal enzyme line, a competitive inhibition line (same y-intercept as normal = same Vmax, but steeper slope and x-intercept shifted rightward toward zero = increased apparent Km), and a non-competitive inhibition line (same x-intercept as normal = same Km, but higher y-intercept = decreased Vmax); y-intercept = 1/Vmax and x-intercept = −1/Km labeled on each line](../../images/lineweaver-burk-plot-competitive-noncompetitive.jpg)
+> **IBQ tip:** On the Lineweaver-Burk plot, competitive and non-competitive inhibition lines cross the normal line at different axes — competitive inhibition lines intersect on the y-axis (same Vmax, y-intercept unchanged) while non-competitive inhibition lines intersect on the x-axis (same Km, x-intercept unchanged); a question showing two lines that cross exactly on the y-axis identifies competitive inhibition, while lines crossing on the x-axis identifies non-competitive (or uncompetitive lines don't cross either axis at the same point as normal).
+
+> **ASCII diagram:**
+> ```
+> 1/V ↑
+>     │         Non-competitive (↓Vmax, same Km)
+>     │        ╱  Competitive (same Vmax, ↑Km)
+>     │       ╱  ╱
+>     │      ╱  ╱  Normal
+>     │     ╱  ╱  ╱
+>     │    ╱  ╱  ╱
+>  ───┼───╱──╱──╱──────────────→ 1/[S]
+>     │  ←same x-intercept     (non-comp: same Km)
+>     │        ←same y-intercept (compet: same Vmax)
+>
+> Competitive:     Vmax unchanged, Km ↑ (x-intercept shifts right)
+> Non-competitive: Vmax ↓, Km unchanged (x-intercept same, y-intercept ↑)
+> ```
+
 > **Key fact:** Suicide (irreversible) inhibitors bind covalently and permanently inactivate the enzyme. Examples: aspirin (irreversible inhibitor of COX), penicillin (irreversible inhibitor of transpeptidase/PBP), organophosphates (irreversible inhibitors of acetylcholinesterase). These cannot be out-competed by substrate and recovery requires synthesis of new enzyme.
 
 ---
@@ -316,7 +400,13 @@ Collagen is built from three polypeptide chains (alpha chains) wound together in
 
 The proline residues in the X position contribute to the rigidity of each chain — proline's pyrrolidine ring constrains the backbone. Hydroxyproline (in the Y position) and hydroxylysine are formed by post-translational hydroxylation of proline and lysine residues, and these hydroxyl groups form hydrogen bonds that stabilize the triple helix. Vitamin C (ascorbic acid) is essential for prolyl and lysyl hydroxylase activity — without it, the triple helix is unstable and collagen fibrils fall apart.
 
+![Collagen triple helix structure diagram showing three polypeptide alpha chains (shown in three different colors) wound together in a right-handed superhelix, with Gly-X-Y repeating pattern labeled on one chain; glycine residues pointing toward the central axis of the helix; hydroxyproline residues shown with hydroxyl groups extending outward forming hydrogen bonds between chains; the overall fibril cross-section shown at the right with the characteristic staggered arrangement of tropocollagen molecules](../../images/collagen-triple-helix-structure.jpg)
+> **IBQ tip:** The Gly-X-Y repeating sequence with glycine mandatory at every third position (to fit in the cramped center of the triple helix) is the key structural rule — a question identifying a collagen mutation at a glycine position (Gly→Ala or Gly→Cys substitution) predicts the most severe phenotype (e.g., lethal osteogenesis imperfecta type II), while mutations in X or Y positions (often proline or hydroxyproline) tend to produce milder phenotypes.
+
 **Clinical connection:** Scurvy (Vitamin C deficiency) is a disease of defective collagen. Weakened collagen causes perifollicular hemorrhages (the hair follicle dermis breaks down), corkscrew hairs, bleeding gums, poor wound healing, and subperiosteal hemorrhages. The gums bleed because the gingival collagen is particularly highly turned over. Scurvy's classic presentation in infants is painful limbs from subperiosteal hemorrhages — the child refuses to move (pseudoparalysis) because bleeding under the periosteum is exquisitely painful.
+
+![Scurvy clinical findings showing: (left panel) gum hemorrhage with swollen, hemorrhagic, spongy gingival tissue surrounding teeth; (right panel) corkscrew (coiled) hair follicle with perifollicular hemorrhage — a small red hemorrhagic halo around each hair follicle on the skin, characteristically found on the legs and arms](../../images/scurvy-gum-hemorrhage-perifollicular.jpg)
+> **IBQ tip:** Scurvy's perifollicular hemorrhages (small hemorrhagic halos specifically around hair follicles) are distinct from the generalized petechiae of thrombocytopenia (not follicle-centered) and from the palpable purpura of vasculitis (raised, not follicle-centered); the corkscrew hair and gum hemorrhage together are pathognomonic for scurvy (Vitamin C deficiency) and do not occur in other vitamin deficiencies.
 
 ### Collagen Cross-linking and Menkes Disease
 
@@ -350,6 +440,9 @@ Collagen is not one protein but a family of at least 28 types, and the type pres
 The collagen synthesis pathway is a journey from ribosome to extracellular matrix, with each step providing a potential point of failure and a clinical disease.
 
 Pre-pro-alpha chains are synthesized on the rough ER, with a signal peptide directing them into the lumen. Proline and lysine residues are hydroxylated (requires Vitamin C and O2) to hydroxyproline and hydroxylysine. Hydroxylysines are glycosylated (unique to collagen). Three alpha chains assemble into a triple helix from the C-terminus toward the N-terminus (the registration peptides at each end help alignment). The procollagen is secreted and the propeptides are cleaved by procollagen peptidases (cleavage of N-propeptide is deficient in Ehlers-Danlos type VIIA/B — causing the "dermatosparaxis" form). Tropocollagen self-assembles into fibrils. Lysyl oxidase cross-links fibrils (requires copper — deficient in Menkes).
+
+![Electron transport chain and oxidative phosphorylation diagram showing the inner mitochondrial membrane with Complexes I through V: Complex I (NADH dehydrogenase, rotenone-sensitive), Complex II (succinate dehydrogenase, FADH2 entry), Complex III (cytochrome bc1, antimycin A-sensitive), Complex IV (cytochrome c oxidase, cyanide/CO-sensitive), and Complex V (ATP synthase, oligomycin-sensitive); electron flow shown with arrows from NADH→Complex I→CoQ→Complex III→cytochrome c→Complex IV→O2; proton pumping shown at Complexes I, III, IV creating the proton gradient; ATP synthase using the gradient to phosphorylate ADP→ATP; inhibitor binding sites labeled](../../images/electron-transport-chain-oxidative-phosphorylation.jpg)
+> **IBQ tip:** Each complex has a specific inhibitor and substrate entry point — NADH enters at Complex I (blocked by rotenone), FADH2 enters at Complex II (bypasses Complex I, explaining why FADH2 yields fewer ATP than NADH), cyanide and carbon monoxide block Complex IV (cytochrome c oxidase) causing histotoxic hypoxia; a question asking why FADH2 yields less ATP than NADH is answered by FADH2 entering at Complex II, bypassing the proton-pumping step of Complex I.
 
 This pathway is the canonical post-translational modification story and appears frequently in NEET PG in the context of specific enzyme deficiencies, vitamin dependencies, and metabolic diseases.
 

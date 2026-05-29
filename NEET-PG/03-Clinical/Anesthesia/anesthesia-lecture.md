@@ -1,103 +1,48 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                        ANESTHESIA — NEET PG LECTURE                         │
-│                    Navigation Map  ●  Read top-down or jump                 │
-└──────────────────────────────┬──────────────────────────────────────────────┘
-                               │
-         ┌─────────────────────┼──────────────────────┐
-         │                     │                      │
-         ▼                     ▼                      ▼
-┌────────────────┐   ┌──────────────────┐   ┌────────────────────┐
-│ GENERAL        │   │ INDUCTION        │   │ REGIONAL           │
-│ ANESTHESIA     │   │ AGENTS           │   │ ANESTHESIA         │
-└───────┬────────┘   └────────┬─────────┘   └─────────┬──────────┘
-        │                     │                        │
-        ├─→ Consciousness      ├─→ Propofol             ├─→ Local Anesthetic
-        │   ● RAS + Thalamus   │   ● GABA-A potentiator │   Mechanism
-        │   ● Cortex circuits  │   ● Hypotension        │   ● Na+ channel block
-        │   ● GABA ↑ / NMDA ↓  │   ● Lipid emulsion     │   ● Ionised form
-        │                      │   ● PRIS (fatal)        │   ● Use-dependent
-        ├─→ MAC               │                         │
-        │   ● Alveolar conc.   ├─→ Ketamine             ├─→ Nerve Block
-        │   ● ED50 (50% no     │   ● NMDA antagonist     │   Sequence
-        │     movement)        │   ● ↑ BP, ↑ HR          │   B → C → Aδ →
-        │   ● Additive         │   ● Bronchodilation     │   Aβ → Aα
-        │   ● MAC-awake 0.3    │   ● Emergence delirium  │   (sympathetic
-        │   ● MAC-bar 1.5      │   ● ↑ ICP (CONTRA-      │    first, motor
-        │                      │     INDICATED head inj) │    last)
-        └─→ Meyer-Overton      │
-            Hypothesis         ├─→ Thiopental           ├─→ Spinal Anesthesia
-            ● Lipid solubility │   ● Barbiturate         │   ● Baricity concept
-              ∝ potency        │   ● ↓ ICP, ↓ CMRO2      │   ● Hyperbaric sinks
-            ● Oil-gas coeff    │   ● Long CSHT           │   ● Hypotension risk
-              determines MAC   │   ● Burst suppression   │   ● Obstetric spinal
-                               │                         │
-            Agent  MAC         └─→ Etomidate            └─→ PDPH
-            Haloth 0.75            ● GABA-A potentiator      ● CSF leak →
-            Isofl  1.15            ● Haemodynamically          brain sags
-            Sevo   2.0               STABLE                  ● Postural HA
-            Desfl  6.0             ● 11β-hydroxylase       ● Epidural blood
-            N₂O    104               inhibition →             patch (15-20 ml)
-                                     adrenal suppression   ● Pencil-point
-                                   ● Avoid in sepsis         needle → risk ↓
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-         ┌─────────────────────┬──────────────────────┐
-         │                     │                      │
-         ▼                     ▼                      ▼
-┌────────────────┐   ┌──────────────────┐   ┌────────────────────┐
-│ NEUROMUSCULAR  │   │ MALIGNANT        │   │ SUMMARY TABLES     │
-│ BLOCKING       │   │ HYPERTHERMIA     │   │                    │
-│ AGENTS (NMBAs) │   │                  │   └────────────────────┘
-└───────┬────────┘   └────────┬─────────┘
-        │                     │
-        ├─→ NMJ Physiology    ├─→ Pathophysiology
-        │   ● ACh vesicles     │   ● RYR1 mutation
-        │   ● nAChR (2× ACh)  │     (autosomal dom.)
-        │   ● AChE hydrolysis  │   ● Volatile agents
-        │                      │     + succinylcholine
-        ├─→ Succinylcholine    │     trigger
-        │   DEPOLARISING       │   ● Ca²⁺ storm from SR
-        │   ● Mimics ACh       │   ● Uncontrolled
-        │   ● Fasciculations     │     contraction
-        │     then paralysis   │   ● ATP depletion →
-        │   ● 60 sec onset       │     heat, acidosis,
-        │   ● 8-12 min         │     rhabdomyolysis
-        │   ● Plasma           │
-        │     cholinesterase   ├─→ Clinical Signs
-        │   ● RSI agent        │   (in order)
-        │                      │   ① ↑ ETCO2 (EARLIEST)
-        │   CONTRAINDICATIONS: │   ② Masseter rigidity
-        │   ● Burns >24h       │   ③ Tachycardia
-        │   ● Crush injury     │   ④ ↑ Temperature (late)
-        │   ● Denervation      │   ⑤ Metabolic acidosis
-        │     (>72h)           │   ⑥ Rhabdomyolysis
-        │   ● ↑K⁺ → VF risk   │
-        │   ● Pseudo-ChE def   └─→ Management
-        │     → scoline apnoea     ● STOP triggers NOW
-        │     → dibucaine no.       ● Dantrolene 2.5 mg/kg
-        │                            (RYR1 stabiliser)
-        ├─→ Non-Depolarising        ● Active cooling
-        │   Competitive block       ● Treat ↑K⁺
-        │   ● Rocuronium            ● Alkalinise urine
-        │   ● Vecuronium            ● Monitor 24-48h
-        │   ● Atracurium            ● CHCT test for
-        │     (Hoffmann deg.)         susceptibility
-        │   ● Pancuronium
-        │     (vagolytic)
-        │
-        └─→ Reversal Agents
-            ● Neostigmine
-              (AChE inhibitor)
-              → ↑ACh outcompetes
-              non-depolarising NMBA
-              → muscarinic side fx
-            ● Sugammadex
-              (cyclodextrin cage)
-              → encapsulates
-              rocuronium/vecuronium
-              → no muscarinic fx
-              → reverses deep block
+```mermaid
+graph TD
+    A["💉 ANESTHESIA — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Intravenous Agents"]
+    A --> C["Inhalational Agents"]
+    A --> D["Local Anesthetics"]
+    A --> E["Muscle Relaxants"]
+    A --> F["Regional Anesthesia"]
+    A --> G["Anesthetic Emergencies"]
+
+    B --> B1["Propofol<br/>Rapid onset/offset / TIVA / Antiemetic"]
+    B --> B2["Ketamine<br/>Dissociative / Maintains airway / Hemorrhagic shock"]
+    B --> B3["Thiopentone<br/>Rapid induction / Contraindicated in porphyria"]
+
+    C --> C1["Halothane<br/>Hepatotoxicity / Malignant hyperthermia trigger"]
+    C --> C2["Isoflurane<br/>Coronary steal / Least metabolized"]
+    C --> C3["Nitrous Oxide<br/>Analgesic / Diffusion hypoxia / Avoid pneuothorax"]
+
+    D --> D1["Lignocaine<br/>Amide / 1% plain / Adrenaline extends duration"]
+    D --> D2["Bupivacaine<br/>Longest acting / Cardiac toxicity"]
+    D --> D3["Mechanism<br/>Na⁺ channel block / Order: B-C-A-D fibers"]
+
+    E --> E1["Succinylcholine<br/>Depolarizing / Fastest onset / Hyperkalemia CI"]
+    E --> E2["Non-depolarizing<br/>Vecuronium / Atracurium / Rocuronium"]
+    E --> E3["Reversal<br/>Neostigmine (+ Atropine) / Sugammadex for roc"]
+
+    F --> F1["Spinal Anesthesia<br/>L3-L4 / Into CSF / Fast dense block"]
+    F --> F2["Epidural Anesthesia<br/>Outside dura / Catheter / Slow onset"]
+    F --> F3["Nerve Blocks<br/>Brachial plexus / Femoral / Sciatic"]
+
+    G --> G1["Malignant Hyperthermia<br/>Ryanodine receptor / Dantrolene treatment"]
+    G --> G2["Failed Intubation<br/>Cormack-Lehane / LMA / Surgical airway"]
+    G --> G3["Anaphylaxis<br/>Adrenaline 0.5mg IM / Airway first"]
 ```
+
+**Subject Overview (plain text):**
+- Intravenous Agents: Propofol (TIVA/Antiemetic), Ketamine (Dissociative/Hemorrhagic shock), Thiopentone (Rapid induction)
+- Inhalational Agents: Halothane (Hepatotoxicity/Malignant hyperthermia trigger), Isoflurane (Coronary steal/Least metabolized), Nitrous Oxide (Analgesic/Diffusion hypoxia)
+- Local Anesthetics: Lignocaine (Amide/Adrenaline extends duration), Bupivacaine (Longest acting/Cardiac toxicity), Mechanism (Na+ channel block/fiber order B-C-A-D)
+- Muscle Relaxants: Succinylcholine (Depolarizing/Fastest onset/Hyperkalemia CI), Non-depolarizing (Vecuronium/Atracurium/Rocuronium), Reversal (Neostigmine/Sugammadex)
+- Regional Anesthesia: Spinal (L3-L4/Into CSF/Fast dense block), Epidural (Outside dura/Catheter/Slow onset), Nerve Blocks
+- Anesthetic Emergencies: Malignant Hyperthermia (Ryanodine receptor/Dantrolene), Failed Intubation (Cormack-Lehane/LMA), Anaphylaxis
 
 # Anesthesia — Lecture Notes for NEET PG
 ### Written from first principles. Always WHY before WHAT.
@@ -141,6 +86,9 @@ Why does this make sense? Neuronal membranes are lipid bilayers. An anesthetic a
 | Sevoflurane | 47 | 2.0 |
 | Desflurane | 19 | 6.0 |
 | Nitrous oxide | 1.4 | 104 |
+
+![MAC values bar chart: horizontal bars for halothane (0.75%), isoflurane (1.15%), sevoflurane (2.0%), desflurane (6.0%), and nitrous oxide (104%), arranged in ascending order of MAC with a secondary axis showing inverse relationship to oil-gas partition coefficient](../../images/mac-values-inhalational-agents.jpg)
+> **IBQ tip:** In the bar chart, the key visual feature is the dramatic jump to nitrous oxide (104%) compared to all others — this immediately flags that N2O cannot achieve surgical anesthesia alone at atmospheric pressure. The closest look-alike confusion is sevoflurane (2.0%) vs desflurane (6.0%): remember desflurane has the lowest oil-gas coefficient (least lipid-soluble) and therefore the highest MAC — least potent among the volatile agents in clinical use.
 
 Notice that nitrous oxide, with a MAC of 104%, cannot produce surgical anesthesia at atmospheric pressure alone — you cannot give 104% of any gas at 1 atm. It requires a hyperbaric chamber or combination with other agents.
 
@@ -220,6 +168,9 @@ Spinal anesthesia involves injecting local anesthetic directly into the subarach
 
 Baricity is the ratio of the density of the anesthetic solution to the density of CSF (CSF density ≈ 1.003-1.007 g/ml at 37°C). A hyperbaric solution (density > CSF) — typically made by mixing local anesthetic with 8% dextrose (glucose) — is denser than CSF and therefore sinks with gravity to the most dependent part of the subarachnoid space. A hypobaric solution (density < CSF) floats upward. An isobaric solution distributes evenly regardless of positioning.
 
+![Spinal cord cross-section diagram showing the three meningeal layers — dura mater (outermost), arachnoid mater (middle), and the subarachnoid space filled with CSF where the spinal needle tip is positioned for spinal anesthesia, with arrows showing hyperbaric solution sinking dependently and hypobaric solution rising](../../images/spinal-anesthesia-baricity-meninges.jpg)
+> **IBQ tip:** In the cross-section image, identify the subarachnoid space as the CSF-filled gap between the arachnoid and the pia mater — this is where local anesthetic is deposited for spinal block. The closest look-alike confusion is with epidural space, which is outside the dura (no CSF visible); in the image the needle tip that is in CSF (spinal) lies deeper than the needle tip in the epidural space.
+
 **Analogy:** Think of the subarachnoid space as a fish tank filled with CSF. A hyperbaric solution is like a dense salt solution dropped into the tank — it sinks to the bottom (the dependent region). Positioning the patient tilts the tank: the heavy solution runs toward whichever end is lowest.
 
 The most feared complication of spinal anesthesia is hypotension, caused by sympathetic blockade. The sympathetic nervous system maintains vascular tone — when it is blocked, peripheral vasodilation occurs, venous pooling reduces preload, and cardiac output drops. In pregnant patients (e.g., caesarean section), this is exacerbated by aortocaval compression in the supine position, and by the already high baseline block levels required. Management: left lateral tilt (displaces the gravid uterus off the IVC), IV fluid preloading, and vasopressors (phenylephrine — the preferred vasopressor in obstetric spinal anesthesia as it maintains uteroplacental blood flow better than ephedrine).
@@ -264,6 +215,9 @@ The sustained depolarisation caused by succinylcholine opens ion channels in the
 
 But consider what happens in burns, crush injuries, prolonged immobilisation, denervation (spinal cord injury, stroke, peripheral nerve injury), and severe sepsis. In all these conditions, the muscle surface upregulates extrajunctional acetylcholine receptors — nicotinic receptors appear over the entire muscle membrane, not just the NMJ. The body does this in response to decreased neural input or muscle damage, attempting to remain sensitive to any available ACh. Now, when succinylcholine is given, it binds to ALL these receptors across the entire muscle surface. The area available for K+ efflux is dramatically — sometimes 10-20 times — greater than normal. The resulting K+ efflux can raise serum K+ by 5-10 mEq/L instantaneously → ventricular fibrillation → cardiac arrest.
 
+![ECG strip showing succinylcholine-induced hyperkalemia: peaked, tall, narrow symmetrical T waves in multiple leads with shortened QT interval, progressing in severe cases to sine-wave pattern — contrasted with a normal ECG T-wave morphology](../../images/succinylcholine-hyperkalemia-ecg.jpg)
+> **IBQ tip:** In the ECG strip, the hallmark of hyperkalemia is the tall, symmetrical, narrow-based peaked T wave — differentiate from normal T waves (asymmetric, broader base) and from the tall T waves of early STEMI (which are asymmetric and associated with ST changes in a territorial distribution). Succinylcholine-induced peaked T waves appear within minutes of drug administration in susceptible patients.
+
 > **Key exam insight:** Succinylcholine is absolutely CONTRAINDICATED in: burns (>24-48 hours old, risk lasts months), crush injuries, denervation injuries (spinal cord injury, peripheral nerve injury, stroke — risk starts 72 hours after injury, lasts months to years), prolonged immobilisation/ICU myopathy, and hyperkalaemia of any cause. It is SAFE to use acutely (within the first 24 hours) in burns and trauma — the upregulation of extrajunctional receptors takes time.
 
 **Analogy:** The normal NMJ is like a single tap — succinylcholine opens it and some K+ leaks out. In a denervated muscle, the tap has become a floodgate covering the entire muscle surface — opening it causes a catastrophic flood of K+ into the bloodstream.
@@ -275,6 +229,9 @@ Pseudocholinesterase deficiency (plasma cholinesterase deficiency) prolongs the 
 Non-depolarising NMBAs (rocuronium, vecuronium, atracurium, cisatracurium, pancuronium) are competitive antagonists at the nAChR. They bind the alpha subunits of the receptor but do NOT activate the ion channel — they simply block ACh from binding. Because this is competitive inhibition, it can be reversed by flooding the NMJ with ACh (by inhibiting AChE). This is the basis of reversal agents — neostigmine inhibits AChE, ACh accumulates in the cleft, and outcompetes the NMBA for the receptor. The muscle recovers.
 
 The critical difference: non-depolarising block produces NO initial fasciculations (the receptor is blocked, not activated), and the block IS reversible with neostigmine (cholinesterase inhibitor). Depolarising block with succinylcholine shows initial fasciculations and is NOT reversed by neostigmine (in fact, neostigmine worsens Phase I block).
+
+![Train-of-four (TOF) neuromuscular monitoring diagram: panel A shows four equal-height twitches in a normal (no block) response; panel B shows progressive fade — each successive twitch shorter than the last — in non-depolarising block; panel C shows four equal but diminished twitches with post-tetanic facilitation absent in depolarising (succinylcholine) block](../../images/train-of-four-tof-monitoring.jpg)
+> **IBQ tip:** The diagnostic feature in the image is the presence or absence of fade: non-depolarising block shows clear fade (T4/T1 ratio <0.9) because each stimulus depletes the presynaptic ACh store further against a competitive block, while depolarising block shows no fade — all four twitches diminish equally. This TOF fade pattern is what distinguishes the two block types clinically at the bedside.
 
 Sugammadex (cyclodextrin) is a newer, revolutionary reversal agent specifically for rocuronium and vecuronium. It encapsulates the NMBA molecule in a water-soluble cage, preventing it from binding to the nAChR. The drug-sugammadex complex is excreted in urine. It can reverse even profound block within minutes, without the muscarinic side effects of neostigmine (bradycardia, bronchospasm, increased secretions).
 
@@ -289,6 +246,9 @@ To understand malignant hyperthermia (MH), you need to understand excitation-con
 Malignant hyperthermia is a pharmacogenetic disorder caused by an autosomal dominant mutation in the RYR1 gene (and less commonly CACNA1S, the DHPR gene). The mutant RYR1 channel is hypersensitive to triggering agents — specifically volatile inhalational anesthetics (halothane, isoflurane, sevoflurane, desflurane) and succinylcholine. In susceptible individuals exposed to these trigger agents, the mutant RYR1 cannot close — it remains open, releasing Ca2+ from the SR in an uncontrolled, massive, sustained torrent.
 
 The consequences of this calcium storm cascade physiologically in a way that explains every clinical feature of MH. Sustained, uncontrolled muscle contraction is the primary event. Uncontrolled contraction consumes ATP at an enormous rate → ATP synthase works overtime → massive O2 consumption → CO2 production (rising end-tidal CO2 is the earliest sign, appearing before temperature or rigidity). As ATP is depleted, the SERCA pump fails (it needs ATP to pump Ca2+ back into SR) — worsening the Ca2+ overload in a positive feedback loop. The muscle cell becomes necrotic → releases K+ (hyperkalemia), myoglobin (myoglobinuria, renal failure), CK (rhabdomyolysis). Heat is produced by the futile Ca2+ cycling and uncoupled ATP hydrolysis — temperature rises rapidly (may reach 42-44°C). Metabolic acidosis develops from lactate (anaerobic metabolism when O2 delivery is overwhelmed) and CO2 retention.
+
+![Malignant hyperthermia cascade diagram: RYR1 mutation shown on the sarcoplasmic reticulum membrane; trigger agents (volatile anesthetics + succinylcholine) listed; uncontrolled Ca2+ release arrow leading to boxes showing muscle rigidity → ATP depletion → hyperthermia → rhabdomyolysis → metabolic acidosis → hyperkalemia, with dantrolene acting at RYR1 to block the initial Ca2+ release](../../images/malignant-hyperthermia-ryr1-cascade.jpg)
+> **IBQ tip:** In the cascade diagram, the critical starting point is the RYR1 channel on the SR membrane — all downstream events flow from this single uncontrolled Ca2+ release. The closest look-alike confusion is neuroleptic malignant syndrome (NMS), which shares hyperthermia and rigidity but is triggered by dopamine antagonists (not anesthetic agents) and lacks the RYR1 mutation; dantrolene works in MH but not reliably in NMS.
 
 **Analogy:** Imagine the SR as a dam holding back a reservoir of Ca2+. The mutant ryanodine receptor is a gate that, when touched by the trigger agent, opens completely and cannot be closed. The reservoir empties in an uncontrolled flood — the muscle fires continuously, burning through all available fuel (ATP), generating catastrophic heat, acid, and cellular destruction.
 

@@ -1,78 +1,64 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    GENERAL MEDICINE — TOPIC OVERVIEW                        │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-          ┌─────────────────────────┼──────────────────────────┐
-          │                         │                          │
-          ▼                         ▼                          ▼
-┌─────────────────┐      ┌──────────────────┐      ┌──────────────────────┐
-│  CARDIOVASCULAR │      │   METABOLIC &    │      │  NEUROLOGY &         │
-│                 │      │   ENDOCRINE      │      │  RHEUMATOLOGY        │
-└────────┬────────┘      └────────┬─────────┘      └──────────┬───────────┘
-         │                        │                            │
-    ┌────┴────┐              ┌────┴────┐               ┌──────┴──────┐
-    ▼         ▼              ▼         ▼               ▼             ▼
-┌───────┐ ┌──────┐      ┌────────┐ ┌──────┐      ┌────────┐  ┌──────────┐
-│HEART  │ │ CAD  │      │DIABETES│ │ HTN  │      │ STROKE │  │RHEUMATO- │
-│FAILURE│ │& MI  │      │MELLITUS│ │      │      │        │  │  LOGY    │
-└───┬───┘ └──┬───┘      └───┬────┘ └──┬───┘      └───┬────┘  └────┬─────┘
-    │        │              │         │               │            │
-    ├─ Frank-│Starling   ├─ Type 1    ├─ RAAS         ├─ Ischaemic ├─ SLE
-    │        │           │  (autoim.) │  mechanism    │  (85%)     │  ● anti-dsDNA
-    ├─ RAAS  ├─ Athero-  │           ├─ End-organ     │  ● Penumbra│  ● APS
-    │  activ.│  sclerosis├─ Type 2    │  damage        │  ● tPA 4.5h│  ● Nephritis
-    │        │           │  (insulin  │  ● Heart LVH   │            │
-    ├─ LHF   ├─ STEMI    │   resist.) │  ● Brain       ├─ Haemorrh- ├─ RA
-    │  ● pulm│  ● ECG    │           │    lacunar     │  agic(15%) │  ● Pannus
-    │  oedema│    zones  ├─ DKA       │  ● Kidney      │  ● ICH     │  ● Anti-CCP
-    │        │  ● PCI vs │  ● Anion   │    nephrosc.   │  ● SAH     │  ● TNF-α/
-    ├─ RHF   │    thrombo│    gap MAC  │  ● Eyes        │            │    IL-6
-    │  ● ↑JVP│           │  ● Kussmaul│    fundoscopy  │            │    biologics
-    │  ● oede│├─ MI Comp.│  ● K+ mgmt ├─ Drug Select   │            │
-    │        ││  0-24h → │           │  ● ACEi/ARB    │            │
-    │        ││  arrhyth.│├─ HHS vs   │  ● CCB         │            │
-    ├─ Drugs ││  3-5d →  ││  DKA      │  ● Thiazide    │            │
-    │  ● ACEi││  papillary│           │  ● β-blocker   │            │
-    │  ● β-bl││  rupture  ├─ Chronic  │                │            │
-    │  ● Aldo││  5-10d → ││  Complics │                │            │
-    │  ● SGLT││  free wall│  ● Nephro-│                │            │
-    │    2i  ││  rupture  │    pathy  │                │            │
-    │  ● Furo││  Weeks → ││  ● Retino-│                │            │
-    │  semide│└─ Dressler│    pathy  │                │            │
-    │        │   LV aneu.│  ● Neuro- │                │            │
-    └────────┘           └─   pathy  ┘                └────────────┘
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-          ┌─────────────────────────┼──────────────────────────┐
-          ▼                         ▼                          ▼
-┌──────────────────┐      ┌──────────────────┐      ┌─────────────────────┐
-│   RESPIRATORY    │      │    NEPHROLOGY    │      │  INFECTIOUS DIS.    │
-└────────┬─────────┘      └────────┬─────────┘      └──────────┬──────────┘
-         │                         │                            │
-    ┌────┴────┐               ┌────┴────┐                  ┌───┴───┐
-    ▼         ▼               ▼         ▼                  ▼       ▼
-┌─────────┐ ┌────────┐  ┌─────────┐ ┌──────────┐    ┌─────────┐ ┌────────┐
-│PNEUMONIA│ │ATYPICAL│  │   AKI   │ │NEPHROTIC │    │   TB    │ │(Tables)│
-│  (CAP)  │ │ PNEUM. │  │         │ │SYNDROME  │    │         │ │        │
-└────┬────┘ └────┬───┘  └────┬────┘ └────┬─────┘    └────┬────┘ └────────┘
-     │           │           │           │                │
-     ├─ S.pneumo ├─ Myco-    ├─ Pre-renal│  ● Massive    ├─ Granuloma
-     │   capsule │  plasma   │  FENa <1% │    proteinuria│   formation
-     ├─ Lobar    ├─ Legionella├─ Intrinsic│  ● Hypoalbu-  ├─ Caseous
-     │   consol. │  (SIADH,  │  (ATN)    │    minaemia   │   necrosis
-     ├─ 4 stages:│   urine Ag)│  FENa >2% │  ● Oedema    ├─ Latent →
-     │   congestion├─ Chlamydo-├─ Post-   │  ● Thrombosis│   Reactivation
-     │   red hep.│  phila    │  renal    ├─ Causes:      ├─ Upper lobe
-     │   grey hep│           │  hydro-   │  ● MCD (child)│   cavitation
-     │   resolut.├─ CURB-65  │  nephrosis│  ● FSGS      ├─ DOTS: RIPE
-     │           │  scoring  ├─ Hyperk-  │  ● Membranous│   × 2 months
-     └─ CURB-65  └─ Macrolide│  alaemia  │  ● DM nephro │   + RI × 4mo
-        scoring     /FQ tx   │  mgmt     └─ Membranous   └─ Drug S/E:
-                             └─ Dialysis     PLA2R Ab        ● Rifamp→
-                                                             ● INH→neuro
-                                                             ● PZA→gout
-                                                             ● EMB→optic
+```mermaid
+graph TD
+    A["🩺 GENERAL MEDICINE — NEET PG<br/>8 Major Systems"]
+
+    A --> B["Cardiology"]
+    A --> C["Respiratory"]
+    A --> D["Nephrology"]
+    A --> E["Gastroenterology"]
+    A --> F["Neurology"]
+    A --> G["Endocrinology"]
+    A --> H["Infectious Diseases"]
+    A --> I["Rheumatology"]
+
+    B --> B1["IHD<br/>STEMI / NSTEMI / Troponin 3-6h"]
+    B --> B2["Arrhythmias<br/>AF / VT / Heart blocks"]
+    B --> B3["Heart Failure<br/>Systolic (EF<40%) vs Diastolic"]
+    B --> B4["Hypertension<br/>JNC 8 targets / Emergency vs Urgency"]
+
+    C --> C1["Pneumonia<br/>CURB-65 / CAP vs HAP"]
+    C --> C2["COPD<br/>FEV1/FVC <70% / Gold classification"]
+    C --> C3["Asthma<br/>Reversible / Stepwise management"]
+    C --> C4["ILD & TB<br/>Honeycomb / Ghon focus / ATT"]
+
+    D --> D1["CKD<br/>eGFR stages G1-G5 / KDIGO"]
+    D --> D2["Nephrotic Syndrome<br/>Proteinuria >3.5g / Anasarca"]
+    D --> D3["Nephritic Syndrome<br/>Hematuria + Hypertension + Oliguria"]
+
+    E --> E1["Peptic Ulcer<br/>H. pylori / Triple therapy"]
+    E --> E2["Cirrhosis<br/>Child-Pugh / MELD / Varices"]
+    E --> E3["IBD<br/>Crohn's (transmural) vs UC (mucosa)"]
+
+    F --> F1["Stroke<br/>Ischemic (tPA <4.5h) vs Hemorrhagic"]
+    F --> F2["Meningitis<br/>Bacterial vs Viral / CSF analysis"]
+    F --> F3["Seizures<br/>Focal vs Generalized / Status epilepticus"]
+
+    G --> G1["Diabetes<br/>DM1 vs DM2 / HbA1c <7% target"]
+    G --> G2["Thyroid<br/>Hypo (TSH↑) / Hyper (TSH↓) / Goitre"]
+    G --> G3["Adrenal<br/>Cushing's / Addison's / Phaeochromocytoma"]
+
+    H --> H1["Malaria<br/>P. falciparum (severe) / ACT treatment"]
+    H --> H2["Typhoid<br/>Widal week 2 / Ciprofloxacin"]
+    H --> H3["HIV/AIDS<br/>CD4 <200 = AIDS / ART when to start"]
+
+    I --> I1["RA<br/>RF + Anti-CCP / Pannus / Erosions"]
+    I --> I2["SLE<br/>ANA / Anti-dsDNA / Butterfly rash"]
+    I --> I3["Gout<br/>Urate crystals / Colchicine / Allopurinol"]
 ```
+
+**Subject Overview (plain text):**
+- Cardiology: IHD (STEMI/NSTEMI/Troponin), Arrhythmias (AF/VT/Heart blocks), Heart Failure (Systolic vs Diastolic), Hypertension (JNC 8 targets)
+- Respiratory: Pneumonia (CURB-65/CAP vs HAP), COPD (FEV1/FVC <70%/GOLD), Asthma (Reversible/Stepwise management), ILD & TB
+- Nephrology: CKD (eGFR stages G1-G5/KDIGO), Nephrotic Syndrome (Proteinuria >3.5g), Nephritic Syndrome (Hematuria+Hypertension)
+- Gastroenterology: Peptic Ulcer (H. pylori/Triple therapy), Cirrhosis (Child-Pugh/MELD/Varices), IBD (Crohn's transmural vs UC mucosal)
+- Neurology: Stroke (Ischemic tPA <4.5h vs Hemorrhagic), Meningitis (Bacterial vs Viral/CSF analysis), Seizures (Focal vs Generalized)
+- Endocrinology: Diabetes (DM1 vs DM2/HbA1c <7%), Thyroid (Hypo/Hyper/Goitre), Adrenal (Cushing's/Addison's/Phaeochromocytoma)
+- Infectious Diseases: Malaria (P. falciparum severe/ACT), Typhoid (Widal week 2/Ciprofloxacin), HIV/AIDS (CD4 <200=AIDS/ART)
+- Rheumatology: RA (RF+Anti-CCP/Pannus/Erosions), SLE (ANA/Anti-dsDNA/Butterfly rash), Gout (Urate crystals/Colchicine/Allopurinol)
+
+> **Split Notes:** [Cardiology](medicine-cardiology.md) | [Pulmonology](medicine-pulmonology.md) | [Gastroenterology](medicine-gastroenterology.md) | [Neurology](medicine-neurology.md) | [Endocrinology](medicine-endocrinology.md) | [Rheumatology](medicine-rheumatology.md) | [MCQs](medicine-mcqs.md) | [Notes Index](medicine-notes.md)
 
 # General Medicine — Lecture Notes for NEET PG
 ### Written in the style of bedside clinical teaching
@@ -110,6 +96,12 @@ The left ventricle receives oxygenated blood from the pulmonary veins via the le
 This is the mechanism of pulmonary oedema. The patient cannot breathe because their alveoli are full of fluid — the same alveoli that are supposed to be full of air. Dyspnoea on exertion occurs because exercise increases the demand for cardiac output, which the failing heart cannot meet, and also because exercise redistributes blood, increasing venous return and thus pulmonary vascular pressure. Orthopnoea — breathlessness on lying flat — occurs because lying down redistributes fluid from the peripheral vasculature into the central circulation, increasing preload and therefore pulmonary venous pressure. The patient sleeps on many pillows. Paroxysmal nocturnal dyspnoea is the same mechanism but more dramatic: the patient wakes from sleep gasping because lying flat for hours has gradually increased pulmonary oedema until they are drowning.
 
 **Clinical connection:** The classic chest X-ray of left heart failure tells the entire pathophysiology story. Upper lobe venous diversion (because high pulmonary venous pressure redirects blood to the upper lobes, which have lower resistance when distended). Kerley B lines (thickened interlobular septa from interstitial fluid). Bat-wing perihilar haziness (alveolar oedema). Cardiomegaly (from ventricular dilatation). Bilateral pleural effusions (fluid in the pleural space from high hydrostatic pressure). Read the X-ray, recite the mechanism.
+
+![CXR showing upper lobe venous diversion, Kerley B lines at the lung bases, and bat-wing perihilar haziness in pulmonary oedema](../../images/general-medicine-pulmonary-oedema.jpg)
+> **IBQ tip:** Identify the horizontal lines at the costophrenic angles (Kerley B lines, ≤2 cm long, perpendicular to the pleural surface) and the central bat-wing opacification — these are interstitial then alveolar oedema, respectively. Distinguish from lobar pneumonia (lobar consolidation is unilateral, air bronchograms present) and ARDS (bilateral but without cardiomegaly or Kerley B lines).
+
+![CXR showing cardiomegaly with cardiothoracic ratio greater than 0.5 and bilateral pleural effusions with blunted costophrenic angles](../../images/general-medicine-cardiomegaly.jpg)
+> **IBQ tip:** Draw a vertical line at the widest cardiac diameter and the widest thoracic diameter — CTR >0.5 is cardiomegaly; also note the meniscus sign (concave upper border of pleural effusion laterally). Distinguish unilateral effusion (exudate — think cancer, parapneumonic) from bilateral (transudate — heart failure, hypoalbuminaemia).
 
 ### Right Heart Failure — Why It Causes Peripheral Symptoms
 
@@ -151,6 +143,15 @@ A complete occlusion of a major coronary artery causes transmural ischaemia. Fro
 
 This three-zone model explains every ECG change in MI. ST elevation = zone of injury (actively dying myocardium — this is your emergency, call the cath lab). T-wave inversion = zone of ischaemia. Q waves develop as the zone of necrosis expands — the necrotic cells are electrically silent, so the ECG electrode overlying them sees only the opposing wall's electrical activity, manifesting as a pathological Q wave (representing an electrical "window" through dead tissue).
 
+![ECG showing ST elevation in leads II, III, aVF with reciprocal ST depression in I and aVL, consistent with inferior STEMI](../../images/general-medicine-st-elevation.jpg)
+> **IBQ tip:** Look for convex (tombstone) ST elevation ≥1 mm in ≥2 contiguous leads in the territory of the culprit artery — inferior (II, III, aVF = RCA), anterior (V1–V4 = LAD), lateral (I, aVL, V5–V6 = LCx); reciprocal ST depression in the mirror leads confirms the diagnosis. Distinguish from pericarditis (saddle-shaped ST elevation in all leads, PR depression, no reciprocal changes).
+
+![ECG showing pathological Q waves (>25% of R wave height, >40 ms wide) in leads V1–V4 indicating established anterior infarction](../../images/anterior-mi-q-waves-ecg.jpg)
+> **IBQ tip:** A pathological Q wave is ≥40 ms (one small square) wide or ≥25% of the R wave in depth in that lead — these represent electrically silent necrotic myocardium. Distinguish from normal septal Q waves (small, narrow, in lateral leads I, aVL, V5–V6) which are physiological.
+
+![ECG showing deep symmetrical T-wave inversions in leads V1–V4 representing the zone of ischaemia surrounding an infarct](../../images/t-wave-inversion-ischaemia-ecg.jpg)
+> **IBQ tip:** Symmetrical, deep T-wave inversions (Wellens' pattern in V2–V3) indicate critical LAD stenosis — the ischaemic penumbra. Distinguish from the asymmetric T inversions of LVH strain pattern (which occur in the lateral leads with ST depression sloping down).
+
 > **The Time-Muscle Equation:** In a STEMI, the occlusion is complete. Myocardium begins dying within 20 minutes of total ischaemia. By 6 hours, the entire territory at risk is usually infarcted. Every minute of delay costs approximately 1.7 million cardiomyocytes. "Time is muscle" is not a slogan — it is biology.
 
 ### Thrombolysis vs Primary PCI — The Logical Comparison
@@ -166,6 +167,9 @@ The decision tree is simple: if a cath lab is available and the patient can be o
 The complications of MI follow a beautiful temporal logic that you can derive from the pathophysiology.
 
 **0-24 hours — Arrhythmias:** The ischaemic myocardium has abnormal automaticity and re-entry circuits because of inhomogeneous conduction — some cells are dead, some injured, some ischaemic, each with different electrical properties. This is the substrate for ventricular fibrillation and ventricular tachycardia. This is why MI patients die suddenly in the first few hours — VF before they reach hospital. This is why defibrillators in ambulances save lives. Reperfusion itself can cause arrhythmias (reperfusion arrhythmias — accelerated idioventricular rhythm is actually a good sign, indicating reperfusion).
+
+![ECG showing ventricular tachycardia: broad complex tachycardia at 150–200 bpm with AV dissociation and concordant chest leads](../../images/general-medicine-ventricular-tachycardia.jpg)
+> **IBQ tip:** VT shows broad QRS complexes (>120 ms) with a regular tachycardia — look for AV dissociation (P waves marching independently through QRS), fusion beats, and capture beats, which are pathognomonic. Distinguish from SVT with aberrancy (where the QRS is also broad but the RS interval in any precordial lead is <100 ms — Brugada criteria).
 
 **3-5 days — Papillary Muscle Rupture:** The papillary muscles — which tether the mitral valve leaflets via chordae tendineae — derive their blood supply from the terminal branches of the coronary arteries. In an inferior MI (RCA territory), the posteromedial papillary muscle (supplied by a single artery, the RCA) is at risk. After 3-5 days of ischaemia, the muscle undergoes necrosis and can rupture. The mitral valve becomes acutely incompetent — massive mitral regurgitation → acute pulmonary oedema → cardiogenic shock. Clinically: sudden haemodynamic deterioration 3-5 days post-MI with a new loud holosystolic murmur at the apex. Echo confirms it. Emergency surgical repair is required.
 
@@ -198,6 +202,12 @@ The **brain** receives high-pressure blood flow. Chronic hypertension causes lip
 The **kidneys** are both victims and perpetuators. High pressure damages the glomerular capillaries (hypertensive nephrosclerosis — afferent arteriolar thickening, glomerular ischaemia, tubular atrophy). Damaged kidneys produce more renin, driving up blood pressure further — a vicious cycle. CKD and hypertension feed each other until the kidneys fail.
 
 The **eyes** show arteriolar changes on fundoscopy — the one place you can directly visualise arterioles in vivo. Silver-wiring (increased light reflex from thickened arteriolar walls), arteriovenous nipping (where arterioles cross veins, compressing them), flame haemorrhages, cotton-wool spots (microinfarcts of the nerve fibre layer), and disc oedema in malignant hypertension.
+
+![Fundus photograph showing AV nipping (arteriovenous nicking) where a thickened arteriole compresses the underlying vein at a crossing point, flame haemorrhages in a spoke-wheel distribution, and cotton-wool spots](../../images/hypertensive-retinopathy-fundus.jpg)
+> **IBQ tip:** At an AV crossing, the arteriole and vein share an adventitial sheath — a thickened arteriole compresses the vein, causing the vein to appear to disappear on either side (nipping/nicking). Flame haemorrhages are superficial and follow the nerve fibre layer striations. Distinguish from diabetic retinopathy: hypertensive retinopathy shows AV nipping prominently, whereas diabetic shows dot-blot microaneurysms and neovascularisation as cardinal features.
+
+![Fundus photograph showing papilloedema with blurred disc margins, absent venous pulsations, peripapillary flame haemorrhages and a full cup in malignant hypertension](../../images/general-medicine-papilloedema.jpg)
+> **IBQ tip:** The optic disc margin is normally sharp and the cup-to-disc ratio ≤0.5 with spontaneous venous pulsations visible — papilloedema obliterates the disc margin, elevates the disc surface, and abolishes venous pulsations. Distinguish from pseudopapilloedema (disc drusen — sharp margins under autofluorescence, normal venous pulsations) and optic neuritis (disc swollen but pain on eye movement, central scotoma).
 
 **Clinical connection:** Hypertensive emergency (malignant hypertension) is defined by end-organ damage — encephalopathy (hypertensive PRES), acute kidney injury, aortic dissection, acute LVF — regardless of the exact BP number. The goal is controlled, gradual BP reduction (not rapid normalisation, which can cause cerebral ischaemia due to the shifted autoregulation curve).
 
@@ -255,6 +265,12 @@ Chronic hyperglycaemia causes damage through several mechanisms: non-enzymatic g
 
 **Diabetic nephropathy** follows a logical progression: hyperfiltration (early, due to efferent arteriolar dilation under the influence of hyperglycaemia, increasing GFR) → glomerular hypertrophy → mesangial expansion (Kimmelstiel-Wilson nodules on biopsy) → progressive proteinuria (microalbuminuria → macroalbuminuria) → declining GFR → end-stage renal disease. ACEi/ARBs protect the kidney by reducing intraglomerular pressure (by dilating the efferent arteriole less — actually by reducing the intense RAAS-driven efferent constriction, normalising filtration pressure).
 
+![Fundus photograph showing early diabetic retinopathy: dot-and-blot microaneurysms in the posterior pole, scattered hard exudates forming a circinate ring, and flame haemorrhages](../../images/general-medicine-diabetic-retinopathy.jpg)
+> **IBQ tip:** Microaneurysms appear as discrete red dots (smaller than a disc vessel); hard exudates are bright yellow waxy deposits with sharp edges caused by lipid leakage from incompetent vessels; dot-and-blot haemorrhages are intraretinal. Distinguish from cotton-wool spots (soft exudates — fluffy white patches, represent nerve fibre layer infarcts, signify pre-proliferative stage) which have indistinct borders.
+
+![Fundus photograph showing proliferative diabetic retinopathy with neovascularisation at the disc (NVD) and elsewhere (NVE), with preretinal haemorrhage and fibrovascular proliferation](../../images/proliferative-diabetic-retinopathy-fundus.jpg)
+> **IBQ tip:** New vessels (NVD — neovascularisation at disc, NVE — elsewhere) grow on the retinal surface and into the vitreous in a lacy, irregular pattern without the orderly architecture of normal retinal vessels. Preretinal haemorrhage is boat-shaped (follows the gravity-dependent meniscus against the posterior hyaloid). Distinguish from normal disc vessels which are orderly, branching, and do not extend onto the vitreous face.
+
 ---
 
 ## Stroke and Neurology
@@ -283,6 +299,9 @@ This distinction must be made before any treatment, because the treatments are d
 
 > **NEET PG Insight:** AF causes cardioembolic stroke (emboli lodge in MCA most commonly → contralateral hemiplegia + hemisensory loss + homonymous hemianopia + aphasia if dominant hemisphere). Anticoagulation with warfarin (target INR 2-3) or DOACs reduces embolic stroke risk in AF by ~65%. Know CHA₂DS₂-VASc score for deciding when to anticoagulate.
 
+![ECG showing atrial fibrillation: irregularly irregular R-R intervals, absent distinct P waves replaced by fibrillatory baseline, narrow QRS complexes](../../images/general-medicine-atrial-fibrillation.jpg)
+> **IBQ tip:** In AF the baseline between QRS complexes shows fine irregular oscillations (fibrillatory waves) rather than distinct P waves, and the R-R intervals are completely irregular (no repeating pattern). Distinguish from atrial flutter (regular sawtooth flutter waves at 300 bpm, ventricular rate often 150 bpm with 2:1 block — the R-R intervals are regular) and multifocal atrial tachycardia (≥3 distinct P-wave morphologies, irregular but with identifiable P waves).
+
 ---
 
 ## Rheumatology
@@ -296,6 +315,9 @@ Normally, cells undergoing apoptosis package their nuclear contents neatly into 
 Anti-dsDNA antibodies are the ones that cause nephritis — and the mechanism is beautiful in its logic. Anti-dsDNA antibodies form immune complexes with their antigens. These immune complexes circulate in the blood and deposit preferentially in the glomeruli (because of the high filtration pressure and the mesangial affinity for immune complexes). Deposited immune complexes activate complement (the C1q-C4-C3 cascade) → membrane attack complex formation → glomerular injury → lupus nephritis. The pattern of deposition determines the class of nephritis (WHO classification I-VI). Class III and IV (diffuse proliferative GN) are the most severe and require aggressive immunosuppression.
 
 **The butterfly rash** (malar rash, sparing the nasolabial folds) is triggered by UV light. UV radiation damages keratinocytes → apoptosis is induced → nuclear material (the same antigens that drive the systemic autoimmunity) is exposed on the cell surface → anti-nuclear antibodies bind → complement activation → inflammatory rash. The distribution (malar prominence, sparing nasolabial folds) reflects the pattern of UV exposure on the face.
+
+![Clinical photograph showing the malar (butterfly) rash of SLE: erythema over both cheeks and the nasal bridge forming a butterfly pattern, conspicuously sparing the nasolabial folds](../../images/sle-malar-rash.jpg)
+> **IBQ tip:** The SLE malar rash is flat or slightly raised erythema over the malar eminences joined across the nasal bridge, with the defining feature being sparing of the nasolabial folds (the deep creases from nostril to lip corner) — this is because the folds are in shade and receive less UV. Distinguish from rosacea (which affects the nasolabial folds and causes telangiectasia and papulopustules) and seborrhoeic dermatitis (yellowish greasy scale in the folds, eyebrows, scalp).
 
 **Antiphospholipid syndrome** — seen in ~30% of SLE patients — is caused by antibodies against phospholipid-binding proteins (beta-2 glycoprotein I, prothrombin). These antibodies paradoxically cause thrombosis (not bleeding) — arterial and venous. The name "lupus anticoagulant" is confusing — it prolongs the APTT in vitro (hence "anticoagulant") but causes thrombosis in vivo. Recurrent miscarriages (thrombosis of placental vessels), DVT, PE, stroke, and livedo reticularis are the hallmarks. Treatment: lifelong anticoagulation with warfarin.
 
@@ -312,6 +334,9 @@ In the joint, activated macrophages and T cells produce a torrent of pro-inflamm
 The systemic effects of RA — anaemia of chronic disease, elevated ESR/CRP, fatigue, weight loss, fever — are all consequences of the same pro-inflammatory cytokines (particularly IL-6) spilling into the circulation. IL-6 drives hepatic acute-phase protein production (CRP, fibrinogen, hepcidin — hepcidin blocks iron release from macrophages, causing the anaemia of chronic disease).
 
 **Clinical connection:** The pattern of joint involvement distinguishes RA from other arthropathies. RA affects small joints of the hands (MCP and PIP joints, but characteristically spares the DIP joints — this distinguishes it from osteoarthritis). Symmetrical (both hands). Morning stiffness lasting over 1 hour (the synovitis is worse after inactivity — movement "warms up" the joint; this is opposite to OA where pain worsens with use and improves with rest).
+
+![Clinical photograph of rheumatoid hand deformities: ulnar deviation of the fingers at MCPs, swan-neck deformity (PIP hyperextension, DIP flexion) in the ring finger, boutonnière deformity (PIP flexion, DIP hyperextension) in the middle finger, and wasting of the interossei](../../images/rheumatoid-hand-deformities.jpg)
+> **IBQ tip:** Swan-neck deformity has PIP hyperextension + DIP flexion (the swan's neck curves up then the head droops down); boutonnière has PIP flexion + DIP hyperextension (the extensor tendon ruptures centrally and the lateral bands migrate volarly). Also look for Z-thumb (MCP hyperextension + IP flexion). Distinguish from Jaccoud's arthropathy of SLE (similar deformities but reducible — no bony erosions on X-ray, the tendons and capsules stretch but do not rupture permanently).
 
 **Treatment logic from mechanism:** If the disease is driven by TNF-α, IL-6, and activated T cells — target these. Methotrexate (first-line DMARD) inhibits dihydrofolate reductase → reduces folate for rapidly dividing cells (like the proliferating synoviocytes) → also has anti-inflammatory effects via adenosine pathway. Anti-TNF biologics (infliximab, adalimumab, etanercept) neutralise TNF-α. Anti-IL-6 (tocilizumab). Abatacept (blocks T-cell co-stimulation). JAK inhibitors (baricitinib, tofacitinib) block the intracellular signalling pathways of multiple cytokines simultaneously.
 
@@ -411,6 +436,12 @@ AKI is classified by the site of the problem into **pre-renal, intrinsic renal, 
 
 > **NEET PG Insight:** The most life-threatening consequence of AKI is hyperkalaemia — a serum K+ above 6.5 mEq/L (or any level with ECG changes) is a medical emergency. ECG changes in hyperkalaemia: peaked T waves (the earliest change — enhanced repolarisation), PR prolongation, QRS widening, sine wave pattern, ventricular fibrillation. Treatment sequence: calcium gluconate (membrane stabilisation — does not lower K+, just protects the heart while other measures work), insulin + dextrose (drives K+ into cells), salbutamol nebulisation (β2 agonist → Na-K-ATPase activation → K+ into cells), sodium bicarbonate (in acidotic patients — correcting acidosis drives K+/H+ exchange inward), kayexalate/patiromer (GI cation exchangers — removes K+ over hours), dialysis (definitive).
 
+![ECG showing hyperkalaemia: tall peaked narrow-based T waves in the precordial leads, with widened QRS and prolonged PR interval](../../images/general-medicine-hyperkalaemia-ecg-changes.jpg)
+> **IBQ tip:** Hyperkalaemic T waves are symmetrically tall, narrow-based, and tented (like a church spire) — most prominent in V2–V4; compare with normal T waves which are broader-based and asymmetric (slower upstroke, faster downstroke). As K+ rises: peaked T waves → PR prolongation → QRS widening → sine-wave pattern → VF. Distinguish from early repolarisation (J-point elevation, notched QRS end, T waves present in V2–V4 in young athletes but without QRS widening or PR change).
+
+![ECG showing sine-wave pattern of severe hyperkalaemia: QRS and T waves merge into a continuous undulating sinusoidal waveform indicating pre-arrest](../../images/hyperkalaemia-sine-wave-ecg.jpg)
+> **IBQ tip:** The sine-wave pattern represents merging of the widened QRS and the peaked T wave — this is a pre-terminal rhythm requiring immediate calcium gluconate IV and emergency dialysis preparation. Distinguish from VT (discrete QRS complexes with a clear isoelectric line between them) — in the sine wave there is no isoelectric baseline.
+
 ### Nephrotic Syndrome — The Protein Leak
 
 Nephrotic syndrome is defined by the triad of massive proteinuria (>3.5g/24h in adults), hypoalbuminaemia (<30 g/L), and peripheral oedema. The logic of the syndrome flows from a single defect: the glomerular filtration barrier has become permeable to protein.
@@ -435,9 +466,15 @@ Mycobacterium tuberculosis enters via respiratory droplets — as few as 1-10 ba
 
 The cellular immune response cannot kill the organism, so it does the next best thing — it walls it off. Macrophages cluster around the focus of infection, fuse together into **multinucleated giant cells** (Langhans giant cells — the characteristic large cells with peripheral nuclei arranged in a horseshoe pattern), surrounded by a rim of lymphocytes and fibroblasts. This is the **granuloma**. The granuloma is the pathological signature of TB — and of all granulomatous diseases. At the centre of the granuloma, the macrophages — starved of oxygen in the avascular centre — die, releasing their proteolytic enzymes. The central tissue undergoes **caseous necrosis** — necrosis that looks like cottage cheese because of the high lipid content (from the mycobacterial cell wall lipids). This is **primary TB**.
 
+![Histological slide of a tuberculous granuloma showing central caseous (cheese-like) necrosis surrounded by epithelioid macrophages and Langhans giant cells with peripheral horseshoe-arranged nuclei, rimmed by lymphocytes](../../images/tb-granuloma-caseous-necrosis-histology.jpg)
+> **IBQ tip:** Identify the Langhans giant cell by its horseshoe or peripheral wreath of nuclei (contrast with foreign-body giant cell where nuclei are scattered centrally); the central caseous necrosis appears as amorphous pink granular debris with ghost outlines of cells. Distinguish from sarcoid granuloma (non-caseating — no central necrosis, just tight clusters of epithelioid cells and giant cells) and a fungal granuloma (may have caseation but GMS stain shows fungal organisms).
+
 In 90% of immunocompetent individuals, primary TB is contained. The granuloma calcifies, the infection is walled off. The patient has been infected (tuberculin skin test positive, IGRA positive) but not diseased. This is latent TB. Years later, if immunity wanes (malnutrition, HIV, diabetes, steroid therapy, ageing), the granuloma can break down — bacilli escape and multiply. This is **reactivation TB** (post-primary TB), which is responsible for most clinical TB seen in adults. Reactivation preferentially affects the **upper lobes** — because these have higher oxygen tension (the bacillus is a strict aerobe, thriving where pO₂ is highest) and relatively less lymphatic drainage.
 
 The classical post-primary TB picture: cavitation in the upper lobe (the liquefied caseous material is expelled via the bronchus, leaving a cavity — a perfect aerobic culture medium), productive cough (initially dry, then with mucopurulent or blood-stained sputum), haemoptysis (from bronchial artery erosion — Rasmussen's aneurysm), night sweats (the classic 3am drenching diaphoresis from autonomic dysfunction), low-grade fever, and progressive weight loss (cachexia from the combined effects of anorexia, high metabolic rate from chronic inflammation, and muscle wasting from TNF-α).
+
+![CXR showing post-primary pulmonary tuberculosis: upper lobe cavitation with thick-walled cavity, surrounding consolidation, and fibrotic retraction of the hilum upward on the same side](../../images/general-medicine-pulmonary-tuberculosis-1.jpg)
+> **IBQ tip:** TB cavities are thick-walled, irregular, in the upper lobe or superior segment of lower lobe, often with surrounding consolidation and satellite nodules. Hilum elevation (fibrosis pulling the hilum upward) is a clue to chronicity. Distinguish from a lung abscess cavity (usually lower lobe, air-fluid level inside the cavity, associated with aspiration risk factors) and from a pulmonary infarct (wedge-shaped, pleural-based, Hampton's hump sign).
 
 > **NEET PG Insight:** Drug therapy — DOTS (Directly Observed Treatment Short-course). Standard regimen: 2 months of **RIPE** (Rifampicin, Isoniazid, Pyrazinamide, Ethambutol) — the intensive phase, then 4 months of **RI** (Rifampicin + Isoniazid) — the continuation phase. Total 6 months for pulmonary TB, longer for CNS or bone TB. Drug side effects: Rifampicin — orange urine/secretions, hepatotoxicity, enzyme inducer (reduces efficacy of OCP, warfarin); Isoniazid — peripheral neuropathy (prevented by pyridoxine/Vit B6), hepatotoxicity, psychosis; Pyrazinamide — hyperuricaemia (gout), hepatotoxicity; Ethambutol — optic neuritis (check visual acuity and colour vision before and during therapy). MDR-TB: resistant to at least Rifampicin and Isoniazid — requires 18-24 months of second-line drugs (fluoroquinolones, injectables).
 

@@ -1,5 +1,29 @@
 # Orthopedics - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#orthopedics) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](orthopedics-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 7 | 7 | 7 | 7 | 7 | 7 | **7** |
+
+**Trend:** Stable — exactly 7 questions every year.
+
+### Top 10 High-Yield Topics
+1. Fractures — classification systems (Garden for NOF, Neer for proximal humerus)
+2. Compartment syndrome — signs, management
+3. Pediatric fractures — Salter-Harris, pulled elbow, greenstick
+4. Spinal cord injuries — ASIA grading, syndromes
+5. Bone tumors — benign vs malignant, age distribution
+6. Shoulder — rotator cuff tears, dislocation types
+7. Knee — ligament injuries, meniscus, McMurray test
+8. Hip — AVN, DDH, OA management
+9. Club foot (CTEV) — treatment principles
+10. Infections — osteomyelitis (acute vs chronic), septic arthritis
+
+> **Strategy:** Fracture classifications (Garden, Salter-Harris) and compartment syndrome appear every year. Bone tumor age distribution (osteosarcoma 10–20y, chondrosarcoma 30–60y) is direct recall.
+
 ---
 
 ## FRACTURE PRINCIPLES

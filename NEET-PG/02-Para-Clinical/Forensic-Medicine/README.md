@@ -1,17 +1,29 @@
-# Forensic Medicine — NEET PG
-**NEET PG Weight:** 7–8 questions (~3.5%)
-**Tier:** 3
+# Forensic Medicine
+
+Forensic Medicine covers medico-legal aspects of medical practice including thanatology, toxicology, medical jurisprudence, and injury documentation — contributing ~8 questions per NEET PG paper.
 
 ## Files in This Folder
-- `forensic-lecture.md` — First-principles lecture notes for deep understanding (read in Month 8)
-- `forensic-notes.md` — Condensed exam-focused notes for revision (use from Month 9 onwards)
 
-## Top NEET PG Topics
-1. Thanatology — post-mortem changes (rigor mortis, livor mortis, decomposition timing and sequence)
-2. Toxicology — specific poisons, antidotes, clinical features (organophosphate, arsenic, CO, opioids)
-3. Medical jurisprudence — IPC sections relevant to medical practice (304A, 376, 302), consent law, MLC
+| File | Description |
+|------|-------------|
+| `forensic-notes.md` | Condensed exam-focused notes covering thanatology, toxicology, and legal medicine |
+| `forensic-lecture.md` | In-depth lecture notes with timing tables, IPC sections, and poison profiles |
+| `WEAK-TOPICS.md` | Personally flagged weak areas requiring extra revision attention |
 
-## Study Tips
-- Forensic is a scoring subject — a focused 1-week preparation can reliably yield 6–7 correct answers.
-- Memorise the timing of post-mortem changes precisely (rigor starts at 2–6 hrs, complete by 12 hrs, passes by 36–48 hrs).
-- IPC sections and legal definitions are direct, factual Qs — flashcard-style memorisation works well here.
+## High-Yield Areas
+
+- Thanatology: post-mortem changes (rigor mortis, livor mortis, decomposition) with precise timing and medicolegal significance
+- Toxicology: clinical features, specific antidotes, and post-mortem findings for organophosphate, arsenic, CO, opioids, and cyanide
+- Medical jurisprudence: IPC sections relevant to medical practice (304A, 376, 302), consent law, MLC documentation
+- Injuries: types of wounds, firearm injuries (entrance vs exit characteristics), sharp vs blunt force trauma patterns
+- Identification: estimation of age and stature from skeletal remains, DNA fingerprinting principles
+
+## Quick Navigation
+
+- [Notes](forensic-notes.md)
+- [Lecture](forensic-lecture.md)
+- [Weak Topics](WEAK-TOPICS.md)
+
+## NEET PG Weight
+
+Avg 8 questions/year (2019–2024). Stable trend — a focused one-week preparation from the notes file is sufficient; thanatology timing and toxicology antidotes are the most reliably tested areas.

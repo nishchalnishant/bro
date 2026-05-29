@@ -1,73 +1,54 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🦴 ANATOMY — NEET PG<br/>9 Major Sections"]
+
+    A --> B["Upper Limb"]
+    A --> C["Lower Limb"]
+    A --> D["Thorax"]
+    A --> E["Abdomen"]
+    A --> F["Head & Neck"]
+    A --> G["Neuroanatomy"]
+    A --> H["Embryology"]
+
+    B --> B1["Brachial Plexus<br/>C5–T1"]
+    B --> B2["Nerve Lesions<br/>Radial/Median/Ulnar"]
+    B --> B3["Rotator Cuff<br/>Carpal Tunnel"]
+
+    C --> C1["Femoral Triangle<br/>NAVY mnemonic"]
+    C --> C2["Sciatic Nerve<br/>Piriformis"]
+    C --> C3["Foot Drop<br/>Common Peroneal"]
+
+    D --> D1["Coronary Arteries<br/>LAD / RCA / LCx"]
+    D --> D2["Mediastinum<br/>Superior / Ant / Mid / Post"]
+    D --> D3["Inguinal Canal<br/>Deep → Superficial ring"]
+
+    E --> E1["Portal Circulation<br/>SMV + Splenic v"]
+    E --> E2["Portosystemic<br/>Anastomoses"]
+    E --> E3["Peritoneal Relations<br/>McBurney's point"]
+
+    F --> F1["Cavernous Sinus<br/>CN III IV V1 V2 VI"]
+    F --> F2["Thyroid / Parathyroid<br/>RLN & External LN"]
+    F --> F3["Parotid Gland<br/>CN VII branches"]
+
+    G --> G1["Internal Capsule<br/>Anterior/Genu/Post limb"]
+    G --> G2["Basal Ganglia<br/>Caudate/Putamen/GP"]
+    G --> G3["Cerebellum<br/>Peduncles & Lobes"]
+
+    H --> H1["Pharyngeal Arches<br/>1→V3, 2→VII, 3→IX"]
+    H --> H2["Neural Tube Defects<br/>Spina bifida / Anencephaly"]
+    H --> H3["Germ Layers<br/>Ecto / Meso / Endo"]
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                        ANATOMY — LECTURE OVERVIEW                            │
-│                    NEET PG · 9 Major Sections at a Glance                    │
-└──────────────────────────────────────────────────────────────────────────────┘
-                                     │
-         ┌───────────┬───────────────┼───────────────┬───────────┐
-         │           │               │               │           │
-    UPPER LIMB   LOWER LIMB      THORAX          ABDOMEN    HEAD & NECK
-         │           │               │               │           │
-   ┌─────┤      ┌────┤          ┌────┤          ┌────┤      ┌────┤
-   │     │      │    │          │    │          │    │      │    │
-Brachial │   Femoral │       Coronary  │      Inguinal │  Cavernous │
- Plexus  │  Triangle │        Supply   │       Canal  │    Sinus   │
-   │     │      │    │          │    │          │    │      │    │
-   ├─────┤      │  Sciatic   ┌──┴──┐ │        ┌─┴──┐ │   Thyroid  │
-   │     │      │   Nerve   LAD  RCA  │     Direct  │  │   Gland   │
- Erb's   │      │    │       │    │  │    Indirect  │  │    │      │
- Palsy   │      │  Foot    Valves │  │    Femoral   │  │  RLN &    │
-(C5,C6)  │      │   Drop   & Heart   │    Hernias  │  │ External  │
-         │      │  (Common  Sounds   │             │  │  Laryngeal │
-       Median   │  Peroneal)         │    Portal   │  │   Nerve   │
-       Nerve    │                    │    HTN &    │  │           │
-         │    Lumbar &           Mediastinum   Porto-  │  Cranial   │
-       Ulnar   Sacral              (Superior/  Systemic │  Nerve    │
-       Nerve   Plexus           Ant/Mid/Post) Anastomoses  Nuclei  │
-         │      │                                        │(III–XII) │
-       Radial ┌─┴──────┐                              Brainstem  │
-       Nerve Femoral Obturator                       Localization │
-  (Spiral   Nerve    Nerve                                       │
-   Groove)  (NAVY)  (Pelvis)
-  ● Wrist Drop  ● Knee Ext Loss  ● Adductor Weakness
-  ● Ulnar Claw  ● Trendelenburg  ● Obturator Foramen
-  ● AIN / PIN   ● Calcaneovalgus ● Pelvic Surgery Risk
-         │
-   ┌─────┴──────────────────────────────┐
-   │                                    │
-NEUROANATOMY          EMBRYOLOGY & HISTOLOGY
-   │                         │
-   ├─ Internal Capsule        ├─ Germ Layers
-   │   ├─ Anterior Limb       │   ├─ Ectoderm (skin, CNS, neural crest)
-   │   ├─ Genu (corticobulbar)│   ├─ Mesoderm (muscle, bone, kidneys)
-   │   └─ Posterior Limb      │   └─ Endoderm (GI, thyroid, lung, liver)
-   │       └─ Lenticulostriate │
-   │          Arteries→ HTN Bleed  ├─ Pharyngeal Arches
-   │                           │   ├─ Arch 1: V3 → Mastication, Malleus
-   ├─ Basal Ganglia            │   ├─ Arch 2: VII → Facial expression, Stapes
-   │   ├─ Direct Pathway (Go) │   ├─ Arch 3: IX → Stylopharyngeus
-   │   ├─ Indirect Path (Stop)│   └─ Arch 4/6: X → Laryngeal muscles
-   │   ├─ Parkinson's (↓DA)   │
-   │   └─ Huntington's (CAG)  ├─ Neural Tube Defects
-   │                           │   ├─ Anterior neuropore → Anencephaly
-   └─ Cerebellum               │   └─ Posterior neuropore → Spina bifida
-       ├─ Vermis (axial/gait) │
-       ├─ Intermediate zone   ├─ Heart Development
-       └─ Lateral hemispheres │   ├─ Atrial septation (PFO)
-           └─ Double-cross     │   ├─ Ventricular septation (VSD)
-              (ipsilateral     │   └─ Coarctation of aorta
-               limb ataxia)   │
-                               └─ Histology
-                                   ├─ Epithelium (simple→stratified)
-                                   ├─ Collagen Types (I–IV–VII)
-                                   │   ├─ Type I: Bone/Tendon (OI)
-                                   │   ├─ Type II: Cartilage
-                                   │   ├─ Type III: Vessels/Granulation
-                                   │   ├─ Type IV: Basement membranes (Alport)
-                                   │   └─ Type VII: Dermo-epidermal (EB)
-                                   └─ Mucociliary Escalator
-                                       └─ 9+2 axoneme · Kartagener's
-```
+
+**Subject Overview (plain text):**
+- Upper Limb: Brachial Plexus (C5–T1), Nerve Lesions (Radial/Median/Ulnar), Rotator Cuff, Carpal Tunnel
+- Lower Limb: Femoral Triangle (NAVY mnemonic), Sciatic Nerve, Foot Drop (Common Peroneal)
+- Thorax: Coronary Arteries (LAD/RCA/LCx), Mediastinum divisions, Inguinal Canal
+- Abdomen: Portal Circulation, Portosystemic Anastomoses, Peritoneal Relations
+- Head & Neck: Cavernous Sinus (CN III IV V1 V2 VI), Thyroid/Parathyroid/RLN, Parotid/CN VII
+- Neuroanatomy: Internal Capsule, Basal Ganglia, Cerebellum
+- Embryology: Pharyngeal Arches, Neural Tube Defects, Germ Layers
 
 # Anatomy: Lecture-Style Notes for NEET PG
 ### Written as if a great teacher is speaking to you

@@ -1,5 +1,29 @@
 # Anatomy — NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#anatomy) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](anatomy-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 16 | 15 | 14 | 13 | 13 | 12 | **14** |
+
+**Trend:** Declining — focus on highest-yield topics only.
+
+### Top 10 High-Yield Topics
+1. Brachial plexus (injuries, roots, named nerves)
+2. Femoral triangle and femoral canal contents
+3. Inguinal canal — boundaries, contents, hernias
+4. Nerve supply of intrinsic hand muscles
+5. Blood supply of spinal cord (anterior/posterior spinal arteries)
+6. Facial nerve course and branches
+7. Circle of Willis and cerebral blood supply
+8. Portal circulation and portosystemic anastomoses
+9. Rotator cuff muscles and shoulder joint
+10. Lymphatic drainage (breast, testis, lower limb)
+
+> **Strategy:** With a declining trend, prioritize topics 1–5. Skip low-frequency embryology details.
+
 ---
 
 ## Upper Limb

@@ -1,53 +1,48 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🦠 MICROBIOLOGY — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Bacteriology Basics"]
+    A --> C["Immunology"]
+    A --> D["Gram-Positive Organisms"]
+    A --> E["Gram-Negative Organisms"]
+    A --> F["Mycobacteria & Special"]
+    A --> G["Virology & Parasitology"]
+
+    B --> B1["Staining<br/>Gram / ZN / India ink / Giemsa"]
+    B --> B2["Culture Media<br/>Blood agar / MacConkey / LJ"]
+    B --> B3["Sterilization<br/>Autoclave 121°C / Hot air 160°C"]
+
+    C --> C1["Hypersensitivity<br/>Type I-IV / Gel-Coombs"]
+    C --> C2["Immunodeficiency<br/>Bruton / SCID / DiGeorge / CVID"]
+    C --> C3["Vaccines<br/>Live attenuated / Killed / Toxoid"]
+
+    D --> D1["Staph aureus<br/>TSST-1 / Exfoliatin / MRSA mecA"]
+    D --> D2["Streptococci<br/>Pyogenes (hyaluronidase) / Pneumococcus"]
+    D --> D3["Clostridium<br/>C. perfringens α-toxin / Botulinum / Tetanus"]
+
+    E --> E1["E. coli<br/>EHEC Shiga toxin → HUS"]
+    E --> E2["Salmonella typhi<br/>Blood culture week 1 / Widal week 2"]
+    E --> E3["Vibrio cholerae<br/>Cholera toxin → cAMP / Rice-water stool"]
+
+    F --> F1["M. tuberculosis<br/>ZN stain / LJ medium / DST"]
+    F --> F2["Leprosy<br/>PB vs MB / MDT regimen / Type 1&2 reactions"]
+    F --> F3["Treponema pallidum<br/>VDRL (screening) / FTA-ABS (confirm)"]
+
+    G --> G1["Hepatitis B<br/>HBsAg / HBeAg / Anti-HBs / Window period"]
+    G --> G2["HIV<br/>ELISA screen / Western blot confirm / CD4"]
+    G --> G3["Plasmodium<br/>P. falciparum banana gametocytes / ACT"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                  MICROBIOLOGY — NEET PG LECTURE MAP                         │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-      ┌──────────────┬──────────────┼──────────────┬─────────────┐
-      │              │              │              │             │
-      ▼              ▼              ▼              ▼             ▼
-┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────────┐
-│IMMUNOLOGY│  │BACTERIAL │  │ VIROLOGY │  │ MYCOLOGY │  │PARASITOLOGY  │
-│          │  │PATHOGENS │  │          │  │          │  │& STERILIZE.  │
-└────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘  └──────┬───────┘
-     │              │             │              │               │
-┌────┴────┐   ┌─────┴────┐  ┌────┴────┐   ┌────┴────┐    ┌─────┴────┐
-│●Innate  │   │●S. aureus│  │●Hep B   │   │●Candida │    │●Malaria  │
-│ immunity│   │ (immune  │  │ (immune │   │ (comm-  │    │ (Plasmo- │
-│ (TLRs,  │   │  evasion,│  │  system │   │  ensal  │    │  dium,   │
-│  PAMPs, │   │  toxins, │  │  as the │   │  gone   │    │  lifecyc-│
-│  neutro-│   │  MRSA)   │  │  weapon)│   │  rogue, │    │  le, P.  │
-│  phils, │   │●MTB      │  │●HIV     │   │  biofilm│    │  vivax,  │
-│  macro- │   │ (granulo-│  │ (CD4    │   │  mucosal│    │  P. falc-│
-│  phages,│   │  ma,     │  │  deple- │   │  vs inv-│    │  iparum) │
-│  NK     │   │  ghon    │  │  tion,  │   │  asive) │    │●Steril-  │
-│  cells) │   │  complex,│  │  OI by  │   │●Asper-  │    │ ization  │
-│●Comple- │   │  cord    │  │  CD4    │   │  gillus │    │ (auto-   │
-│ ment    │   │  factor) │  │  count, │   │ (angio- │    │  clave,  │
-│ (classic│   │          │  │  HAART) │   │  invas- │    │  dry ht, │
-│  lectin,│   └──────────┘  │●Serol.  │   │  ive,   │    │  filter- │
-│  altern.│                 │ markers │   │  branc- │    │  ation,  │
-│  →MAC)  │                 │ (HBsAg, │   │  hing   │    │  chemo-  │
-│●Adaptive│                 │  HBcAb, │   │  hyphae)│    │  sterili-│
-│ (T/B    │                 │  HBsAb) │   │●Crypto- │    │  zation) │
-│  cells, │                 └─────────┘   │  coccus │    └──────────┘
-│  MHC    │                               │ (brain  │
-│  I/II,  │                               │  invad- │
-│  memory)│                               │  er,    │
-│●T helper│                               │  india  │
-│ subsets │                               │  ink,   │
-│ (Th1/2/ │                               │  capsule│
-│  17,Treg│                               │  → MAC) │
-│●Hypersen│                               └─────────┘
-│ sitivity│
-│ (I-IV:  │
-│  anaphyl│
-│  cyto-  │
-│  toxic, │
-│  IC,    │
-│  DTH)   │
-└─────────┘
-```
+
+**Subject Overview (plain text):**
+- Bacteriology Basics: Staining (Gram/ZN/India ink/Giemsa), Culture Media (Blood agar/MacConkey/LJ), Sterilization (Autoclave/Hot air)
+- Immunology: Hypersensitivity (Type I-IV/Gel-Coombs), Immunodeficiency (Bruton/SCID/DiGeorge/CVID), Vaccines
+- Gram-Positive Organisms: Staph aureus (TSST-1/Exfoliatin/MRSA), Streptococci (Pyogenes/Pneumococcus), Clostridium
+- Gram-Negative Organisms: E. coli (EHEC Shiga toxin → HUS), Salmonella typhi, Vibrio cholerae
+- Mycobacteria & Special: M. tuberculosis (ZN stain/LJ medium), Leprosy (PB vs MB/MDT), Treponema pallidum (VDRL/FTA-ABS)
+- Virology & Parasitology: Hepatitis B (HBsAg/HBeAg/Window period), HIV (ELISA/Western blot/CD4), Plasmodium
 
 # Microbiology — Lecture Notes for NEET PG
 ### Written in the style of an infectious disease specialist talking to a sharp student
@@ -88,6 +83,9 @@ The complement system is one of the most elegant weapons in the innate immune ar
 
 Complement can be activated by three pathways: the classical pathway (triggered by antibody-antigen complexes — so technically a bridge to adaptive immunity), the lectin pathway (triggered by mannose-binding lectin recognizing mannose on bacterial surfaces), and the alternative pathway (triggered directly by pathogen surfaces — completely innate, requires no antibody). All three pathways converge on the cleavage of C3 into C3a and C3b.
 
+![Complement cascade diagram showing classical, lectin, and alternative pathways converging at C3 cleavage, with C3b opsonin, C5a chemotactic fragment, and terminal MAC (C5b-9) pore assembly labeled](../../images/complement-cascade-three-pathways.jpg)
+> **IBQ tip:** Look for all three pathways labeled separately before they converge at C3 — the key differentiator is the trigger molecule: C1q for classical (antibody-dependent), MBL for lectin, and Factor B/D for alternative (antibody-independent). The MAC pore at the end is the only directly bactericidal output; confusing the alternative pathway (innate) with the classical (adaptive bridge) is a common MCQ trap.
+
 C3b is the opsonin. It coats the bacterial surface like a flag, and phagocytes have receptors (CR1) that recognize C3b-coated targets and preferentially engulf them. **Analogy:** Opsonization is like spray-painting a target fluorescent orange so your soldiers can find it in the dark. Bacteria that have been opsonized are phagocytosed at dramatically higher rates than non-opsonized bacteria.
 
 C5a is the chemotactic agent — it diffuses outward from the site of complement activation and acts as a chemical gradient that neutrophils and macrophages follow toward the infection. It also activates mast cells (causing local inflammation) and primes neutrophils for the oxidative burst. C5a is the "calling all units, come to this address" signal.
@@ -118,11 +116,23 @@ Hypersensitivity reactions are not infections — they are the immune system cau
 
 **Type I — IgE-mediated (Immediate Hypersensitivity):** This is the pathway that exists legitimately to fight helminths but goes wrong in allergy. On first exposure to an allergen (pollen, bee venom, penicillin), B cells class-switch to produce IgE under Th2 instruction. IgE binds to high-affinity receptors (FcεRI) on mast cells and basophils, effectively "loading" these cells. On re-exposure, the allergen cross-links two adjacent IgE molecules on the mast cell surface → immediate degranulation (within seconds to minutes) → release of preformed mediators (histamine, tryptase, heparin) and newly synthesized mediators (prostaglandins, leukotrienes, PAF) → vasodilation, bronchospasm, increased vascular permeability. In severe cases (anaphylaxis), systemic vasodilation → distributive shock. Treatment: epinephrine (counteracts vasodilation and bronchospasm by activating α and β adrenergic receptors).
 
+![Type I hypersensitivity mechanism diagram showing IgE binding to FcεRI on mast cell surface on first exposure, then allergen cross-linking two IgE molecules on re-exposure triggering degranulation with histamine and leukotriene release](../../images/type-i-hypersensitivity-ige-mast-cell-degranulation.jpg)
+> **IBQ tip:** The key visual is two IgE molecules being cross-linked by a single bivalent allergen — this cross-linking is the physical trigger for degranulation; a monovalent hapten cannot cross-link and therefore does not trigger anaphylaxis. Distinguish Type I (seconds to minutes, IgE/mast cell) from Type III (6-12 hours, immune complexes/complement) by the timeline and the cell type involved.
+
 **Type II — Antibody-Mediated Cytotoxicity:** Here, antibodies target antigens on cell surfaces, leading to cell destruction. The antibody (IgG or IgM) binds its target → activates complement (MAC lysis) or recruits NK cells (ADCC) or facilitates phagocytosis. Classic examples: autoimmune hemolytic anemia (antibodies against RBC surface antigens → complement-mediated lysis or splenic phagocytosis), Goodpasture's syndrome (antibodies against type IV collagen in glomerular basement membrane), myasthenia gravis (antibodies against acetylcholine receptors at the neuromuscular junction → receptor internalization and blockade → muscle weakness). Note: some Type II reactions involve stimulatory antibodies rather than destructive ones — Graves' disease (TSH receptor-stimulating antibodies → hyperthyroidism).
+
+![Type II hypersensitivity diagram showing IgG antibody binding to red blood cell surface antigen, with complement activation (MAC lysis) and Fc receptor-mediated phagocytosis pathways labeled alongside a Type II stimulatory variant (IgG to TSH receptor driving thyroid hormone output)](../../images/type-ii-hypersensitivity-antibody-cell-surface-cytotoxicity.jpg)
+> **IBQ tip:** The critical differentiator from Type III is that Type II antibodies target antigens fixed on a cell surface, whereas Type III antibodies form soluble circulating immune complexes — look for "cell-bound antigen" in the question stem as the Type II signature. Also note that not all Type II reactions are destructive: stimulatory antibodies (Graves') and blocking antibodies (myasthenia) are both Type II.
 
 **Type III — Immune Complex-Mediated:** When antigen-antibody complexes form in excess (antigen excess or small complexes that don't precipitate well), they circulate and deposit in vessel walls, glomeruli, and synovium. There they activate complement → C5a attracts neutrophils → neutrophils attempt to phagocytose the complexes but are frustrated (the complexes are embedded in vessel wall) → release of lysosomal enzymes into the extracellular space → tissue damage. This is why Type III reactions characteristically cause vasculitis, nephritis, and arthritis. Classic examples: serum sickness (after foreign protein injection — immune complexes develop 7-10 days later), SLE (autoantibodies against nuclear antigens → immune complex deposition in kidneys, skin, joints), post-streptococcal glomerulonephritis (streptococcal antigen-antibody complexes deposit in glomeruli).
 
+![Type III hypersensitivity schematic showing soluble antigen-antibody immune complex deposition in glomerular basement membrane and vessel wall, complement activation, C5a-driven neutrophil recruitment, and frustrated phagocytosis releasing lysosomal enzymes into tissue](../../images/type-iii-hypersensitivity-immune-complex-deposition.jpg)
+> **IBQ tip:** The hallmark gross pathology is a triad of vasculitis, nephritis, and arthritis caused by immune complex deposition at filtration surfaces — if the question mentions all three organ systems together with a 7-10 day lag after antigen exposure, it is Type III (serum sickness pattern). Distinguish from Type II by location: Type III complexes are in vessel walls and glomeruli (deposited from circulation), not on cell surfaces.
+
 **Type IV — T Cell-Mediated (Delayed-Type Hypersensitivity):** This is the only type that does not involve antibodies. Instead, sensitized CD4+ T cells (Th1 subtype) recognize antigen presented by APCs and release IFN-γ → macrophage activation → tissue damage. The "delayed" refers to the timeline: 48-72 hours after antigen exposure (versus minutes for Type I). The tuberculin (Mantoux) test is the classic example: inject purified protein derivative (PPD) intradermally → in a sensitized individual, local Th1 cells recognize the antigen → macrophage accumulation → induration (not redness, but induration — the firmness from cellular infiltration) after 48-72 hours. Contact dermatitis (nickel, poison ivy) is also Type IV — haptens penetrate skin, bind to skin proteins, forming a complete antigen that sensitizes local T cells.
+
+![Type IV delayed-type hypersensitivity diagram showing sensitized CD4+ Th1 cell recognizing antigen on MHC-II of APC, IFN-gamma secretion activating macrophages, and 48-72 hour timeline with induration (not erythema alone) as the measurable endpoint in the Mantoux test](../../images/type-iv-delayed-hypersensitivity-th1-macrophage-activation.jpg)
+> **IBQ tip:** The single most tested distinguishing feature of Type IV is that it is the only antibody-independent hypersensitivity — look for "T cell-mediated" or "no antibodies involved" in the question stem. In the Mantoux test, measure induration (firm cellular infiltrate felt by palpation), not the diameter of redness — the erythema alone is non-specific and does not indicate prior sensitization.
 
 > **Exam key:** Type IV is the ONLY antibody-independent hypersensitivity. The tuberculin test measures induration (cellular infiltration), not redness (which is vascular). Caseous necrosis in TB granulomas is a manifestation of Type IV hypersensitivity — macrophage activation gone to destructive extremes.
 
@@ -142,6 +152,11 @@ The third strategy — and the most devastating — is Panton-Valentine Leukocid
 
 Beyond these evasion strategies, S. aureus produces a range of toxins that cause disease through specific mechanisms. Alpha-toxin pore-forms in red blood cells and platelets. Exfoliative toxins (ETs A and B) cleave desmoglein-1 in the superficial epidermis → splitting at the stratum granulosum → scalded skin syndrome (Ritter's disease in neonates, staphylococcal scalded skin syndrome in children). The toxin cleaves desmoglein-1 — the same molecule targeted by autoantibodies in pemphigus foliaceus — which is why both diseases look identical histologically.
 
+S. aureus on Gram stain appears as gram-positive cocci in clusters — the characteristic "grape-like" arrangement reflecting cell division in multiple planes.
+
+![Gram stain of Staphylococcus aureus showing purple-staining gram-positive cocci arranged in irregular grape-like clusters on a pink-counterstained background](../../images/gram-stain-s-aureus-gram-positive-cocci-clusters.jpg)
+> **IBQ tip:** The cluster arrangement (division in multiple planes) distinguishes S. aureus from Streptococcus (which divides in one plane, producing chains or pairs) — this is visible on Gram stain and is the single fastest way to separate these two gram-positive cocci genera. Also note the golden-yellow pigment of colonies on blood agar; on Gram stain the cocci themselves appear uniformly purple regardless of colony color.
+
 **Superantigens: Why TSST-1 Causes Toxic Shock.** Normal T cell activation is extraordinarily specific. A T cell receptor (TCR) recognizes a specific peptide (8-12 amino acids) bound in the groove of an MHC molecule. This interaction is like a lock-and-key fit — only the right key (specific peptide-MHC combination) opens the lock. The result is that at any given moment, perhaps 1 in 10,000 to 1 in 100,000 T cells are activated by any given antigen. The immune response is precise and proportionate.
 
 Superantigens throw this elegant specificity out the window. TSST-1 (Toxic Shock Syndrome Toxin-1) does not enter the groove of the MHC molecule and does not need to be processed by APCs. Instead, it bridges the outside of the MHC class II molecule to the Vβ region of the TCR — a region that is shared by large families of T cells regardless of their antigen specificity. One superantigen can activate 5-30% of all T cells simultaneously. The result is a catastrophic cytokine storm: massive simultaneous release of IL-2, IFN-γ, TNF-α, and IL-1 from thousands of T cells and macrophages → fever, hypotension, multiorgan failure → toxic shock syndrome. The name "superantigen" reflects this: it acts like an antigen, but with super-physiological, non-specific power.
@@ -156,11 +171,21 @@ Mycobacterium tuberculosis is an organism that has co-evolved with the human imm
 
 The mycolic acid coat is the foundational adaptation. Mycolic acids are long-chain fatty acids (60-90 carbons long) that form a waxy, hydrophobic layer around the cell wall, outside the peptidoglycan layer. This coat does three things simultaneously: it makes the organism acid-fast (the lipid coat retains carbol fuchsin even after treatment with acid-alcohol — the basis of the Ziehl-Neelsen stain); it makes the organism extraordinarily resistant to desiccation (TB can survive in aerosolized droplet nuclei for hours in still air); and it makes the organism resistant to the oxidative killing mechanisms of macrophages (the waxy coat is partially resistant to hydrogen peroxide and hypochlorite).
 
+Acid-fast bacilli (AFB) on Ziehl-Neelsen staining appear as bright red rods against a blue (methylene blue) counterstained background — the carbol fuchsin dye is retained within the mycolic acid coat despite decolorization with acid-alcohol.
+
+![Ziehl-Neelsen acid-fast stain showing bright red acid-fast bacilli (Mycobacterium tuberculosis) on a blue methylene blue counterstained background, with slender slightly curved rod-shaped organisms visible](../../images/ziehl-neelsen-acid-fast-bacilli-mtb-red-rods-blue-background.jpg)
+> **IBQ tip:** The defining feature is the red rods against blue background — AFB retain carbol fuchsin after acid-alcohol decolorization because the mycolic acid coat is hydrophobic and traps the dye; all non-acid-fast organisms lose the red stain and take up the blue counterstain. Distinguish from a Gram stain (where mycobacteria stain poorly or not at all — they are technically gram-positive but gram-staining is unreliable for MTB).
+
 But the most important adaptation is the mechanism of phagosomal escape. When a macrophage phagocytoses a normal bacterium, the phagosome (the membrane bubble containing the bacterium) fuses with lysosomes (bags of hydrolytic enzymes) to form a phagolysosome — the bacterium is bathed in acid and enzymes and dies. MTB inhibits this phagosome-lysosome fusion by secreting proteins (including lipoarabinomannan, or LAM, and the ESX-1 secretion system effectors) that interfere with the vesicle trafficking machinery of the macrophage. The bacterium sits inside a phagosome that never acidifies and never acquires lysosomal enzymes — essentially living in a protected vacuole within the macrophage. The macrophage that was supposed to kill the pathogen has been turned into its host.
 
 **The Immunology of Granuloma Formation.** When the innate immune system fails to eliminate MTB (because lysosomal killing is blocked), the adaptive immune system mounts a Th1-dominated response. CD4+ Th1 cells recognize MTB antigens presented on MHC class II by infected macrophages → secrete IFN-γ → macrophages are activated to a more powerful killing state → some bacteria are killed. But the immune system cannot fully eliminate the infection, so it does the next best thing: it walls it off. Macrophages begin to fuse and transform into epithelioid cells and Langhans giant cells, surrounding the infected macrophages with layer after layer of activated macrophages, forming a granuloma. The center of the granuloma undergoes caseous necrosis — a dry, cheese-like material (caseum) resulting from the cytotoxic effects of the Th1-driven immune response on the infected cells. The granuloma is essentially a prison: the bacteria are alive inside it (this is latent TB), but they are contained and cannot spread.
 
 **Primary TB versus Reactivation TB.** In a child with no prior immunity encountering MTB for the first time, the organism reaches the alveoli (usually lower or middle lobes, where ventilation is greatest) and begins multiplying. The initial focus of infection is called the Ghon focus — a small area of pneumonitis in the lung parenchyma. The organism spreads via lymphatics to the hilar lymph nodes, forming the Ghon complex (Ghon focus + enlarged hilar nodes). The Ranke complex refers to the calcified remnant of the Ghon complex visible on chest X-ray years later. In an immunocompetent host, this primary infection is usually self-limited — the adaptive immune response walls off the infection in granulomas, and the patient never becomes sick (primary TB is subclinical in most cases). The organism enters a state of metabolic dormancy (or very slow replication) inside the granuloma — this is latent TB.
+
+The Ghon complex — the Ghon focus plus ipsilateral hilar lymphadenopathy — is the hallmark of primary tuberculosis on chest X-ray.
+
+![Chest X-ray diagram showing the Ghon complex: a small peripheral lower/mid-zone calcified nodule (Ghon focus) connected by a lymphangitic line to enlarged calcified ipsilateral hilar lymph nodes](../../images/ghon-complex-primary-tb-chest-xray-calcified-focus-hilar-nodes.jpg)
+> **IBQ tip:** The Ghon focus is in the lower or mid zone (high-ventilation regions where primary TB lodges), and it connects to enlarged hilar nodes — this combination is called the Ghon complex; the calcified remnant visible years later is the Ranke complex. Distinguish primary TB (lower/mid zone + hilar adenopathy) from reactivation TB (upper lobe cavitation without hilar adenopathy) — the zone and presence of lymphadenopathy are the key radiological differentiators.
 
 Reactivation TB occurs when the immunological containment fails — most commonly due to declining immunity from HIV infection, malnutrition, diabetes mellitus, corticosteroid use, or simply the immunosenescence of old age. The granuloma breaks down (the Th1 response weakens, the prison walls crumble). The bacteria begin replicating actively again. But now the infection is different: this is a host who has previously been sensitized to MTB antigens, so the immune response is intense — paradoxically, this intense immune response is what causes the tissue destruction of reactivation TB. Cytokines drive liquefactive necrosis (the caseum liquefies — creating the perfect culture medium for extracellular MTB replication). The liquefied caseum drains into a bronchus → cavity formation (cavities are characteristically in the upper lobes because the upper lobe has high oxygen tension, which MTB prefers as an obligate aerobe). The patient becomes infectious (cavitary lesions → organisms in the airways → expelled in cough).
 
@@ -186,6 +211,9 @@ The hepatocyte infected with HBV does not immediately die. HBV is not intrinsica
 
 HBsAg (surface antigen) is the first marker to appear — it shows up 1-6 weeks after infection, even before symptoms, and indicates that virus is present. HBeAg (envelope antigen) appears shortly after and indicates active viral replication (it is a secreted form of the core protein, acting as a marker of high replicative activity). ALT rises as the CTL response begins killing infected hepatocytes — this is when the patient becomes symptomatic. In a patient who will clear the infection, HBeAg disappears first (replication slows), followed by appearance of anti-HBe antibodies. Then HBsAg disappears (window period — neither HBsAg nor anti-HBs detectable). Finally, anti-HBs appears — this is the marker of protective immunity (either from infection clearance or from vaccination). Anti-HBc (core antibody, IgM then IgG) persists for life as a marker of past or present infection.
 
+![HBV serology timeline graph showing sequential rise and fall of HBsAg, HBeAg, anti-HBe, IgM anti-HBc, and anti-HBs over weeks to months after infection, with the "window period" gap between HBsAg disappearance and anti-HBs appearance labeled and IgM anti-HBc as the only marker present during that interval](../../images/hbv-serology-timeline-window-period-markers.jpg)
+> **IBQ tip:** The window period is defined by the simultaneous absence of both HBsAg and anti-HBs — the only positive marker is IgM anti-HBc, which identifies this as recent acute infection rather than vaccination (vaccination produces anti-HBs alone without any anti-HBc). This is the single most-tested detail of HBV serology.
+
 > **Exam key — the window period:** A patient in the window period has neither HBsAg nor anti-HBs — the only marker present is IgM anti-HBc. This patient had acute HBV infection, is in the process of clearing it, and is not yet immune. In this period, standard surface antigen testing is falsely negative — only anti-HBc IgM identifies recent infection. Anti-HBs alone (without anti-HBc) = vaccine-induced immunity.
 
 ### HIV: The Systematic Dismantling of Adaptive Immunity
@@ -195,6 +223,11 @@ HIV is not just a virus — it is a 10-year project to dismantle the adaptive im
 HIV enters CD4+ cells via a two-receptor system: CD4 is the primary receptor (which is why CD4+ T cells, macrophages, and dendritic cells — all of which express CD4 — are targets), but HIV also requires a co-receptor for entry. CCR5 is the co-receptor used by R5-tropic (macrophage-tropic) strains, which dominate early infection. CXCR4 is the co-receptor for X4-tropic (T cell-tropic) strains, which emerge later in disease. Individuals who are homozygous for the CCR5Δ32 mutation (a deletion that results in a non-functional CCR5 receptor) are almost completely resistant to HIV-1 infection — a genetic accident that has inspired the development of CCR5 antagonists (maraviroc) as antiretrovirals.
 
 Once inside, HIV undergoes reverse transcription (RNA → DNA via reverse transcriptase — an error-prone enzyme that introduces mutations with every replication cycle, generating the extraordinary genetic diversity that makes vaccine development so challenging) and integration (the viral DNA integrates into the host chromosome via integrase, becoming a provirus that persists as long as the host cell lives).
+
+HIV Western blot is used to confirm HIV infection: bands appear at gp120 and gp41 (envelope glycoproteins) and p24 (core capsid protein) — reactivity to at least two of these three bands is required for a positive result.
+
+![HIV Western blot strip diagram showing protein bands at molecular weights corresponding to gp120 (envelope), gp41 (transmembrane glycoprotein), and p24 (core capsid), with a positive lane showing all three bands, an indeterminate lane showing only p24, and a negative lane showing no bands](../../images/hiv-western-blot-gp120-gp41-p24-bands.jpg)
+> **IBQ tip:** A positive Western blot requires reactivity to at least two of the three major bands (gp120, gp41, p24) — reactivity to p24 alone is indeterminate (not positive), which is a common MCQ trap. Distinguish from ELISA (the screening test, high sensitivity, lower specificity): ELISA detects anti-HIV antibodies but has false positives; Western blot is the confirmatory test because it identifies specific viral proteins.
 
 **The CD4 count as a measure of immune competence.** A normal CD4 count is 500-1500 cells/μL. As HIV progressively depletes CD4+ T helper cells (both by direct viral cytopathic effect and by immune-mediated killing of infected cells), the immune system loses its coordination capacity. But different arms of the immune system require different levels of CD4 support to function, and different pathogens require different levels of immune defense to be contained. This is why opportunistic infections appear in a predictable sequence as the CD4 count falls.
 
@@ -278,6 +311,11 @@ C. albicans has a remarkable virulence strategy — it is a dimorphic organism t
 
 The hyphae are invasive for a specific reason: they secrete enzymes. Secreted aspartyl proteases (SAPs) are encoded by a family of 10 genes (SAP1-SAP10 in C. albicans) and cleave host proteins — collagen, fibronectin, complement proteins, and secretory IgA. By degrading complement components, Candida directly undermines one of the host's first defenses. By degrading fibronectin and collagen, it creates a path through the extracellular matrix for hyphal invasion. Phospholipases similarly degrade phospholipid membranes at the cell surface. The hyphae also produce proteins that allow them to adhere to epithelial cells (Als proteins — agglutinin-like sequences) and to endothelial cells — facilitating invasion into the bloodstream (candidemia).
 
+Candida on KOH mount shows pseudohyphae (chains of elongated budding yeast cells) or true hyphae alongside blastoconidia — a pattern diagnostic of Candida in clinical specimens.
+
+![KOH mount preparation showing Candida pseudohyphae as chains of elongated yeast cells with constrictions at attachment points (sausage-link appearance) alongside round blastoconidia, viewed under low-power microscopy](../../images/koh-mount-candida-pseudohyphae-blastoconidia.jpg)
+> **IBQ tip:** Pseudohyphae have constrictions at the attachment points (like a string of sausages) — true hyphae have no constrictions and are parallel-walled. The presence of pseudohyphae on KOH mount is the key indicator of Candida (not Aspergillus, which produces true septate hyphae with acute-angle branching). KOH clears the keratinous debris and host cells, leaving fungal elements highlighted.
+
 **Biofilm Formation: Candida's Fortress**
 
 One of Candida's most clinically important virulence factors is its ability to form biofilms. On medical devices — central venous catheters, urinary catheters, prosthetic valves, intravascular stents — Candida can adhere to the surface and form a complex three-dimensional community of yeast and hyphal cells embedded in a self-produced extracellular polysaccharide matrix. Within this biofilm, Candida is dramatically more resistant to antifungals (fluconazole resistance within biofilms can be 1000-fold higher than planktonic cells), protected from immune cells (neutrophils and macrophages cannot penetrate the matrix effectively), and shielded from host antibody responses.
@@ -294,6 +332,11 @@ Candida causes disease on a spectrum that is entirely determined by host immune 
 
 > **Exam key:** Candida — mucosal disease with Th17 deficiency, invasive disease with neutropenia. Dimorphism (yeast ↔ hyphae) is the invasion switch. Biofilm on medical devices resists azoles → echinocandin preferred + line removal. C. albicans produces germ tubes (true hyphae) at 37°C in serum within 3 hours — the germ tube test identifies C. albicans. C. glabrata and C. krusei are intrinsically resistant to fluconazole — important to know because these species are increasing in frequency in patients previously exposed to azoles.
 
+C. albicans produces germ tubes — short outgrowths of true hyphae emerging from blastoconidia — when incubated in human serum at 37°C for 3 hours, distinguishing it from non-albicans Candida species.
+
+![Germ tube test microscopy showing Candida albicans blastoconidia with short, parallel-walled true hyphal projections (germ tubes) emerging without constriction at their base after 3 hours in serum at 37°C, compared to pseudohyphae from a non-albicans species showing constrictions at attachment points](../../images/germ-tube-test-candida-albicans-true-hyphae.jpg)
+> **IBQ tip:** The germ tube has no constriction at its base (it emerges seamlessly from the yeast cell) — this distinguishes it from pseudohyphae, which have a characteristic pinched-in appearance at each junction. The germ tube test is positive only for C. albicans and C. dubliniensis; all other Candida species are germ tube-negative, making this a rapid bedside-level identification test.
+
 ---
 
 ### Aspergillus: The Angioinvasive Threat
@@ -304,7 +347,17 @@ Aspergillus species — particularly A. fumigatus — are ubiquitous molds. Thei
 
 If conidia are not killed immediately, they germinate — the spore swells, breaks dormancy, and sends out a germ tube that elongates into a hypha. The hypha of A. fumigatus grows rapidly (several millimeters per day in infected tissue) and has a critical biological property: it is angiotropic. The fungal hyphae preferentially grow toward and invade blood vessels. This is not accidental — Aspergillus hyphae secrete a range of proteases, elastases, and phospholipases that degrade vascular endothelium. Once the hypha penetrates a blood vessel wall, two things happen simultaneously: thrombosis (platelet activation, clot formation at the damaged vessel → ischemic infarction of the tissue supplied by that vessel) and hematogenous dissemination (fungal elements enter the bloodstream and can seed any organ — brain, heart, kidneys, eyes).
 
+Aspergillus on microscopy shows septate hyphae with acute-angle (45°) branching — the characteristic dichotomous branching pattern differentiating it from Mucor/Rhizopus (wide-angle, 90°, non-septate hyphae).
+
+![Microscopy of Aspergillus showing septate hyphae with regular parallel walls branching dichotomously at acute angles (approximately 45 degrees), compared inset with broad non-septate ribbon-like Mucor hyphae branching at wide/right angles](../../images/aspergillus-septate-hyphae-acute-angle-branching.jpg)
+> **IBQ tip:** The two features that define Aspergillus microscopically are septate hyphae and acute-angle (45°) branching — if you see wide-angle (90°) branching with non-septate (coenocytic) hyphae, think Mucorales (Mucor, Rhizopus), which causes a different disease (rhinocerebral mucormycosis) in diabetic ketoacidosis rather than neutropenia. This distinction is clinically critical because treatment differs (voriconazole for Aspergillus; amphotericin B for Mucor).
+
 This is the mechanism of invasive pulmonary aspergillosis (IPA). In a neutropenic patient (again, neutropenia is the central risk factor — neutrophils are the primary defense against germinated hyphae), A. fumigatus conidia germinate in the alveolar space, hyphae invade the lung parenchyma, reach pulmonary vessels, cause thrombotic infarction, and spread hematogenously. The radiological appearance of IPA is characteristic: on CT scan, nodular lesions with a "halo sign" — a ring of ground-glass opacity surrounding a solid nodule (the halo represents hemorrhagic infarction around the angioinvasive fungal nodule). As the lesion evolves and the fungal center is cleared, an "air-crescent sign" appears — a crescent of air between the contracted fungal ball and the surrounding infarcted tissue. These are not just radiological trivia — they are pathological fingerprints of the angioinvasive biology.
+
+The halo sign on chest CT — a ground-glass opacity halo surrounding a solid fungal nodule — is the early radiological signature of invasive pulmonary aspergillosis in neutropenic patients.
+
+![Chest CT axial image diagram showing a solid lung nodule surrounded by a halo of ground-glass opacity representing hemorrhagic infarction caused by angioinvasive Aspergillus hyphae, with the halo distinct from the central dense nodule](../../images/halo-sign-invasive-aspergillosis-ct-chest-ground-glass-halo.jpg)
+> **IBQ tip:** The halo of ground-glass opacity represents hemorrhagic infarction surrounding the angioinvasive fungal nodule — it is the radiological footprint of blood vessel invasion; the solid center is the fungal mass itself. As the lesion matures and the neutrophil count recovers, the halo resolves and the "air-crescent sign" appears (a crescent of air between the contracted necrotic center and the surrounding tissue) — together, halo sign (early) and air-crescent sign (late) are the CT signature pair of IPA.
 
 **Allergic vs Invasive Aspergillosis — The Same Organism, Different Host Responses**
 
@@ -313,6 +366,11 @@ Aspergillus produces a striking spectrum of disease depending entirely on host i
 - **Allergic bronchopulmonary aspergillosis (ABPA):** In an atopic host (asthmatic or cystic fibrosis patient) with a hyperactive Th2 response, Aspergillus conidia colonize the bronchi but do not invade tissue. Instead, the host mounts an exaggerated IgE and IgG response to Aspergillus antigens. IgE-mediated mast cell degranulation → bronchospasm and mucus plug formation. IgG-antigen immune complexes → Type III hypersensitivity → eosinophilic inflammation → proximal bronchiectasis. ABPA is diagnosed by elevated serum IgE (total and Aspergillus-specific), peripheral eosinophilia, positive Aspergillus skin test, and characteristic radiological findings (central bronchiectasis, mucus plugging). Treatment is corticosteroids (to dampen the immune response) plus itraconazole (to reduce fungal burden and antigenic stimulus).
 
 - **Aspergilloma:** In a host with pre-existing lung cavities (from TB, bronchiectasis, sarcoidosis), Aspergillus hyphae colonize the cavity and form a fungal ball (aspergilloma or mycetoma) — a ball of matted hyphae, fibrin, and necrotic debris. The host immune system is intact (no tissue invasion occurs), but it cannot clear the fungal ball because it is in an anatomically sequestered cavity. The patient presents with hemoptysis (blood from the vascular granulation tissue surrounding the aspergilloma) and a characteristic "crescent sign" on chest X-ray — a radioopaque mass within a cavity with a surrounding crescent of air (the aspergilloma can move — "rolling ball" sign on CT when the patient changes position). Treatment is surgical resection or bronchial artery embolization for hemoptysis; antifungals have limited penetration into the avascular aspergilloma.
+
+The aspergilloma crescent sign on chest X-ray shows a dense fungal ball (mycetoma) within a pre-existing lung cavity with a surrounding crescentic air space.
+
+![Chest X-ray diagram showing an aspergilloma: a rounded radioopaque fungal ball (matted hyphae and debris) sitting within a pre-existing lung cavity, surrounded by a crescent-shaped radiolucent air space superiorly, with the fungal ball potentially shifting position on decubitus views](../../images/aspergilloma-crescent-sign-chest-xray-fungal-ball-cavity.jpg)
+> **IBQ tip:** The crescent sign of aspergilloma is an air crescent surrounding a dense ball within a cavity — the ball can move to a dependent position when the patient changes posture ("rolling ball" or "fallen leaf" sign on CT). Distinguish from the halo sign of invasive aspergillosis: halo sign is a ground-glass opacity around a nodule in neutropenic patients (early IPA), whereas the crescent sign in aspergilloma appears in immunocompetent patients with pre-existing cavities (no tissue invasion).
 
 - **Invasive aspergillosis:** The angioinvasive form described above, almost exclusively in severely immunocompromised patients (profound neutropenia, solid organ transplant recipients on calcineurin inhibitors and corticosteroids, hematological malignancy). Treatment is voriconazole (a second-generation triazole with superior activity against Aspergillus compared to fluconazole — fluconazole has essentially no activity against Aspergillus). Amphotericin B (liposomal formulation, to reduce nephrotoxicity) is the alternative.
 
@@ -345,6 +403,11 @@ Melanin production is another key virulence factor: C. neoformans synthesizes me
 Cryptococcal meningitis presents as a subacute to chronic meningitis — the onset is insidious (days to weeks), with headache, fever, and gradually progressive altered mentation. The classic teaching is that Cryptococcus causes meningitis with remarkably low CSF inflammation — the CSF may show only mild pleocytosis (even zero cells in severely immunocompromised patients) because the capsule suppresses the inflammatory response. The opening pressure is markedly elevated (due to impaired CSF outflow — the capsular polysaccharide physically obstructs CSF reabsorption at the arachnoid granulations). The elevated intracranial pressure (ICP) is a major cause of morbidity and mortality — visual loss, papilledema, and brainstem herniation.
 
 Diagnosis: India ink staining of CSF reveals the classic picture — the large capsule appears as a clear halo surrounding the dark yeast cells (the India ink is excluded from the capsule, creating a negative stain). The cryptococcal antigen test (CrAg) detects GXM in serum or CSF — it is extremely sensitive and specific (>95% sensitivity in AIDS patients with cryptococcal meningitis). A positive serum CrAg can predict the development of cryptococcal meningitis before symptoms appear — allowing preemptive antifungal therapy.
+
+India ink staining of CSF shows encapsulated Cryptococcus neoformans yeast cells as a clear halo (the capsule excludes the ink) surrounding a dark yeast cell body — this is a negative stain where the capsule is visualized by what it excludes.
+
+![India ink preparation of CSF showing Cryptococcus neoformans: dark ink-stained background with clear spherical halos (polysaccharide capsules up to 5x the diameter of the yeast cell) surrounding round yeast cells with a visible cell body, some cells showing narrow-based budding](../../images/india-ink-cryptococcus-capsule-halo-csf.jpg)
+> **IBQ tip:** The India ink preparation is a negative stain — the capsule is not stained, it appears as a clear unstained zone (halo) against the dark ink background; the large halo-to-cell ratio (capsule can be 5x the diameter of the yeast body) is the key visual. Distinguish from other encapsulated organisms: Cryptococcus yeast cells show narrow-based budding (distinguishing from Histoplasma, which is a smaller intracellular yeast without such a prominent capsule). The CrAg test is more sensitive than India ink in clinical practice.
 
 Treatment: Amphotericin B + flucytosine (induction, 2 weeks) → fluconazole (consolidation and maintenance, at least 8 weeks, then long-term secondary prophylaxis until CD4 >200 on ART). Serial lumbar punctures to control ICP are as important as antifungals — the single most important predictor of short-term mortality in cryptococcal meningitis is the opening CSF pressure, and reducing ICP by controlled CSF drainage saves lives.
 
@@ -408,6 +471,16 @@ Sequestered infected RBCs cause cerebral malaria through several mechanisms: mec
 **Clinical connection:** This is why children with cerebral malaria can deteriorate and die very rapidly — and why prompt treatment is essential. Artesunate (the first-line treatment for severe falciparum malaria) works faster than quinine and is superior because it rapidly kills all stages of falciparum, including the sequestered mature trophozoites. It reduces sequestration burden faster than quinine, improving microvascular flow earlier.
 
 > **Exam key:** P. falciparum is dangerous because of unrestricted RBC invasion (high parasitemia) and sequestration (PfEMP1-mediated cytoadherence → cerebral malaria). No hypnozoites → no relapse (but recrudescence from persisting bloodstream parasitemia possible). Cerebral malaria = unarousable coma in a falciparum-infected patient, most common cause of death. Diagnosis: peripheral smear (ring forms in falciparum — "headphone" appearance, multiple rings per RBC, crescent-shaped gametocytes — the only species with crescent/banana gametocytes). Treatment of severe falciparum: IV artesunate.
+
+Peripheral blood thin film of P. falciparum shows multiple ring trophozoites within a single RBC (appliqué/accolé forms at the RBC margin), delicate "headphone" rings, and the pathognomonic crescent/banana-shaped gametocytes.
+
+![Thin blood film (Giemsa stain) showing P. falciparum infection: small delicate ring trophozoites with double chromatin dots in "headphone" configuration, multiple rings per RBC, parasites at the cell margin (accolé form), and a separate RBC containing a crescent-shaped (banana) gametocyte, all against a background of normal-sized uninfected RBCs](../../images/malaria-thin-film-falciparum-ring-trophozoites-crescent-gametocyte.jpg)
+> **IBQ tip:** Two features are exclusive to P. falciparum on thin film: (1) multiple rings per RBC and accolé (appliqué) forms at the cell margin, and (2) crescent/banana-shaped gametocytes — all other species have round gametocytes. P. vivax thin film shows enlarged RBCs with Schüffner's dots (stippling visible in Giemsa-stained films) and ameboid trophozoites — no Schüffner's dots occur in P. falciparum.
+
+Peripheral blood thin film of P. vivax shows enlarged RBCs containing ameboid trophozoites with Schüffner's dots — pink stippling of the RBC cytoplasm visible only in Giemsa-stained preparations.
+
+![Thin blood film (Giemsa stain) showing P. vivax infection: enlarged pale RBCs containing ameboid ring-stage trophozoites with irregular pseudopod extensions, and prominent Schüffner's dots (pink stippling distributed throughout the RBC cytoplasm)](../../images/malaria-thin-film-vivax-schuffner-dots-enlarged-rbc.jpg)
+> **IBQ tip:** Schüffner's dots (pink stippling) are the key visual marker for P. vivax (and P. ovale) — they represent invaginations of the RBC membrane caused by the parasite and are only visible with Giemsa stain. P. falciparum never produces Schüffner's dots on thin film; P. malariae shows Ziemann's dots (less prominent) in old RBCs that are normal-sized or smaller. The enlarged RBC size in P. vivax (it infects reticulocytes, which are larger) is the other differentiating feature.
 
 ---
 

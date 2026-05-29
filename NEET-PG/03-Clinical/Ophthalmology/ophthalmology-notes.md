@@ -1,5 +1,29 @@
 # Ophthalmology — NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#ophthalmology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](ophthalmology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 8 | 8 | 8 | 8 | 8 | 8 | **8** |
+
+**Trend:** Stable — exactly 8 questions every year.
+
+### Top 10 High-Yield Topics
+1. Glaucoma — types, IOPs, treatment
+2. Visual field defects — lesion localization
+3. Cataract — types, surgical techniques
+4. Diabetic retinopathy — grading, laser timing
+5. Retinal detachment — types, signs
+6. Strabismus — types, cover test
+7. Corneal ulcers — bacterial vs fungal vs acanthamoeba
+8. Drugs causing ocular toxicity (hydroxychloroquine, ethambutol, steroids)
+9. Eye movements — cranial nerve anatomy
+10. Optic neuritis — associations, management
+
+> **Strategy:** Glaucoma (topic 1) and visual field defects (topic 2) appear every year. Drug-induced ocular toxicity is a reliable mark-scorer linking to Pharmacology.
+
 ---
 
 ## Anatomy of the Eye
@@ -88,6 +112,8 @@
 - **Treatment**: Correct refractive error first → **patching of better eye** (force use of amblyopic eye); effective **before age 7-8 years**
 - Occlusion amblyopia risk if patching for too long in young children — alternate patching
 
+**PYQ HOTSPOT: Amblyopia = lazy eye; critical period <7-8 years; patching of BETTER eye (occlusion therapy); must correct underlying cause first (glasses/surgery)**
+
 ### Anisometropia
 - Unequal refractive errors in the two eyes (>2D)
 - **Contact lenses preferred** over spectacles (spectacle lenses cause aniseikonia)
@@ -156,6 +182,10 @@
   - CO = Corneal Opacity
 - **Treatment**: **SAFE strategy** — Surgery (entropion correction), Antibiotics (azithromycin 1g oral or tetracycline ointment), Face washing, Environmental improvement
 
+**PYQ HOTSPOT: Trachoma = Chlamydia trachomatis serotypes A, B, Ba, C; WHO grading TF→TI→TS→TT→CO; Herbert's pits = pathognomonic; SAFE strategy = treatment**
+
+**PYQ HOTSPOT: Trachoma complications = pannus (superior cornea) + entropion + trichiasis → corneal scarring → blindness; leading infectious cause of preventable blindness worldwide**
+
 > **PYQ HOTSPOT**: Herbert's pits = pathognomonic trachoma; SAFE strategy; C. trachomatis A-C = trachoma
 
 ---
@@ -222,6 +252,8 @@
 - **Nasalization of vessels** (vessels displaced nasally)
 - **Baring of circumlinear vessel**: Vessel arching without underlying rim tissue
 
+**PYQ HOTSPOT: POAG = insidious, painless, open angle, IOP >21; C:D ratio >0.6 or asymmetry >0.2 = suspicious; arcuate scotoma (Bjerrum) = classic visual field loss**
+
 **Visual Field Defects (progressive order):**
 1. Enlargement of blind spot
 2. **Bjerrum's/arcuate scotoma** (arching from blind spot to nasal horizontal raphe)
@@ -229,6 +261,8 @@
 4. Temporal wedge
 5. Tubular vision (only central tunnel remaining)
 6. Total blindness
+
+**PYQ HOTSPOT: POAG visual field sequence = blind spot enlargement → arcuate/Bjerrum scotoma → nasal step → tunnel vision; RNFL loss on OCT is the EARLIEST detectable change**
 
 **Treatment (Step-wise):**
 | Step | Drug | Mechanism |
@@ -248,6 +282,10 @@
 **Acute PACG Attack:**
 - Severe eye pain, **halos around lights** (corneal edema), headache, nausea/vomiting, decreased vision
 - **Signs**: **Mid-dilated oval/fixed pupil** (most characteristic), **ciliary flush**, **hazy/steamy cornea** (edema), very **hard eyeball** on palpation, **shallow AC**
+
+**PYQ HOTSPOT: Acute PACG = mid-dilated oval fixed pupil + severe pain + corneal edema + halos + nausea; treat with IV mannitol + acetazolamide + pilocarpine; definitive = laser peripheral iridotomy**
+
+**PYQ HOTSPOT: PACG risk factors = hypermetropia (short axial length) + shallow AC + female + elderly + Asian; mydriatics trigger attack (pupillary block)**
 
 **Emergency Management:**
 1. IV **mannitol** (20%, 1-2 g/kg over 30 min) — reduce IOP urgently
@@ -279,10 +317,16 @@
 | **Cortical** | Spoke-like peripheral opacities; water clefts |
 | **Posterior subcapsular (PSC)** | **Worst visual impact** (at nodal point); glare in bright light; near vision more affected than distance; caused by steroids, diabetes, myotonic dystrophy, radiation |
 
+**PYQ HOTSPOT: PSC (posterior subcapsular cataract) = worst glare/visual impact; caused by steroids + diabetes + radiation; nuclear = myopic shift; cortical = spoke-like**
+
+**PYQ HOTSPOT: Diabetic cataract in young = snowflake cataract (subcapsular, rapid progression); senile diabetic = PSC type; bilateral dense white opacities**
+
 ### Congenital Cataract
 - **Red reflex absent** (Bruckner test — white reflex/leukocoria) — most important early sign
 - **Causes**: Rubella (most common infectious), Down syndrome, galactosemia, persistent fetal vasculature, lowe syndrome, steroid-induced, unknown (50%)
 - **Treatment**: Surgical removal within **6-8 weeks** (before amblyopia irreversible); optical rehabilitation (contact lens/aphakic glasses in <2 years; IOL after 2 years)
+
+**PYQ HOTSPOT: Congenital cataract = TORCH infections (Rubella most common); leukocoria = white reflex = emergency referral; operate within 6-8 weeks to prevent amblyopia**
 
 ### Surgery Types
 | Method | Notes |
@@ -361,6 +405,10 @@
 | Severe (**4-2-1 rule**) | >20 hemorrhages in 4 quadrants OR venous beading in 2+ quadrants OR IRMA in 1+ quadrant |
 | **PDR (Proliferative)** | **Neovascularization** of disc (NVD) or elsewhere (NVE), vitreous hemorrhage, tractional RD |
 
+**PYQ HOTSPOT: Diabetic retinopathy 4-2-1 rule = severe NPDR (any one of: >20 hemorrhages in 4 quadrants OR venous beading 2+ quadrants OR IRMA 1+ quadrant); next step = PRP**
+
+**PYQ HOTSPOT: Dot-blot hemorrhages = microaneurysms + deep retinal hemorrhages; flame hemorrhages = CRVO/hypertension; neovascularization = PDR; first sign of DR = microaneurysms**
+
 - **DME (Diabetic Macular Edema)**: **Most common cause of visual loss** in diabetes; can occur at any DR stage; center-involving vs non-center-involving
 - **IRMA**: Intraretinal microvascular abnormalities (dilated capillaries within retina — not true NV)
 - **Hard exudates**: Lipid/protein deposits at outer plexiform layer (yellow, waxy, well-defined)
@@ -405,6 +453,10 @@
 | Amsler grid | Metamorphopsia (distortion) — earlier in wet | Metamorphopsia/scotoma |
 | Treatment | **AREDS2 supplements**: Vitamin C + E + zinc + lutein + zeaxanthin (beta-carotene removed — lung cancer risk in smokers) | **Anti-VEGF intravitreal injections** (ranibizumab/aflibercept/bevacizumab) |
 
+**PYQ HOTSPOT: Dry AMD = drusen + geographic atrophy + gradual vision loss; Wet AMD = CNV + rapid severe vision loss; Amsler grid = metamorphopsia; anti-VEGF = wet AMD treatment**
+
+**PYQ HOTSPOT: AMD most common cause of severe visual impairment in elderly >50 years in developed world; drusen = pathognomonic of dry AMD; AREDS2 supplements slow progression only**
+
 ### Retinal Detachment
 
 | Type | Mechanism | Causes | Features | Treatment |
@@ -412,6 +464,10 @@
 | **Rhegmatogenous** | Retinal break → fluid enters subretinal space | Myopia, trauma, lattice degeneration, post-cataract surgery | Photopsia (flashes) → floaters → shadow/curtain | **Scleral buckle, vitrectomy, cryopexy**, C3F8/SF6 gas tamponade |
 | **Tractional** | Vitreous membrane pulls retina | Proliferative DR, sickle cell, ROP, penetrating trauma | Tent-shaped detachment; no break | Vitrectomy |
 | **Exudative (secondary)** | Subretinal fluid accumulation without break | Coats' disease, hypertension (malignant), tumors (choroidal melanoma), posterior uveitis | Shifting fluid; changes with position | Treat cause |
+
+**PYQ HOTSPOT: Rhegmatogenous RD = most common type; myopia + lattice degeneration risk; curtain/shadow from periphery + flashes + floaters = classic presentation; urgent surgery**
+
+**PYQ HOTSPOT: Retinal detachment symptoms sequence: photopsia (flashes) first → floaters → visual field loss (shadow/curtain) advancing toward centre; macula-on RD = better prognosis**
 
 ### ROP (Retinopathy of Prematurity)
 - **Risk factors**: Prematurity (<32 weeks), birth weight <1500g, supplemental oxygen
@@ -438,6 +494,10 @@
 - **Treatment**: IV **methylprednisolone** 1g/day × 3 days → speeds recovery but does not affect final visual acuity
 - **Optic Neuritis Treatment Trial (ONTT)**: IV steroids → faster recovery; MRI lesions at presentation = 72% risk of MS within 15 years
 
+**PYQ HOTSPOT: Optic neuritis = painful loss of vision + pain on eye movement + RAPD + central scotoma + reduced color vision; most common cause = MS; treat with IV methylprednisolone**
+
+**PYQ HOTSPOT: Retrobulbar neuritis (2/3 cases) = patient sees nothing, doctor sees nothing (normal disc); papillitis (1/3) = disc swelling; both have RAPD**
+
 ### Papilledema
 - **Definition**: Bilateral optic disc swelling due to raised intracranial pressure (ICP)
 - **Mechanism**: CSF pressure transmitted along optic nerve sheath → axoplasmic flow stasis → disc swelling
@@ -446,12 +506,20 @@
 - **Investigation**: Urgent CT/MRI brain (rule out tumor/hydrocephalus); LP (measure opening pressure)
 - **Causes**: Intracranial tumors, hydrocephalus, venous sinus thrombosis, IIH (idiopathic intracranial hypertension/pseudotumor cerebri — obese young women, on OCPs, visual acuity intact initially)
 
+**PYQ HOTSPOT: Papilledema vs optic neuritis — papilledema = BILATERAL + painless + visual acuity intact early; optic neuritis = unilateral + painful + early acuity loss + RAPD**
+
+**PYQ HOTSPOT: Papilledema earliest sign = loss of spontaneous venous pulsations (SVP); IIH = obese young woman + OCP + raised ICP + no mass; treatment = acetazolamide + weight loss**
+
 ### Optic Atrophy
 | Type | Appearance | Cause |
 |------|-----------|-------|
 | **Primary** | Pale/white disc, sharp margins, normal vessels | Optic neuritis (MS), toxic (methanol/quinine), hereditary (Leber's), pituitary compression |
 | **Secondary** | Pale disc, blurred margins (from papilledema/papillitis) | Post papilledema |
 | **Consecutive** | Follows choroido-retinal disease spreading to optic nerve | Retinitis pigmentosa, extensive chorioretinitis |
+
+**PYQ HOTSPOT: Retinitis pigmentosa = bone spicule pigmentation (mid-peripheral) + tunnel vision + nyctalopia (night blindness); ERG reduced; autosomal dominant/recessive/X-linked; consecutive optic atrophy**
+
+**PYQ HOTSPOT: RP associations = Usher syndrome (RP + deafness), Kearns-Sayre (RP + CPEO + heart block), Laurence-Moon-Bardet-Biedl; ERG = gold standard diagnostic test**
 
 > **PYQ HOTSPOT**: Papilledema bilateral; optic neuritis painful + RAPD + IV methylprednisolone; loss of SVP = earliest papilledema sign
 
@@ -511,6 +579,14 @@
 
 ---
 
+**PYQ HOTSPOT: Vitamin A deficiency — night blindness (nyctalopia) = earliest symptom; Bitot's spots (triangular foamy spots on conjunctiva) = pathognomonic; xerophthalmia → corneal ulceration → keratomalacia → blindness**
+
+**PYQ HOTSPOT: Vitamin A deficiency WHO classification: XN (night blindness) → X1A (conjunctival xerosis) → X1B (Bitot's spots) → X2 (corneal xerosis) → X3A (ulceration <1/3) → X3B (>1/3) → XS (scar) → XF (xerophthalmic fundus)**
+
+**PYQ HOTSPOT: Retinoblastoma = most common intraocular malignancy in children; leukocoria (white pupillary reflex) = most common presentation; Rb gene (chromosome 13q14); bilateral = hereditary (AD)**
+
+**PYQ HOTSPOT: Retinoblastoma hereditary = bilateral, earlier onset, germline mutation (Rb gene both alleles); sporadic = unilateral, later onset; Knudson's two-hit hypothesis; treatment = enucleation (advanced) or chemotherapy + local**
+
 ## Squint (Strabismus)
 
 ### Terminology
@@ -533,6 +609,10 @@
 - **Appearance** of squint without true deviation (Hirschberg test normal)
 - Common cause: **Broad nasal bridge + epicanthal folds** in infants (appears as esotropia)
 - Cover test: **No movement** (normal)
+
+**PYQ HOTSPOT: Esotropia = convergent squint (most common in children); cover test = tropia if uncovered eye moves to fix; Hirschberg = corneal light reflex test; 1 mm decentration = 7° deviation**
+
+**PYQ HOTSPOT: Cover-uncover test detects manifest (tropia); alternate cover test detects latent (phoria); prism cover test = quantifies deviation; pseudostrabismus = normal Hirschberg**
 
 ### Accommodative Esotropia
 - **Mechanism**: High **hypermetropia** → excessive accommodation → excess convergence → esotropia

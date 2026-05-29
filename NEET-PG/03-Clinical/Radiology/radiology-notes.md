@@ -1,5 +1,27 @@
 # Radiology - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#radiology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](radiology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+
+**Trend:** Stable — exactly 4 questions every year.
+
+### Top High-Yield Topics
+1. Chest X-ray patterns — bat-wing, honeycomb, ground glass, consolidation
+2. CXR cardiac silhouette — cardiomegaly, specific chamber enlargement
+3. CT findings — intracranial bleeds (hyperdense vs hypodense)
+4. Contrast agents — types, reactions, contraindications
+5. Radiation safety — units (Gy, Sv), ALARA principle
+6. Interventional radiology — ERCP, PTBD, angioplasty indications
+7. MRI — T1 vs T2 signal characteristics
+8. Nuclear medicine — HIDA scan, bone scan, MIBG indications
+
+> **Strategy:** CXR interpretation (topics 1–2) accounts for 2 of the 4 questions almost every year. These overlap with Medicine — master them once, score twice.
+
 ---
 
 ## RADIATION PHYSICS

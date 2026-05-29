@@ -1,26 +1,54 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["👶 PEDIATRICS — NEET PG<br/>7 Major Domains"]
+
+    A --> B["Growth & Development"]
+    A --> C["Neonatology"]
+    A --> D["Immunization"]
+    A --> E["Respiratory & GI"]
+    A --> F["Congenital Heart Disease"]
+    A --> G["Infectious & Hematology"]
+    A --> H["Genetics & Metabolic"]
+
+    B --> B1["Milestones<br/>Social smile 6wk / Walk 12-15m"]
+    B --> B2["Weight Milestones<br/>Doubles 5m / Triples 1yr / ×4 at 2yr"]
+    B --> B3["Head Circumference<br/>33cm birth / 47cm 1yr / 50cm 3yr"]
+
+    C --> C1["Neonatal Jaundice<br/>Physiological vs Pathological / Phototherapy"]
+    C --> C2["RDS / HMD<br/>Surfactant deficiency / Preterm"]
+    C --> C3["Neonatal Sepsis<br/>EOS (GBS) vs LOS (Gram -ve India)"]
+
+    D --> D1["UIP Schedule India<br/>BCG / OPV / Penta / PCV / MR / JE"]
+    D --> D2["Cold Chain<br/>2-8°C / VVM on vaccines"]
+    D --> D3["Catch-up Vaccination<br/>Missed doses / Max age limits"]
+
+    E --> E1["Bronchiolitis<br/>RSV / Supportive treatment / <2 yrs"]
+    E --> E2["Pneumonia<br/>WHO IMCI RR cut-offs / Amoxicillin"]
+    E --> E3["Pyloric Stenosis<br/>Projectile non-bilious / Hypochl HypoK Alk"]
+
+    F --> F1["Acyanotic CHD<br/>VSD (most common) / ASD / PDA"]
+    F --> F2["Cyanotic CHD<br/>TOF / TGA / Eisenmenger"]
+    F --> F3["TOF<br/>5 features / Tet spell → Squatting"]
+
+    G --> G1["Febrile Seizures<br/>6m-6yr / Simple vs Complex"]
+    G --> G2["ALL<br/>Most common childhood leukemia / BM blast >20%"]
+    G --> G3["Thalassemia<br/>Beta-thal major HbF↑ / Trait HbA2↑"]
+
+    H --> H1["Down Syndrome<br/>Trisomy 21 / Combined screening 11-13wk"]
+    H --> H2["PKU<br/>Guthrie test / Phe-restricted diet"]
+    H --> H3["Kawasaki Disease<br/>Fever >5d + 4/5 criteria / IVIG + Aspirin"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                  PEDIATRICS — NEET PG OVERVIEW                              │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-       ┌──────────────┬─────────────┼──────────────┬──────────────┐
-       │              │             │              │              │
-       ▼              ▼             ▼              ▼              ▼
-┌────────────┐ ┌───────────┐ ┌──────────┐ ┌──────────┐ ┌──────────────────┐
-│ Neonatal   │ │ Neonatal  │ │Childhood │ │Congenital│ │Growth, Nutrition │
-│ Physiology │ │ Jaundice  │ │Infections│ │Heart Dis.│ │& Development     │
-└─────┬──────┘ └─────┬─────┘ └────┬─────┘ └────┬─────┘ └──────────┬───────┘
-      │              │            │             │                   │
-      ├─ Fetal       ├─ Physio-   ├─ Measles    ├─ Acyanotic       ├─ WHO growth
-      │  circulation │  logical   │  (Koplik's) │  (ASD,VSD,PDA)   │  standards
-      ├─ Transition  ├─ Patho-    ├─ TORCH      ├─ Cyanotic (TOF   ├─ Malnutrition
-      │  at birth    │  logical   │  infections │  TGA, boot-shape)│  (PEM, SAM)
-      └─ Surfactant  ├─ Kernic-   └─ Immunolog- └─ Eisenmenger     └─ Milestones
-         & RDS       │  terus     │  ical naiv.    syndrome           (motor,
-                     └─ Exchange  └─ (Immuno-                         language)
-                        transfu-     globulins)
-                        sion
-```
+
+**Subject Overview (plain text):**
+- Growth & Development: Milestones (Social smile 6wk/Walk 12-15m), Weight Milestones (Doubles 5m/Triples 1yr), Head Circumference (33cm birth/47cm 1yr)
+- Neonatology: Neonatal Jaundice (Physiological vs Pathological/Phototherapy), RDS/HMD (Surfactant deficiency/Preterm), Neonatal Sepsis (EOS GBS vs LOS)
+- Immunization: UIP Schedule India (BCG/OPV/Penta/PCV/MR/JE), Cold Chain (2-8°C/VVM on vaccines), Catch-up Vaccination
+- Respiratory & GI: Bronchiolitis (RSV/Supportive/<2 yrs), Pneumonia (WHO IMCI RR cut-offs/Amoxicillin), Pyloric Stenosis (Projectile non-bilious/Hypochloremic HypoK Alkalosis)
+- Congenital Heart Disease: Acyanotic CHD (VSD most common/ASD/PDA), Cyanotic CHD (TOF/TGA/Eisenmenger), TOF (5 features/Tet spell → Squatting)
+- Infectious & Hematology: Febrile Seizures (6m-6yr/Simple vs Complex), ALL (Most common childhood leukemia), Thalassemia (Beta-thal major HbF↑/Trait HbA2↑)
+- Genetics & Metabolic: Down Syndrome (Trisomy 21/Combined screening 11-13wk), PKU (Guthrie test/Phe-restricted diet), Kawasaki Disease (IVIG+Aspirin)
 
 # Pediatrics — Lecture Notes for NEET PG
 
@@ -50,6 +78,9 @@ Type II pneumocyte maturation begins at approximately 20 weeks of gestation but 
 
 Clinically, RDS presents within the first hours of life: tachypnea (>60 breaths/min), grunting (the baby partially closes the glottis on expiration to generate positive end-expiratory pressure — essentially a self-taught PEEP), flaring of the nostrils (to reduce airway resistance), intercostal and subcostal retractions, and central cyanosis. Chest X-ray shows the classic ground-glass opacity with air bronchograms — uniform haziness because all alveoli are equally atelectatic, with air trapped in the bronchi (which don't collapse) visible as dark branching shadows against the white atelectatic lung.
 
+![Neonatal CXR showing RDS/surfactant deficiency: diffuse bilateral ground-glass haziness of both lung fields, prominent air bronchograms (dark branching bronchial outlines visible against opacified alveoli), low lung volumes with bell-shaped small chest, and the heart border is partially obscured by the granular opacification](../../images/cxr-neonatal-rds.jpg)
+> **IBQ tip:** The key pattern is uniform, bilateral granular (ground-glass) opacification with air bronchograms — contrast with meconium aspiration, which shows patchy, asymmetric infiltrates and hyperinflation (not uniform haziness). In RDS the lung volumes are low (bell-shaped small chest); in meconium aspiration they are high (barrel-shaped hyperinflated chest).
+
 Treatment: exogenous surfactant administration, administered via endotracheal tube directly into the lungs. Modern natural surfactants (poractant alfa — Curosurf; beractant — Survanta) contain the lipids and SP-B/SP-C proteins that are critical for function. Response is dramatic — within minutes of surfactant administration, lung compliance improves, oxygenation improves, and FiO2 requirements often drop significantly. Prevention: antenatal corticosteroids (betamethasone 12 mg IM × 2 doses 24 hours apart) given to the mother when preterm delivery is anticipated before 34 weeks — glucocorticoids cross the placenta and accelerate type II pneumocyte maturation and surfactant synthesis.
 
 > **Key exam insight:** The lecithin:sphingomyelin (L:S) ratio in amniotic fluid predicts lung maturity. L:S ratio >2 indicates mature lungs (adequate surfactant). The presence of phosphatidylglycerol (PG) in amniotic fluid is an even more specific marker of lung maturity. These ratios are clinically used when timing elective delivery in high-risk pregnancies.
@@ -69,6 +100,9 @@ The HbF-containing red blood cells have a shortened lifespan compared to adult c
 Additionally, the newborn gut contributes to the problem through **enterohepatic recirculation**. In the gut, conjugated bilirubin is normally reduced by bacteria to urobilinogen and excreted. But the newborn gut has minimal bacterial colonization in the first days of life, and intestinal beta-glucuronidase deconjugates bilirubin back to its unconjugated form, allowing it to be reabsorbed from the intestine back into the portal circulation, returning to the liver for re-processing. This is an inefficient recycling loop that raises the bilirubin burden on the already-struggling neonatal liver.
 
 **Clinical connection:** Physiological jaundice appears after 24 hours of life (peaking at days 3-5 in term babies, days 5-7 in preterm), is unconjugated, and resolves by 2 weeks in term and 3-4 weeks in preterm babies. Jaundice appearing within the first 24 hours is NEVER physiological — it demands immediate investigation for hemolytic disease (Rh incompatibility, ABO incompatibility, G6PD deficiency). The timing is your first and most important discriminating factor.
+
+![Clinical photograph of neonatal jaundice demonstrating Kramer's zones: visible yellow discolouration beginning at the face and forehead (Zone 1), extending to the trunk (Zone 2), then the lower abdomen and thighs (Zone 3), knees and elbows (Zone 4), and finally palms and soles (Zone 5) as bilirubin rises](../../images/neonatal-jaundice-kramer-zones.jpg)
+> **IBQ tip:** Jaundice progresses cephalocaudally (head to toe) as bilirubin levels rise — Kramer's rule. Blanching the skin with fingertip pressure reveals the underlying yellow colour most reliably. Palms and soles involvement (Zone 5) implies bilirubin >15 mg/dL and mandates urgent phototherapy. Clinical assessment underestimates bilirubin in dark-skinned neonates — always confirm with serum or transcutaneous bilirubinometer measurement.
 
 ### Pathological Jaundice and the Danger of Kernicterus
 
@@ -111,7 +145,15 @@ Breast milk bridges this gap imperfectly but importantly: it provides secretory 
 
 Measles is caused by a paramyxovirus (morbillivirus) with exclusively human reservoir. It is one of the most contagious infectious diseases known — the basic reproduction number (R0) of 12-18 means that in a fully susceptible population, one case generates 12-18 secondary cases. The high attack rate (approaching 100% in susceptible households) means that herd immunity requires vaccination coverage of >95% — a threshold that is difficult to maintain.
 
-The prodrome (3-4 days) consists of the three Cs: Cough, Coryza, Conjunctivitis — catarrhal features reflecting virus replication in the upper respiratory mucosa. Koplik's spots appear 1-2 days before the rash — these are white spots on an erythematous base on the buccal mucosa opposite the lower molars, representing focal areas of necrosis in the buccal epithelium where viral replication is concentrated. They are pathognomonic but transient and easily missed. The maculopapular rash appears on day 4-5, starting at the hairline and spreading centrifugally downward — the cephalocaudal spread reflects the progressive hematogenous seeding as viremia peaks.
+The prodrome (3-4 days) consists of the three Cs: Cough, Coryza, Conjunctivitis — catarrhal features reflecting virus replication in the upper respiratory mucosa. Koplik's spots appear 1-2 days before the rash — these are white spots on an erythematous base on the buccal mucosa opposite the lower molars, representing focal areas of necrosis in the buccal epithelium where viral replication is concentrated. They are pathognomonic but transient and easily missed.
+
+![Clinical photograph of Koplik's spots: clusters of 1-2 mm white or bluish-white papules on an erythematous base on the buccal mucosa, located opposite the lower molar teeth; lesions have the appearance of grains of salt on a red background](../../images/koplik-spots-measles.jpg)
+> **IBQ tip:** Koplik's spots are pathognomonic for measles and appear 1-2 days BEFORE the rash — they are the only enanthem that reliably precedes the exanthem. Contrast with oral candidiasis (white plaques that can be scraped off leaving a raw base) and aphthous ulcers (painful, single, well-demarcated ulcers on non-keratinised mucosa, no erythematous base dots).
+
+The maculopapular rash appears on day 4-5, starting at the hairline and spreading centrifugally downward — the cephalocaudal spread reflects the progressive hematogenous seeding as viremia peaks.
+
+![Clinical photograph of measles maculopapular rash: confluent, blotchy, reddish-brown maculopapular rash beginning at the hairline and behind the ears, spreading downward over the face, neck, trunk, and extremities; individual lesions coalesce as the rash progresses caudally](../../images/measles-maculopapular-rash.jpg)
+> **IBQ tip:** Measles rash spreads cephalocaudal (head to toe) over 3-4 days and lesions coalesce into irregular patches — unlike chickenpox (centripetal, all stages simultaneously, spares palms/soles) or rubella (discrete pinpoint macules spreading rapidly, face to trunk in 24 hours, lesions do not coalesce).
 
 What makes measles particularly dangerous is the profound immunosuppression it causes. The measles virus preferentially infects cells bearing CD46 and CD150 (signaling lymphocyte activation molecule, SLAM) — the latter is expressed on activated T and B cells, macrophages, and dendritic cells. Viral infection of these cells causes a broad, deep suppression of cell-mediated immunity that persists for weeks to months after clinical resolution. This "immune amnesia" — recently characterized as erasure of immunological memory cells — makes recovered children susceptible not only to new infections but to infections they had previously been immune to. Before measles vaccination, this immunological impairment accounted for a large proportion of child mortality from secondary infections (pneumonia, diarrhea, encephalitis) that occurred in the months following measles infection.
 
@@ -133,9 +175,15 @@ The consequence of left-to-right shunting is **pulmonary overcirculation** — t
 
 **Cyanotic CHD** occurs either when there is a right-to-left shunt from birth (so deoxygenated blood enters the systemic circulation from birth) or when the pulmonary and systemic circulations are completely separated (transposition). **Tetralogy of Fallot (TOF)** — the most common cyanotic CHD — consists of four components: VSD, overriding aorta (aorta sits over the VSD rather than exclusively over the left ventricle), right ventricular outflow tract obstruction (RVOTO — the pulmonary valve/infundibulum is stenotic), and right ventricular hypertrophy (a consequence of RVOTO). The key hemodynamic lesion is the RVOTO: it creates resistance to pulmonary flow, diverting deoxygenated blood through the VSD into the overriding aorta → systemic cyanosis. The severity of cyanosis is determined by the degree of RVOTO — mild RVOTO allows good pulmonary flow (pink TOF), severe RVOTO causes profound cyanosis.
 
+![Chest X-ray showing boot-shaped heart (coeur en sabot) in Tetralogy of Fallot: the cardiac apex is elevated and rounded due to right ventricular hypertrophy, the left heart border shows concavity in the region of the main pulmonary artery (hypoplastic pulmonary trunk), and the lung fields show decreased pulmonary vascular markings (oligaemic lung fields); right aortic arch may be seen](../../images/cxr-tof-boot-shaped-heart.jpg)
+> **IBQ tip:** The boot shape is formed by two features together — upturned apex (RVH lifting the apex) plus concave left heart border (where the pulmonary artery should produce a convexity but is absent/small). In TGA, the heart silhouette is an "egg-on-side" (narrow mediastinum + oval cardiac silhouette), not boot-shaped. Oligaemic (dark, avascular) lung fields confirm reduced pulmonary flow.
+
 **Analogy:** In TOF, think of the RVOTO as a kink in the hose going to the lungs. The more kinked the hose, the less water reaches the lungs, and the more gets diverted through the open window (VSD) into the wrong side. Squatting during a "tet spell" (hypercyanotic episode) works by increasing systemic vascular resistance (compressing the femoral arteries) — this tips the pressure gradient across the VSD back toward left-to-right, improving pulmonary flow and oxygenation.
 
 **Transposition of the Great Arteries (TGA)** is the most common cyanotic CHD presenting in the neonatal period. The aorta arises from the right ventricle and the pulmonary artery from the left — the two circulations are completely separated in parallel rather than in series. Deoxygenated blood returns from the body to the right heart, goes to the aorta, and returns to the body again — never reaching the lungs. Oxygenated blood returns from the lungs to the left heart, goes to the pulmonary artery, and returns to the lungs again — never reaching the body. This is not compatible with life unless there is a mixing lesion (ASD, VSD, or PDA). TGA neonates present with profound cyanosis in the first hours of life. The immediate treatment is prostaglandin E1 infusion to keep the ductus arteriosus open (maintaining mixing) until definitive surgical repair (arterial switch operation) can be performed.
+
+![Chest X-ray showing egg-on-side (egg-on-string) appearance in Transposition of the Great Arteries: narrow superior mediastinum (because the aorta and pulmonary artery lie in the same anteroposterior plane rather than side-by-side, obliterating the normal mediastinal shadow), oval cardiac silhouette, and plethoric lung fields](../../images/cxr-tga-egg-on-side.jpg)
+> **IBQ tip:** The narrow mediastinum ("egg on a string") in TGA is caused by the great vessels being parallel (AP alignment) rather than crossing, reducing the mediastinal silhouette. Contrast with TOF where the mediastinum is normal width but the lung fields are oligaemic. Plethoric (dark vessels prominent, increased vascular markings) lung fields in TGA — because pulmonary blood flow may be normal or increased if a large PDA is present.
 
 > **Key exam insight:** In cyanotic CHD, the hyperoxia test is useful: if SaO2 fails to significantly improve with 100% oxygen, the cyanosis is due to structural heart disease (intracardiac shunting) rather than respiratory disease. This is because in shunting, adding more oxygen to the ventilated lungs cannot help the deoxygenated blood that is bypassing them.
 
@@ -151,6 +199,9 @@ The mnemonic framework for milestones keeps you grounded. Gross motor developmen
 
 Fine motor development follows a similar trajectory: ulnar grasp (4-5 months), radial grasp (6 months), thumb-finger apposition (9 months), pincer grasp (thumb and index finger — 9-10 months), spontaneous scribbling (12 months). Language development is perhaps the most sensitive indicator of overall cognitive development and hearing. Social smile at 6 weeks is one of the earliest meaningful milestones — it signals that the baby is processing visual information and producing a socially appropriate response. Babbling at 6 months (consonant-vowel combinations), mama/dada non-specifically at 8 months, first meaningful words at 10-12 months, two-word phrases at 18-24 months.
 
+![Developmental milestone chart showing the four domains (gross motor, fine motor, language, social) plotted against age from birth to 5 years, with shaded bands indicating the normal age range for each milestone; gross motor milestones shown as largest bars, progressively narrowing toward fine motor tasks](../../images/developmental-milestone-chart.jpg)
+> **IBQ tip:** In an IBQ, you will be given an age and asked which milestone should/should not be present. The key distinguishing pair for exams is: social smile at 6 weeks (earliest meaningful social milestone) vs pincer grasp at 9-10 months (earliest fine motor precision). Any milestone present before its lower age boundary or absent after its upper boundary is a red flag.
+
 **Clinical connection:** The most important red flags for autism spectrum disorder (ASD) are social and language: no social smile by 3 months, no babbling by 12 months, no words by 16 months, no two-word phrases by 24 months, and — critically — any regression of previously acquired skills at any age. Regression is always abnormal. An 18-month-old who was saying 10 words and has lost them deserves urgent evaluation.
 
 ### Malnutrition: The Biochemistry of Hunger
@@ -159,7 +210,13 @@ Protein-energy malnutrition (PEM) remains one of the most important causes of ch
 
 **Marasmus** is caloric starvation — total deficit of energy (and protein). The body's response: catabolize everything available. Glycogen stores are depleted within hours of fasting. Then gluconeogenesis begins: muscle protein is broken down to amino acids → transaminated to glucose → exported to fuel the brain. Fat stores are mobilized → fatty acids → ketone bodies (alternative fuel for brain). The child consumes himself. The result: loss of all adipose tissue (no subcutaneous fat — prominent ribs, skin hanging in folds) and severe muscle wasting. But crucially, serum albumin is relatively preserved — the liver, still receiving amino acids from muscle catabolism, continues to make albumin. Hence: no edema in marasmus. The child looks like a little old person — wizened, wrinkled, miserable but alert.
 
+![Clinical photograph of a child with marasmus: extreme wasting of muscle and subcutaneous fat, skin hanging in loose folds over bony prominences, prominent ribs and scapulae, "old man" facies with sunken cheeks and eyes; no pedal oedema; child is alert and irritable](../../images/malnutrition-marasmus.jpg)
+> **IBQ tip:** The defining feature differentiating marasmus from kwashiorkor is the ABSENCE of oedema in marasmus. Both have wasting, but kwashiorkor has pitting pedal oedema, moon face, and the pot-belly from ascites. Marasmus children look older than their years; kwashiorkor children look deceptively "fat" due to fluid — but the underlying tissue wasting is masked.
+
 **Kwashiorkor** is predominantly protein deficiency, classically seen when a child is weaned to a protein-poor, starch-rich diet (in West Africa, this was associated with the birth of the next sibling — "kwashiorkor" means "the disease the deprived child gets when the next baby is born" in Ga). Caloric intake may be adequate, but the amino acids necessary for protein synthesis are deficient. Albumin synthesis falls → serum albumin drops → oncotic pressure falls → fluid shifts from intravascular to interstitial → edema. The edema is the hallmark of kwashiorkor and its most dangerous feature — the child may not appear wasted because fluid is filling the spaces left by lost tissue. Other features: skin and hair changes (flag sign — alternating bands of normal and hypopigmented hair, reflecting periods of adequate and deficient nutrition), fatty liver (impaired triglyceride export due to lack of apolipoproteins), and profound immunosuppression.
+
+![Clinical photograph of a child with kwashiorkor: pitting pedal oedema extending to legs, distended abdomen (ascites and hepatomegaly from fatty liver), depigmented patchy skin with "flaky paint" dermatosis, and hair showing the flag sign — alternating bands of normal dark and hypopigmented (reddish-brown) hair segments](../../images/malnutrition-kwashiorkor.jpg)
+> **IBQ tip:** The flag sign (alternating light and dark bands in the same hair shaft) directly reflects the nutrition history — dark bands = periods of adequate protein, light bands = protein-deficient periods. The "flaky paint" skin dermatosis in kwashiorkor (hyperpigmented patches that peel off) is distinct from the wrinkled, loose skin of marasmus. Oedema in kwashiorkor starts at the feet and is pitting.
 
 **Clinical connection:** In practice, the distinction between marasmus and kwashiorkor is less important than recognizing severe acute malnutrition (SAM) by MUAC (mid-upper arm circumference) <115 mm or weight-for-height Z-score < -3. The WHO protocol for managing SAM includes the 10-step approach: treatment/prevention of hypoglycemia, hypothermia, dehydration, electrolyte correction, treatment of infection, correction of micronutrient deficiencies (Vitamin A, zinc, folate, iron — NOT in the acute phase), careful refeeding (starting with F-75 therapeutic milk, then transitioning to F-100 or RUTF — ready-to-use therapeutic food).
 
@@ -283,6 +340,12 @@ Why periventricular calcifications specifically? This is a direct consequence of
 
 **Clinical connection:** Periventricular calcifications → think CMV. Contrast this with toxoplasmosis, which causes **diffusely scattered intracranial calcifications** (because Toxoplasma gondii is not neurotropic to periventricular cells — it causes a diffuse meningoencephalitis with calcifications throughout the brain parenchyma). The distribution of calcifications is a diagnostic key.
 
+![CT brain showing congenital CMV periventricular calcifications: punctate and linear hyperdense (white) calcifications located immediately adjacent to and lining the walls of the lateral ventricles (periventricular distribution); associated cortical abnormalities (polymicrogyria) and ventriculomegaly may be present](../../images/ct-brain-cmv-periventricular-calcifications.jpg)
+> **IBQ tip:** The periventricular location — calcifications hugging the lateral ventricle walls — is the CMV signature. In congenital toxoplasmosis, the calcifications are scattered randomly throughout the brain parenchyma (basal ganglia, cortex, anywhere) — not confined to the periventricular zone. Hydrocephalus is more prominent in toxoplasmosis (due to aqueductal obstruction by inflammation), whereas microcephaly predominates in CMV.
+
+![CT brain showing congenital toxoplasmosis intracranial calcifications: diffusely scattered punctate calcifications distributed throughout the brain parenchyma including basal ganglia, periventricular region, and cortex; associated hydrocephalus (dilated lateral ventricles) from aqueductal stenosis](../../images/ct-brain-toxoplasma-diffuse-calcifications.jpg)
+> **IBQ tip:** Toxoplasma calcifications are diffuse and scattered — they do not respect the periventricular zone. The coexistence of hydrocephalus (enlarged ventricles) with scattered calcifications is the classic toxoplasmosis combination, arising from the diffuse meningoencephalitis causing both CSF obstruction and widespread parenchymal destruction.
+
 > **Key exam insight:** TORCH screen (IgM antibodies in maternal or neonatal blood) is useful for acute/recent infection but has limitations: IgM can be false-positive, and CMV IgM may persist for months. For congenital CMV, the gold standard is **CMV PCR on neonatal urine or saliva in the first 3 weeks of life** — after 3 weeks, a positive PCR cannot distinguish congenital from postnatal acquisition. Antiviral treatment (valganciclovir orally for 6 months) for symptomatic congenital CMV with CNS involvement reduces hearing deterioration and improves neurodevelopmental outcomes.
 
 | Infection | Calcification Pattern | Key Features | Trimester Most Dangerous |
@@ -291,3 +354,14 @@ Why periventricular calcifications specifically? This is a direct consequence of
 | Toxoplasmosis | Diffuse/scattered | Chorioretinitis, hydrocephalus; treat mother with pyrimethamine + sulfadiazine | 2nd/3rd trimester (more transmission, but less structural) |
 | Rubella | None (no calcifications) | Cataract, PDA/PS, deafness — structural triad | 1st trimester |
 | Syphilis | None (periostitis on X-ray) | Saddle nose, Hutchinson's teeth, interstitial keratitis (late) | 2nd trimester onwards |
+
+### Rickets: The Radiological Signature
+
+Nutritional rickets (Vitamin D deficiency causing failure of osteoid mineralisation) produces characteristic radiological changes at the growth plates (metaphyses) of rapidly growing bones — most readily seen at the wrist (distal radius and ulna).
+
+![Wrist X-ray showing rickets: widening, irregularity (fraying), and cupping of the metaphyses of the distal radius and ulna; the zone of provisional calcification is indistinct; the metaphysis has a brush-like, frayed edge resembling a paintbrush or moth-eaten appearance; the growth plate appears widened and the cortex may be thin](../../images/xray-rickets-wrist.jpg)
+> **IBQ tip:** The three key rickets X-ray findings are cupping (concave depression of the metaphyseal end), fraying (irregular, brush-like lateral margin of the metaphysis), and widening (increased distance between metaphysis and epiphysis due to uncalcified osteoid expanding the growth plate). These are most prominent at the wrist and the anterior ribs (rachitic rosary). Contrast with normal X-ray: sharp, well-defined metaphyseal margins with no cupping.
+
+---
+
+*These notes are intended as a conceptual framework for examination preparation. Think developmentally, think physiologically, and the clinical patterns will follow naturally.*

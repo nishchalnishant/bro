@@ -1,5 +1,31 @@
 # Physiology — NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#physiology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](physiology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 14 | 13 | 13 | 12 | 12 | 12 | **13** |
+
+**Trend:** Stable — consistent 12–14 questions every year.
+
+### Top 10 High-Yield Topics
+1. Cardiac cycle and pressure-volume loops
+2. Lung volumes and capacities (values, spirometry patterns)
+3. Renal tubular transport (Tm, glucose, PAH)
+4. Acid-base disturbances (compensation formulas)
+5. Neuromuscular junction physiology
+6. Visual pathway and lesions
+7. Hormonal regulation (feedback loops, target organs)
+8. Action potential — phases and ion channels
+9. Oxygen-Hb dissociation curve (shifts, values)
+10. GFR regulation and autoregulation
+
+> **Strategy:** Topics 1–4 appear almost every year. Master the numbers (PaO2, PaCO2 compensation formulas, Tm values).
+
+---
+
 ---
 
 ## Blood

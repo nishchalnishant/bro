@@ -1,70 +1,48 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                     ORTHOPEDICS — OVERVIEW DIAGRAM                          │
-└─────────────────────────────┬───────────────────────────────────────────────┘
-                              │
-        ┌─────────────────────┼───────────────────────┐
-        ▼                     ▼                        ▼
-  ┌───────────┐        ┌────────────┐           ┌────────────┐
-  │ FRACTURE  │        │COMPARTMENT │           │  SPECIFIC  │
-  │  HEALING  │        │ SYNDROME   │           │ FRACTURES  │
-  └─────┬─────┘        └─────┬──────┘           └─────┬──────┘
-        │                    │                         │
-  ┌─────┴──────────────┐  ┌──┴────────────┐   ┌───────┴──────────────┐
-  ▼                    ▼  ▼               ▼   ▼         ▼            ▼
-┌─────────────┐ ┌────────┐ ┌──────────┐ ┌──────┐ ┌──────────┐ ┌──────────┐
-│4 Stages     │ │Primary │ │Compartm. │ │Fascio│ │Colles'   │ │ Hip /    │
-│1. Hematoma  │ │vs 2°   │ │press.    │ │-tomy │ │● Distal  │ │ Garden   │
-│   PDGF/BMP/ │ │Healing │ │>30 mmHg  │ │● All │ │  radius  │ │ Classif. │
-│   TGF-β     │ │● 2°:   │ │or ΔP<30  │ │  4   │ │● FOOSH   │ │● I/II:   │
-│2. Soft call.│ │  callus│ │6 P's:    │ │  comp│ │● Dinner- │ │  screws  │
-│   (cartilage│ │  forms │ │Pain (OOP)│ │  of  │ │  fork    │ │● III/IV: │
-│   wks 1–3, │ │● 1°:   │ │Pressure  │ │  leg │ │  deform. │ │  arthrp. │
-│   invisible)│ │  no    │ │Paresthes.│ └──────┘ │● Osteopor│ │● Scaphoid│
-│3. Hard call.│ │  callus│ │Paralysis │         │  assess. │ │  ● AVN   │
-│   (woven bone│ │  (rigidfix.│ │Pallor    │         └──────────┘ │  risk    │
-│   wks 3–12, │ │  primary)│ │Pulseless │                        │● Snuff-  │
-│   X-ray vis)│ └────────┘ └──────────┘                        │  box     │
-│4. Remodeling│                                                  │  tender  │
-│   Wolff's   │                                                  └──────────┘
-│   law months│
-└─────────────┘
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-        ┌─────────────────────┬───────────────────────┐
-        ▼                     ▼                        ▼
-  ┌───────────┐        ┌────────────┐           ┌────────────┐
-  │   BONE    │        │INFECTIONS  │           │   SPINE    │
-  │  TUMORS   │        │            │           │            │
-  └─────┬─────┘        └─────┬──────┘           └─────┬──────┘
-        │                    │                         │
-  ┌─────┴──────┐       ┌─────┴──────┐        ┌────────┴───────────┐
-  ▼            ▼       ▼            ▼        ▼           ▼         ▼
-┌──────────┐ ┌──────┐ ┌──────────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐
-│Osteosarc.│ │Ewing'│ │OsteoMyel │ │Septic│ │Disc  │ │Cauda │ │Scolio│
-│● 2nd dec.│ │s:    │ │● Metaphy-│ │Arthr.│ │Prol. │ │Equina│ │sis   │
-│● Metaphy-│ │ 2nd  │ │  seal    │ │● S.  │ │Levels│ │● Emer│ │● Idio│
-│  sis     │ │ dec. │ │● S.aureus│ │  aur.│ │L4-L5 │ │-gency│ │-path.│
-│● Sunburst│ │ Dia- │ │● Sequest-│ │● 8–24│ │→ L5  │ │● Sad-│ │ adol.│
-│  Codman's│ │ phys-│ │  rum     │ │  hrs │ │ root │ │  dle │ │● >40° │
-│  triangle│ │ is   │ │  (dead   │ │  cart│ │L5-S1 │ │  anes│ │ → Rx │
-│● Chemo + │ │ t(11 │ │  bone)   │ │  dest│ │→ S1  │ │-thes.│ │  surg│
-│  surg    │ │ ;22) │ │● Involuc-│ │  ruct│ │ root │ │● Bla-│ │● Rib │
-│Chondrosar│ │ Onion│ │  rum     │ │  ion │ │ (ank-│ │  dder│ │ hump │
-│● >40 yrs │ │ skin │ │  (new    │ │● Asp-│ │  le  │ │  ret-│ │ (rot-│
-│● Avascula│ │● Rx: │ │  bone)   │ │  irat│ │  jerk│ │  ent.│ │ ation│
-│  r matrix│ │ chemo│ │● Rx: IV  │ │-e Dx │ │  los.│ │● MRI │ │ → op-│
-│● No chemo│ │ ±surg│ │  AB+surg │ └──────┘ │)     │ │  + 24│ │ erat)│
-└──────────┘ └──────┘ └──────────┘          └──────┘ │  hr  │ └──────┘
-                                                       │  surg│
-                                          ┌──────────────────────────────┐
-                                          │  DISC LEVEL → ROOT CORRELAT. │
-                                          ├───────┬──────┬───────────────┤
-                                          │L4-L5  │ L5   │Foot drop/EHL  │
-                                          │L5-S1  │ S1   │Ankle jerk loss│
-                                          │C5-C6  │ C6   │Biceps jerk ↓  │
-                                          │C6-C7  │ C7   │Triceps jerk ↓ │
-                                          └───────┴──────┴───────────────┘
+```mermaid
+graph TD
+    A["🦴 ORTHOPEDICS — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Fracture Principles"]
+    A --> C["Upper Limb Fractures"]
+    A --> D["Lower Limb Fractures"]
+    A --> E["Bone Infections & Tumors"]
+    A --> F["Joint Disorders & Spine"]
+    A --> G["Metabolic & Pediatric"]
+
+    B --> B1["Salter-Harris I-V<br/>SH-V worst prognosis (crush)"]
+    B --> B2["Fracture Healing<br/>Hematoma→Fibrocartilage→Callus→Remodel"]
+    B --> B3["Compartment Syndrome<br/>Pressure >30 mmHg → Fasciotomy"]
+
+    C --> C1["Colles' Fracture<br/>FOOSH / Dinner-fork / Radial nerve safe"]
+    C --> C2["Scaphoid Fracture<br/>Snuffbox / AVN risk / X-ray −ve early"]
+    C --> C3["Supracondylar<br/>AIN injury / Volkmann's ischemia"]
+
+    D --> D1["NOF Fracture<br/>Garden I-IV / AVN risk (III & IV)"]
+    D --> D2["Tibial Plateau<br/>Schatzker classification"]
+    D --> D3["Ankle Fractures<br/>Pott's = bimalleolar fracture"]
+
+    E --> E1["Osteomyelitis<br/>Staph aureus / Brodie's abscess"]
+    E --> E2["Osteosarcoma<br/>Sunburst + Codman's triangle / Distal femur"]
+    E --> E3["Ewing's Sarcoma<br/>Onion-skin / Diaphysis / EWS-FLI1"]
+
+    F --> F1["OA vs RA<br/>OA: osteophytes / RA: erosions + pannus"]
+    F --> F2["Pott's Disease<br/>TB spine / Gibbus / Psoas abscess"]
+    F --> F3["IVDP<br/>L4-L5: foot drop / L5-S1: ankle reflex loss"]
+
+    G --> G1["Osteoporosis<br/>T-score ≤-2.5 / Bisphosphonates"]
+    G --> G2["DDH<br/>Ortolani/Barlow / Pavlik harness"]
+    G --> G3["SUFE<br/>Obese adolescent male / Ice-cream off cone"]
 ```
+
+**Subject Overview (plain text):**
+- Fracture Principles: Salter-Harris I-V (SH-V worst prognosis), Fracture Healing (Hematoma→Fibrocartilage→Callus→Remodel), Compartment Syndrome (Pressure >30 mmHg → Fasciotomy)
+- Upper Limb Fractures: Colles' Fracture (FOOSH/Dinner-fork), Scaphoid Fracture (Snuffbox/AVN risk/X-ray -ve early), Supracondylar (AIN injury/Volkmann's ischemia)
+- Lower Limb Fractures: NOF Fracture (Garden I-IV/AVN risk III & IV), Tibial Plateau (Schatzker classification), Ankle Fractures (Pott's = bimalleolar)
+- Bone Infections & Tumors: Osteomyelitis (Staph aureus/Brodie's abscess), Osteosarcoma (Sunburst+Codman's triangle/Distal femur), Ewing's Sarcoma (Onion-skin/Diaphysis)
+- Joint Disorders & Spine: OA vs RA (Osteophytes vs Erosions+Pannus), Pott's Disease (TB spine/Gibbus/Psoas abscess), IVDP (L4-L5 foot drop/L5-S1 ankle reflex loss)
+- Metabolic & Pediatric: Osteoporosis (T-score ≤-2.5/Bisphosphonates), DDH (Ortolani/Barlow/Pavlik harness), SUFE (Obese adolescent male)
 
 # Orthopedics — Lecture Notes for NEET PG
 ### Written in the voice of a clinician teaching at the fracture clinic
@@ -137,9 +115,15 @@ A fall on an outstretched hand (FOOSH mechanism) transmits the force of the fall
 
 The classic Colles' fracture is a transverse fracture of the distal radial metaphysis approximately 2 cm proximal to the radiocarpal joint. The distal fragment displaces dorsally (dorsal angulation — pushed backward by the impact force), radially (the pull of the brachioradialis muscle and the weight of the hand), and is impacted (compressed into the proximal fragment). The result is the "dinner fork deformity" — viewed from the lateral side, the wrist has a step-like silhouette: the hand and wrist are displaced dorsally relative to the forearm, producing a shape reminiscent of a dinner fork lying face-down. The radial styloid appears prominent (because the distal fragment has shifted radially). The radial angulation of the distal articular surface (normally 22–24° radially tilted) is lost or reversed (dorsal tilt). Radial shortening occurs.
 
+![Colles' fracture lateral X-ray — transverse fracture of the distal radial metaphysis with dorsal angulation and dorsal displacement of the distal fragment, producing the "dinner fork/silver fork" deformity silhouette, with radial shortening visible on the AP view](../../images/orthopedics-colles-fracture.jpg)
+> **IBQ tip:** On the lateral view, look for the dorsal tilt of the distal radial articular surface (normally 10–15° volar tilt — in Colles' it reverses to dorsal tilt) and the step-off between the radius and carpus; on the AP view, look for radial shortening (ulnar styloid appears relatively prominent) — these three findings (dorsal tilt, dorsal displacement, radial shortening) together confirm Colles' and distinguish it from Smith's (volar tilt on lateral view).
+
 **Clinical connection:** Colles' fracture is the sentinel osteoporotic fracture. A patient presenting with a Colles' fracture should be assessed and treated for osteoporosis — DEXA scan, calcium/vitamin D supplementation, bisphosphonate therapy if indicated. The fracture is a warning: the next fracture may be a hip fracture, which carries 20–30% one-year mortality. Treatment of the fracture itself: undisplaced or minimally displaced → below-elbow plaster cast for 6 weeks. Displaced → manipulation under anesthesia (restoring radial length, palmar tilt, radial inclination) + cast. Unstable, comminuted, or intra-articular → percutaneous K-wire fixation or volar locking plate (the standard for active patients — provides stable fixation allowing early mobilization).
 
 The reverse Colles' fracture is the **Smith's fracture** (Garden spade deformity) — the distal fragment displaces volarly (forward, toward the palm). Mechanism: fall on a flexed wrist, or a direct blow to the dorsum of the wrist. Barton's fracture is an intra-articular fracture-dislocation: the fracture line enters the articular surface, and the carpal bones displace with the distal fragment (volar Barton's is the most common — the volar rim of the distal radius fractures and the carpus subluxes anteriorly). These intra-articular fractures require surgical fixation to restore the joint surface.
+
+![Smith's fracture lateral X-ray — distal radius fracture with volar (anterior) angulation and volar displacement of the distal fragment, producing the "garden spade deformity," the reverse of the Colles' dinner fork](../../images/orthopedics-smith-fracture.jpg)
+> **IBQ tip:** On the lateral view, the distal fragment tilts volarly (toward the palm) — the exact opposite of Colles' (dorsal tilt); remember "Smith's = volar = forward fall on a flexed wrist" vs "Colles' = dorsal = fall on an outstretched extended wrist."
 
 ---
 
@@ -152,6 +136,12 @@ The blood supply to the scaphoid enters distally — via a branch of the radial 
 **Analogy:** The proximal scaphoid is like a village connected to the outside world by a single bridge road. Fracture the scaphoid at the waist and you cut that road — the village is isolated. Initially, life continues on stockpiles, but progressively the village deteriorates. The village (proximal pole) cannot receive building materials (nutrients, oxygen) and cannot be repaired (no osteoblasts are delivered). It dies.
 
 The diagnostic challenge is that scaphoid fractures are classically **occult on initial X-ray** — the fracture line may not be visible for 10–14 days (when bone resorption at the fracture ends makes the line apparent). A patient presents after a FOOSH with pain and tenderness at the anatomical snuffbox (the hollow between the extensor pollicis longus, extensor pollicis brevis, and abductor pollicis longus at the base of the thumb — the floor of the snuffbox is the scaphoid) but a normal X-ray. This is a clinical scaphoid fracture until proven otherwise. The two options: immobilize in a scaphoid cast (thumb spica cast) for 10–14 days and repeat X-ray, or obtain MRI immediately (the most sensitive and specific modality for acute scaphoid fracture — sensitivity >95% within 24 hours). MRI is now the gold standard for suspected scaphoid fracture.
+
+![Scaphoid fracture X-ray (PA wrist view) — the fracture line through the scaphoid waist may be subtle or invisible acutely; annotated image showing the scaphoid outlined with the waist fracture line, and the anatomical snuffbox region indicated](../../images/orthopedics-scaphoid-fracture.jpg)
+> **IBQ tip:** The X-ray is often normal in acute scaphoid fracture — the key radiographic clue when visible is a hairline lucency transversely crossing the scaphoid waist on the PA view; if the X-ray is normal but snuffbox tenderness is present after a FOOSH, the exam answer is MRI (not repeat X-ray) because MRI detects the fracture within 24 hours with >95% sensitivity, whereas repeat X-ray at 2 weeks still misses up to 20% of fractures.
+
+![MRI of scaphoid fracture — coronal T2-weighted or STIR sequence showing a bright (high signal) line through the scaphoid waist (bone marrow edema and fracture line) with surrounding marrow edema, on a background of otherwise dark cortical bone](../../images/scaphoid-fracture-MRI-STIR.jpg)
+> **IBQ tip:** On MRI (STIR or fat-suppressed T2), the fracture appears as a line of high signal (bright white) through the scaphoid waist surrounded by marrow edema (also bright); avascular necrosis of the proximal pole appears as low signal (dark) on all sequences on T1 — loss of the normal fatty marrow signal — distinguishing it from the edema pattern of an acute fracture.
 
 > **Key exam point:** Scaphoid fracture: anatomical snuffbox tenderness, pain with axial loading of the thumb, FOOSH mechanism. X-ray negative initially → MRI diagnostic. Waist fracture → moderate AVN risk. Proximal pole fracture → very high AVN risk → almost always treat surgically (Herbert screw fixation). Distal pole → good blood supply, low AVN risk, treat conservatively. Complication of delayed/missed scaphoid fracture: AVN proximal pole → SNAC → carpal collapse.
 
@@ -169,6 +159,12 @@ Now consider a displaced femoral neck fracture: the fracture shears across the f
 
 **The Garden classification** of femoral neck fractures logically stratifies the fracture by displacement and AVN risk. Garden I: incomplete, impacted, in valgus — the trabecular pattern of the head is in slight valgus relative to the neck. Garden II: complete but undisplaced — the fracture is through the full neck but the fragments have not moved. Garden III: partially displaced — the trabecular pattern is disrupted but the bone fragments remain in contact. Garden IV: completely displaced — the femoral head and neck are fully separated, the retinacular vessels are certainly torn. The classification simplifies into undisplaced (Garden I and II — treat with internal fixation, cannulated screws) and displaced (Garden III and IV — treat with arthroplasty in elderly, fixation in young).
 
+![Garden classification of femoral neck fractures on AP pelvis X-ray — four panels showing: Garden I (incomplete, impacted valgus fracture, trabecular lines converge), Garden II (complete, undisplaced), Garden III (partial displacement, trabecular malalignment), Garden IV (complete displacement, femoral head free-floating)](../../images/orthopedics-garden-classification-of-femoral-neck-fractures.jpg)
+> **IBQ tip:** The key radiographic distinction is between undisplaced (Garden I/II — fracture line visible but fragments not shifted, trabecular pattern of head aligns with acetabulum) and displaced (Garden III/IV — the head has rotated or completely separated from the neck); Garden IV is recognized by the femoral head rotating to a neutral position within the acetabulum while the femur shaft is externally rotated — the head "re-aligns" with gravity rather than the neck.
+
+![Pathological fracture through a lytic bone metastasis — X-ray showing a transverse fracture through a zone of lytic (radiolucent, bone-destroying) lesion in the femoral shaft or proximal femur, with irregular, moth-eaten bone margins at the fracture site rather than the clean cortical edges of a traumatic fracture](../../images/pathological-fracture-lytic-metastasis-xray.jpg)
+> **IBQ tip:** A pathological fracture is identified by the presence of pre-existing bone abnormality at the fracture site — the cortex appears irregularly destroyed, expanded, or replaced by lucent or sclerotic tumor tissue before the fracture occurred; in a pure traumatic fracture the bone quality on both sides of the fracture line is normal.
+
 **Clinical connection:** The decision between hemiarthroplasty (replacing only the femoral head, leaving the native acetabulum) and total hip replacement (replacing both) in elderly displaced femoral neck fractures depends on the patient's activity level and pre-injury functional status. For fit, mobile, community-dwelling elderly patients, THR gives better functional outcomes (lower dislocation rate, better pain relief, higher activity levels) — confirmed by the HEALTH trial. For frail, cognitively impaired, or low-demand patients, hemiarthroplasty is quicker and simpler.
 
 **Extracapsular hip fractures** (intertrochanteric and subtrochanteric) occur outside the joint capsule — the retinacular vessels are not at risk. AVN of the femoral head does not occur. However, these fractures occur in highly vascular cancellous bone (the trochanteric region) and can cause significant blood loss. The treatment is surgical fixation — dynamic hip screw (DHS, also called the sliding hip screw) for intertrochanteric fractures (the lag screw slides within the barrel, allowing controlled impaction of the fracture as the patient weight-bears, which actually promotes healing); cephalomedullary nails (e.g., PFNA, Gamma nail) for unstable intertrochanteric and subtrochanteric fractures.
@@ -185,7 +181,10 @@ The intervertebral disc is the primary load-bearing structure between vertebral 
 
 With age (the disc begins degenerating from the second decade of life), the NP loses its proteoglycan content → loses water → the disc becomes flatter, less elastic, and less able to distribute loads evenly. The AF weakens — the concentric lamellae develop fissures from repetitive loading. When a fissure reaches the outer AF, the degenerated NP can herniate through it — disc prolapse. The herniated material compresses neural structures: nerve roots in the lumbar region (radiculopathy), the cauda equina in severe cases (cauda equina syndrome), or the spinal cord in the cervical and thoracic regions (myelopathy).
 
-The level of the lumbar disc prolapse determines which nerve root is affected, and this follows the anatomy precisely. In the lumbar spine, nerve roots exit below the pedicle of the same-numbered vertebra (L4 root exits at L4-L5 foramen, beneath the L4 pedicle). But posterolateral disc prolapse (the most common location — the AF is weakest posterolaterally, and the posterior longitudinal ligament reinforces the central AF) at L4-L5 compresses the L5 root (which is traversing the spinal canal on its way down to exit at the L5-S1 level). A prolapse at L5-S1 compresses the S1 root. This is why radicular symptoms are one level below the prolapsed disc in the lumbar spine.
+The level of the lumbar disc prolapse determines which nerve root is affected, and this follows the anatomy precisely. In the lumbar spine, nerve roots exit below the pedicle of the same-numbered vertebra (L4 root exits at L4-L5 foramen, beneath the L4 pedicle). But posterolateral disc prolapse (the most common location — the AF is weakest posterolaterally, and the posterior longitudinal ligament reinforces the central AF) at L4-L5 compresses the L5 root (which is traversing the spinal canal at that level on its way down to exit at the L5-S1 level). A prolapse at L5-S1 compresses the S1 root. This is why radicular symptoms are one level below the prolapsed disc in the lumbar spine.
+
+![MRI lumbar disc prolapse — sagittal T2-weighted MRI showing posterior disc herniation at L4-L5 or L5-S1 with a bright (high T2 signal = hydrated) disc bulging posteriorly and compressing the thecal sac or nerve root; a dark (low T2 signal = desiccated, degenerated) disc at an adjacent level is also visible for comparison](../../images/orthopedics-lumbar-disc-herniation.jpg)
+> **IBQ tip:** On T2 MRI, a healthy (well-hydrated) disc is bright white (high signal); a degenerated disc is dark (low signal = loss of water/proteoglycans); the herniation appears as a focal posterior protrusion of disc material compressing the bright white thecal sac or obliterating the nerve root fat — the level of compression determines the root involved (L4-L5 prolapse compresses L5 root, L5-S1 compresses S1 root).
 
 L5 radiculopathy: weakness of extensor hallucis longus (great toe extension), tibialis anterior (foot dorsiflexion — foot drop), sensory loss over the dorsum of the foot and great toe, NO ankle jerk loss (ankle jerk = S1). S1 radiculopathy: weakness of peronei (foot eversion), gastrocnemius/soleus (plantarflexion — difficulty walking on tiptoe), absent ankle jerk (S1 is the reflex arc for ankle jerk), sensory loss over the lateral foot and sole and little toe.
 
@@ -195,15 +194,34 @@ L5 radiculopathy: weakness of extensor hallucis longus (great toe extension), ti
 
 ---
 
-### Bone Tumors — First Principles of Classification
+## Bone Tumors — First Principles of Classification
 
 Understanding bone tumors requires an organizational framework before memorizing individual entities. Tumors can be primary (arising from the bone itself — osteosarcoma, Ewing's, chondrosarcoma) or secondary (metastatic — far more common; the commonest malignant bone tumor is metastatic carcinoma). Primary tumors are classified by their cell of origin and by their biological behavior (benign, intermediate, or malignant).
 
 **Osteosarcoma** is the most common primary malignant bone tumor (excluding myeloma and lymphoma), most common in the second decade of life, at the metaphysis of rapidly growing long bones (distal femur > proximal tibia > proximal humerus — the knee around the rapidly growing growth plates of adolescence). It arises from osteoblast precursors and produces osteoid (immature bone matrix). The X-ray shows a destructive metaphyseal lesion with sunburst pattern (spicules of reactive bone formation) and Codman's triangle (elevation of the periosteum at the edge of the tumor, with new bone formation forming a triangle between the periosteum and cortex). The tumor breaks through the cortex and grows into the soft tissues. Serum alkaline phosphatase and LDH are elevated (markers of active bone matrix production and cell turnover). Treatment is preoperative chemotherapy (to shrink the tumor and treat micrometastases) + wide surgical excision (limb salvage whenever possible) + postoperative chemotherapy. Prognosis: 5-year survival approximately 65–70% with modern chemotherapy.
 
+![Osteosarcoma X-ray — destructive lesion at the metaphysis of the distal femur showing the sunburst/sun-ray pattern (spicules of bone radiating outward from the cortex into soft tissue) and Codman's triangle (triangular periosteal new bone at the superior and inferior margins of the tumor where periosteum is lifted)](../../images/radiology-codman-triangle.jpg)
+> **IBQ tip:** The sunburst pattern (radiating spicules perpendicular to the cortex, like rays from the sun) is produced by tumor osteoid deposited in soft tissue extensions along the path of periosteal vessels — distinguish from the onion-skin layering of Ewing's (concentric rings parallel to the cortex); Codman's triangle at the edge of the tumor (where periosteum is still adherent) forms a right-angled triangle with the cortex — this triangle of reactive bone at the tumor margin is the key radiographic pointer to an aggressive periosteal-elevating lesion.
+
 **Ewing's sarcoma** is the second most common primary malignant bone tumor of childhood and adolescence (most cases in the second decade). It arises from primitive neuroectodermal precursors — most cases carry a characteristic chromosomal translocation t(11;22)(q24;q12) producing the EWS-FLI1 fusion protein. Unlike osteosarcoma (metaphyseal), Ewing's is a diaphyseal tumor. The X-ray shows a permeative (moth-eaten) diaphyseal lesion with "onion-skin" periosteal reaction (layers of periosteal new bone formation lifting off sequentially as the tumor grows outward). Systemically, Ewing's can cause fever, elevated WBC, and elevated LDH — mimicking osteomyelitis (important differential). Treatment: multi-agent chemotherapy + surgery (limb salvage) ± radiotherapy.
 
+![Ewing's sarcoma X-ray — permeative (moth-eaten) destructive lesion in the diaphysis of a long bone (femur or tibia) with the characteristic onion-peel/onion-skin periosteal layering visible as multiple parallel lamellae of new periosteal bone around the cortex](../../images/radiology-ewing-sarcoma-of-bone.jpg)
+> **IBQ tip:** The onion-skin periosteal reaction consists of multiple parallel layers of reactive bone deposited concentrically around the cortex (like the layers of an onion cut in cross-section) — this is a diaphyseal location finding; osteosarcoma produces a sunburst (radiating spicules, metaphyseal), and the distinction between the two is primarily location (diaphysis vs metaphysis) and periosteal pattern (laminated vs sunburst).
+
 **Giant cell tumor (GCT)** of bone is an intermediate-grade tumor (locally aggressive, occasionally metastasizes to lung) occurring in the epiphysis of long bones in skeletally mature patients (after growth plate closure — 20–40 years). The classic location is the distal femur or proximal tibia, immediately adjacent to the articular surface (epiphyseal). The tumor consists of mononuclear stromal cells (the true neoplastic component) and multinucleate giant cells (osteoclast-like — which give the tumor its destructive, lytic character). On X-ray: eccentric, expansile, lytic lesion at the epiphysis with a "soap bubble" appearance, no sclerotic margin (reflects local aggressiveness). Treatment: curettage with high-speed burring, phenol or liquid nitrogen application, and cement/bone graft filling. Denosumab (anti-RANKL antibody — inhibits osteoclast function) is used for unresectable or recurrent GCT.
+
+![Giant cell tumor X-ray — eccentric, expansile, lytic (radiolucent) lesion at the epiphysis of the distal femur or proximal tibia extending to the subarticular surface, with a soap-bubble trabecular pattern and no surrounding sclerotic rim, in a skeletally mature patient](../../images/orthopedics-giant-cell-tumour-of-bone.jpg)
+> **IBQ tip:** The soap-bubble appearance (thin internal bony strands creating a multi-locular bubbly pattern within an expansile lytic lesion) at the epiphysis reaching the articular surface in a 20–40-year-old is the classic GCT image; aneurysmal bone cyst also has a soap-bubble pattern but is typically in the metaphysis in younger patients (<20 years); the eccentricity (GCT touches one cortex more than the other) and the subarticular location are the key distinguishing features.
+
+**Fibrous dysplasia** is a benign developmental anomaly in which normal medullary bone is replaced by fibrous tissue containing irregular woven bone trabeculae — the result is a lesion with a characteristic "ground glass" or "hazy smoke" appearance on X-ray, reflecting the fibrous tissue matrix with scattered fine bony spicules rather than organized trabecular bone. It most commonly affects the proximal femur (can cause the "shepherd's crook deformity" — coxa vara from repeated stress fractures), ribs, and skull. The lesion is typically well-defined, with a surrounding sclerotic rim, and occurs in young patients. Polyostotic fibrous dysplasia with café-au-lait macules and precocious puberty = McCune-Albright syndrome.
+
+![Fibrous dysplasia X-ray — well-defined medullary lesion with a hazy "ground glass" or "smoky" matrix (uniformly opaque, neither purely lucent nor mineralized), a sclerotic rim, and no periosteal reaction, typically in the proximal femur or rib of a young patient](../../images/orthopedics-fibrous-dysplasia.jpg)
+> **IBQ tip:** The ground glass matrix (uniform hazy opacity, like frosted glass — neither the pure black of a cyst nor the white of mineralized bone) with a well-defined sclerotic border is the distinguishing feature of fibrous dysplasia; osteosarcoma also shows a mixed matrix but has periosteal reaction (sunburst/Codman's triangle) and aggressive cortical destruction, while fibrous dysplasia has intact cortex and a benign-looking sclerotic margin.
+
+**Multiple myeloma** produces characteristic **punched-out lytic lesions** on the skull X-ray — discrete, round, well-defined radiolucent holes without surrounding sclerosis, scattered randomly across the calvarium. These lesions represent plasma cell deposits replacing the normal diploic bone. Unlike metastatic carcinoma (which may show mixed lytic/sclerotic lesions and may have periosteal reaction), myeloma lesions have no sclerotic halo (because the plasma cells suppress osteoblast function via DKK-1 and sclerostin — there is no new bone formation around the lytic foci). The skull X-ray ("pepper-pot skull") is the classic imaging site; other sites include the spine (vertebral collapse → "codfish vertebra" on lateral spine X-ray), pelvis, and proximal long bones.
+
+![Multiple myeloma skull X-ray — multiple discrete, rounded, "punched-out" lytic lesions of varying sizes randomly distributed throughout the calvarium, without surrounding sclerotic borders, producing the classic "pepper-pot skull" or "rain-drop skull" appearance](../../images/orthopedics-multiple-myeloma-skeletal-manifestations.jpg)
+> **IBQ tip:** The punched-out lesions in myeloma have no sclerotic rim and no surrounding bone reaction — they look as if someone removed perfect circles of bone with a cookie cutter; metastatic carcinoma to the skull can also be lytic but often has irregular margins and may coexist with sclerotic lesions (particularly from prostate or breast primaries), while myeloma lesions are uniformly round and non-sclerotic; serum protein electrophoresis (M-band) and Bence-Jones proteinuria confirm the diagnosis.
 
 ---
 
@@ -298,6 +316,12 @@ The sequence from seeding to abscess follows inexorably. Bacteria multiply in th
 
 The elevated periosteum stimulates new bone formation around the infected area — laying down a shell of reactive bone (the **involucrum**). Meanwhile, the pus and elevated periosteum strip the blood supply from the underlying cortical bone. Without blood supply, the cortical bone dies — forming the **sequestrum** (dead, devascularized bone). The sequestrum is critical: bacteria can hide within the dead bone, protected from both the immune system and antibiotics (which require vascular delivery). The sequestrum cannot be penetrated by antibiotics. It becomes a source of persistent, chronic infection. Chronic osteomyelitis is, fundamentally, the disease of the sequestrum — until the dead bone is surgically removed (sequestrectomy), the infection cannot be fully eradicated.
 
+![Chronic osteomyelitis X-ray — the sequestrum (dense, sclerotic, avascular dead bone fragment appearing whiter/more radio-opaque than surrounding bone, separated by a radiolucent zone) surrounded by the involucrum (thickened shell of periosteal new bone encasing the infected region)](../../images/orthopedics-acute-osteomyelitis.jpg)
+> **IBQ tip:** The sequestrum appears denser (whiter) than surrounding living bone because the dead bone does not undergo normal remodeling-related thinning — it retains its original density while the surrounding viable bone becomes osteoporotic from disuse and infection; the involucrum is the outer shell of new bone (less dense, with irregular outer margins) that surrounds the sequestrum — together they form the "bone within bone" appearance that is pathognomonic of chronic osteomyelitis.
+
+![Brodie's abscess X-ray — a well-defined, oval or rounded lucent lesion with a surrounding sclerotic (radio-opaque white) rim in the metaphysis of a long bone (distal tibia most commonly), representing subacute osteomyelitis with a walled-off abscess cavity](../../images/orthopedics-brodie-abscess.jpg)
+> **IBQ tip:** The Brodie's abscess has a clear sclerotic (dense white) rim surrounding a central lucency — the sclerotic margin represents the host's attempt to wall off the infection; distinguish from a simple bone cyst (which is central, lacks sclerotic margin, and occurs in younger patients with no inflammatory history) and from osteoid osteoma (which has a nidus < 2 cm with a thick sclerotic halo and causes night pain relieved by aspirin).
+
 > **Key exam point:** Acute haematogenous osteomyelitis: most common in children, metaphysis of long bones (distal femur, proximal tibia, proximal humerus). Most common causative organism overall: Staphylococcus aureus. Special settings: neonates → Group B Strep, Gram-negative rods; sickle cell disease → Salmonella (second most common after S. aureus); IV drug users → Pseudomonas aeruginosa; immunocompromised → Candida, Aspergillus. Sequestrum = dead bone (on X-ray: dense, avascular fragment separated from living bone by radiolucent zone). Involucrum = surrounding shell of reactive new bone. Treatment: IV antibiotics (minimum 4–6 weeks, guided by sensitivities) + surgical drainage of subperiosteal abscess/sequestrectomy if bone is necrotic or abscess is present.
 
 ### Septic Arthritis — An Emergency Measured in Hours
@@ -318,11 +342,59 @@ Because cartilage cannot regenerate (chondrocytes have essentially no regenerati
 
 Scoliosis is a lateral curvature of the spine greater than 10 degrees (Cobb angle on a standing AP radiograph), almost invariably accompanied by rotation of the vertebral bodies. The rotation is the key to understanding the clinical deformity: as the vertebral body rotates, the posterior elements (spinous processes) rotate toward the concavity of the curve, and the ribs attached to the thoracic vertebral bodies rotate posteriorly on the convex side — producing the characteristic **rib hump** seen on forward bending (Adam's forward bend test). The rib hump is not simply a consequence of the lateral curve — it is a consequence of the vertebral rotation that accompanies the lateral curve.
 
+![Scoliosis standing AP X-ray — full-length standing anteroposterior radiograph of the spine showing a lateral curvature with the Cobb angle measurement: lines drawn parallel to the end vertebrae (most tilted vertebrae at the top and bottom of the curve) with the angle between the perpendiculars to these lines = the Cobb angle](../../images/orthopedics-scoliosis.jpg)
+> **IBQ tip:** The Cobb angle is measured between the superior end plate of the uppermost vertebra tilted into the curve and the inferior end plate of the lowermost vertebra tilted into the curve — draw a perpendicular to each end plate and measure the angle between the perpendiculars; the Cobb angle determines management (<20° observe, 20–40° brace, >40–45° surgery) and is always measured on a STANDING AP X-ray (lying down partially corrects the curve and underestimates the true magnitude).
+
 **Idiopathic scoliosis** (the most common form, ~80% of all cases) is classified by age of onset: infantile (< 3 years), juvenile (3–10 years), and adolescent (most common — females:males approximately 8:1, onset at puberty, right thoracic curve most common). The etiology is multifactorial and incompletely understood — genetic factors play a significant role (familial clustering, multiple genetic associations), and asymmetric spinal growth during the adolescent growth spurt is the mechanical driver of curve progression. The risk of progression is highest during periods of rapid growth (Risser grade 0–1 = immature skeleton = high progression risk).
 
 Management depends on curve magnitude: curves < 20 degrees → observe (6-monthly radiographs during growth). Curves 20–40 degrees in a skeletally immature patient → bracing (TLSO — thoracolumbar sacral orthosis, the "Boston brace") worn 16–23 hours/day to prevent progression. Curves > 40–45 degrees → surgery (posterior spinal fusion with instrumentation — pedicle screws, rods, and cross-links to correct and hold the curve while fusion occurs). The indication for surgery is not purely cosmetic — curves > 50–60 degrees in the thoracic spine can compromise pulmonary function (the rotated, fused rib cage cannot expand normally during breathing → restrictive lung disease → cor pulmonale in severe untreated cases).
 
 > **Key pearl:** Always exclude **secondary causes** of scoliosis: congenital scoliosis (vertebral formation defects — hemivertebra, wedge vertebra — require early surgery), neuromuscular scoliosis (cerebral palsy, Duchenne muscular dystrophy, spinal muscular atrophy — curves are large, collapse into the pelvis, and require fusion including the pelvis), and important red flags in a scoliosis patient suggesting an underlying lesion: left thoracic curve (idiopathic curves are almost always right thoracic — a left thoracic curve raises suspicion of intraspinal pathology, e.g., syrinx, Chiari malformation), rapid progression, pain (idiopathic scoliosis is usually painless), neurological signs.
+
+### Spondylolisthesis and the Scotty Dog Sign
+
+**Spondylolisthesis** is the anterior slippage of one vertebral body on the one below, most commonly at L4-L5 or L5-S1. The most common cause in young athletes is **isthmic spondylolisthesis** — a stress fracture (spondylolysis) through the **pars interarticularis** (the bridge of bone between the superior and inferior articular processes of a vertebra). When both sides fracture, the anterior element (vertebral body + pedicles + superior articular processes) can slip forward, while the posterior element (inferior articular processes + lamina + spinous process) remains behind.
+
+The **Scotty dog sign** on the oblique lumbar X-ray is the classic radiographic appearance of the normal pars interarticularis region. On the oblique view, the outline of the vertebra resembles a Scottish terrier: the **transverse process = nose**, the **pedicle = eye**, the **superior articular process = ear**, the **inferior articular process = front leg**, and the **pars interarticularis = neck of the Scotty dog**. When the pars is fractured (spondylolysis), a radiolucent crack appears across the "neck" of the Scotty dog — as if the dog is wearing a collar. When slippage has occurred (spondylolisthesis), the Scotty dog appears "decapitated" — the neck-level fracture allows the head (anterior element) to move away from the body (posterior element).
+
+![Scotty dog sign on oblique lumbar X-ray — the normal oblique lumbar view with the vertebral anatomy annotated to show the Scotty dog silhouette: pedicle = eye, transverse process = nose, superior articular process = ear, pars interarticularis = neck; in spondylolysis, a lucent "collar" interrupts the neck region](../../images/orthopedics-scotty-dog-sign.jpg)
+> **IBQ tip:** The "collar on the Scotty dog" (a radiolucent band across the pars interarticularis = neck of the dog) is the radiographic sign of spondylolysis — you must request the OBLIQUE view specifically because the pars defect is not visible on standard AP or lateral views; a bilateral pars defect allows the vertebral body to slip forward (spondylolisthesis), graded I–IV by percentage of slip.
+
+### Ankylosing Spondylitis — Bamboo Spine
+
+**Ankylosing spondylitis (AS)** is an HLA-B27-associated seronegative spondyloarthropathy that causes chronic inflammation at the sacroiliac joints and spinal entheses (insertions of ligaments into bone). The inflammation progressively destroys the normal bone and then heals by ossification — the ligaments and discs become calcified and ossified, the vertebral bodies lose their normal concavity (becoming "squared" as the anterior corners are first eroded and then filled with new bone), and the entire spine gradually fuses into a single rigid column.
+
+The **bamboo spine** is the late-stage radiographic appearance of AS on AP lumbar X-ray: **syndesmophytes** (vertical bony bridges connecting adjacent vertebral bodies — calcification within the outer fibers of the annulus fibrosus) create continuous columns of bone along the lateral and anterior margins of the spine, with the fused sacroiliac joints at the base. The spine appears like a length of bamboo — segmented by vertebral bodies with bridging calcification between them. Earlier changes: sacroiliac joint erosion and sclerosis (first sign), squaring of vertebral bodies (loss of normal anterior concavity on lateral view — the "squared vertebrae" of AS).
+
+![Bamboo spine on AP lumbar X-ray in ankylosing spondylitis — vertical syndesmophytes bridging multiple adjacent vertebral bodies forming continuous vertical bony columns along both sides of the spine, with complete fusion of the sacroiliac joints visible at the bottom of the image](../../images/orthopedics-bamboo-spine.jpg)
+> **IBQ tip:** Syndesmophytes are VERTICAL (parallel to the long axis of the spine, following the disc margin) — distinguish from osteophytes in degenerative disc disease (which are HORIZONTAL/horizontal claw-like projections from the vertebral end-plates at right angles to the disc) and from the "flowing wax" anterior ossification of DISH (diffuse idiopathic skeletal hyperostosis, which involves at least 4 contiguous vertebrae anteriorly, without sacroiliac joint involvement).
+
+---
+
+## Developmental Conditions of the Hip
+
+### DDH, Perthes Disease, and SUFE
+
+**Developmental dysplasia of the hip (DDH)** encompasses a spectrum from mild acetabular dysplasia to frank dislocation of the femoral head. The acetabulum fails to develop normally (shallow, oblique acetabular roof rather than the deep, curved cup that normally contains the femoral head), and the femoral head may be subluxed or completely dislocated. Risk factors: female sex (8:1 female predominance — because female fetuses are more sensitive to maternal relaxin, which causes ligamentous laxity), breech presentation, firstborn, positive family history, oligohydramnios.
+
+On AP pelvis X-ray in DDH, the key findings are: **shallow acetabulum** (the acetabular index — angle between the acetabular roof and the horizontal — is increased; normal < 30° in infants), **high-riding femoral head** (the femoral head ossification centre, when it appears at 4–6 months, is superolateral to its normal position), and **broken Shenton's line** — the smooth, continuous, crescent-shaped line drawn along the inferior border of the femoral neck and the superior border of the obturator foramen is disrupted (the line is discontinuous) in subluxation/dislocation.
+
+![DDH pelvis X-ray — AP pelvis radiograph in an infant showing a shallow acetabulum (increased acetabular index), lateral and superior displacement of the femoral head ossification center, and a broken Shenton's line (the curved line from femoral neck to obturator foramen is discontinuous on the affected side compared to the normal smooth arc on the normal side)](../../images/orthopedics-developmental-dysplasia-of-the-hip.jpg)
+> **IBQ tip:** Shenton's line is a smooth arc drawn from the medial femoral neck to the superior obturator foramen border — if this arc is interrupted (the femoral neck curves higher than it should before meeting the obturator line), the femoral head is displaced superolaterally, which is the radiographic sign of subluxation or dislocation; a normal Shenton's line is a continuous, smooth curve on both sides.
+
+**Perthes disease** (Legg-Calvé-Perthes disease) is avascular necrosis of the femoral head in children (4–10 years), caused by disruption of the blood supply to the femoral head epiphysis during a critical period of growth. The femoral head undergoes ischemic necrosis, then revascularization, then reossification — over a 2–4 year natural history. The X-ray evolves: early — subtle subchondral lucency (crescent sign) and increased density of the femoral head (dead bone appears denser because it does not undergo normal remodeling); late — flattening and fragmentation of the femoral head with irregular density, eventual reossification. The femoral head in severe Perthes becomes flattened (coxa magna — a large, flat, mushroom-shaped head) that no longer fits in the acetabulum.
+
+![Perthes disease AP pelvis X-ray — the affected femoral head appears flattened, fragmented, and sclerotic (denser than normal) compared to the normal spherical femoral head on the contralateral side, with possible widening of the joint space (joint space preserved in avascular phase)](../../images/orthopedics-legg-calve-perthes-disease.jpg)
+> **IBQ tip:** In Perthes, the femoral head loses its spherical shape and becomes flat and fragmented — the key radiographic distinction from SUFE (where the head is not fragmented but slips posteriorly on the neck, with Klein's line not intersecting the head) and from septic arthritis of the hip (where the joint space is lost early and the head is not sclerotic).
+
+**Slipped upper femoral epiphysis (SUFE)** occurs when the femoral head epiphysis separates from the femoral neck through the physis (growth plate) — the head displaces posteriorly and inferiorly while the neck moves anteriorly. It affects obese adolescents (10–16 years) during the growth spurt, predominantly males, with a bilateral occurrence in 25%. The displacement occurs through the hypertrophic zone of the growth plate (the weakest zone). The characteristic clinical presentation is an obese adolescent with groin or knee pain (the latter from obturator nerve referred pain) and a limb that is held in external rotation.
+
+**Klein's line** on the AP pelvis X-ray is the key radiographic sign: a line drawn along the superior border of the femoral neck should intersect the lateral portion of the femoral head (normally, the head overlaps Klein's line). In SUFE, because the head has slipped posteromedially, Klein's line passes entirely above the femoral head without intersecting it — like a line drawn along the top of an ice cream cone that no longer touches the ice cream because the scoop has slipped off to one side ("ice cream falling off cone" appearance).
+
+![SUFE AP pelvis X-ray — Klein's line drawn along the superior femoral neck fails to intersect the lateral portion of the femoral head on the affected side (the femoral head has slipped posteromedially and appears smaller/more medial than expected), compared to the normal side where Klein's line clearly intersects the head; the "ice cream falling off the cone" appearance on frogleg lateral view](../../images/orthopedics-slipped-upper-femoral-epiphysis.jpg)
+> **IBQ tip:** Always compare both sides — Klein's line normally intersects at least 20% of the femoral head width; in SUFE, the line passes entirely above the head without touching it on the affected side; the frogleg lateral view shows the posterior slip most clearly (the head sits below and behind the neck like a scoop of ice cream slipping off the back of a cone).
+
+---
 
 ### Disc Prolapse Levels and the Cauda Equina
 

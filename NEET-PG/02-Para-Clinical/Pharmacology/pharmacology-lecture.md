@@ -1,60 +1,56 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["💊 PHARMACOLOGY — NEET PG<br/>8 Major Drug Classes"]
+
+    A --> B["Autonomic Pharmacology"]
+    A --> C["CVS Drugs"]
+    A --> D["CNS Drugs"]
+    A --> E["Antimicrobials"]
+    A --> F["Endocrine Drugs"]
+    A --> G["Pharmacokinetics"]
+    A --> H["Chemotherapy & Special"]
+
+    B --> B1["Cholinergic<br/>Ach / Atropine / Organophosphates"]
+    B --> B2["Adrenergic<br/>Adrenaline / Beta-blockers / Alpha-blockers"]
+    B --> B3["Neuromuscular Blockers<br/>Succinylcholine / Vecuronium / Reversal"]
+
+    C --> C1["Antiarrhythmics<br/>Class IA-IV / Digoxin / Adenosine"]
+    C --> C2["Antihypertensives<br/>ACEi / ARB / CCB / Diuretics"]
+    C --> C3["Anticoagulants<br/>Heparin→Protamine / Warfarin→VitK/FFP"]
+
+    D --> D1["Antipsychotics<br/>Typical (D2) / Atypical / Clozapine"]
+    D --> D2["Antidepressants<br/>SSRIs / TCAs / MAOIs / SNRIs"]
+    D --> D3["Antiepileptics<br/>Valproate / Phenytoin / Carbamazepine"]
+
+    E --> E1["Beta-Lactams<br/>Penicillin / Cephalosporins / Carbapenems"]
+    E --> E2["Aminoglycosides<br/>Gentamicin / Ototoxicity / Nephrotoxicity"]
+    E --> E3["Antitubercular<br/>HRZE / Drug-specific toxicities"]
+
+    F --> F1["Insulin Types<br/>Rapid / Short / Intermediate / Long"]
+    F --> F2["Oral Hypoglycemics<br/>Metformin / Sulfonylureas / SGLT2i"]
+    F --> F3["Thyroid Drugs<br/>Carbimazole / PTU / Levothyroxine"]
+
+    G --> G1["PK Concepts<br/>Vd / t½ / Bioavailability / CYP450"]
+    G --> G2["Drug Interactions<br/>Enzyme inducers vs inhibitors"]
+    G --> G3["Teratogenic Drugs<br/>Thalidomide / Valproate / Isotretinoin"]
+
+    H --> H1["Antineoplastics<br/>Alkylating / Antimetabolites / Targeted"]
+    H --> H2["NSAIDs & Steroids<br/>COX-1/2 / Dexamethasone / Prednisolone"]
+    H --> H3["Drugs of Choice<br/>DOC table for key conditions"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                  PHARMACOLOGY — NEET PG LECTURE MAP                         │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-     ┌──────────────────────────────┼────────────────────────────┐
-     │                              │                            │
-     ▼                              ▼                            ▼
-┌─────────────────┐    ┌────────────────────────┐   ┌───────────────────────┐
-│ PHARMACOKINETICS│    │  AUTONOMIC PHARMACOLOGY│   │  CARDIOVASCULAR DRUGS │
-└────────┬────────┘    └───────────┬────────────┘   └──────────┬────────────┘
-         │                         │                            │
-   ┌─────┴──────┐            ┌─────┴──────┐             ┌──────┴──────┐
-   │ ● Bioavail-│            │ ● ANS: 2   │             │ ● ACE inhib-│
-   │   ability &│            │   opposing │             │   itors     │
-   │   1st pass │            │   empires  │             │   (RAAS     │
-   │ ● Volume of│            │ ● Cholinerg│             │   blockade) │
-   │   distribut│            │   (SLUDGE) │             │ ● Beta-     │
-   │   ion (Vd) │            │ ● Atropine │             │   blockers  │
-   │ ● Half-life│            │   (musc.   │             │   (cardio-  │
-   │   & steady │            │   blockade)│             │   protection│
-   │   state    │            │ ● Adrenerg-│             │   paradox)  │
-   │ ● Loading  │            │   ic recep-│             │ ● Anticoag- │
-   │   dose     │            │   tors     │             │   ulants    │
-   │ ● Enzyme   │            │   (α,β) &  │             │   (heparin, │
-   │   induction│            │   F-or-F   │             │   warfarin) │
-   │   & inhib. │            │   logic    │             └─────────────┘
-   │   (CYP450) │            └────────────┘
-   └────────────┘
-          │                         │                            │
-          └─────────────────────────┼────────────────────────────┘
-                                    │
-                    ┌───────────────┴───────────────┐
-                    │                               │
-                    ▼                               ▼
-        ┌───────────────────────┐     ┌─────────────────────────┐
-        │     ANTIMICROBIALS    │     │        CNS DRUGS         │
-        └───────────┬───────────┘     └────────────┬────────────┘
-                    │                               │
-              ┌─────┴──────┐                 ┌──────┴──────┐
-              │ ● Mechanisms│                 │ ● Antidepres│
-              │   (cell wall│                 │   sants     │
-              │   ribosome, │                 │   (monoamine│
-              │   DNA)      │                 │   hypothesis│
-              │ ● Beta-lact-│                 │   SSRIs,    │
-              │   ams (PBP  │                 │   TCAs,     │
-              │   inhibition│                 │   MAOIs)    │
-              │ ● Aminoglyc-│                 │ ● Antipsy-  │
-              │   osides    │                 │   chotics   │
-              │   (30S, irr-│                 │   (dopamine │
-              │   eversible)│                 │   hypothesis│
-              │ ● Fluoroqui-│                 │   typicals  │
-              │   nolones   │                 │   vs atyp.) │
-              │ ● Metronida-│                 └─────────────┘
-              │   zole      │
-              └─────────────┘
-```
+
+**Subject Overview (plain text):**
+- Autonomic Pharmacology: Cholinergic (ACh/Atropine/Organophosphates), Adrenergic (Adrenaline/Beta-blockers/Alpha-blockers), Neuromuscular Blockers
+- CVS Drugs: Antiarrhythmics (Class IA-IV/Digoxin/Adenosine), Antihypertensives (ACEi/ARB/CCB/Diuretics), Anticoagulants (Heparin/Warfarin)
+- CNS Drugs: Antipsychotics (Typical D2/Atypical/Clozapine), Antidepressants (SSRIs/TCAs/MAOIs/SNRIs), Antiepileptics
+- Antimicrobials: Beta-Lactams (Penicillin/Cephalosporins/Carbapenems), Aminoglycosides (ototoxicity/nephrotoxicity), Antitubercular (HRZE)
+- Endocrine Drugs: Insulin types (Rapid/Short/Intermediate/Long), Oral Hypoglycemics (Metformin/Sulfonylureas/SGLT2i), Thyroid drugs
+- Pharmacokinetics: PK Concepts (Vd/t½/Bioavailability/CYP450), Drug Interactions (enzyme inducers/inhibitors), Teratogenic drugs
+- Chemotherapy & Special: Antineoplastics (Alkylating/Antimetabolites/Targeted), NSAIDs & Steroids (COX-1/2), Drugs of Choice
+
+> **Split Notes:** [Pharmacokinetics](pharma-pharmacokinetics.md) | [Autonomic](pharma-autonomic.md) | [CVS](pharma-cvs.md) | [CNS](pharma-cns.md) | [Antimicrobials](pharma-antimicrobials.md) | [Endocrine](pharma-endocrine.md) | [Anticancer](pharma-anticancer.md) | [Side Effects](pharma-side-effects.md) | [MCQs](pharmacology-mcqs.md) | [Notes Index](pharmacology-notes.md)
 
 # Pharmacology: Lecture Notes for NEET PG
 
@@ -107,6 +103,9 @@ Other important inducers: carbamazepine, phenytoin, phenobarbitone, griseofulvin
 
 **Enzyme inhibition** is faster — it takes effect as quickly as inhibitor concentrations build up (hours to days). The inhibitor competes with other drugs for the active site of CYP450, slowing their metabolism → higher plasma concentrations → increased effect and toxicity. The classic inhibitor is **ketoconazole** (and azole antifungals generally), which inhibits CYP3A4. Giving ketoconazole to a patient on ciclosporin can cause ciclosporin toxicity (nephrotoxicity, neurotoxicity) because ciclosporin accumulates. Erythromycin and clarithromycin inhibit CYP3A4 and can cause dangerous accumulation of statins (rhabdomyolysis risk) or carbamazepine. Ciprofloxacin inhibits CYP1A2, causing theophylline toxicity. Fluoxetine inhibits CYP2D6, causing TCA toxicity.
 
+![Pharmacokinetic elimination curves: first-order kinetics shown as a straight line on a semi-log (log-concentration vs time) plot with constant half-life; zero-order kinetics shown as a straight line on a linear (concentration vs time) plot; two-compartment model showing steep alpha distribution phase then shallow beta elimination phase](../../images/pharmacokinetic-elimination-curves.jpg)
+*Caption: Enzyme induction shortens the half-life of affected drugs by increasing the slope of the first-order elimination line on the semi-log plot — the concentration falls faster over the same time interval. Enzyme inhibition does the opposite: shallower slope, longer effective half-life, drug accumulation. Phenytoin at toxic doses transitions from first-order to zero-order kinetics (saturation of CYP2C9) — a straight linear decline at the same rate regardless of concentration, explaining why small dose increments cause disproportionate toxicity.*
+
 ---
 
 ## Autonomic Pharmacology
@@ -130,6 +129,9 @@ Muscarinic receptors are G-protein coupled receptors for acetylcholine that medi
 **M3 receptors** are found in smooth muscle (bronchi, gut, bladder detrusor, blood vessel walls) and exocrine glands (salivary, lacrimal, sweat glands). M3 activation contracts smooth muscle (bronchoconstriction, increased gut motility, bladder contraction) and stimulates glandular secretion.
 
 The mnemonic **SLUDGE** captures muscarinic agonist effects: **S**alivation, **L**acrimation, **U**rination (incontinence), **D**efecation, **G**I motility, **E**mesis. Add bradycardia and bronchoconstriction to complete the picture. This describes the clinical picture of organophosphate poisoning (insecticides and nerve agents inhibit acetylcholinesterase → acetylcholine accumulates at all cholinergic synapses → massive muscarinic activation). The antidote is atropine (muscarinic blocker) plus pralidoxime (regenerates acetylcholinesterase before "aging" occurs).
+
+![General medicine hyperkalaemia ECG changes: peaked tall T waves (earliest), flattening then loss of P waves, widening QRS, and eventually sine-wave pattern preceding VF — serial ECG panels with potassium levels labelled beside each](../../images/general-medicine-hyperkalaemia-ecg-changes.jpg)
+*Caption: Organophosphate poisoning causes a cholinergic crisis — but the ECG changes to monitor include bradycardia (excess vagal M2 stimulation) and QT prolongation from the cholinergic-mediated electrolyte shifts. More broadly, hyperkalaemia ECG changes (peaked T waves → wide QRS → sine wave) are essential for any drug causing potassium release — including succinylcholine in at-risk patients (burns, denervation) and ACE inhibitor-induced hyperkalaemia. Identify the serial progression in these panels.*
 
 ### Atropine: Blocking All Muscarinic Receptors
 
@@ -188,12 +190,33 @@ The answer lies in understanding the neurohormonal pathophysiology of heart fail
 
 Beta-blockers interrupt this cycle. Chronically blocking beta-1 receptors in the heart allows the myocardium to recover: receptor density increases (upregulation), cardiomyocyte apoptosis decreases, pathological hypertrophy reverses, and arrhythmias decrease. The seminal trials (MERIT-HF with metoprolol, CIBIS-II with bisoprolol, COPERNICUS with carvedilol) demonstrated that these three beta-blockers reduce mortality in heart failure by approximately 34%. Notably, not all beta-blockers are equal in heart failure — only these three have proven mortality benefit. Carvedilol is unique in that it also blocks alpha-1 receptors (additional vasodilation) and has antioxidant properties.
 
+![Frank-Starling curve: graph of cardiac output (y-axis) vs ventricular end-diastolic volume/preload (x-axis); normal curve rising steeply then plateauing; heart failure curve shifted down and right (reduced contractility); afterload-reducing effect shown as upward curve shift; the "descending limb" debated](../../images/frank-starling-curve.jpg)
+*Caption: Beta-blockers in heart failure improve the Frank-Starling curve — over weeks of therapy, the failing curve (lower, right-shifted) moves upward toward normal as neurohormonal remodelling reverses. This is the graphical explanation for why beta-blockers are started at a low dose and uptitrated slowly: acutely they suppress contractility (shifting curve downward temporarily), but chronically they restore it. Contrast with ACE inhibitors, which primarily reduce afterload (shifting the operating point along the same curve, increasing output at the same preload).*
+
 ### Anticoagulants: Heparin and Warfarin from First Principles
 
 The coagulation cascade exists to generate thrombin, which converts fibrinogen to fibrin — the structural scaffold of a clot. Both heparin and warfarin inhibit coagulation, but through completely different mechanisms that determine their clinical properties, their onsets of action, and their reversal strategies.
 
 ![Coagulation cascade diagram comparing heparin and warfarin sites of action: heparin (via antithrombin III) inhibiting thrombin (IIa) and Factor Xa in the common pathway; warfarin inhibiting vitamin K-dependent factors II, VII, IX, X in both intrinsic and extrinsic pathways; PT/INR testing the extrinsic pathway and aPTT testing the intrinsic pathway](../../images/coagulation-cascade-heparin-warfarin.jpg)
 > **IBQ tip:** The exam image will show the cascade as a branching diagram — identify heparin's action at the bottom (common pathway, thrombin/Xa) vs warfarin's upstream effect on the vitamin K-dependent factors (II, VII, IX, X). Key differentiator: heparin prolongs aPTT (intrinsic pathway monitored); warfarin prolongs PT/INR (extrinsic pathway, Factor VII has the shortest half-life so it falls first).
+
+> **ASCII diagram:**
+> ```
+> INTRINSIC                      EXTRINSIC
+> XII→XI→[IX,VIII] ──┐          [VII] ← WARFARIN blocks (Vit K dep.)
+>                    ↓                ↓
+>                   [X] ←────────────┘  ← WARFARIN blocks (II,VII,IX,X)
+>                    ↓
+>          HEPARIN→ antithrombin III → inhibits [IIa] + [Xa]
+>                    ↓
+>               [II] → IIa (thrombin)          ← WARFARIN blocks Factor II
+>                    ↓
+>               Fibrinogen → Fibrin
+>
+> WARFARIN: blocks synthesis of II,VII,IX,X (Vit K-dependent) → PT/INR ↑
+> HEPARIN:  activates antithrombin → neutralizes IIa + Xa immediately → aPTT ↑
+> Reversal: Warfarin → Vit K / PCC;  Heparin → Protamine sulfate
+> ```
 
 **Heparin** works by activating antithrombin III (AT-III), an endogenous serine protease inhibitor that normally inactivates thrombin (Factor IIa) and Factor Xa (and to a lesser extent, Factors IXa, XIa, XIIa). AT-III works slowly on its own. Heparin is like a catalyst that magnifies AT-III's activity a thousandfold by inducing a conformational change in AT-III that dramatically increases its affinity for its targets. Since heparin works by activating an already-existing protein, its effect is immediate — anticoagulation begins within minutes of IV administration. Heparin is given IV or subcutaneously (it does not cross the gut wall — too large and anionic). It is monitored by the aPTT (target 1.5-2.5x normal). Reversal is with protamine sulfate (positively charged; binds and neutralizes heparin, which is negatively charged).
 
@@ -204,6 +227,9 @@ The coagulation cascade exists to generate thrombin, which converts fibrinogen t
 **Analogy:** Warfarin does not destroy the clotting factors — it removes the manufacturing equipment for new ones. The old ones already in circulation continue working until they die naturally. This is why warfarin takes 3-5 days to achieve full anticoagulant effect — you must wait for the existing vitamin K-dependent factors to be consumed. Factor VII has the shortest half-life (6 hours), which is why the PT/INR prolongs first (Factor VII is measured predominantly in the PT assay). But this also means the PT/INR may suggest anticoagulation before the patient is truly anticoagulated (Factor II, with its 60-hour half-life, may still be at near-normal levels). This is why heparin bridges warfarin initiation in high-risk patients.
 
 > **Key exam fact:** When starting warfarin for DVT/PE, overlap with heparin for at least 5 days AND until the INR is therapeutic (>2.0) for 2 consecutive days. Protein C has the shortest half-life among vitamin K-dependent proteins — Protein C drops before the clotting factors do, creating a transient prothrombotic state at warfarin initiation (warfarin-induced skin necrosis in Protein C/S deficient patients).
+
+![Coagulation cascade with heparin and warfarin sites marked: complete cascade diagram showing intrinsic (contact) pathway, extrinsic (tissue factor) pathway, common pathway convergence at Factor X, and fibrin clot formation; heparin's antithrombin III-mediated inhibition at IIa and Xa shown in red; warfarin's Vitamin K-dependent factor synthesis block (II, VII, IX, X, Proteins C and S) shown in blue](../../images/coagulation-cascade-diagram.jpg)
+*Caption: The full coagulation cascade anchors the two-drug comparison. Key exam point: heparin works immediately (activates existing antithrombin); warfarin has a 3–5 day onset because it only prevents new factor synthesis — existing factors must be consumed. Factor VII falls first (t½ 6 h), explaining early PT/INR rise; Factor II falls last (t½ 60 h), explaining the need for overlap. The cascade also shows why Factor Xa inhibitors (rivaroxaban, apixaban) are the new oral anticoagulants — they block the final convergence point.*
 
 ---
 
@@ -226,6 +252,9 @@ The second major resistance mechanism is **altered PBPs** — the bacteria produ
 
 > **Key exam fact:** Carbapenems (imipenem, meropenem, ertapenem) have the broadest beta-lactam spectrum and are stable to most beta-lactamases — but not to carbapenemases (KPC, NDM-1, OXA-48), which are the basis for carbapenem-resistant Enterobacteriaceae (CRE). These "superbugs" represent a major public health threat because they are resistant to virtually all available antibiotics.
 
+![Type I (IgE-mediated) hypersensitivity pathway: sensitisation phase showing antigen-driven IgE production binding to Fc receptors on mast cells; challenge phase showing antigen cross-linking IgE → mast cell degranulation → release of histamine, prostaglandins, leukotrienes → immediate bronchospasm, urticaria, angioedema, anaphylaxis](../../images/type-i-hypersensitivity-ige-mast-cell-degranulation.jpg)
+*Caption: Penicillin allergy is the most clinically important drug allergy — ~10% of patients report it, but true IgE-mediated (Type I) allergy with anaphylaxis risk is present in <1%. The beta-lactam ring opening generates haptens (penicilloyl determinants) that bind carrier proteins and trigger this pathway. Cross-reactivity between penicillins and cephalosporins is ~1–2% (due to shared side-chains, not the ring itself). For NEET PG: recognise the Type I pathway and link it to drug allergy testing and the decision to use alternative antibiotics vs desensitisation.*
+
 ### Aminoglycosides: 30S Ribosome, Irreversible Binding
 
 Aminoglycosides (gentamicin, amikacin, tobramycin, streptomycin) target the 30S ribosomal subunit — specifically, they bind to the 16S rRNA at the decoding site, where the mRNA codon is read against the aminoacyl-tRNA anticodon. When aminoglycosides are bound, the ribosome makes translation errors — it misreads the mRNA codon and incorporates the wrong amino acid. This produces nonfunctional or toxic proteins that disrupt bacterial membranes, which paradoxically allows more aminoglycoside to enter the bacterium. This self-amplifying entry is why aminoglycosides require oxygen for uptake (energy-dependent process) — they are ineffective against obligate anaerobes.
@@ -233,6 +262,9 @@ Aminoglycosides (gentamicin, amikacin, tobramycin, streptomycin) target the 30S 
 The toxicity of aminoglycosides reflects their tissue concentration profile. They are filtered at the glomerulus and accumulate in the renal proximal tubular cells (where they are reabsorbed from the tubular lumen and accumulate intracellularly). The high concentrations damage the tubular cells → aminoglycoside nephrotoxicity (typically acute tubular necrosis). Similarly, they are concentrated in the endolymph of the cochlea → ototoxicity (both cochlear, causing sensorineural hearing loss, and vestibular, causing vertigo and balance disturbance). The risk factors for toxicity are prolonged use, high trough concentrations, pre-existing renal impairment, and concurrent use of other nephrotoxins (NSAIDs, vancomycin, cisplatin).
 
 **Analogy:** Aminoglycosides are like a guided missile with collateral damage — highly effective against bacteria, but their concentration in specific human tissues (kidney tubules, cochlear hair cells) causes predictable, organ-specific toxicity. Once-daily dosing (taking advantage of the concentration-dependent killing and post-antibiotic effect of aminoglycosides) minimizes nephrotoxicity while maintaining efficacy.
+
+![Gram stain of Staphylococcus aureus: gram-positive cocci (purple) arranged in grape-like clusters; compare with the blue counterstained background organisms](../../images/gram-stain-s-aureus-gram-positive-cocci-clusters.jpg)
+*Caption: Aminoglycosides are used in combination against gram-positive pathogens (including S. aureus endocarditis — gentamicin + beta-lactam synergy) and are the backbone against gram-negative sepsis. Gram stain identification is the first step in targeted antimicrobial selection. Gram-positive cocci in clusters = Staphylococci (not Streptococci, which are in chains or pairs). This visual is the most tested microbiology image in NEET PG and should be immediately recognisable.*
 
 ### Fluoroquinolones: Paralyzing DNA Replication
 
@@ -315,8 +347,37 @@ In addition, D2 blockade in the **tuberoinfundibular pathway** (hypothalamus →
 
 > **Key exam fact:** **Neuroleptic Malignant Syndrome (NMS)** is a rare but life-threatening complication of antipsychotic use (any dopamine antagonist). The tetrad: (1) **H**yperthermia, (2) **A**utonomy dysfunction (unstable BP, HR), (3) **R**igidity (lead-pipe), (4) **D**ecreased consciousness — HARD. Labs: markedly elevated CK, leukocytosis, elevated LFTs. Treatment: stop the antipsychotic, aggressive cooling, dantrolene (muscle relaxant that reduces rigidity and hyperthermia), bromocriptine/amantadine (dopamine agonists to restore dopaminergic tone). Do not use succinylcholine (risk of fatal hyperkalemia from the rigid muscles).
 
+![ECG showing succinylcholine-induced hyperkalaemia: peaked T waves progressing to sine-wave pattern, reflecting the depolarising block mechanism of succinylcholine causing K⁺ efflux from all muscle end-plates simultaneously; comparison with normal ECG](../../images/succinylcholine-hyperkalemia-ecg.jpg)
+*Caption: Succinylcholine is the only depolarising neuromuscular blocker in clinical use — it causes initial fasciculations (brief depolarisation of all motor end-plates) followed by sustained flaccid paralysis. The fasciculations cause transient K⁺ efflux from all muscle cells simultaneously, raising serum K⁺ by ~0.5 mEq/L in normal patients (safe). In patients with burns, crush injuries, denervation, prolonged immobility, or NMS, the number of extrasynaptic acetylcholine receptors is massively upregulated — succinylcholine causes catastrophic hyperkalaemia (K⁺ rise of 5–10 mEq/L → VF). The ECG changes shown are the warning that must trigger immediate calcium gluconate.*
+
+![Train-of-four (TOF) neuromuscular monitoring: four supramaximal ulnar nerve stimuli at 2 Hz; TOF ratio (T4/T1) = 1.0 in normal neuromuscular function; non-depolarising block shows progressive fade of T2, T3, T4 with TOF ratio <0.7; depolarising (succinylcholine) block shows uniform reduction of all four twitches without fade](../../images/train-of-four-tof-monitoring.jpg)
+*Caption: TOF monitoring distinguishes depolarising from non-depolarising block — the key exam discriminator. Depolarising block (succinylcholine): all four twitches reduced equally, no fade, no post-tetanic potentiation — resembles "channel block." Non-depolarising block (vecuronium, rocuronium): progressive fade (T4 < T3 < T2 < T1) due to presynaptic acetylcholine depletion; post-tetanic potentiation present. Clinical use: TOF ratio >0.9 at T4/T1 confirms adequate reversal before extubation — below this, residual curarisation causes impaired respiratory drive and aspiration risk.*
+
+![Malignant hyperthermia RYR1 cascade diagram: triggering agent (succinylcholine or volatile anaesthetic) → uncontrolled RYR1 receptor opening → massive Ca²⁺ efflux from sarcoplasmic reticulum → sustained muscle contraction → ATP depletion, hyperthermia, lactic acidosis, rhabdomyolysis, hyperkalaemia](../../images/malignant-hyperthermia-ryr1-cascade.jpg)
+*Caption: Malignant hyperthermia (MH) is the pharmacogenomic emergency most commonly triggered by succinylcholine or halothane. It is distinct from NMS — MH is a primary skeletal muscle Ca²⁺ channel disorder (RYR1 mutation), not a central dopaminergic problem. The treatment is dantrolene (blocks RYR1, reducing Ca²⁺ release). Key exam discriminator: MH occurs in the operating theatre during induction; NMS occurs days after starting antipsychotics. Both cause hyperthermia and rigidity — but MH has rapid onset and CO₂ rise (from aerobic metabolism collapse) is the earliest sign.*
+
 ![Dose-response curves comparing full agonist (sigmoid curve reaching 100% maximal response), partial agonist (sigmoid curve with lower ceiling effect, e.g. 60% maximal response), and the effect of competitive antagonist (parallel rightward shift of full agonist curve — same Emax, higher EC50) vs non-competitive antagonist (depressed ceiling with no rightward shift — lower Emax, EC50 unchanged)](../../images/dose-response-curves-agonist-antagonist.jpg)
 > **IBQ tip:** The critical distinction in antagonism questions is whether the Emax (ceiling) is preserved. Competitive antagonism shifts the curve rightward (higher dose needed for same effect) but the ceiling is fully restored by increasing the agonist dose — parallel shift, same Emax. Non-competitive antagonism depresses the ceiling (Emax falls) and cannot be overcome by adding more agonist. Partial agonist curves are identified by a lower ceiling even with no antagonist present — they look like a non-competitive antagonist curve but are intrinsically limited.
+
+> **ASCII diagram:**
+> ```
+> Effect
+>  100% ─┤                    Full agonist ──────────────┐
+>        │              Competitive antag →  ───────────┐│ (same Emax,
+>        │                                              ││  shifted right)
+>   70% ─┤       Partial agonist ──────────────┐       ││
+>        │                                     │       ││
+>   50% ─┼  ─  ─  ─  ─  ─ (ED50 reference)   │       ││
+>        │                                     │       ││
+>        │  Non-competitive ──────┐            │       ││ (↓ Emax,
+>   30% ─┤                       │            │       ││  no parallel shift)
+>        │                       │            │       ││
+>    0% ─┴───────────────────────┴────────────┴───────┴┘──→ log[Dose]
+>
+> Competitive:     parallel rightward shift, same Emax
+> Non-competitive: depressed ceiling (Emax ↓), no rightward shift
+> Partial agonist: intrinsically lower ceiling even alone
+> ```
 
 ![Therapeutic index diagram: two overlapping sigmoid curves on a log-dose axis — ED50 curve (effective dose for 50% of population) on the left and LD50 curve (lethal dose for 50% of population) on the right; the horizontal distance between them represents the therapeutic window; a drug with a narrow therapeutic index shows the two curves close together or overlapping](../../images/therapeutic-index-ed50-ld50.jpg)
 > **IBQ tip:** The therapeutic index = LD50 / ED50. A narrow therapeutic index is shown graphically by the ED50 and LD50 curves being close together or overlapping — meaning a dose that is therapeutic in most patients is lethal in some. Classic narrow-TI drugs: digoxin, lithium, warfarin, aminoglycosides, theophylline, phenytoin. Distinguish from a drug with a wide TI where the LD50 curve is far to the right of the ED50 curve (e.g., penicillin).

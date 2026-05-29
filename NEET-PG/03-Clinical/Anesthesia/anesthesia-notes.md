@@ -1,5 +1,27 @@
 # Anesthesia - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#anesthesia) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](anesthesia-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 4 | 4 | 5 | 5 | 5 | 5 | **5** |
+
+**Trend:** Slight rise — 4–5 questions per year, increasing.
+
+### Top High-Yield Topics
+1. Volatile anesthetic agents — MAC values, properties
+2. Muscle relaxants — depolarizing vs non-depolarizing, reversal
+3. Spinal vs epidural anesthesia — levels, differences
+4. Malignant hyperthermia — trigger agents, treatment (dantrolene)
+5. Airway management — RSI, difficult airway algorithm
+6. Monitoring — ASA standards, BIS, capnography
+7. Local anesthetics — mechanism, maximum doses, toxicity
+8. Pain management — WHO ladder, opioid conversions
+
+> **Strategy:** Malignant hyperthermia and muscle relaxant reversal (neostigmine vs sugammadex) are the most frequently tested topics. MAC values of common agents are direct recall.
+
 ---
 
 ## PREOPERATIVE ASSESSMENT

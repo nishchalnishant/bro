@@ -1,5 +1,31 @@
 # Psychiatry - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#psychiatry) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](psychiatry-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 6 | 6 | 6 | 6 | 6 | 6 | **6** |
+
+**Trend:** Stable — exactly 6 questions every year, very predictable.
+
+### Top 10 High-Yield Topics
+1. Schizophrenia — Schneider's first rank symptoms, antipsychotics
+2. Depression — diagnostic criteria, first-line drugs
+3. Bipolar disorder — mood stabilizers, teratogenicity
+4. Anxiety disorders — GAD, panic, OCD, PTSD — differentiation
+5. Substance use disorders — dependence vs abuse, withdrawal
+6. Cognitive assessment tools (MMSE, MoCA)
+7. Electroconvulsive therapy — indications, contraindications
+8. Personality disorders — Cluster A/B/C
+9. Child psychiatry — ADHD, autism spectrum disorder
+10. Forensic psychiatry — McNaghten's rules
+
+> **Strategy:** With only 6 questions, focus exclusively on the top 5 topics. ECT indications and Schneider's first rank symptoms are near-certain to appear.
+
+---
+
 ---
 
 ## CLASSIFICATION SYSTEMS

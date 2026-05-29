@@ -1,17 +1,29 @@
-# Ophthalmology — NEET PG
-**NEET PG Weight:** 8 questions (~4%)
-**Tier:** 3
+# Ophthalmology
+
+Ophthalmology covers diseases of the eye and visual system — from refractive errors and glaucoma to retinal disorders and neuro-ophthalmology — contributing ~8 questions per NEET PG paper.
 
 ## Files in This Folder
-- `ophthalmology-lecture.md` — First-principles lecture notes for deep understanding (read in Month 7)
-- `ophthalmology-notes.md` — Condensed exam-focused notes for revision (use from Month 9 onwards)
 
-## Top NEET PG Topics
-1. Glaucoma — primary open-angle vs angle-closure (clinical features, IOP, gonioscopy, drug treatment with mechanism)
-2. Retinal disorders — diabetic retinopathy (NPDR vs PDR classification), CRVO vs CRAO (clinical, fundus, management)
-3. Pupil reactions — RAPD (afferent defect), Argyll Robertson pupil, Horner's syndrome (triad and localisation)
+| File | Description |
+|------|-------------|
+| `ophthalmology-notes.md` | Condensed exam-focused notes covering anterior segment, posterior segment, and neuro-ophthalmology |
+| `ophthalmology-lecture.md` | In-depth lecture notes with fundus findings, drug mechanisms, and clinical algorithms |
+| `WEAK-TOPICS.md` | Personally flagged weak areas requiring extra revision attention |
 
-## Study Tips
-- Drug treatment of glaucoma is very high-yield: learn the classes (prostaglandin analogues, beta-blockers, carbonic anhydrase inhibitors, miotics) with their mechanism and adverse effects.
-- Fundus findings described in question stems (flame-shaped haemorrhages, cotton wool spots, AV nipping, disc cupping) must be learned with their associated conditions.
-- Squint (strabismus) — types, cover test interpretation, and surgical correction principles are asked regularly.
+## High-Yield Areas
+
+- Glaucoma: primary open-angle vs acute angle-closure (clinical features, IOP, gonioscopy findings), drug treatment classes and mechanisms
+- Retinal disorders: diabetic retinopathy (NPDR vs PDR classification, CSME), CRVO vs CRAO (fundus appearance, management)
+- Pupil reactions: RAPD (swinging torch test), Argyll Robertson pupil (syphilis), Horner's syndrome (triad and neuroanatomical localisation)
+- Squint: types of strabismus, cover test interpretation, amblyopia, and surgical correction principles
+- Cataract and refractive surgery: types of cataract by morphology and cause, IOL power calculation, LASIK indications and contraindications
+
+## Quick Navigation
+
+- [Notes](ophthalmology-notes.md)
+- [Lecture](ophthalmology-lecture.md)
+- [Weak Topics](WEAK-TOPICS.md)
+
+## NEET PG Weight
+
+Avg 8 questions/year (2019–2024). Stable trend — fundus findings described in question stems (flame haemorrhages, cotton wool spots, AV nipping, disc cupping) must be mapped to specific conditions; glaucoma pharmacology is the most reliably tested chapter.

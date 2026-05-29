@@ -1,5 +1,29 @@
 # Pediatrics — NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#pediatrics) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](pediatrics-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 12 | 12 | 12 | 12 | 13 | 13 | **12** |
+
+**Trend:** Stable/slight rise — 12–13 questions per year.
+
+### Top 10 High-Yield Topics
+1. Developmental milestones — gross motor, fine motor, language, social
+2. Vaccination schedule — NIS, catch-up
+3. Neonatal jaundice — physiological vs pathological, exchange transfusion threshold
+4. Malnutrition — Wellcome/WHO classification, management
+5. Congenital heart disease — acyanotic vs cyanotic
+6. Febrile seizures — simple vs complex, management
+7. Asthma — GINA classification, step-up therapy
+8. ORS — composition, volumes
+9. APGAR score — components and interpretation
+10. Congenital hypothyroidism — neonatal screening
+
+> **Strategy:** Developmental milestones (topic 1) appear every single year — memorize the exact age for each milestone. Vaccination schedule is frequently updated; check NIS 2024.
+
 ---
 
 ## Growth and Development
@@ -17,6 +41,10 @@
 | 3-10 years | 2 kg/year | — |
 
 - Average birth weight: **2.8-3.2 kg** (WHO reference)
+
+**PYQ HOTSPOT: Birth weight doubles at 5 months; triples at 1 year; quadruples at 2 years; birth weight formula >1 year = Age (years) × 2 + 8 kg**
+
+**PYQ HOTSPOT: Height at 1 year ≈ 75 cm (birth 50 cm + 25 cm in year 1); head circumference at birth = 33-35 cm; HC = chest circumference at 6-9 months**
 
 #### Height
 - Birth: ~50 cm
@@ -41,6 +69,12 @@
 | **12 months** | Walks with one hand held, cruising | **Neat pincer grasp**, releases | "Mama/dada" specific, 1-2 words | Points, gives objects |
 | **18 months** | Walks independently, runs (broad-based), walks upstairs | Tower of **3 cubes**, scribbles | **10 words**, follows 2-step commands | Domestic mimicry |
 | **24 months** | Runs well, kicks ball, walks upstairs 2 feet/step | Tower of **6 cubes** | **50+ words, 2-word phrases** | Parallel play |
+
+**PYQ HOTSPOT: Social smile = 6 weeks; head control = 3-4 months; sits without support = 6-7 months; pincer grasp = 9-10 months; walks independently = 12-15 months**
+
+**PYQ HOTSPOT: Language milestones — 1 word meaningful = 12 months; 2-word phrases = 24 months; 50+ words = 24 months; follows 2-step commands = 18 months**
+
+**PYQ HOTSPOT: Tower of cubes — 2 cubes = 15 months; 3 cubes = 18 months; 6 cubes = 2 years; 9-10 cubes = 3 years; draw circle = 3 years; draw cross = 4 years**
 
 > **PYQ HOTSPOT**: Social smile = 6 weeks; Pincer grasp = 9-10 months; 50 words + 2-word phrases = 2 years; follows 2-step commands = 18 months
 
@@ -76,6 +110,10 @@
 | **5-6 years** | DPT booster-2 |
 | **10 years** | TT/Td |
 | **16 years** | TT/Td |
+
+**PYQ HOTSPOT: BCG = birth, intradermal, LEFT arm; OPV-0 and HepB-0 = within 24 hours of birth; MR = 9 months; MMR not in NIS (India) — MR only in NIS**
+
+**PYQ HOTSPOT: Measles vaccine age = 9 months (NIS India); MMR = 12-15 months (IAP private); Varicella = 15 months (IAP); Hep A = 2 doses at 12 months and 18 months (IAP)**
 
 ### Cold Chain
 - **Freeze-sensitive vaccines** (must NOT freeze): DPT, TT, HepB, Hib, PCV, IPV, Rabies
@@ -135,6 +173,10 @@
 | Peak bilirubin | <12 mg/dL (term), <15 mg/dL (preterm) | Higher |
 | Direct bilirubin | <2 mg/dL or <20% of total | Elevated direct = cholestasis |
 | Rate of rise | <5 mg/dL/day | >5 mg/dL/day |
+
+**PYQ HOTSPOT: Jaundice <24 hours = always pathological (think hemolytic disease); jaundice >2 weeks term = always investigate (think hypothyroidism, biliary atresia)**
+
+**PYQ HOTSPOT: Physiological jaundice peak = day 3-5 term, day 5-7 preterm; Kramer Zone 5 (palms and soles) ≥20 mg/dL = exchange transfusion level**
 
 **Kramer's Zones (clinical estimation):**
 - Zone 1: Face/forehead → ~5 mg/dL
@@ -214,6 +256,10 @@
 - **Management**: **Supportive** — oxygen (target SpO2 ≥92%), adequate hydration; NG feeds if unable to breastfeed
 - **Do NOT use**: Bronchodilators (salbutamol), steroids, antibiotics, nebulized adrenaline (in community) — NICE guideline
 - Indication for hospital: SpO2 <92%, apneas, poor feeding, signs of respiratory failure
+
+**PYQ HOTSPOT: RSV bronchiolitis = commonest in <6 months; treatment = supportive only; ribavirin reserved for immunocompromised/severe cases only (NOT routine)**
+
+**PYQ HOTSPOT: Bronchiolitis vs asthma — bronchiolitis first episode <2 years, no response to bronchodilators; recurrent wheeze >2 episodes in child >2 years = asthma**
 
 ### Pneumonia — WHO Classification
 
@@ -308,6 +354,10 @@
   - **Pneumatic/hydrostatic reduction (air/barium enema)**: If no perforation, <24h, stable — success rate 80-90%
   - Surgical reduction: Perforation, failed non-surgical, older child with lead point
 
+**PYQ HOTSPOT: Intussusception = peak 6-9 months; ileocolic type; triad = colicky pain + currant jelly stool + sausage mass; USG target sign = diagnostic**
+
+**PYQ HOTSPOT: Intussusception treatment = air/barium enema reduction if stable and <24 hours; contraindications = perforation, peritonitis, hemodynamic instability**
+
 ### Hypertrophic Pyloric Stenosis
 - **Age**: **2-4 weeks** (range 2-12 weeks); male:female = **4:1** (firstborn male most common)
 - **Features**: **Projectile non-bilious** vomiting (gastric outlet obstruction) after every feed; hungry baby
@@ -317,6 +367,10 @@
   - Barium: **String sign of Kantor** (narrow elongated pyloric channel)
   - Bloods: **Hypochloremic hypokalemic metabolic alkalosis** (prolonged vomiting of HCl; kidneys reabsorb Na+ at expense of H+ and K+; paradoxical aciduria late)
 - **Treatment**: Correct metabolic derangement first → **Ramstedt's pyloromyotomy** (surgical incision of pyloric muscle)
+
+**PYQ HOTSPOT: Pyloric stenosis = 2-4 weeks, male firstborn, projectile NON-bilious vomiting; metabolic alkalosis (hypochloremic hypokalemic); olive mass; string sign barium**
+
+**PYQ HOTSPOT: Pyloric stenosis management = correct electrolytes FIRST, then Ramstedt's pyloromyotomy; do NOT operate in uncorrected alkalosis**
 
 ### Hirschsprung's Disease (Congenital Aganglionic Megacolon)
 - **Pathology**: Absence of ganglion cells (Auerbach's myenteric + Meissner's submucosal plexus) in distal rectum extending proximally
@@ -343,6 +397,20 @@
 - **Complex**: Duration ≥15 min, focal, or >1 seizure in 24h
 - **Recurrence risk**: 30-40%; risk increased if <18 months, family history, low fever at onset
 - **No LP unless** meningism or suspicious features
+
+**PYQ HOTSPOT: Simple febrile seizure = <15 min + generalized + single episode + age 6 months-5 years + fever; complex = any of: >15 min, focal, recurs within 24 hours**
+
+**PYQ HOTSPOT: Febrile seizure recurrence = 30%; risk of epilepsy is only marginally increased after simple febrile seizure; LP not routinely indicated**
+
+**PYQ HOTSPOT: Kawasaki disease = CRASH mnemonic — Conjunctivitis + Rash (polymorphous) + Adenopathy (cervical) + Strawberry tongue/lips + Hands (erythema/peeling); fever >5 days; treat with IVIG + aspirin**
+
+**PYQ HOTSPOT: Kawasaki = most common cause of acquired heart disease in children in developed countries; coronary artery aneurysm = feared complication; echo mandatory**
+
+**PYQ HOTSPOT: Nephrotic syndrome in children — most common cause = MCNS (Minimal Change Nephrotic Syndrome); responds to steroids; triad = edema + proteinuria + hypoalbuminemia + hyperlipidemia**
+
+**PYQ HOTSPOT: Reye syndrome = aspirin + viral illness (influenza B or varicella) → fatty liver + encephalopathy + hyperammonemia; avoid aspirin in children <12 years with viral infections**
+
+**PYQ HOTSPOT: G6PD deficiency = X-linked recessive; oxidant stress (primaquine, dapsone, fava beans) → Heinz body hemolytic anemia; G6PD most common enzyme deficiency; Mediterranean and African descent**
 
 ### Dengue Fever
 
@@ -394,6 +462,10 @@
 - **CXR**: Crew-cut/hair-on-end skull (medullary hyperplasia)
 - **Treatment**: Regular blood transfusions (target Hb 10g/dL) + **chelation therapy** (desferrioxamine IV/SC or deferasirox oral) for iron overload
 - **Curative**: Bone marrow transplant (HLA-matched sibling)
+
+**PYQ HOTSPOT: Beta thal major = HbA absent + HbF elevated + HbA2 elevated; hair-on-end skull X-ray; chipmunk facies; transfusion dependent from 6 months of age**
+
+**PYQ HOTSPOT: Alpha thal — 3 genes deleted = HbH disease (beta4 tetramers); 4 genes deleted = hydrops fetalis (HbBart = gamma4 tetramers) — INCOMPATIBLE WITH LIFE**
 
 ### Sickle Cell Anemia
 - **HbS**: Valine substitutes glutamic acid at position 6 of beta chain (GAG → GTG)
@@ -486,6 +558,10 @@
 - **Neonatal TSH screening**: Blood spot at **48-72 hours** (Guthrie card simultaneously)
 - **TSH >20 mIU/L**: Recall; if confirmed → start levothyroxine **within 2 weeks** of birth
 - **Features if untreated**: **Cretinism** — intellectual disability, short stature, coarse features, umbilical hernia, prolonged jaundice, constipation, large tongue, hoarse cry
+
+**PYQ HOTSPOT: Congenital hypothyroidism neonatal screening = heel-prick TSH at 48-72 hours; most common preventable cause of intellectual disability; treatment = levothyroxine within 2 weeks**
+
+**PYQ HOTSPOT: Congenital hypothyroid clinical features: prolonged neonatal jaundice + large fontanelle + umbilical hernia + constipation + hoarse cry + large tongue — think congenital hypothyroid**
 
 > **PYQ HOTSPOT**: Simian crease + AVSD = Down syndrome; musty odor = PKU; neonatal TSH screen = 48-72h
 

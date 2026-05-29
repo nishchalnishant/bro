@@ -1,51 +1,42 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["👂 ENT — NEET PG<br/>5 Major Domains"]
+
+    A --> B["Ear"]
+    A --> C["Nose & PNS"]
+    A --> D["Throat & Larynx"]
+    A --> E["Audiology"]
+    A --> F["Head & Neck Tumors"]
+
+    B --> B1["Otitis Media<br/>ASOM / CSOM / Cholesteatoma"]
+    B --> B2["Meniere's Disease<br/>Vertigo + SNHL + Tinnitus"]
+    B --> B3["Otosclerosis<br/>Conductive HL / Stapedectomy"]
+
+    C --> C1["Epistaxis<br/>90% anterior Kiesselbach's area"]
+    C --> C2["Sinusitis<br/>Maxillary most common / Caldwell-Luc"]
+    C --> C3["DNS & Polyps<br/>Antrochoanal / Ethmoidal polyps"]
+
+    D --> D1["Tonsillitis<br/>Quinsy / Peritonsillar abscess"]
+    D --> D2["Epiglottitis<br/>H. flu B / Thumb sign / Tripod"]
+    D --> D3["Laryngeal Ca<br/>Supraglottic / Glottic (best prognosis)"]
+
+    E --> E1["Rinne & Weber Tests<br/>Conductive vs SNHL differentiation"]
+    E --> E2["Audiogram<br/>Normal <25 dB / Profound >90 dB"]
+    E --> E3["BERA<br/>Objective / Screening neonates"]
+
+    F --> F1["Nasopharyngeal Ca<br/>EBV / Trotter's triad"]
+    F --> F2["Parotid Tumors<br/>Pleomorphic adenoma / Warthin's"]
+    F --> F3["Thyroid Nodule<br/>FNAC first / USG features"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         ENT — OVERVIEW DIAGRAM                              │
-└───────────────────────────┬─────────────────────────────────────────────────┘
-                            │
-          ┌─────────────────┼──────────────────┐
-          ▼                 ▼                  ▼
-    ┌───────────┐     ┌───────────┐     ┌────────────┐
-    │    EAR    │     │   NOSE    │     │  THROAT /  │
-    │           │     │           │     │  LARYNX    │
-    └─────┬─────┘     └─────┬─────┘     └─────┬──────┘
-          │                 │                  │
-  ┌───────┴────────┐  ┌─────┴──────┐  ┌───────┴────────┐
-  │                │  │            │  │                 │
-  ▼                ▼  ▼            ▼  ▼                 ▼
-┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
-│ Sound    │ │ CHL vs   │ │Epistaxis │ │ Allergic │ │Hoarseness│ │ Stridor  │
-│Transduct-│ │  SNHL    │ │● Kiessel-│ │ Rhinitis │ │● VC polyp│ │● Inspira-│
-│ion       │ │          │ │  bach    │ │● IgE /   │ │● VC palsy│ │  tory vs │
-│● Outer:  │ │● Rinne   │ │  plexus  │ │  mast    │ │● RLN     │ │  biphasic│
-│  collect │ │  test    │ │  (ant.)  │ │  cell    │ │  course  │ │● Croup   │
-│● Middle: │ │● Weber   │ │● Spheno- │ │● Early / │ │          │ │  vs      │
-│  impedance│ │  test    │ │  palatine│ │  late    │ │ Laryngeal│ │  Epiglot-│
-│  match   │ │● Audio-  │ │  (post.) │ │  phase   │ │ Cancer   │ │  titis   │
-│● Inner:  │ │  metry   │ └──────────┘ └──────────┘ │● Glottic │ └──────────┘
-│  hair    │ │● Tympano-│                            │  (early  │
-│  cells   │ │  metry   │ ┌──────────┐ ┌──────────┐ │  hoarse) │ ┌──────────┐
-└──────────┘ └──────────┘ │Nasal     │ │Sinusitis │ │● Supra-  │ │Tonsils / │
-                          │Polyps    │ │● Mucocili│ │  glottic │ │Periton-  │
-┌──────────┐ ┌──────────┐ │● Ethmoid │ │  ary     │ │  (late   │ │sillar    │
-│  CSOM    │ │ Vertigo  │ │● Samter's│ │  escalat-│ │  bilateral│ │Abscess   │
-│● Safe    │ │● BPPV    │ │  triad   │ │  or      │ │  nodes)  │ │● Quinsy  │
-│  (tuboty-│ │  (Dix-   │ │● FESS    │ │● Ostium  │ │● Subglot-│ │● Uvular  │
-│  mpanic) │ │  Hallpike│ │● Dupilumab│ │  obstruc-│ │  ic      │ │  deviati-│
-│● Unsafe  │ │  Epley)  │ │  (IL-4/  │ │  tion    │ │  (worst) │ │  on      │
-│  (attico-│ │● Meniere'│ │  IL-13)  │ └──────────┘ └──────────┘ └──────────┘
-│  antral) │ │  (hydrops│ └──────────┘
-│          │ │  low-freq│
-│Choleseat-│ │  SNHL)   │      ┌─────────────────────────────────┐
-│oma:      │ │● Vestib- │      │  CROUP vs EPIGLOTTITIS          │
-│● Bone    │ │  ular    │      ├─────────────────┬───────────────┤
-│  erosion │ │  neuritis│      │ Croup (viral)   │ Epiglottitis  │
-│● Facial  │ │  (CN VIII│      │ Subglottic edema│ (bacterial)   │
-│  palsy   │ │  damage) │      │ Steeple sign    │ Supraglottic  │
-│● Mastoid-│ └──────────┘      │ Barking cough   │ Thumbprint    │
-│  ectomy  │                   │ Steroids+Adren. │ Airway 1st!   │
-└──────────┘                   └─────────────────┴───────────────┘
-```
+
+**Subject Overview (plain text):**
+- Ear: Otitis Media (ASOM/CSOM/Cholesteatoma), Meniere's Disease (Vertigo+SNHL+Tinnitus), Otosclerosis (Conductive HL/Stapedectomy)
+- Nose & PNS: Epistaxis (90% anterior Kiesselbach's area), Sinusitis (Maxillary most common/Caldwell-Luc), DNS & Polyps (Antrochoanal/Ethmoidal)
+- Throat & Larynx: Tonsillitis (Quinsy/Peritonsillar abscess), Epiglottitis (H. flu B/Thumb sign/Tripod), Laryngeal Ca (Supraglottic/Glottic best prognosis)
+- Audiology: Rinne & Weber Tests (Conductive vs SNHL), Audiogram (Normal <25 dB/Profound >90 dB), BERA (Objective/Neonatal screening)
+- Head & Neck Tumors: Nasopharyngeal Ca (EBV/Trotter's triad), Parotid Tumors (Pleomorphic adenoma/Warthin's), Thyroid Nodule (FNAC/USG)
 
 # ENT — Lecture Notes for NEET PG
 ### Written in the voice of a clinician teaching at the bedside
@@ -96,6 +87,9 @@ The Weber test applies a single tuning fork to the center of the forehead and as
 
 Audiometry formalizes this: pure tone audiogram plots hearing threshold (dB) on the Y-axis against frequency (Hz) on the X-axis. Air conduction thresholds are plotted as circles (right) and crosses (left); bone conduction as square brackets. In CHL, air conduction thresholds are elevated but bone conduction is normal — the "air-bone gap." In SNHL, both air and bone conduction thresholds are elevated, and there is no air-bone gap. In mixed hearing loss, both are elevated but the air-bone gap persists.
 
+![Pure tone audiogram showing conductive hearing loss: air conduction symbols (circles/crosses) elevated at all frequencies, bone conduction symbols (brackets) within normal limits, demonstrating a clear air-bone gap across 500–4000 Hz](../../images/ent-audiogram.jpg)
+> **IBQ tip:** In conductive loss, look for the gap between the air conduction line (elevated) and the bone conduction line (normal/flat near 0–25 dB) — the "air-bone gap" is the hallmark; in sensorineural loss both lines fall together with no gap, distinguishing the two patterns.
+
 **Tympanometry** measures the compliance (flexibility) of the tympanic membrane as a function of air pressure in the sealed ear canal. Type A is normal. Type As (shallow) suggests reduced compliance — otosclerosis, tympanosclerosis. Type Ad (deep) suggests hypercompliance — ossicular discontinuity, thin/atrophic TM. Type B is a flat trace (no compliance peak) — middle ear effusion, TM perforation (large), occluded probe tip. Type C has the peak shifted toward negative pressure — eustachian tube dysfunction, early otitis media. These are logical: if the middle ear is fluid-filled, the TM cannot move, so compliance is near-zero regardless of pressure — flat type B curve.
 
 ---
@@ -108,6 +102,12 @@ The eustachian tube is the pressure-equalizing ventilation system for the middle
 
 CSOM begins typically with acute otitis media that perforates the tympanic membrane and fails to heal. Once a perforation exists, the middle ear loses its protective sealed environment. Water enters during bathing, pathogens colonize — commonly Pseudomonas aeruginosa and Staphylococcus aureus in chronic disease (the gram-negatives outcompete the gram-positive organisms of acute otitis media). The mucosa of the middle ear becomes chronically inflamed, granulation tissue forms, and the perforation fails to close. Safe CSOM (tubotympanic) involves a central perforation — the annulus (the fibrous ring at the periphery of the tympanic membrane) is intact, cholesteatoma does not form, and intracranial complications are rare. Unsafe CSOM (atticoantral) involves the pars flaccida or the posterosuperior quadrant of the pars tensa — and is associated with cholesteatoma.
 
+![Otoscopic view of a normal right tympanic membrane: cone of light reflex at 5 o'clock position, handle of malleus visible as a white streak running superiorly to the umbo, pars tensa intact with all four quadrants visible](../../images/ent-tympanic-membrane.jpg)
+> **IBQ tip:** The cone of light points toward 5 o'clock in the right ear (7 o'clock in the left); loss of this reflex and distortion of the handle of malleus signal middle ear pathology — in OME the drum appears amber/retracted and in acute OM it appears red and bulging.
+
+![Otoscopic view of a central tympanic membrane perforation in tubotympanic (safe) CSOM: perforation in the anteroinferior or posteroinferior quadrant with the annulus intact, middle ear mucosa visible through the defect](../../images/ent-chronic-suppurative-otitis-media.jpg)
+> **IBQ tip:** A central perforation retains an intact annulus (fibrous ring) around its entire margin — contrast with a marginal/attic perforation in unsafe CSOM where the defect reaches the annulus or lies in the pars flaccida, indicating cholesteatoma risk.
+
 Cholesteatoma is the skin in the wrong place — and once you think of it that way, everything about it makes sense. Keratinizing stratified squamous epithelium has migrated into the middle ear. It does not belong there — the middle ear is normally lined with respiratory-type (cuboidal, ciliated) epithelium. This squamous epithelium is perfectly normal skin: it continuously produces keratin and desquamates. Skin cells on your forearm fall off into the environment. Skin cells in the middle ear have nowhere to go. The desquamated keratin accumulates, compressed into layers, forming an expanding "onion skin" ball of dead skin — the cholesteatoma matrix.
 
 **Analogy:** Imagine packing a closed bag with crumpled newspapers every day but never removing any. Eventually the bag must expand, and whatever is around it gets compressed and damaged. That is exactly what cholesteatoma does in the middle ear.
@@ -115,6 +115,12 @@ Cholesteatoma is the skin in the wrong place — and once you think of it that w
 The cholesteatoma matrix is not inert — it is metabolically active. Macrophages and keratinocytes within it secrete collagenases, prostaglandins, and cytokines. These enzymes erode bone. This is the defining and most dangerous property of cholesteatoma: it destroys everything it contacts. It erodes the ossicles (causing conductive hearing loss), the tegmen (roof of the middle ear — if breached, meningitis or brain abscess), the facial canal (causing facial nerve palsy — this is a surgical emergency), the lateral semicircular canal (causing labyrinthine fistula — presenting with Tullio phenomenon, vertigo on pressure), and the sigmoid sinus (causing lateral sinus thrombosis).
 
 **Clinical connection:** The classic history of cholesteatoma is a patient with chronic ear discharge — but the discharge is characteristically foul-smelling (from the anaerobic bacteria digesting keratin), scanty (unlike the copious mucopurulent discharge of safe CSOM), and may contain white flakes. Examination reveals a retraction pocket in the pars flaccida (Shrapnell's membrane), often with cholesteatoma pearls visible. CT scan of the temporal bone shows soft tissue density in the epitympanum/mastoid, with bony erosion — the classic "soft tissue mass with bone destruction." Treatment is surgical: mastoidectomy (canal wall up or canal wall down) to exteriorize and remove all cholesteatoma matrix. If any matrix is left, it will recur.
+
+![Otoscopic view of attic cholesteatoma: white pearly keratinous debris or retraction pocket visible in the posterosuperior quadrant or pars flaccida (attic region), with crusting and granulation tissue around the mass](../../images/ent-cholesteatoma.jpg)
+> **IBQ tip:** Cholesteatoma appears as a white, pearly, waxy mass in the attic or posterosuperior quadrant — distinguish it from a central perforation (which shows no white mass) and from a sebaceous cyst (which is in the auricle, not behind the TM).
+
+![CT temporal bone axial section showing soft tissue density mass in the epitympanum with erosion of the ossicular chain and scutum, consistent with cholesteatoma](../../images/ent-cholesteatoma.jpg)
+> **IBQ tip:** On CT temporal bone, cholesteatoma appears as a non-enhancing soft-tissue density filling the epitympanum or mastoid with associated bony erosion (blunting of the scutum, ossicular destruction) — contrast with otitis media effusion which fills the middle ear without bone erosion.
 
 How does keratinizing epithelium get into the middle ear in the first place? There are three main theories. The most common is the retraction pocket theory (Habermann): chronic eustachian tube dysfunction creates chronic negative middle ear pressure → the flaccid pars flaccida is sucked inward → forms a retraction pocket → this pocket deepens and migrates medially into the epitympanum → it can no longer drain its desquamated keratin → cholesteatoma develops. Less commonly, squamous metaplasia of middle ear mucosa (in response to chronic infection), or invasion through a pre-existing perforation (epithelium migrates inward from the edges of a perforation). The retraction pocket mechanism is the most important to know.
 
@@ -139,6 +145,9 @@ The result is false rotational signal generated whenever the head moves into the
 > **Key exam point:** BPPV is posterior SCC in 85–90% of cases. Dix-Hallpike positive — upbeat torsional nystagmus, latency 1–5s, duration < 1 min, fatigues. Treatment: Epley maneuver. Meniere's disease: episodic vertigo + fluctuating SNHL + tinnitus + aural fullness — caused by endolymphatic hydrops. Vestibular neuritis: sudden onset severe vertigo, no hearing loss (cochlear nerve spared), nystagmus away from the lesion.
 
 **Meniere's disease** deserves careful explanation from first principles. The endolymph is contained in the membranous labyrinth. Its ionic composition (high K+, low Na+) is carefully regulated by the stria vascularis (in the cochlea) and the dark cells (in the vestibular labyrinth). The endolymphatic sac, located in the posterior cranial fossa, reabsorbs endolymph. In Meniere's disease, there is excess endolymph — endolymphatic hydrops. The membranous labyrinth distends. When the pressure becomes high enough, Reissner's membrane ruptures → K+-rich endolymph floods the perilymph → the high-K+ environment paralyzes the hair cells and auditory nerve → sudden decrease in function → the attack. Symptoms are the four hallmarks: episodic vertigo (minutes to hours), fluctuating low-frequency sensorineural hearing loss (because the apical cochlea, which codes for low frequencies, is most distended by the hydrops), tinnitus (roaring, low-pitched), and aural fullness.
+
+![Pure tone audiogram in Meniere's disease showing low-frequency sensorineural hearing loss: both air and bone conduction thresholds elevated preferentially at 250–1000 Hz (apex of cochlea affected), no air-bone gap, pattern reverses at higher frequencies](../../images/ent-audiogram.jpg)
+> **IBQ tip:** Meniere's audiogram shows a characteristic "rising" or low-frequency dip — both AC and BC worsen at 250–1000 Hz with no air-bone gap; contrast with noise-induced SNHL which produces a 4000 Hz notch (high-frequency dip), not a low-frequency one.
 
 ---
 
@@ -168,7 +177,12 @@ Recurrent tonsillitis — the repeated cycle of acute tonsillitis (most commonly
 
 **Peritonsillar abscess (quinsy)** is the most common deep-space infection of the head and neck. Understand its anatomy: pus collects in the peritonsillar space — between the tonsil capsule and the superior constrictor muscle. It is almost always unilateral. The clinical presentation is the consequence of this anatomy: severe unilateral throat pain, trismus (pterygoid muscles are irritated by adjacent pus — the patient cannot open the mouth), a "hot potato" voice (muffled because the soft palate cannot move normally), uvular deviation away from the affected side (the swelling pushes the uvula contralaterally), and pooling of saliva (too painful to swallow). Treatment is aspiration or incision and drainage — the relief for the patient is immediate and dramatic.
 
-**Epiglottitis** — once a disease of children caused by Haemophilus influenzae type b (now rare thanks to the Hib vaccine) — is now predominantly an adult disease caused by Streptococcus pyogenes, Staphylococcus aureus, or other organisms. The epiglottis becomes acutely edematous and bright red ("cherry-red epiglottis"). Because the epiglottis sits at the entrance to the larynx, its swelling can cause complete airway obstruction with terrifying rapidity. The classic triad: dysphagia, drooling, distress (the "three D's"). The patient sits leaning forward in the "tripod" position, chin forward, mouth open — maximizing the airway diameter. The lateral neck X-ray shows the "thumbprint sign" — the swollen epiglottis resembles a thumbprint. Management priority is the airway — examination of the throat in children with suspected epiglottitis should only be done in the operating room with a skilled anesthetist present, ready to intubate or surgically secure the airway if the inspection precipitates complete obstruction.
+**Epiglottitis** — once a disease of children caused by Haemophilus influenzae type b (now rare thanks to the Hib vaccine) — is now predominantly an adult disease caused by Streptococcus pyogenes, Staphylococcus aureus, or other organisms. The epiglottis becomes acutely edematous and bright red ("cherry-red epiglottis"). Because the epiglottis sits at the entrance to the larynx, its swelling can cause complete airway obstruction with terrifying rapidity. The classic triad: dysphagia, drooling, distress (the "three D's"). The patient sits leaning forward in the "tripod" position, chin forward, mouth open — maximizing the airway diameter. The lateral neck X-ray shows the "thumbprint sign" — the swollen epiglottis resembles a thumbprint.
+
+![Lateral neck X-ray in epiglottitis showing the thumbprint sign: a markedly enlarged, thumb-shaped soft tissue density at the base of the tongue at the level of C3-C4, obliterating the normal thin, finger-like epiglottic shadow](../../images/ent-thumbprint-sign-epiglottitis.jpg)
+> **IBQ tip:** The thumbprint sign shows a swollen, broad, rounded epiglottis projecting posteroinferiorly from the base of the tongue — contrast with the steeple sign of croup which is seen on the AP view as symmetric subglottic narrowing tapering to a point, not a rounded soft-tissue mass at the base of the tongue.
+
+Management priority is the airway — examination of the throat in children with suspected epiglottitis should only be done in the operating room with a skilled anesthetist present, ready to intubate or surgically secure the airway if the inspection precipitates complete obstruction.
 
 > **Key exam point:** In epiglottitis — do NOT examine the throat with a tongue depressor in the clinic or emergency department if the patient is a child in distress. The stimulation can trigger laryngospasm and complete obstruction. Secure the airway first. Lateral neck X-ray: "thumbprint sign." Blood cultures + IV antibiotics (ceftriaxone). Contrast with croup (laryngotracheobronchitis from parainfluenza virus): barking cough, inspiratory stridor, "steeple sign" on AP neck X-ray, responds to steroids and nebulized adrenaline.
 
@@ -241,6 +255,9 @@ Three variables govern vocal cord vibration: **mass** (more mass → lower pitch
 
 **Unilateral RLN palsy** causes one vocal cord to be immobile, typically in a paramedian position (partially adducted — because the unopposed cricothyroid still tenses the cord, and the lateral cricoarytenoid is paralyzed). The patient has a weak, breathy, diplophonic (two-toned) voice because the paralyzed cord cannot fully adduct to meet the normal cord, and air escapes during phonation. Over weeks to months, the contralateral normal cord may compensate by crossing the midline to approximate the paralyzed cord (compensation) — the voice improves. If compensation is inadequate, injection medialization or thyroplasty (inserting an implant to push the paralyzed cord medially) can restore a functional voice.
 
+![Indirect laryngoscopy view showing left unilateral vocal cord palsy: left cord fixed in paramedian position, failing to reach the midline on attempted adduction/phonation; right cord crosses midline to compensate; glottic chink visible on the left](../../images/ent-vocal-cord-paralysis.jpg)
+> **IBQ tip:** In cord palsy, the paralyzed cord sits in a paramedian (near-midline but not fully adducted) position and does not move on phonation — distinguish from a normal cord by watching for complete midline contact on both sides; in bilateral palsy both cords are near the midline producing stridor rather than a breathy voice.
+
 **Bilateral RLN palsy** is an emergency of a completely different nature. Both cords are paralyzed in a paramedian (nearly adducted) position. Paradoxically, the voice may be reasonable (the cords are near the midline and can vibrate) — but the airway is severely compromised, because the cords are also nearly touching, leaving only a narrow slit for breathing. The patient presents with stridor, dyspnea, and respiratory distress — a compromised airway, not a compromised voice. This may follow bilateral thyroid surgery (the most common cause). Management is emergency airway securement — intubation, possibly tracheotomy.
 
 **Clinical connection:** The most important causes of RLN palsy by site: (1) Skull base/nasopharynx — nasopharyngeal carcinoma, glomus jugulare tumor. (2) Neck — thyroid surgery, thyroid malignancy, neck dissection. (3) Mediastinum — left-sided: aortic aneurysm, enlarged mediastinal lymph nodes (lymphoma, lung cancer, sarcoidosis), left hilar mass. Right-sided: subclavian artery aneurysm. (4) Idiopathic (viral) — a diagnosis of exclusion. Any new unilateral vocal cord palsy without an obvious recent surgical cause demands urgent imaging and chest X-ray to exclude a mediastinal mass.
@@ -250,6 +267,9 @@ Three variables govern vocal cord vibration: **mass** (more mass → lower pitch
 **Anatomical location determines clinical behavior utterly.** The larynx is divided into three regions: the supraglottis (epiglottis, aryepiglottic folds, arytenoids, false cords — above the level of the true cords), the glottis (the true vocal cords and the anterior and posterior commissures), and the subglottis (below the vocal cords, down to the inferior border of the cricoid).
 
 **Glottic cancers** present early. Because they arise on the true vocal cords — the vibrating surface — even a tiny lesion (a small irregular plaque on the vocal cord margin) immediately disrupts the mucosal wave and changes the voice. Hoarseness is the first symptom, produced by a very small tumor. In a high-risk patient (smoker, > 40 years), new progressive hoarseness lasting more than three weeks is laryngeal cancer until proven otherwise. Furthermore, the glottis has sparse lymphatic drainage — so early glottic cancers rarely metastasize to regional lymph nodes. This combination of early symptom (hoarseness from tiny tumor) and late lymphatic spread makes glottic cancers the most favorable of all laryngeal cancers in terms of prognosis. Early glottic cancer (T1-T2) is cured in >90% of cases by radiotherapy alone or endoscopic laser resection.
+
+![Indirect laryngoscopy or rigid laryngoscopy showing glottic laryngeal carcinoma: irregular, exophytic or ulcerative whitish-red lesion on the free edge or superior surface of one true vocal cord, with loss of normal mucosal wave on the affected side](../../images/ent-laryngeal-squamous-cell-carcinoma.jpg)
+> **IBQ tip:** Glottic SCC appears as an irregular, rough, exophytic or ulcerated lesion on the true vocal cord — distinguish from a smooth, gelatinous polyp (which has a regular surface and a stalk) and from a nodule (bilateral, symmetric, at the anterior one-third/posterior two-thirds junction without surface irregularity).
 
 **Supraglottic cancers** present late. The supraglottis does not vibrate — a large tumor can grow here silently, causing only vague symptoms (throat discomfort, "something stuck in the throat," referred otalgia via the internal branch of the superior laryngeal nerve/vagus — a crucial clinical sign: ear pain without ear pathology in a smoker must raise suspicion of oropharyngeal or supraglottic malignancy). Furthermore, the supraglottis has rich bilateral lymphatic drainage — supraglottic cancers metastasize early and bilaterally to cervical lymph nodes. They therefore present at an advanced stage.
 
@@ -281,6 +301,9 @@ During **expiration**, the situation reverses: positive intrathoracic pressure t
 
 The clinical picture is classic: viral prodrome (low fever, coryza) → worsening inspiratory stridor + seal-bark cough + hoarse voice, typically worse at night (upright posture during day reduces edema; lying down worsens it). AP neck X-ray shows the "steeple sign" — the normal squared-off subglottic shoulder is narrowed to a point by edema (like a church steeple). Treatment: oral dexamethasone (reduces mucosal edema — a single dose is highly effective) and nebulized adrenaline (vasoconstricts the subglottic mucosa, rapidly reducing edema — effect lasts 1–2 hours, so the child must be observed for "rebound").
 
+![AP neck X-ray in croup showing the steeple sign (pencil sign): normal squared shoulders of the subglottis are replaced by symmetric, gradual, pencil-point tapering of the subglottic airway column due to mucosal edema](../../images/ent-steeple-sign.jpg)
+> **IBQ tip:** The steeple sign is seen on the AP view as symmetric, smooth subglottic narrowing tapering like a church steeple — contrast with the thumbprint sign of epiglottitis (lateral view, rounded supraglottic mass) and with an asymmetric subglottic narrowing which would suggest a foreign body or subglottic stenosis.
+
 **Epiglottitis** is bacterial cellulitis of the supraglottic structures — the epiglottis swells dramatically (becomes cherry-red and grossly edematous), and the aryepiglottic folds and arytenoids are also inflamed. Traditionally caused by Haemophilus influenzae type b (Hib) in children; now, post-Hib vaccine, more commonly Streptococcus pyogenes or Staphylococcus aureus in adults. The swollen, stiff epiglottis obstructs the supraglottis and distorts the pharynx. The patient speaks with a "hot potato voice" (as if they have a hot object in the mouth that they dare not touch with the tongue) — because moving the tongue and pharyngeal muscles distorts the inflamed epiglottis, causing pain, so the patient holds the tongue still and speaks around it. Drooling occurs because swallowing is too painful. The patient assumes the "tripod position" — leaning forward, neck extended, hands on knees — maximizing the laryngeal inlet diameter. Lateral soft tissue neck X-ray shows the "thumbprint sign" — the swollen epiglottis projects downward from the base of the tongue like a thumbprint.
 
 > **Key comparison:** Croup = viral, subglottic, barking cough, steeple sign, treat with steroids + nebulized adrenaline. Epiglottitis = bacterial, supraglottic, hot potato voice + drooling + tripod position, thumbprint sign, airway emergency (never examine throat in clinic with a tongue depressor — do it in OT with anesthesia present), IV antibiotics (ceftriaxone). The critical principle in epiglottitis: the airway is the priority. Everything else is secondary.
@@ -293,7 +316,13 @@ The paranasal sinuses (maxillary, ethmoid, frontal, sphenoid) drain into the nas
 
 The sequence leading to sinusitis is logical. An upper respiratory tract viral infection (most commonly rhinovirus) causes mucosal edema in the nasal cavity → the ostium narrows or closes → ciliary function is impaired by the viral infection itself → mucus pools in the sinus (it cannot be cleared to the obstructed ostium) → the warm, moist, nutrient-rich mucus becomes an ideal culture medium → bacterial superinfection (Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis are the three most common) → acute bacterial sinusitis. The maxillary sinus is the most commonly affected because its ostium is the most easily obstructed and its gravity-dependent drainage is nil.
 
+![Water's view (occipitomental) PNS X-ray showing right maxillary sinusitis: complete opacification of the right maxillary antrum with an air-fluid level, contrasting with the normally translucent (air-filled) left maxillary sinus](../../images/ent-maxillary-sinusitis.jpg)
+> **IBQ tip:** On Water's view, look for an air-fluid level (a horizontal straight line within the sinus) or complete opacification of one maxillary antrum — a unilateral finding favors acute bacterial sinusitis, while bilateral opacification with mucosal thickening is more consistent with chronic sinusitis or allergic disease.
+
 **Nasal polyps** are the chronic endpoint of this mucosal inflammatory cascade. They are not neoplastic — they are pale, pedunculated, gelatinous outgrowths of chronically inflamed nasal mucosa, predominantly from the ethmoid sinuses and the middle meatus (the ostiomeatal complex). They are composed of edematous stroma infiltrated with eosinophils and mast cells, covered by respiratory epithelium. Their growth obstructs the nasal cavity and ostiomeatal complex, further impairing drainage and perpetuating the cycle. Clinically: bilateral nasal obstruction (polyps are almost always bilateral; a unilateral polyp should raise suspicion of a neoplasm), anosmia (the olfactory epithelium in the roof of the nose is blocked from odorant molecules by the polyp mass), and recurrent sinusitis. The association of nasal polyps + asthma + aspirin hypersensitivity = **Samter's triad** (aspirin-exacerbated respiratory disease — aspirin blocks COX-1, shunting arachidonic acid toward the leukotriene pathway → bronchoconstriction and nasal polyp flare in susceptible patients). Treatment: intranasal corticosteroids (reduce polyp size, slow regrowth), short courses of systemic steroids (dramatic reduction), and when medical treatment fails, functional endoscopic sinus surgery (FESS) to open the ostiomeatal complex and remove polyps. Dupilumab (IL-4/IL-13 blockade) is now licensed for severe CRS with nasal polyps (type 2 inflammation driven by eosinophils), producing dramatic polyp regression in refractory patients.
+
+![Anterior rhinoscopy or nasal endoscopy showing bilateral nasal polyps: pale, grey, glistening, grape-like smooth masses prolapsing from the middle meatus bilaterally, probe passes around them freely, insensate to probing](../../images/ent-sinonasal-polyposis.jpg)
+> **IBQ tip:** Nasal polyps are grey, smooth, glistening, and insensate — a probe passes around them without pain; contrast with the inferior turbinate which is pink/red, irregular, sensitive to probing, and shrinks with decongestant spray (useful bedside test to distinguish the two).
 
 > **Key pearl:** Never forget to consider cystic fibrosis in a young patient with nasal polyps — CF is the most common cause of nasal polyps in children. The defective CFTR chloride channel produces thick, dehydrated mucus that cannot be cleared, leading to chronic infection and polyp formation throughout the respiratory tract.
 

@@ -1,78 +1,52 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🫀 PHYSIOLOGY — NEET PG<br/>7 Major Systems"]
+
+    A --> B["Blood & Coagulation"]
+    A --> C["Cardiovascular"]
+    A --> D["Respiratory"]
+    A --> E["Renal"]
+    A --> F["Endocrine"]
+    A --> G["Neuromuscular"]
+
+    B --> B1["Coagulation Cascade<br/>Intrinsic XII→ / Extrinsic VII→"]
+    B --> B2["Blood Groups<br/>ABO / Rh / Cross-match"]
+    B --> B3["O2-Hb Curve<br/>P50=26 mmHg / Right vs Left shift"]
+    B --> B4["ESR<br/>Westergren / Zeta method"]
+
+    C --> C1["Cardiac Cycle<br/>Wiggers diagram / JVP waves"]
+    C --> C2["Heart Sounds<br/>S1-S4 / Murmurs"]
+    C --> C3["Frank-Starling Law<br/>Preload / Afterload / Contractility"]
+    C --> C4["RAAS<br/>Renin→AngII→Aldosterone"]
+
+    D --> D1["Lung Volumes<br/>FRC / RV / TLC"]
+    D --> D2["Spirometry<br/>Obstructive FEV1/FVC<70%<br/>Restrictive TLC↓"]
+    D --> D3["V/Q Mismatch<br/>Shunt / Dead space / HPV"]
+    D --> D4["Hypoxia Types<br/>Hypoxic / Anemic / Stagnant / Histotoxic"]
+
+    E --> E1["GFR & Clearance<br/>125 mL/min / Inulin gold std"]
+    E --> E2["Tubular Handling<br/>PCT / Loop / DCT / CD"]
+    E --> E3["Acid-Base<br/>Met Acidosis/Alkalosis<br/>Resp Acidosis/Alkalosis"]
+    E --> E4["Diuretics<br/>Loop / Thiazide / Spironolactone"]
+
+    F --> F1["Hypothalamo-Pituitary<br/>TRH→TSH→T3/T4"]
+    F --> F2["Adrenal Zones<br/>Glom(Aldo)/Fasc(Cortisol)/Retic(DHEA)"]
+    F --> F3["Insulin & Glucagon<br/>GLUT2 beta cells / Counter-regulatory"]
+
+    G --> G1["Action Potential<br/>Phase 0-4 / Cardiac vs Nerve"]
+    G --> G2["Neuromuscular Junction<br/>ACh / Myasthenia / Lambert-Eaton"]
+    G --> G3["Reflexes<br/>Stretch / Inverse stretch / Withdrawal"]
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                      PHYSIOLOGY — LECTURE OVERVIEW                           │
-│                    NEET PG · 7 Major Systems at a Glance                     │
-└──────────────────────────────────────────────────────────────────────────────┘
-                                      │
-        ┌──────────┬──────────────────┼──────────────────┬──────────┐
-        │          │                  │                  │          │
-     BLOOD &     CVS            RESPIRATORY           RENAL     ENDOCRINE
-  COAGULATION    │                  │                  │          │
-        │        │                  │                  │          │
-   ┌────┤    ┌───┤             ┌────┤             ┌────┤     ┌────┤
-   │    │    │   │             │    │             │    │     │    │
-Primary│ Cardiac  │          Lung    │          GFR &  │  Insulin  │
-Hemo- │  Cycle   │         Volumes  │         Clearance│  & DM    │
-stasis │   │    │          (FRC)    │             │   │     │    │
-   │   │ ┌──┴──┐ │             │    │          Tubular│  Thyroid  │
-Platelet│Wiggers  │        Obstructive│          Handling  │   T3/T4  │
- Plug  │Diagram  │         (COPD/   │             │   │  (TRH→TSH│
-(vWF,  │   │   │         Asthma)   │          ┌──┴──┐ │   →T3/T4)│
-GPIb, │ ┌─┴─┐  │             │    │         PCT DCT  │     │    │
-GPIIb) │S1  S2  │        Restrictive│         Loop  CD  │  Adrenal  │
-   │   │ │   │  │         (Fibrosis)│         Henle     │   Zones   │
-Second-│JVP    │             │    │             │   │  ┌───┴────┐  │
-ary   │Waves  │        V/Q Mismatch│          Acid-Base │ Glom  Fasc │
-Hemo- │(a,c,x,  │         ├─ Shunt  │          ├─ Met   │ (Aldo) (Cortisol│
-stasis │ v,y)  │         ├─ Dead Spc│          Acidosis │ Retic   CAH  │
-   │   │        │         └─ HPV    │          ├─ Met   │(DHEA)        │
-Cascade│Frank-  │                   │          Alkalosis│              │
-   │  Starling  │         Bohr Effect│          ├─ Resp  └─────────────┘
-   │   │Law     │         O2-Hb     │          Acidosis│
-Extrinsic│        │         Curve     │          └─ Resp  │
- (VII) │  RAAS  │         ├─ Right   │          Alkalosis│
-Intrinsic│(Renin→ │         Shift     │                   │
-(XII→XI │AngII→  │         └─ Left   │          Diuretics│
-→IX→VIII│ Aldo)  │            Shift  │          Loop/Thiaz│
-Common  │        │                   │          /Spiro/Amil
-(X→II  │        │                   │
-→Fibrin)│        │                   │
-        │        │                   │
-     ┌──┴──┐  Heart      Chemoreceptors      ADH & AQP2
-  PT/INR  aPTT Sounds     ├─ Central (CO2)   Aldosterone
-  (Extrinsic)(Intrinsic)  └─ Peripheral (O2) ENaC / NKCC2
-     │
-  Warfarin                         │
-  Heparin              ┌───────────┼───────────────┐
-  Vit K                │                           │
-                 NEUROPHYSIOLOGY               GI PHYSIOLOGY
-                       │                           │
-                  ┌────┤                      ┌────┤
-                  │    │                      │    │
-              Action   │                 Gastric   │
-             Potential  │                  Acid    │
-               │    │                    (H+/K+   │
-            Resting  │                  ATPase)   │
-             MP &    │                      │    │
-           Threshold │               3 Phases of │
-               │    │                Secretion   │
-           NMJ:ACh   │            ├─ Cephalic (vagus)
-           Release   │            ├─ Gastric (gastrin)
-               │    │            └─ Intestinal
-           ┌───┴──┐  │                (secretin)  │
-         Botox MG   │                      │    │
-         SNARE Anti- │                GI Hormones │
-         cleave AChR │            ├─ Gastrin (G cells)
-                     │            ├─ Secretin (acid)
-                   Sleep          ├─ CCK (fat/protein)
-               ├─ NREM (SWS)      ├─ GIP (incretin)
-               │   └─ GH release  ├─ GLP-1 (L cells)
-               └─ REM             └─ Somatostatin
-                   ├─ Memory         (inhibits all)
-                   ├─ Atonia    ZE Syndrome test:
-                   └─ RBD→PD    Secretin → ↑Gastrin
-                      prodrome
-```
+
+**Subject Overview (plain text):**
+- Blood & Coagulation: Coagulation Cascade (Intrinsic/Extrinsic), Blood Groups (ABO/Rh), O2-Hb Curve (P50=26 mmHg), ESR
+- Cardiovascular: Cardiac Cycle (Wiggers diagram), Heart Sounds (S1-S4/Murmurs), Frank-Starling Law, RAAS
+- Respiratory: Lung Volumes (FRC/RV/TLC), Spirometry (Obstructive/Restrictive), V/Q Mismatch, Hypoxia types
+- Renal: GFR & Clearance (125 mL/min), Tubular Handling (PCT/Loop/DCT/CD), Acid-Base disorders, Diuretics
+- Endocrine: Hypothalamo-Pituitary axis, Adrenal Zones (Glomerulosa/Fasciculata/Reticularis), Insulin & Glucagon
+- Neuromuscular: Action Potential (Phase 0-4), Neuromuscular Junction (ACh/Myasthenia), Reflexes
 
 # Physiology — Lecture-Style Notes for NEET PG
 
@@ -112,6 +86,24 @@ The coagulation cascade is, at its heart, a biological amplifier. Each step in t
 
 The cascade has two entry points. The **extrinsic pathway** is triggered by Tissue Factor (TF), a protein expressed by subendothelial cells (and macrophages, and cancer cells — relevant clinically). When TF meets Factor VII from plasma, the TF-VIIa complex activates Factor X directly. The **intrinsic pathway** is triggered by contact with collagen (or other negatively charged surfaces), activating Factor XII → XI → IX → VIII → X. Both pathways converge on Factor X, which with Factor Va forms the **prothrombinase complex** that converts prothrombin (Factor II) to thrombin (Factor IIa). Thrombin then cleaves fibrinogen to fibrin, and activates Factor XIII to cross-link fibrin strands.
 
+![Coagulation cascade diagram showing intrinsic pathway (XII→XI→IX→VIII→X), extrinsic pathway (TF+VII→X), and common pathway (X→II→fibrin) with PT and aPTT test points labeled](../../images/coagulation-cascade-diagram.jpg)
+> **IBQ tip:** Identify where each pathway feeds into the common pathway at Factor X — a question showing a prolonged aPTT with normal PT points to intrinsic pathway (XII, XI, IX, VIII) defects (haemophilia), while isolated prolonged PT points to Factor VII (extrinsic); both prolonged indicates common pathway or combined deficiency such as warfarin toxicity or liver disease.
+
+> **ASCII diagram:**
+> ```
+> INTRINSIC                    EXTRINSIC
+> XII→XI→IX ─────┐              VII + TF
+>                ↓                  ↓
+>               X ←────────────────┘  (common pathway)
+>               ↓
+>               II (prothrombin) → IIa (thrombin)
+>               ↓
+>               Fibrinogen → Fibrin
+>
+> aPTT tests intrinsic (XII,XI,IX,VIII)
+> PT/INR tests extrinsic (VII) + common
+> ```
+
 **Analogy:** Imagine the extrinsic pathway as an emergency fire alarm pulled by a bystander (Tissue Factor, expressed when the vessel wall is torn open — an external signal). The intrinsic pathway is like the building's own sprinkler system activating when it senses heat (Factor XII contacting collagen — an internal signal). Both activate the same fire-suppression system (Factor X onward).
 
 Now here is what makes clinical sense: the **PT (Prothrombin Time)** tests the extrinsic pathway (Factor VII + common pathway). The **aPTT (Activated Partial Thromboplastin Time)** tests the intrinsic pathway (Factors XII, XI, IX, VIII + common pathway). If a patient has a prolonged aPTT with a normal PT, which pathway is defective? The intrinsic pathway — factors XII, XI, IX, or VIII. Haemophilia A is Factor VIII deficiency, Haemophilia B (Christmas disease) is Factor IX deficiency. Both give prolonged aPTT with normal PT. Both cause bleeding into joints (hemarthrosis) and deep muscles — the classic pattern of secondary hemostasis failure (coagulation cascade failure), as opposed to the mucocutaneous pattern of primary hemostasis failure.
@@ -139,6 +131,27 @@ Other right-shifting factors (reducing O2 affinity, favoring unloading): increas
 | Right shift | ↑CO2, ↑H+, ↑temp, ↑2,3-DPG | More O2 released to tissues |
 | Left shift | ↓CO2, ↓H+, ↓temp, ↓2,3-DPG, CO, fetal Hb | Less O2 released (high affinity) |
 
+![Oxygen-hemoglobin dissociation curve showing the S-shaped sigmoid curve with PO2 on x-axis and % saturation on y-axis, with right-shifted curve (fever, acidosis, high 2,3-DPG) and left-shifted curve (CO poisoning, fetal Hb) labeled](../../images/o2-hb-dissociation-curve.jpg)
+> **IBQ tip:** On the sigmoid curve, the flat upper portion (PO2 60–100 mmHg) represents lung loading where saturation is relatively protected even with moderate PO2 drops, while the steep portion (PO2 20–60 mmHg) represents tissue unloading — a right shift increases unloading at any given PO2, which distinguishes it from the left-shifted fetal Hb curve that sits to the left (higher affinity, less unloading at the same PO2).
+
+> **ASCII diagram:**
+> ```
+> % Sat
+> 100 ─┤          ╭────────────── (Left shift: CO, fetal Hb,
+>      │        ╭─╯               ↓temp, ↓CO2, ↓2,3-DPG)
+>  75 ─┤      ╭─╯  ╭──────────── Normal curve
+>      │    ╱╱   ╱╱
+>  50 ─┤  ╱╱  ╱╱  ╭──────────── (Right shift: ↑temp,
+>      │ ╱  ╱╱               ↑CO2, ↑2,3-DPG, ↑H+)
+>  25 ─┤╱ ╱╱
+>      │╱╱
+>   0 ─┴──┬──────┬──────┬──────→ PO2 (mmHg)
+>         27    60    100
+>      (P50=27 mmHg for normal Hb)
+> LUNGS: flat portion (60–100) → safe loading
+> TISSUES: steep portion (20–60) → efficient unloading
+> ```
+
 ---
 
 ## 2. Cardiovascular Physiology
@@ -146,6 +159,9 @@ Other right-shifting factors (reducing O2 affinity, favoring unloading): increas
 ### The Heart as a Pressure Pump — First Principles
 
 The heart's job is to maintain perfusion pressure — pressure high enough that blood flows to every organ. It does this by acting as a pressure pump: it fills at low pressure (venous side) and ejects at high pressure (arterial side). To understand the cardiac cycle, you have to track what is happening to pressure and volume in the left ventricle simultaneously, phase by phase. This is the Wiggers diagram, and once you understand it mechanistically, you will never forget it.
+
+![Wiggers diagram showing simultaneous aortic pressure, left ventricular pressure, left atrial pressure, ventricular volume, heart sounds (S1, S2), and ECG traces across the cardiac cycle phases — isovolumetric contraction, ejection, isovolumetric relaxation, and ventricular filling](../../images/wiggers-diagram.jpg)
+> **IBQ tip:** In the Wiggers diagram, look for the crossover points: S1 occurs when LV pressure rises above LA pressure (mitral closure, start of isovolumetric contraction), and S2 occurs when LV pressure falls below aortic pressure (aortic closure, start of isovolumetric relaxation) — confusing these crossover points with the moment of valve opening is the most common IBQ trap.
 
 **Phase 1 — Ventricular filling (diastole):** The mitral valve is open, aortic valve is closed. Blood flows from left atrium into the left ventricle down a pressure gradient. Volume in the ventricle rises from its end-systolic volume (~50 mL) toward end-diastolic volume (~120 mL). This filling is passive at first (early rapid filling), then slow, then topped off by atrial contraction (the "atrial kick"). Atrial contraction contributes ~20% of ventricular filling at rest, but much more during tachycardia (less diastolic time). This is why patients with atrial fibrillation (no coordinated atrial contraction) can decompensate if their heart rate is fast — they lose the atrial kick during a reduced diastolic filling time.
 
@@ -155,6 +171,9 @@ The heart's job is to maintain perfusion pressure — pressure high enough that 
 
 **Phase 4 — Isovolumetric relaxation:** The ventricle relaxes. Pressure falls. The aortic valve closes (because aortic pressure now exceeds ventricular pressure as ventricular pressure falls). Mitral valve hasn't opened yet (ventricular pressure still exceeds atrial pressure). Again a closed box — volume constant, pressure falling rapidly.
 
+![Pressure-volume loop of the left ventricle showing the four phases: filling (bottom segment, volume increasing, low pressure), isovolumetric contraction (left vertical segment, pressure rising, volume constant), ejection (top segment, volume decreasing), and isovolumetric relaxation (right vertical segment, pressure falling, volume constant); with EDV, ESV, stroke volume, and end-systolic pressure-volume relationship labeled](../../images/pressure-volume-loop.jpg)
+> **IBQ tip:** The width of the pressure-volume loop equals stroke volume (EDV minus ESV); in increased afterload the loop shifts right with higher peak pressure and reduced stroke volume (narrower loop), while in decreased preload the entire loop shifts left with a smaller volume — distinguishing these two by loop position and shape is the core IBQ test point.
+
 ### Heart Sounds and JVP — Reading the Mechanical Events
 
 **S1** occurs at mitral (and tricuspid) valve closure — the beginning of isovolumetric contraction. It does NOT occur at the moment of contraction. The valve closes when ventricular pressure exceeds atrial pressure, which is just at the onset of ventricular systole. S1 is loud when the mitral leaflets are far apart when they close (wide excursion → more vibration) — this is why S1 is loud in mitral stenosis (leaflets forced apart by high LA pressure, then slam shut). S1 is soft when leaflets were already partially closed (e.g., prolonged PR interval gives more time for leaflets to drift together before contraction).
@@ -162,6 +181,9 @@ The heart's job is to maintain perfusion pressure — pressure high enough that 
 **S2** is aortic (A2) and pulmonary (P2) valve closure at the end of ejection. A2 is normally louder than P2 because aortic pressure is higher — more forceful closure. They normally split on inspiration because inspiration increases venous return to the right heart (increased RV stroke volume → longer RV ejection → P2 delayed), while simultaneously decreasing LV filling (pulmonary venous pooling) → shorter LV ejection → A2 earlier. So on inspiration, A2 and P2 move apart — this is **physiological splitting**. In **RBBB**, P2 is delayed (right ventricle takes longer to depolarize), so splitting is wide and persists even in expiration — **wide splitting**. In **LBBB or severe aortic stenosis**, A2 is delayed such that P2 precedes A2 — **paradoxical (reversed) splitting**: split heard in expiration, disappears on inspiration.
 
 JVP waveforms are a direct readout of right atrial pressure events. Understanding them mechanistically lets you diagnose at the bedside. The **a wave** = atrial contraction (just before S1, corresponds to P wave on ECG). The **c wave** = tricuspid valve bulging back toward the atrium at the start of ventricular systole (tricuspid valve pushed toward atrium briefly). The **x descent** = atrial relaxation + continued downward movement of tricuspid valve annulus during ventricular systole. The **v wave** = venous filling of the right atrium while tricuspid is still closed (blood pours in from the vena cava, pressure builds). The **y descent** = tricuspid valve opens, blood rushes from atrium to ventricle, atrial pressure falls.
+
+![JVP waveform trace showing the a wave (atrial contraction), c wave (tricuspid bulge), x descent (atrial relaxation), v wave (venous filling with tricuspid closed), and y descent (tricuspid opening), with ECG correlation below showing P wave preceding a wave and QRS preceding c wave](../../images/jvp-waveform.jpg)
+> **IBQ tip:** A cannon a wave (giant a wave) occurs when the atrium contracts against a closed tricuspid valve — seen in complete heart block (P wave dissociated from QRS, atrium occasionally contracts during ventricular systole); distinguish from the absent a wave of atrial fibrillation where P waves are absent entirely.
 
 > **Key clinical pearl:** In cardiac tamponade, fluid in the pericardium compresses the heart. The x descent is preserved (ventricle still contracts and pulls the AV junction down), but the y descent is absent or blunted — because when the tricuspid opens, blood cannot flow freely into the stiff, compressed right ventricle. Kussmaul sign (paradoxical rise in JVP on inspiration) is seen in constrictive pericarditis (not typically tamponade): inspiration increases venous return, but the rigid pericardium prevents the ventricle from expanding, so blood backs up → JVP rises.
 
@@ -172,6 +194,24 @@ The Frank-Starling law is the heart's intrinsic mechanism to match output to inp
 **Analogy:** Think of the heart as a self-regulating pump that automatically pumps out exactly as much as flows in. If more venous blood arrives (increased preload), the ventricle stretches more and contracts more forcefully — ejecting more blood. If venous return drops (dehydration, hemorrhage), the ventricle fills less, contracts less forcefully, and cardiac output falls proportionately. This is why in health, right and left cardiac outputs are always equal — if the right pumped more than the left, blood would pool in the lungs, and the increased pulmonary venous return would automatically increase left heart preload until the left matched the right.
 
 **Clinical connection:** In heart failure, the Frank-Starling mechanism is initially compensatory — the failing heart dilates (increases EDV) to maintain stroke volume. But beyond a certain point, the curve shifts downward (reduced contractility), and further increases in preload only cause congestion (pulmonary edema) without improving output. This is why diuretics and vasodilators help in heart failure: reducing preload moves the patient down the Frank-Starling curve to a less congested point, while improving contractility (inotropes) shifts the entire curve upward.
+
+![Frank-Starling curve showing cardiac output or stroke volume on y-axis versus end-diastolic volume (preload) on x-axis, with a normal curve ascending then plateauing, a downward-shifted curve for heart failure, and an upward-shifted curve for increased contractility (e.g., catecholamines); arrows showing how diuretics shift the operating point left along the heart failure curve](../../images/frank-starling-curve.jpg)
+> **IBQ tip:** The Frank-Starling curve shifts upward as a whole with positive inotropes (same preload → more output) versus shifting the operating point along the same curve with fluid loading — a question showing two curves where one is displaced upward at every preload level indicates a change in contractility, not just volume status.
+
+> **ASCII diagram:**
+> ```
+> CO/SV ↑
+>       │  Catecholamines ╱╲────────────
+>       │  Normal        ╱  ╲──────────
+>       │               ╱
+>       │  Heart Fail  ╱─────────────── (flat/low curve)
+>       │             ╱
+>       └────────────────────────────→ Preload (EDV)
+>
+> ↑ Preload → moves along same curve (volume loading)
+> ↑ Contractility → entire curve shifts UP
+> Diuretics → move operating point LEFT along HF curve
+> ```
 
 ### RAAS — The Emergency Blood Pressure Defense System
 
@@ -202,6 +242,26 @@ In emphysema, lung elastic recoil is destroyed (loss of alveolar walls, breakdow
 **FEV1** (forced expiratory volume in 1 second) measures how fast you can empty your lungs. **FVC** (forced vital capacity) measures the total volume you can breathe out forcefully. The ratio FEV1/FVC tells you whether the problem is with the pipe (flow-limited) or the balloon (volume-limited).
 
 In obstructive lung disease (asthma, COPD, bronchiectasis), the airways are narrow. Imagine trying to empty a balloon through a narrow straw. You can eventually get all the air out (FVC is preserved or even increased due to air trapping), but it takes much longer — FEV1 is reduced disproportionately. FEV1/FVC < 0.7 (or less than the lower limit of normal). The problem is flow. In restrictive lung disease (pulmonary fibrosis, neuromuscular disease, chest wall deformity), the problem is that the balloon is small or the system is stiff. Both FEV1 and FVC are reduced, but in proportion — the ratio is preserved (FEV1/FVC ≥ 0.7). The problem is volume.
+
+![Spirometry trace showing volume versus time for a forced expiratory maneuver: a normal curve reaching FVC by 3–4 seconds with steep initial slope, an obstructive pattern with a reduced slope and prolonged time to reach a reduced FVC (scooped-out appearance), and a restrictive pattern with a steep but shortened curve reaching a reduced FVC rapidly](../../images/spirometry-trace-obstructive-restrictive.jpg)
+> **IBQ tip:** The obstructive spirometry trace has a characteristic concave (scooped) appearance on the descending slope because of progressive airway collapse during forced expiration, while the restrictive trace is proportionally small but normally shaped — a question showing a trace that reaches its plateau quickly but at low volume is restrictive, not obstructive.
+
+> **ASCII diagram:**
+> ```
+> Vol  Normal        Obstructive      Restrictive
+>  6L ─┤ ╱────────    ╱──────────      ╱──────
+>      │╱             ╱  (scooped)     ╱
+>  4L ─┤             ╱               ╱
+>      │            ╱               ╱
+>  2L ─┤           ╱               ╱
+>      └──────────────────────────────→ Time (s)
+>      FEV1/FVC:  ≥0.7 normal   <0.7 obstr.   ≥0.7 restrict.
+>      FVC:       normal        ↓ or normal    ↓↓
+>      FEV1:      normal        ↓↓             ↓
+> ```
+
+![Flow-volume loop showing flow on y-axis (expiratory above x-axis, inspiratory below) and volume on x-axis: a normal loop with a peaked expiratory limb and rounded inspiratory limb; an obstructive loop with a hollowed-out (bowl-shaped) expiratory limb; and a restrictive loop that is tall and narrow with preserved shape but reduced total volume](../../images/flow-volume-loop.jpg)
+> **IBQ tip:** The obstructive flow-volume loop has a characteristic scooped/concave expiratory limb (bowl shape) due to dynamic airway collapse — distinguishing it from a fixed upper airway obstruction which flattens BOTH inspiratory and expiratory limbs into a rectangular "box" shape; a restrictive loop is simply a smaller version of the normal loop.
 
 > **Key clinical pearl:** In asthma, the airway narrowing is reversible — a significant increase in FEV1 after bronchodilator (>12% and >200 mL) is diagnostic. In COPD, the airway narrowing is not fully reversible — post-bronchodilator FEV1/FVC < 0.7 is the criterion (GOLD criteria). The severity of COPD is classified by the degree of FEV1 reduction.
 
@@ -234,6 +294,9 @@ Now here is the key logical step: if a substance is freely filtered at the glome
 Creatinine is endogenously produced at a roughly constant rate and is freely filtered plus a small amount is secreted. So creatinine clearance slightly overestimates GFR. But serum creatinine alone is a flawed marker — a patient must lose roughly 50% of GFR before serum creatinine even doubles (the relationship is hyperbolic, not linear). Cystatin C is a newer, more sensitive GFR marker. The **CKD-EPI** formula uses creatinine (and optionally cystatin C) to estimate GFR (eGFR) in clinical practice.
 
 **Clinical connection:** Substances with clearance > GFR must be secreted (PAH, penicillin). Substances with clearance < GFR must be reabsorbed (glucose at normal plasma levels has clearance ~0 — all filtered glucose is reabsorbed). The renal threshold for glucose is ~180 mg/dL — above this, the transport maximum for SGLT2 transporters is exceeded, glucose appears in urine (glucosuria). This is the basis for SGLT2 inhibitor drugs (empagliflozin, dapagliflozin) — they lower the threshold, causing glucosuria at normal blood glucose levels, lowering blood glucose in diabetics.
+
+![Renal glucose clearance curve showing plasma glucose concentration on x-axis and glucose excretion rate on y-axis: the curve is flat at zero (all glucose reabsorbed) until the renal threshold (~180 mg/dL), then rises linearly above the transport maximum (Tm); a secondary curve shows glucose filtration rate rising linearly from zero, with the gap between the two curves representing reabsorption](../../images/renal-glucose-clearance-curve.jpg)
+> **IBQ tip:** The "splay" on the glucose titration curve (the gradual rather than sharp bend at the threshold) reflects heterogeneity in nephron Tm values — SGLT2 inhibitors lower the effective threshold, shifting the excretion curve leftward, so glucose appears in urine at normal plasma concentrations (distinguished from diabetes mellitus where glucosuria occurs because plasma glucose exceeds the normal threshold, not because the threshold has changed).
 
 ### Tubular Handling — Segment by Segment
 
@@ -301,6 +364,9 @@ Now, an excitatory stimulus arrives. If it is strong enough to depolarize the me
 
 The action potential is **all-or-none** because of the threshold mechanism. Either the depolarization reaches threshold and voltage-gated Na+ channels open in a regenerative fashion (autocatalytic — the more they open, the more depolarization, the more they open), or it falls back to rest. There is no half-action-potential. This is why signal intensity is encoded in frequency, not amplitude — a stronger stimulus causes more action potentials per second, not bigger ones. Repolarization occurs because voltage-gated Na+ channels inactivate (their inactivation gate closes, even though the activation gate is open — the channel is temporarily non-functional), and voltage-gated K+ channels open, repolarizing the membrane. The brief **absolute refractory period** (due to Na+ channel inactivation) means a new action potential cannot fire, which ensures unidirectional propagation and limits frequency.
 
+![Action potential trace showing membrane potential in mV on y-axis versus time on x-axis: resting potential at −70 mV, threshold at −55 mV, rapid depolarization to +30 mV (Phase 0: Na+ influx), plateau phase in cardiac muscle (Phase 2: Ca2+ influx balanced by K+ efflux), repolarization (Phase 3: K+ efflux), after-hyperpolarization below resting potential (Phase 4 in neurons), with absolute and relative refractory periods labeled](../../images/action-potential-trace.jpg)
+> **IBQ tip:** The plateau phase (Phase 2) is unique to cardiac ventricular muscle and is absent in skeletal muscle or neurons — it reflects Ca2+ influx through L-type channels balanced by K+ efflux, prolonging the action potential to prevent tetany; a trace showing a prolonged plateau that is shortened by a drug indicates a Ca2+ channel blocker or K+ channel opener, distinguished from Na+ channel blockers which reduce the rate of rise (Phase 0 slope).
+
 ### Neuromuscular Junction — Chemical Relay
 
 At the neuromuscular junction, the motor neuron arrives at the muscle fiber and must transmit its signal. The axon terminal stores acetylcholine (ACh) in vesicles. An action potential reaches the terminal → voltage-gated Ca2+ channels open → Ca2+ influx → vesicle-membrane fusion (SNARE proteins mediate this docking and fusion) → ACh exocytosis into the synaptic cleft → ACh binds nicotinic ACh receptors on the motor end plate → ion channel opens (Na+ in, K+ out, net depolarization) → end plate potential → if large enough, triggers action potential in muscle fiber → excitation-contraction coupling → contraction.
@@ -320,6 +386,9 @@ Sleep is an active process, not simply the absence of wakefulness. The brain cyc
 - **Alpha (8-13 Hz):** Relaxed wakefulness with eyes closed — the brain in a calm "idle" state. Disappears with eyes opening or mental activity.
 - **Beta (13-30 Hz):** Active thinking, concentration, active wakefulness. Enhanced by benzodiazepines.
 - **Gamma (>30 Hz):** Highest frequency, associated with binding of information across cortical regions, consciousness.
+
+![EEG patterns showing four wave types stacked vertically: delta waves (0.5–4 Hz, large amplitude, slow sinusoidal waves, labeled N3/deep sleep), theta waves (4–8 Hz, medium amplitude), alpha waves (8–13 Hz, regular sinusoidal pattern, labeled eyes-closed wakefulness), and beta waves (13–30 Hz, low amplitude, fast irregular waves, labeled active wakefulness), with a scalp diagram indicating standard electrode placement](../../images/eeg-wave-patterns.jpg)
+> **IBQ tip:** Alpha waves (8–13 Hz) are the hallmark of relaxed eyes-closed wakefulness and disappear ("block") immediately on eye opening or mental effort — distinguishing them from beta waves which are present with eye opening; delta waves appearing in a waking adult trace indicates encephalopathy or severe metabolic disturbance, not merely deep sleep.
 
 > **Key clinical pearl:** REM sleep behavior disorder (RBD) — patients act out their dreams (lose the normal muscle atonia of REM). It is a strong prodromal marker for Parkinson's disease and Lewy body dementia — α-synuclein pathology in the brainstem structures that mediate REM atonia (subcoeruleus nucleus) precedes cortical symptoms by years to decades.
 

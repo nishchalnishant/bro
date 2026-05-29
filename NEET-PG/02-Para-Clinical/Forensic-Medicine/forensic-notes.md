@@ -1,5 +1,29 @@
 # Forensic Medicine & Toxicology - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#forensic-medicine) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](forensic-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 8 | 8 | 8 | 7 | 7 | 7 | **8** |
+
+**Trend:** Stable/slight decline — lower-yield subject, but questions are highly predictable.
+
+### Top 10 High-Yield Topics
+1. Rigor mortis — onset, duration, exceptions
+2. Injuries — abrasion, contusion, laceration, incised, stab
+3. Hanging vs strangulation — differentiating features
+4. Drowning — types, diatom test, signs
+5. Firearm injuries — entry vs exit, range estimation
+6. Decomposition changes and time since death
+7. Medicolegal aspects — MLC, dying declaration
+8. Poison classification — LD50, common poisons
+9. Sexual offences — medicolegal examination
+10. Age estimation — teeth, bones, radiology
+
+> **Strategy:** Questions are very repeatable year to year. Master the 3–4 distinguishing features for each type of mechanical injury and thanatology signs.
+
 ---
 
 ## FORENSIC PATHOLOGY

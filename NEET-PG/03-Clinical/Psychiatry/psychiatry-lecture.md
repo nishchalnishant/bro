@@ -1,28 +1,48 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🧠 PSYCHIATRY — NEET PG<br/>6 Major Domains"]
+
+    A --> B["Psychotic Disorders"]
+    A --> C["Mood Disorders"]
+    A --> D["Anxiety & OCD"]
+    A --> E["Substance Use"]
+    A --> F["Psychopharmacology"]
+    A --> G["Forensic & Child Psychiatry"]
+
+    B --> B1["Schizophrenia<br/>≥6 months / Positive & Negative sx"]
+    B --> B2["Brief Psychotic Disorder<br/><1 month / Schizoaffective"]
+    B --> B3["Delusional Disorder<br/>Non-bizarre delusions / Insight preserved"]
+
+    C --> C1["MDD<br/>SIGECAPS ≥5 for ≥2 weeks"]
+    C --> C2["Bipolar I vs II<br/>BPI: Mania ≥7d / BPII: Hypomania + MDD"]
+    C --> C3["ECT<br/>Severe depression / Catatonia / TRD"]
+
+    D --> D1["GAD vs Panic Disorder<br/>GAD: generalized / Panic: discrete attacks"]
+    D --> D2["OCD<br/>Ego-dystonic / Obsessions + Compulsions"]
+    D --> D3["PTSD<br/>Re-experiencing / Avoidance / Hyperarousal"]
+
+    E --> E1["Alcohol<br/>CAGE / Delirium tremens → BZD"]
+    E --> E2["Opioids<br/>Withdrawal: CRAMS / Naloxone antidote"]
+    E --> E3["Personality Disorders<br/>Cluster A/B/C"]
+
+    F --> F1["Antipsychotics<br/>Typical D2 / Atypical / Clozapine agranulocytosis"]
+    F --> F2["Lithium<br/>0.6–1.2 mEq/L therapeutic / Monitor TFT/RFT"]
+    F --> F3["Antidepressants<br/>SSRIs first-line / TCAs / MAOIs"]
+
+    G --> G1["McNaughton Rule<br/>IPC Sec 84 / Not know nature of act"]
+    G --> G2["ADHD<br/>Methylphenidate / Atomoxetine"]
+    G --> G3["Suicide Risk<br/>Male > Female attempts / Female > Male attempts"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                   PSYCHIATRY — NEET PG OVERVIEW                             │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-       ┌──────────────┬─────────────┼──────────────┬──────────────┐
-       │              │             │              │              │
-       ▼              ▼             ▼              ▼              ▼
-┌────────────┐ ┌───────────┐ ┌──────────┐ ┌──────────────┐ ┌──────────────┐
-│Schizophrenia│ │   Mood    │ │ Anxiety  │ │  Substance   │ │    Child     │
-│            │ │ Disorders │ │Disorders │ │  Use Dis.    │ │  Psychiatry  │
-└─────┬──────┘ └─────┬─────┘ └────┬─────┘ └──────┬───────┘ └──────┬───────┘
-      │              │            │               │                 │
-      ├─ Dopamine    ├─ Depression ├─ Panic Dis.   ├─ Addiction     ├─ ASD
-      │  pathways    │  (5-HT/NE) │  (Noradren-   │  neurobiology  │  (triad of
-      │  (mesolimbic │  (Monoamine │  ergic storm) │  (dopamine     │  impairments)
-      │  mesocortical│  hypothesis)├─ GAD          │  reward)       ├─ ADHD
-      │  tuberoinfund│ ├─ Bipolar  ├─ OCD          ├─ Alcohol/      │  (inattentive
-      │  nigrostriat)│ │  (Kindling│  (serotonin)  │  Wernicke's    │  hyperactive)
-      ├─ +ve symptoms│ │  theory)  ├─ PTSD         ├─ Withdrawal    └─ Retts,
-      ├─ -ve symptoms│ └─ Thymo-   └─ (amygdala    │  syndromes        Conduct dis.
-      └─ Antipsychot-│    stabilizers  hyperreact.) └─ Opioids/
-         ics (typical│    Lithium                     Benzos
-         / atypical) └─ ECT
-```
+
+**Subject Overview (plain text):**
+- Psychotic Disorders: Schizophrenia (≥6 months/Positive & Negative symptoms), Brief Psychotic Disorder (<1 month/Schizoaffective), Delusional Disorder (Non-bizarre delusions)
+- Mood Disorders: MDD (SIGECAPS ≥5 for ≥2 weeks), Bipolar I vs II (BPI Mania ≥7d/BPII Hypomania+MDD), ECT (Severe depression/Catatonia/TRD)
+- Anxiety & OCD: GAD vs Panic Disorder (GAD generalized/Panic discrete attacks), OCD (Ego-dystonic/Obsessions+Compulsions), PTSD (Re-experiencing/Avoidance/Hyperarousal)
+- Substance Use: Alcohol (CAGE/Delirium tremens → BZD), Opioids (Withdrawal CRAMS/Naloxone antidote), Personality Disorders (Cluster A/B/C)
+- Psychopharmacology: Antipsychotics (Typical D2/Atypical/Clozapine agranulocytosis), Lithium (0.6–1.2 mEq/L/Monitor TFT/RFT), Antidepressants (SSRIs first-line/TCAs/MAOIs)
+- Forensic & Child Psychiatry: McNaughton Rule (IPC Sec 84), ADHD (Methylphenidate/Atomoxetine), Suicide Risk (Male > Female completed/Female > Male attempts)
 
 # Psychiatry — Lecture Notes for NEET PG
 
@@ -58,6 +78,9 @@ The **nigrostriatal pathway** runs from the substantia nigra to the striatum and
 
 The **tuberoinfundibular pathway** runs from the hypothalamus to the pituitary, where dopamine normally inhibits prolactin secretion. Block D2 here → loss of prolactin inhibition → **hyperprolactinemia**: galactorrhea, amenorrhea, sexual dysfunction, and long-term bone loss from estrogen deficiency.
 
+![Four dopamine pathways diagram: mesolimbic (VTA to nucleus accumbens), mesocortical (VTA to PFC), nigrostriatal (substantia nigra to striatum), and tuberoinfundibular (hypothalamus to pituitary), with colour-coded arrows showing where antipsychotics block D2 receptors and the resulting clinical effect at each site](../../images/dopamine-pathways-schizophrenia.jpg)
+> **IBQ tip:** In the image, identify each pathway by its origin and termination — mesolimbic ends at the nucleus accumbens (positive symptoms when hyperactive), mesocortical ends at the PFC (negative symptoms when hypoactive). The closest look-alike confusion is mesocortical vs mesolimbic: both originate in the VTA, but mesocortical goes *up* to the cortex (cognition/negatives) while mesolimbic goes to *limbic* structures (reward/positives).
+
 ### Why Clozapine Is Different
 
 Clozapine occupies a unique position in antipsychotic pharmacology. Introduced in the 1960s and then withdrawn in many countries in the 1970s (due to fatal agranulocytosis), it was reintroduced in the 1990s after controlled trials demonstrated its superior efficacy in treatment-resistant schizophrenia. It is the only antipsychotic that works when all others have failed — approximately 30-60% of treatment-resistant patients respond to clozapine.
@@ -89,6 +112,9 @@ In depression, this circuit is systematically dysregulated. Neuroimaging studies
 
 The **monoamine hypothesis** provides the pharmacological framework: depression results from insufficient activity of serotonin, norepinephrine, and/or dopamine at synapses in mood-relevant circuits. This hypothesis arose from clinical observations: reserpine (which depletes monoamine stores) causes depression; MAOIs (which prevent monoamine breakdown) and tricyclic antidepressants (which block monoamine reuptake) relieve depression. The hypothesis predicts the mechanism of all our major antidepressants: SSRIs block serotonin reuptake, SNRIs block both serotonin and norepinephrine reuptake, NDRIs (bupropion) block norepinephrine and dopamine reuptake.
 
+![Synaptic diagram comparing SSRI, TCA, and MAOI antidepressant mechanisms: SSRI blocking the SERT transporter; TCA blocking SERT and NET plus H1, muscarinic, and alpha-1 receptors; MAOI blocking the intraneuronal MAO enzyme with accumulation of all three monoamines](../../images/antidepressant-synapse-mechanisms.jpg)
+*Caption: The three main antidepressant classes act at different points on the monoamine synapse. SSRIs block reuptake only; TCAs block reuptake plus multiple other receptors (explaining their side-effect profile); MAOIs prevent intracellular breakdown. The wider receptor footprint of TCAs explains why overdose causes cardiac arrhythmia, seizures, and anticholinergic toxicity — all high-yield exam scenarios.*
+
 But here is where the story gets more interesting. The monoamine hypothesis, strictly interpreted, says that increasing monoamine levels at synapses should relieve depression. And SSRIs do increase synaptic serotonin within hours of the first dose. Yet the clinical antidepressant effect takes 2-4 weeks to emerge. This time lag is the Achilles heel of the pure monoamine hypothesis — it suggests that the therapeutic mechanism is not simply increased monoamine availability, but rather something that takes weeks to develop.
 
 The current understanding involves two additional mechanisms: **autoreceptor desensitization** and **neuroplasticity**. Serotonin neurons have autoreceptors (5-HT1A on the cell body and dendrites; 5-HT1B on the axon terminals) that provide negative feedback — when synaptic serotonin rises, autoreceptors activate and reduce serotonin synthesis and release, partially blunting the initial increase. Over 2-4 weeks of sustained SSRI exposure, these autoreceptors desensitize (downregulate), removing the feedback inhibition and allowing the full increase in serotonergic transmission. **Neuroplasticity:** SSRIs and other antidepressants increase expression of BDNF (brain-derived neurotrophic factor) in the hippocampus. BDNF promotes neurogenesis, dendritic branching, and synaptic strengthening in the hippocampus. Animal studies show that BDNF is necessary for antidepressant effects — blocking BDNF signaling abolishes antidepressant response. Neurogenesis takes weeks to occur, which aligns perfectly with the clinical time course. The current hypothesis: antidepressants work by restoring hippocampal neuroplasticity and remodeling dysfunctional mood circuits, with monoamine increases as the initiating signal.
@@ -106,6 +132,9 @@ Post proposed that bipolar mood episodes follow similar dynamics. Early in the i
 The kindling model also explains the neuroprotective rationale for mood stabilizers. **Lithium** and **valproate** — the two classical mood stabilizers — both have anticonvulsant-like effects on neural circuits, reducing the excitability of kindled circuits. Lithium acts through multiple mechanisms: inhibition of inositol monophosphatase (depleting inositol and reducing PKC signaling), inhibition of GSK-3β (a kinase involved in apoptosis and neurodegeneration — lithium's inhibition of GSK-3β is thought to be neuroprotective), and upregulation of BDNF and Bcl-2 (an anti-apoptotic protein). Lithium-treated patients show increased gray matter volume in prefrontal regions — direct evidence of neuroplasticity and neuroprotection. Valproate acts through multiple mechanisms including GABA enhancement (increases GABA synthesis and release), sodium channel blockade, and HDAC inhibition (epigenetic effects that regulate gene expression relevant to mood and neuroprotection).
 
 > **Key exam insight:** Lithium has the most evidence for anti-suicidal effects of any mood stabilizer — reducing suicidal behavior by 2-3-fold compared to placebo in bipolar patients. This is independent of its mood-stabilizing effect and may be related to its serotonergic effects. When a bipolar patient presents with suicidality, lithium should be strongly considered if not already prescribed. Therapeutic lithium levels: 0.8-1.2 mEq/L for acute mania, 0.6-0.8 mEq/L for maintenance. Signs of toxicity: tremor (at therapeutic levels — benign), coarse tremor, ataxia, confusion, seizures (at toxic levels >1.5 mEq/L).
+
+![ECG strip showing QT prolongation: long flat isoelectric segment between the end of the QRS and the T-wave peak, with corrected QTc measurement marked; second panel showing torsades de pointes with characteristic twisting of QRS polarity around the baseline at 150-250 bpm](../../images/ecg-qt-prolongation-torsades.jpg)
+*Caption: Lithium toxicity and many psychotropic drugs (TCAs, antipsychotics, methadone) prolong the QT interval and can precipitate torsades de pointes — a polymorphic VT that "twists" around the baseline. QTc >500 ms demands urgent action. Tested as: "lithium patient develops palpitations; ECG shows?"*
 
 **Analogy:** Think of bipolar disorder as a brain with a thermostat that has become increasingly sensitive and unstable. Early on, large temperature swings (major stressors) are needed to trigger the system to overshoot. With kindling, the thermostat becomes hair-trigger — small inputs cause wild temperature swings, and eventually the thermostat oscillates on its own. Mood stabilizers reset the sensitivity of the thermostat.
 
@@ -135,7 +164,13 @@ What follows is the classic **panic cycle**: the initial physical sensation (per
 
 **Benzodiazepines** (lorazepam, clonazepam, diazepam) provide immediate relief from panic and anxiety by potentiating GABA-A receptors — the main inhibitory receptors in the brain. Benzodiazepines bind to an allosteric site on the GABA-A receptor, increasing the frequency of chloride channel opening in response to GABA, hyperpolarizing neurons, and reducing overall neuronal excitability. In the amygdala, this directly suppresses the hyperactivated fear circuitry, providing rapid, reliable anxiolysis. The anti-panic effect is immediate — within 30 minutes of ingestion.
 
+![Action potential trace: resting potential at –70 mV, depolarisation phase with Na⁺ influx reaching +30 mV, repolarisation with K⁺ efflux, hyperpolarisation undershoot, and return to resting potential; the threshold potential (–55 mV) is marked](../../images/action-potential-trace.jpg)
+*Caption: The GABA-A receptor works by opening Cl⁻ channels, hyperpolarising the neuron further below threshold — the mirror image of the Na⁺ depolarisation shown here. Benzodiazepines increase Cl⁻ channel opening frequency; barbiturates increase opening duration. This distinction is tested when questions ask which drug has a "ceiling effect" (benzodiazepines — due to limited Cl⁻ driving force at very negative membrane potentials).*
+
 But benzodiazepines carry a critical liability: **physiological dependence**. With chronic benzodiazepine use, GABA-A receptors are chronically overstimulated → they undergo adaptive downregulation (fewer receptors, reduced receptor sensitivity). The brain compensates for chronic inhibitory excess by reducing its own inhibitory capacity. When benzodiazepines are stopped, the downregulated GABA system is suddenly without its pharmacological support → uncompensated neuronal hyperexcitability → benzodiazepine withdrawal: anxiety (worse than before), insomnia, tremor, seizures. This is why benzodiazepines should be used for short-term relief while SSRIs are built up to therapeutic levels, and then gradually tapered. Treating chronic anxiety with chronic benzodiazepines creates a pharmacological prison.
+
+![EEG wave patterns panel: alpha waves (8–13 Hz, relaxed wakefulness, eyes closed), beta waves (>13 Hz, active concentration), theta waves (4–8 Hz, drowsiness/light sleep), delta waves (<4 Hz, deep slow-wave sleep), and high-amplitude irregular waveform of REM sleep with sawtooth waves](../../images/eeg-wave-patterns.jpg)
+*Caption: EEG is clinically relevant in psychiatry for: confirming encephalopathy in delirium (diffuse slow-wave activity — theta/delta predominance), ruling out absence epilepsy mimicking inattention, and monitoring during ECT. Sleep EEG shows that benzodiazepines suppress REM and Stage 3/4 slow-wave sleep — contributing to non-restorative sleep with chronic use. Tested as: "which sleep stage is suppressed by benzodiazepines?"*
 
 > **Key exam insight:** Benzodiazepine withdrawal is one of the few drug withdrawal syndromes that can be life-threatening (along with alcohol withdrawal — mechanistically identical, since alcohol also potentiates GABA-A). Both can cause seizures. Abrupt cessation after chronic high-dose benzodiazepine use must be avoided — use a gradual taper with a long-acting benzodiazepine (diazepam) for cross-tolerance.
 
@@ -171,6 +206,9 @@ The result: a dopamine surge 2-10 times greater than any natural reward (food, s
 
 > **Key exam insight:** CAGE questionnaire: Cut down (have you felt you should), Annoyed (have people annoyed you by criticizing your drinking), Guilty (have you felt guilty about drinking), Eye-opener (have you had a drink first thing in the morning). Two or more positive responses: high sensitivity for alcohol use disorder. AUDIT (Alcohol Use Disorders Identification Test) is more comprehensive and internationally validated.
 
+![CAGE questionnaire mnemonic table: four rows labelled C-A-G-E with the full question for each item and a column showing the diagnostic cut-off of ≥2 positive answers for probable alcohol use disorder](../../images/cage-questionnaire-table.jpg)
+> **IBQ tip:** In the table image, the key feature to identify is which letter corresponds to which question — "Eye-opener" (morning drink) is the item most specific for dependence, distinguishing it from hazardous use. The AUDIT table looks similar but has 10 items scored 0-4; CAGE has only 4 binary yes/no items — the number of rows instantly differentiates them.
+
 ---
 
 ## Personality Disorders
@@ -186,6 +224,9 @@ Personality disorders represent enduring, inflexible patterns of inner experienc
 **Analogy:** Imagine having no emotional calluses. Every emotional experience — a friend being 10 minutes late, a perceived slight in a text message, a change of plans — lands like a blow to exposed, tender skin. The emotional reactivity is not disproportionate to the person's subjective experience of pain — it is disproportionate to what most people would feel in that situation, because BPD removes the buffering that most people's emotional systems provide.
 
 The most evidence-based treatment for BPD is **Dialectical Behavior Therapy (DBT)**, developed by Marsha Linehan (who herself had BPD). DBT teaches four skill sets: mindfulness, distress tolerance, emotional regulation, and interpersonal effectiveness. It dramatically reduces self-harm, suicidality, hospitalizations, and improves quality of life. The pharmacotherapy for BPD is symptomatic — SSRIs or mood stabilizers for affective instability, low-dose antipsychotics for brief psychotic episodes during stress.
+
+![Dose-response curves comparing full agonist (sigmoid curve reaching 100% maximal response), partial agonist (lower Emax ceiling), competitive antagonist (parallel rightward shift, same Emax), and non-competitive antagonist (depressed Emax, no rightward shift)](../../images/dose-response-curves-agonist-antagonist.jpg)
+*Caption: Aripiprazole — used as an adjunct in BPD affective instability — is a partial D2 agonist, exemplified by the partial agonist curve above. It acts as a functional antagonist when synaptic dopamine is high (mesolimbic hyperdopaminergia) but as a weak agonist when dopamine is low (mesocortical hypodopaminergia). This "dopamine system stabiliser" mechanism is why aripiprazole has a low EPS and metabolic profile compared to full D2 antagonists.*
 
 **Cluster C** ("anxious, fearful"): Avoidant, Dependent, Obsessive-Compulsive personality disorder. These share phenomenological overlap with anxiety disorders — avoidant personality disorder, for example, is distinguished from social anxiety disorder primarily by the degree of pervasiveness and ego-syntonic quality of the traits.
 
@@ -217,6 +258,9 @@ This is a high threshold. Most people with schizophrenia who commit crimes do so
 
 **Clinical connection:** Fitness to stand trial (competency) is separate from the insanity defense. A defendant must be competent to stand trial — meaning they currently understand the charges against them and can assist in their own defense. A person can have been insane at the time of the offense but competent to stand trial now (their illness may be treated). Competency is assessed by the treating psychiatrist using structured tools (MacArthur Competence Assessment Tool for Treatment — MacCAT-T) and is ultimately a legal determination, not a medical one.
 
+![2×2 contingency table for sensitivity and specificity: rows labelled Disease Present/Absent, columns labelled Test Positive/Negative; cells showing True Positive (a), False Positive (b), False Negative (c), True Negative (d); formulas for Sensitivity = a/(a+c), Specificity = d/(b+d), PPV = a/(a+b), NPV = d/(c+d)](../../images/2x2-contingency-table-sensitivity-specificity.jpg)
+*Caption: Forensic psychiatry tools (CAGE, AUDIT, McNaughton assessment instruments) all have published sensitivity and specificity figures that are tested numerically. The 2×2 table is the universal framework — CAGE ≥2 has sensitivity ~85% and specificity ~70-80% for alcohol use disorder. A perfect screening test (high sensitivity = low false-negative rate) is different from a perfect confirmatory test (high specificity = low false-positive rate): for forensic psychiatric assessment, both dimensions matter because errors in either direction have legal consequences.*
+
 ---
 
 ---
@@ -233,13 +277,19 @@ The tragic consequence: the downregulated reward system now has a **reduced base
 
 **Withdrawal** is the equal and opposite consequence of the same homeostatic adaptation. When the drug is abruptly removed, the brain's compensatory downregulation is suddenly unmasked: the inhibitory mechanisms the brain built to counteract the drug's effect are now unopposed. The result is a **rebound** — the exact opposite of the drug's acute pharmacological effect.
 
-Consider opioid withdrawal: opioids (heroin, morphine, codeine, fentanyl) work primarily by activating mu-opioid receptors. One of the key effects of opioid agonism is **suppression of the locus coeruleus** (the brainstem's norepinephrine nucleus — the primary source of norepinephrine in the brain, with projections to the cortex, limbic system, spinal cord, and peripheral sympathetic ganglia). The locus coeruleus drives sympathetic tone and arousal; opioids quiet it. With chronic opioid use, the locus coeruleus adapts by upregulating its firing rate to compensate for chronic suppression. When opioids are withdrawn, this hyper-sensitized, upregulated locus coeruleus fires without restraint — producing a **sympathetic storm**: tachycardia, hypertension, diaphoresis, piloerection ("cold turkey" — literally, goosebumps resembling a plucked turkey's skin), lacrimation, rhinorrhea, mydriasis, diarrhea, intense anxiety, insomnia, and diffuse muscle aching. Opioid withdrawal is agonizing but rarely life-threatening in otherwise healthy adults.
+Consider opioid withdrawal: opioids (heroin, morphine, codeine, fentanyl) work primarily by activating mu-opioid receptors. One of the key effects of opioid agonism is **suppression of the locus coeruleus**
+
+![Therapeutic index diagram: two overlapping sigmoid curves on a log-dose axis — ED50 (effective dose in 50% of the population) on the left and LD50 (lethal dose in 50%) on the right; the horizontal gap between them represents the therapeutic window; drugs with narrow TI show nearly overlapping curves](../../images/therapeutic-index-ed50-ld50.jpg)
+*Caption: Opioids have a narrow therapeutic index — the difference between an analgesic dose and a respiratory-depressant dose is small. Methadone maintenance therapy aims to keep plasma levels within the therapeutic window using its long half-life to avoid peaks (euphoria/toxicity) and troughs (withdrawal). Buprenorphine's ceiling effect on the ED50 curve (partial agonist) shifts the LD50 curve far right, making overdose much less likely — the visual basis for its improved safety profile.* (the brainstem's norepinephrine nucleus — the primary source of norepinephrine in the brain, with projections to the cortex, limbic system, spinal cord, and peripheral sympathetic ganglia). The locus coeruleus drives sympathetic tone and arousal; opioids quiet it. With chronic opioid use, the locus coeruleus adapts by upregulating its firing rate to compensate for chronic suppression. When opioids are withdrawn, this hyper-sensitized, upregulated locus coeruleus fires without restraint — producing a **sympathetic storm**: tachycardia, hypertension, diaphoresis, piloerection ("cold turkey" — literally, goosebumps resembling a plucked turkey's skin), lacrimation, rhinorrhea, mydriasis, diarrhea, intense anxiety, insomnia, and diffuse muscle aching. Opioid withdrawal is agonizing but rarely life-threatening in otherwise healthy adults.
 
 **Analogy:** Opioids act like a hand pressing down on a spring (the locus coeruleus). The spring compresses and adapts by becoming stiffer in resistance. Remove the hand (withdraw the opioid), and the stiffened spring shoots upward violently — overshoot, not just return to baseline.
 
 **Alcohol withdrawal** operates through a different but parallel mechanism, and it can be lethal. Alcohol has two primary pharmacological actions: it **potentiates GABA-A receptors** (increasing chloride influx → neuronal hyperpolarization → global CNS depression) and it **blocks NMDA glutamate receptors** (reducing excitatory glutamate transmission). The combined effect is powerful CNS inhibition — sedation, anxiolysis, impaired coordination, ultimately anesthesia and coma at high doses.
 
 With chronic alcohol exposure, the brain adapts in the equal and opposite direction: GABA-A receptors are **downregulated** (reduced number and sensitivity — the brain reduces its inhibitory capacity to compensate for chronic pharmacological enhancement), and NMDA receptors are **upregulated** (the brain increases its excitatory capacity to compensate for chronic blockade). Now remove alcohol: the downregulated GABA system provides insufficient inhibition, and the upregulated NMDA system provides excessive excitation. The brain is simultaneously under-braked and over-accelerated. The consequence: neuronal hyperexcitability → anxiety, tremor, insomnia, tachycardia, hypertension, sweating (the early syndrome, 6-24 hours after last drink) → seizures (24-48 hours — "rum fits," typically generalized tonic-clonic, can be status epilepticus) → delirium tremens (48-96 hours — the fully developed syndrome: florid psychosis with visual hallucinations, extreme autonomic instability, hyperthermia, potentially fatal).
+
+![Alcohol withdrawal timeline graph: horizontal axis shows hours after last drink (0 to 96+), with labelled bands showing tremor/anxiety/tachycardia onset at 6-24 h, alcoholic hallucinations at 12-24 h, seizures ("rum fits") at 24-48 h, and delirium tremens peak at 48-96 h, with severity on the vertical axis](../../images/alcohol-withdrawal-timeline.jpg)
+> **IBQ tip:** In the image, identify the temporal sequence — seizures peak before delirium tremens, not simultaneously. The closest look-alike error is confusing the hallucination band (12-24 h, patient is alert) with the delirium tremens band (48-96 h, patient is confused/agitated); the key differentiator is whether consciousness is impaired — it is not in alcoholic hallucinosis but is in DTs.
 
 > **Key exam insight:** Alcohol withdrawal seizures are managed with benzodiazepines (lorazepam IV for acute seizure; diazepam or chlordiazepoxide on a tapering schedule for the withdrawal syndrome). Benzodiazepines are the substitution therapy — they potentiate GABA-A receptors by the same mechanism as alcohol, providing the inhibitory support the downregulated GABA system can no longer provide, while being tapered slowly enough to allow receptor re-upregulation. Phenytoin is NOT effective for alcohol withdrawal seizures (the mechanism — NMDA hyperexcitability and GABA deficiency — is not the mechanism phenytoin targets).
 
@@ -260,6 +310,9 @@ If Wernicke's is untreated or inadequately treated, the surviving patient may de
 The reasoning: thiamine-dependent enzymes are responsible for metabolizing glucose (specifically, pyruvate dehydrogenase is required to convert glucose's metabolic product, pyruvate, into acetyl-CoA for complete oxidation). If you administer a glucose load to a thiamine-depleted patient, you dramatically increase the metabolic demand for thiamine at precisely the moment when thiamine is absent. Pyruvate cannot be converted to acetyl-CoA → it accumulates → is converted to lactate instead → **lactic acidosis** worsens. Simultaneously, the increased metabolic demand of glucose metabolism in high-demand brain regions (mammillary bodies, thalamus) drives acute energy failure and neuronal necrosis — **precipitating acute Wernicke's encephalopathy** or converting subclinical Wernicke's into fulminant disease. Thiamine given first (IV, 100-500 mg before any glucose administration) allows adequate cofactor to be present when the glucose load arrives.
 
 **Analogy:** Giving glucose without thiamine to a depleted patient is like running a factory at full speed with no oil in the machines. The increased activity only accelerates the damage.
+
+![Ophthalmology fundus photograph showing papilloedema: blurred disc margins, absent venous pulsations, disc hyperaemia, and peripapillary flame haemorrhages in both eyes — bilateral disc swelling from raised intracranial pressure](../../images/ophthalmology-papilloedema.jpg)
+*Caption: Wernicke's encephalopathy can produce raised intracranial pressure in severe cases, causing papilloedema visible on fundoscopy. More importantly, the ocular motor signs (ophthalmoplegia, nystagmus) are the most specific features of the classic triad and should be specifically sought. Blurred disc margins here vs the normal sharp disc edge is the key visual discriminator.*
 
 ---
 
@@ -283,6 +336,9 @@ The neurobiological basis of ToM deficits in ASD involves the **social brain net
 
 The **mirror neuron system** — neurons in the premotor cortex and inferior parietal lobule that fire both when an individual performs an action and when they observe another performing the same action — has been proposed to play a role in ASD, with the "broken mirror" hypothesis suggesting that impaired mirror neuron function underlies the social-cognitive deficits. This hypothesis remains contested but has been productive in generating research.
 
+![Developmental milestone chart: four columns (Gross Motor, Fine Motor, Language, Social/Personal) with age rows from 1 month to 5 years; key milestones include head control at 3 months, sitting unsupported at 6 months, walking at 12 months, two-word phrases at 24 months, and full sentences at 36 months](../../images/developmental-milestone-chart.jpg)
+*Caption: ASD red flags on the developmental chart: no babbling by 12 months, no single words by 16 months, no two-word spontaneous phrases by 24 months, or any regression in language or social skills at any age — each of these warrants immediate evaluation. The chart anchors normal milestones for ADHD vs ASD comparison: ADHD typically shows normal developmental milestones but executive-dysfunction symptoms presenting in a structured school environment, whereas ASD shows early social-communication deviation visible before 24 months.*
+
 **Analogy:** Theory of mind is like a social GPS that tells you where another person is standing mentally — what they believe, want, and feel from their vantage point. ASD is like navigating social life with the GPS turned off. You can still move through the world, but you lack the map that everyone else is using to coordinate movements with each other.
 
 > **Key exam insight:** DSM-5 ASD diagnostic criteria require: (A) persistent deficits in social communication and interaction across multiple contexts, AND (B) restricted, repetitive patterns of behavior, interests, or activities. Symptoms must be present in early developmental period (may not fully manifest until social demands exceed limited capacity). Severity is rated on a three-level scale based on support requirements. ASD has high heritability (~80%) but is polygenic — hundreds of genes contribute small-effect variants; rare copy number variants (15q11-13, 16p11.2 deletions/duplications) confer large risk. There is NO causal link between vaccines and autism — the original Wakefield study was fraudulent and has been formally retracted.
@@ -300,5 +356,8 @@ The implication: a child who cannot sustain attention on a "boring" math workshe
 **Clinical connection:** This is why stimulants work for ADHD — they raise PFC catecholamine signaling toward the optimal range — but only at therapeutic doses in diagnosed patients. Supraphysiological doses in people without ADHD produce too much PFC catecholamine stimulation (climbing the right side of the inverted-U) and impair PFC function, causing anxiety, impaired cognition, and in the case of amphetamines, psychosis. This is also why untreated ADHD is not "just about school performance" — impulsivity and poor executive function drive higher rates of accidents, relationship difficulties, risk-taking behavior, and substance use disorder across the lifespan.
 
 > **Key exam insight:** ADHD in girls is chronically under-diagnosed. Boys typically present with the hyperactive-impulsive subtype (visible, disruptive) while girls more commonly present with the predominantly inattentive subtype (the "daydreamer" who quietly struggles academically). The inattentive subtype often escapes diagnosis until the academic demands of secondary school exceed the compensatory strategies the child has developed. Treat with methylphenidate (first-line in India) or atomoxetine (preferred when comorbid anxiety is present, or when stimulant abuse risk is a concern in the household). Behavioral therapy is essential alongside pharmacotherapy, particularly in children under 6 years where stimulants are less well-studied.
+
+![Pharmacokinetic elimination curves: semi-log plot showing first-order kinetics as a straight line (constant half-life, proportional elimination) and zero-order kinetics as a curved line (constant amount eliminated per unit time); inset two-compartment model showing alpha (distribution) and beta (elimination) phases](../../images/pharmacokinetic-elimination-curves.jpg)
+*Caption: Methylphenidate follows first-order kinetics — its plasma concentration decays exponentially, which is why twice-daily dosing is needed for the immediate-release form and why extended-release formulations maintain flatter concentration curves. Alcohol in the brain — a key ADHD comorbidity context — follows zero-order kinetics at drinking doses: a constant amount (~10 mL ethanol/hour) is eliminated regardless of plasma level. This explains why blood alcohol concentration falls predictably by ~15–20 mg/dL/hour regardless of how much was drunk.*
 
 *Psychiatry is not soft medicine. It is neuroscience applied to suffering. Approach every patient with the same diagnostic rigor you would bring to cardiology or nephrology — and the empathy that all suffering demands.*

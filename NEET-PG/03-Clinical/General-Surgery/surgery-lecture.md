@@ -1,106 +1,55 @@
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    GENERAL SURGERY — TOPIC OVERVIEW                         │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-     ┌──────────────────────────────┼───────────────────────────────┐
-     │                              │                               │
-     ▼                              ▼                               ▼
-┌──────────┐               ┌────────────────┐              ┌────────────────┐
-│  SHOCK   │               │  WOUND HEALING │              │   GI SURGERY   │
-│          │               │  & INFECTIONS  │              │                │
-└────┬─────┘               └───────┬────────┘              └───────┬────────┘
-     │                             │                               │
-  ┌──┴──────────────┐         ┌────┴──────────┐          ┌────────┴────────┐
-  ▼  ▼    ▼       ▼           ▼   ▼    ▼    ▼            ▼                 ▼
-┌──┐┌──┐┌────┐┌──────┐   ┌──────┐┌──┐┌──┐┌──┐    ┌──────────┐   ┌────────────────┐
-│Hv││Cg││Dist││Obstr.│   │Ph 1  ││P2││P3││P4│    │APPENDIC- │   │COLORECTAL CA   │
-│  ││  ││    ││      │   │Haemo-││In││Pr││Re│    │  ITIS    │   │                │
-└┬─┘└┬─┘└──┬─┘└──┬───┘   │stasis││fl││ol││mo│    └────┬─────┘   └────────┬───────┘
- │   │     │     │        └──────┘└──┘└──┘└──┘         │                  │
- ▼   ▼     ▼     ▼                                      │                  │
- ↓CO ↓Pump ↓SVR  Mech.    ● Haemostasis ─ Platelets    ├─ Faecolith      ├─ APC mut.
- ↑HR pump  vasod obstruct  ● Inflam. ─── Neutrophils    │  obstruction    │  (Wnt ↑)
-           ─ NO  ─ T.pneu    ─ Macrophages              ├─ Pressure → i- ├─ KRAS mut.
-           ─ Sep ─ PE      ● Proliferat. ─ Fibroblast   │  schaemia       │  (const.
-           ─ Ana ─ Tampon.   ─ Angiogen.               ├─ Pain migr.:    │   active)
-                             ─ Re-epithe.               │  periumbilic.  ├─ SMAD4
-                           ● Remodelling ─ Type III→I   │  → RIF (McB.)  ├─ TP53 →
-                                                         ├─ Signs: RBT,   │  carcinoma
-                           Impairment:                   │  Rovsing,      │
-                           ● Ischaemia ─ no O₂ for      │  Psoas,        ├─ FAP
-                           ● Infection ─ metalloprot.    │  Obturator     │  (germline
-                           ● Diabetes ─ neutro/macro     └─ Alvarado      │   APC)
-                           ● Malnutrit.─ Vit C, Zn         score ≥7 → Rx │
-                           Keloid vs Hypertrophic:                        ├─ Lynch/HNPCC
-                           ● Keloid: beyond margins,                      │  (MMR gene
-                           ● Hypert.: within margins                      │  MSI)
-                                                                          └─ Dukes A-D
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
 
-     ┌──────────────────────────────┼───────────────────────────────┐
-     │                              │                               │
-     ▼                              ▼                               ▼
-┌──────────────────┐      ┌──────────────────┐           ┌──────────────────┐
-│ THYROID/ENDOCRINE│      │     HERNIAS      │           │  BREAST SURGERY  │
-└──────────┬───────┘      └────────┬─────────┘           └────────┬─────────┘
-           │                       │                               │
-     ┌─────┴──────┐          ┌─────┴──────┐                 ┌─────┴──────┐
-     ▼            ▼          ▼            ▼                  ▼            ▼
-┌─────────┐ ┌──────────┐  ┌────────┐ ┌────────┐       ┌─────────┐ ┌──────────┐
-│THYROID  │ │PARATHYROID│  │INGUINAL│ │FEMORAL │       │RECEPTOR │ │ SENTINEL │
-│CANCERS  │ │GLANDS     │  │HERNIA  │ │HERNIA  │       │SUBTYPES │ │ LN BIOPSY│
-└────┬────┘ └─────┬─────┘  └───┬────┘ └───┬────┘       └────┬────┘ └────┬─────┘
-     │            │             │          │                  │           │
-     ├─ Papillary ├─ Post-total │ Indirect │ Rigid ring  ├─ER/PR+:      ├─ Tc-99m/
-     │  ● BRAF    │  thyroidect.│ ● Deep   │ ● Highest   │  Luminal     │  blue dye
-     │  ● Lymph.  │  hypocalc.  │   ring   │   strang.   │  Tamoxifen   ├─ SLNB vs
-     │  ● Psammoma│ ● Chvostek  │ ● Lateral│   risk (50%)│  Aromatase I │  full ALND
-     │            │ ● Trousseau │   to IEV │ ● Below iL  ├─ HER2+:      ├─ WLE +
-     ├─ Follicular│ ● Ca supple-│ Direct   │ ● More in   │  Trastuzumab │  Radio-
-     │  ● RAS/    │  mentation  │ ● Medial │   women     │  (Herceptin) │  therapy
-     │    PAX8    │             │   to IEV │             ├─ Triple-Neg: │  vs
-     │  ● Haemato-├─ Surgical   │ ● Wide   ├─ Complics:  │  Chemo       │  Mastectomy
-     │    genous  │  anatomy:   │   defect │ Reducible → │  PARP inh.   │
-     │  ● Capsular│ RLN (unilat │ ● Low    │ Irreducible │  (BRCA1)     │
-     │    invasion│  hoarseness,│   strang.│ → Obstruc.  │              │
-     ├─ Medullary │  bilateral  │  risk    │ → Strangu-  │              │
-     │  ● C-cells │  → trach-   ├─ Lichten-│  lated      │              │
-     │  ● RET mut.│  eostomy)   │  stein   ├─ Richter's: │              │
-     │  ● Calciton│ SLN (voice  │  mesh    │  partial    │              │
-     │  ● MEN2A/B │  high pitch)│  repair  │  circumf.   │              │
-     ├─ Anaplastic│             │ Lap: TAPP│             │              │
-     │  ● Worst Px│             │ or TEP   │             │              │
-     └─ RAI: only │             └──────────┘             └──────────────┘
-        diff. Ca  │
-                  │
-     ┌────────────┴───────────────────────────────────────┐
-     ▼                                                     ▼
-┌────────────────────────┐                  ┌────────────────────────────┐
-│   BILIARY SURGERY      │                  │     TRAUMA SURGERY         │
-└────────────┬───────────┘                  └────────────┬───────────────┘
-             │                                            │
-      ┌──────┴──────┐                           ┌────────┴────────┐
-      ▼             ▼                            ▼                 ▼
-┌──────────┐ ┌──────────┐                ┌──────────┐    ┌────────────────┐
-│GALLSTONES│ │GALLSTONE │                │ ATLS     │    │  DAMAGE CTRL   │
-│ CHEMISTRY│ │CASCADE   │                │ ABCDE    │    │  SURGERY       │
-└─────┬────┘ └─────┬────┘                └─────┬────┘    └────────┬───────┘
-      │            │                           │                   │
-      ├─ Cholest.  ├─ Biliary colic            ├─ A: Airway        ├─ Lethal triad:
-      │  saturat.  │  ● Temp. cystic duct      │  C-spine protect. │  Hypothermia
-      ├─ 5Fs risk  ├─ Acute cholecystitis      ├─ B: Breathing     │  Acidosis
-      │  Female,   │  ● Murphy's sign           │  T.pneumothorax   │  Coagulopathy
-      │  Fertile,  ├─ Choledocholithiasis       │  ● Needle decamp  │
-      │  Forty,    │  ● Obstr. jaundice         │  Massive haemotho.├─ Abbrev. lap:
-      │  Fat, Fam  │  ● ERCP removal            ├─ C: Circulation   │  pack/control
-      │            ├─ Ascending cholangitis      │  Haemorrhage ×5   │  no anastom.
-      ├─ Cholest.  │  ● Charcot's triad         │  sites            ├─ ICU correct
-      │  stones    │  ● Reynolds' pentad         │  FAST scan        │  physiology
-      ├─ Pigment   │  ● ERCP urgent             │  1:1:1 resus.     ├─ Return 24-48h
-      │  stones    └─ Gallstone pancreatitis     ├─ D: Disability    │  definitive
-      └─ Calot's      ● Ampulla of Vater         └─ E: Exposure      └─ repair
-         triangle                                   ATLS Class I-IV
+```mermaid
+graph TD
+    A["🔪 GENERAL SURGERY — NEET PG<br/>8 Major Domains"]
+
+    A --> B["GI Surgery"]
+    A --> C["Hepatobiliary"]
+    A --> D["Breast"]
+    A --> E["Thyroid & Parathyroid"]
+    A --> F["Hernia"]
+    A --> G["Vascular"]
+    A --> H["Head Injury & Trauma"]
+
+    B --> B1["Appendicitis<br/>McBurney's / Rovsing's / Open vs Lap"]
+    B --> B2["Colorectal Ca<br/>Duke's / TNM / Hartmann's"]
+    B --> B3["Intestinal Obstruction<br/>Small vs Large / Coffee bean SV"]
+    B --> B4["Pancreatitis<br/>Ranson ≥3 severe / ERCP for stones"]
+
+    C --> C1["Gallstones<br/>Courvoisier's law / ERCP / Lap chole"]
+    C --> C2["Cholangitis<br/>Charcot's triad → Reynold's pentad"]
+    C --> C3["CBD & Portal HTN<br/>CBD normal ≤6 mm / Varices management"]
+
+    D --> D1["Breast Ca<br/>Infiltrating ductal / Staging / Sentinel LN"]
+    D --> D2["Benign Breast<br/>Fibroadenoma / Fibrocystic / Fat necrosis"]
+    D --> D3["Modified Radical Mastectomy<br/>Patey / Halsted / Breast conservation"]
+
+    E --> E1["Thyroid Ca<br/>Papillary (psammoma / best prognosis)"]
+    E --> E2["Thyroidectomy<br/>RLN injury → hoarseness"]
+    E --> E3["Hyperparathyroidism<br/>Stones / Bones / Groans / Psychic moans"]
+
+    F --> F1["Inguinal Hernia<br/>Indirect (lateral) vs Direct (medial)"]
+    F --> F2["Femoral Hernia<br/>Below & lateral to pubic tubercle"]
+    F --> F3["Obstructed vs Strangulated<br/>Strangulated = ischemia → emergency"]
+
+    G --> G1["AAA<br/>Surgery >5.5 cm / EVAR vs Open"]
+    G --> G2["Peripheral Vascular<br/>Fontaine classification / ABI"]
+    G --> G3["DVT & PE<br/>Virchow's triad / D-dimer / LMWH"]
+
+    H --> H1["Head Injury<br/>GCS ≤8 = severe / CT without contrast first"]
+    H --> H2["Epidural Hematoma<br/>Biconvex / MMA rupture / Lucid interval"]
+    H --> H3["Subdural Hematoma<br/>Crescent / Bridging veins / Crosses sutures"]
 ```
+
+**Subject Overview (plain text):**
+- GI Surgery: Appendicitis (McBurney's/Rovsing's), Colorectal Ca (Duke's/TNM/Hartmann's), Intestinal Obstruction (Small vs Large/Coffee bean SV), Pancreatitis (Ranson criteria)
+- Hepatobiliary: Gallstones (Courvoisier's law/ERCP/Lap chole), Cholangitis (Charcot's triad → Reynold's pentad), CBD & Portal HTN
+- Breast: Breast Ca (Infiltrating ductal/Staging/Sentinel LN), Benign Breast (Fibroadenoma/Fibrocystic), Modified Radical Mastectomy (Patey/Halsted)
+- Thyroid & Parathyroid: Thyroid Ca (Papillary psammoma/best prognosis), Thyroidectomy (RLN injury → hoarseness), Hyperparathyroidism (Stones/Bones/Groans/Psychic moans)
+- Hernia: Inguinal Hernia (Indirect lateral vs Direct medial), Femoral Hernia (below & lateral to pubic tubercle), Obstructed vs Strangulated
+- Vascular: AAA (Surgery >5.5 cm/EVAR vs Open), Peripheral Vascular (Fontaine classification/ABI), DVT & PE (Virchow's triad/D-dimer/LMWH)
+- Head Injury & Trauma: Head Injury (GCS ≤8=severe/CT first), Epidural Hematoma (Biconvex/MMA rupture/Lucid interval), Subdural Hematoma (Crescent/Bridging veins)
 
 # General Surgery — Lecture Notes for NEET PG
 ### Written in the style of bedside clinical teaching
@@ -130,6 +79,9 @@ There are four types of shock. The classification is not academic — it directl
 **Distributive shock**: blood volume is adequate and the heart is working, but blood is in the wrong places. Profound vasodilatation means blood pools in the peripheral vasculature, bypassing the capillary beds where oxygen exchange occurs. Septic shock is the most important example. Anaphylactic shock (histamine and other mediators → massive vasodilatation) and neurogenic shock (loss of sympathetic tone after spinal cord injury → vasodilatation and bradycardia) are others.
 
 **Obstructive shock**: mechanical obstruction to blood flow. Tension pneumothorax compresses the mediastinum, kinking the superior vena cava and preventing venous return. Massive pulmonary embolism obstructs the pulmonary vasculature, preventing right ventricular outflow. Cardiac tamponade compresses the heart externally, preventing diastolic filling. The heart is intact and blood volume is adequate, but blood cannot flow through. The treatment is to remove the obstruction — decompress the tension pneumothorax (needle thoracocentesis), systemic thrombolysis for massive PE, pericardiocentesis for tamponade. Fluids and vasopressors are temporising measures.
+
+![CXR showing tension pneumothorax: complete collapse of the right lung with absent lung markings on the right, trachea and mediastinum deviated to the left, and depressed right hemidiaphragm](../../images/general-surgery-tension-pneumothorax.jpg)
+> **IBQ tip:** The tracheal deviation is the key differentiating sign — it shifts away from the side of the pneumothorax (unlike a pleural effusion, where the trachea also shifts away, but the hemidiaphragm is elevated and there is opacification rather than hyperlucency). Absent lung markings on the affected side + hyperluency + mediastinal shift = tension pneumothorax until proven otherwise; do not wait for imaging to decompress.
 
 ### Septic Shock — A Detailed Analysis
 
@@ -197,6 +149,9 @@ A **hypertrophic scar** remains within the boundaries of the original wound. It 
 
 A **keloid** extends beyond the original wound margins, invading the surrounding normal skin. It does not regress spontaneously. It can continue growing for years after the initial wound. It is caused by fibroblasts that have genetically lost their responsiveness to apoptotic and growth-inhibitory signals — they continue to proliferate and produce collagen even when the wound is fully healed. Keloids are significantly more common in people with darker skin pigmentation (prevalence 15-20x higher in African and Asian populations), suggesting a strong genetic component. They commonly affect the earlobes (after piercing), shoulders, sternum, and upper back.
 
+![Clinical photograph showing a keloid scar on the earlobe: a firm, shiny, raised nodule of scar tissue that extends well beyond the original piercing site into the surrounding normal skin](../../images/general-surgery-keloid.jpg)
+> **IBQ tip:** The defining visual feature of a keloid is extension beyond the original wound boundary — the scar tissue overgrows onto previously uninjured skin (clawing outward). A hypertrophic scar, by contrast, is also raised and red but its lateral margins align exactly with the original wound edges. Both are firm; only the keloid invades normal tissue.
+
 > **NEET PG Insight:** Keloid: grows beyond wound margins, does not regress, genetic predisposition, common on earlobes/sternum, more common in darker skin. Hypertrophic scar: stays within wound margins, may regress, improves with pressure garments/silicone. Treatment of keloids: intralesional corticosteroid injection (triamcinolone — reduces collagen synthesis and inflammation), compression, surgical excision (but often recurs, sometimes worse). Radiation after excision reduces recurrence.
 
 ### Factors That Impair Wound Healing — Why Wounds Fail
@@ -234,6 +189,9 @@ Now trace the pain. The appendix is a midgut structure — it derives its viscer
 The clinical signs follow the same logic. Rebound tenderness (Blumberg's sign): gentle palpation over the appendix then sudden release → the parietal peritoneum, which was being held still during palpation, snaps back → if inflamed, this causes sharp pain. Rovsing's sign: palpation in the left iliac fossa causes pain in the right iliac fossa — because palpating the left side shifts the abdominal contents, moving the inflamed appendix and its adjacent peritoneum. Psoas sign: extension of the right hip causes pain — the psoas muscle lies behind the appendix; if the appendix is retrocaecal, it lies directly on the psoas, and hip extension stretches the psoas against the inflamed appendix. Obturator sign: internal rotation of the flexed right hip causes pain — the obturator internus lies medial to a pelvic appendix.
 
 > **NEET PG Insight:** The Alvarado score combines clinical and laboratory features to predict appendicitis: Migration of pain to RIF (1), Anorexia (1), Nausea/vomiting (1), RIF tenderness (2), Rebound tenderness (1), Elevated temperature (1), Leukocytosis (2) — maximum 10 points. Score ≥7 = likely appendicitis, operate. Score 5-6 = possible, observe or image. Score <5 = unlikely.
+
+![CT abdomen (axial) showing acute appendicitis: a dilated appendix with wall thickening and enhancement, a calcified appendicolith at the appendiceal orifice, and surrounding peri-appendiceal fat stranding indicating local inflammation](../../images/general-surgery-acute-appendicitis.jpg)
+> **IBQ tip:** An appendicolith appears as a bright calcified density at the appendiceal base (like a tooth in the RIF); peri-appendiceal fat stranding is haziness of the normally dark (low-density) fat surrounding the appendix, indicating oedema and inflammation spreading into adjacent tissue. Distinguish from a normal appendix (diameter <6 mm, no wall thickening, no fat stranding) and from a Meckel's diverticulum (arises from the anti-mesenteric border of the ileum, 2 feet from the ileocaecal valve, often midline).
 
 ### Colorectal Cancer — The Adenoma-Carcinoma Sequence
 
@@ -281,6 +239,9 @@ There are four main types of thyroid cancer, each arising from a different cell 
 
 **Papillary thyroid carcinoma** (PTC, 80% of all thyroid cancers): Arises from follicular cells (the cells that produce thyroid hormone). The dominant molecular driver is **BRAF V600E mutation** (a mutation that keeps the BRAF kinase constitutively active, driving the MAPK proliferation pathway — the same mutation seen in melanoma). PTC spreads characteristically via **lymphatics** — regional lymph node metastases are common (in up to 50% of cases at presentation) but this does not dramatically worsen the prognosis (unlike most cancers). The tumour has characteristic histological features: empty-looking, overlapping ("Orphan Annie eye") nuclei, nuclear grooves, intranuclear pseudoinclusions, and papillary architecture. Psammoma bodies (concentric calcifications, remnants of necrotic papillae) are pathognomonic. Prognosis is excellent — 10-year survival >95% for localised disease. This is the cancer that even the thyroid gland would choose.
 
+![Histological slide of papillary thyroid carcinoma showing "Orphan Annie eye" nuclei (large, pale, optically clear nuclei with peripheral margination of chromatin), nuclear grooves, intranuclear pseudoinclusions, and a laminated psammoma body in the stroma](../../images/general-surgery-papillary-thyroid-carcinoma.jpg)
+> **IBQ tip:** "Orphan Annie eye" nuclei are the hallmark — the nucleus appears empty or ground-glass because the chromatin is marginated to the nuclear membrane, leaving the centre pale (likened to the blank eyes of the comic strip character). Psammoma bodies are concentric, calcified, laminated structures — present in PTC, meningioma, and serous ovarian carcinoma; in this thyroid context they are pathognomonic. Distinguish from follicular carcinoma (follicular architecture without these nuclear features — requires capsular/vascular invasion to diagnose malignancy).
+
 **Follicular thyroid carcinoma** (FTC, 10%): Also from follicular cells, but with a different molecular driver — **RAS mutation** or **PAX8-PPARG translocation**. The critical difference from PTC is the route of spread: FTC spreads **haematogenously** via blood vessels. Bone metastases (osteolytic — they gobble up bone, causing pain, fractures, hypercalcaemia) and lung metastases are the hallmarks. Importantly, lymph node metastases are uncommon in FTC. Histologically, the distinction from follicular adenoma (benign) requires evidence of **capsular invasion or vascular invasion** — you cannot make the diagnosis of FTC on fine-needle aspiration cytology (Bethesda category IV = follicular neoplasm — requires surgical excision for definitive diagnosis because FNAC cannot demonstrate capsular invasion).
 
 **Medullary thyroid carcinoma** (MTC, 5-10%): Arises from **parafollicular C-cells** — the neuroendocrine cells that secrete calcitonin. C-cells are embryologically different from follicular cells (they derive from neural crest cells) and produce a completely different hormone. MTC secretes **calcitonin** — a sensitive tumour marker used for diagnosis and surveillance. The molecular driver is **RET proto-oncogene mutation** — either germline (hereditary MTC, associated with MEN2A and MEN2B) or somatic (sporadic MTC). MEN2A: MTC + phaeochromocytoma + primary hyperparathyroidism. MEN2B: MTC + phaeochromocytoma + marfanoid habitus + mucosal neuromas. Every patient with MTC should be screened for RET mutation and for phaeochromocytoma (because operating on an unsuspected phaeochromocytoma can cause hypertensive crisis and death).
@@ -301,7 +262,13 @@ After testicular descent is complete, the processus vaginalis normally obliterat
 
 **Indirect inguinal hernia** enters the inguinal canal through the **deep inguinal ring** (which lies lateral to the inferior epigastric vessels) and travels along the inguinal canal, medially, potentially exiting through the superficial ring into the scrotum. The deep ring is a relatively tight, fibromuscular opening. This anatomical tightness is what makes indirect hernias susceptible to **strangulation** — the ring can constrict the neck of the hernia sac, compressing the mesenteric vessels supplying the herniated bowel segment, causing ischaemia and then gangrene.
 
+![Laparoscopic view of the right inguinal region showing an indirect inguinal hernia sac emerging through the deep inguinal ring lateral to the inferior epigastric vessels, with the vas deferens and gonadal vessels visible medially](../../images/general-surgery-inguinal-hernia.jpg)
+> **IBQ tip:** On the laparoscopic (preperitoneal) view, the inferior epigastric vessels are the landmark — an indirect hernia defect is lateral to these vessels at the deep ring, where the peritoneal sac follows the cord structures. A direct hernia defect is medial to the inferior epigastric vessels, a broad area of posterior wall weakness without a distinct ring. This lateral vs medial relationship is the single most reliable intraoperative distinction.
+
 **Direct inguinal hernia** has a completely different mechanism. There is no processus vaginalis involved. Instead, the posterior wall of the inguinal canal — specifically the **transversalis fascia** in **Hesselbach's triangle** — weakens and gives way under the chronic strain of increased intra-abdominal pressure (heavy lifting, chronic cough from smoking, straining from constipation or BPH, obesity). The triangle is bounded by the inguinal ligament inferiorly, the inferior epigastric vessels laterally, and the rectus sheath medially. A direct hernia bulges straight through this weakened area, **medial to the inferior epigastric vessels**, into the inguinal canal (but typically does not enter the scrotum because it is not following a pre-formed peritoneal sac). The defect in a direct hernia is a **wide area of posterior wall weakness** — not a tight ring. This explains why direct hernias rarely strangulate: there is no constricting ring to compress the bowel.
+
+![Laparoscopic view of the right inguinal region showing a direct inguinal hernia as a broad bulge of peritoneum through Hesselbach's triangle, medial to the inferior epigastric vessels, with no discrete hernia ring](../../images/general-surgery-direct-inguinal-hernia.jpg)
+> **IBQ tip:** The direct hernia defect is a diffuse, wide weakness in the posterior wall medial to the epigastric vessels — there is no tight ring, which is why strangulation is rare. Contrast with the indirect defect's discrete ring at the deep inguinal ring laterally. In TAPP/TEP repair, a mesh covers the myopectineal orifice, simultaneously protecting against both indirect and direct defects.
 
 **Analogy:** An indirect inguinal hernia is like a burglar entering through a specific window (the deep ring) using a pre-existing passage (processus vaginalis). A direct hernia is like the wall itself collapsing inward from internal pressure — a different kind of structural failure, at a different location, with different consequences.
 
@@ -394,6 +361,9 @@ What is breast cancer fundamentally doing to the patient? It is converting epith
 
 The breast is a ductal-lobular system — ducts carry milk from lobules (where milk is produced) to the nipple. Breast cancer arises most commonly from the **terminal duct-lobular unit (TDLU)** — the junction of the duct and lobule. The sequence, as with colon cancer, is one of stepwise progression: normal epithelium → atypical ductal hyperplasia (ADH) → ductal carcinoma in situ (DCIS) → invasive ductal carcinoma. DCIS is the non-invasive precursor — the cancer cells are filling and distending the duct but have not yet broken through the basement membrane. Once they breach the basement membrane, they have access to the lymphatics and blood vessels — invasion has occurred.
 
+![Mammogram showing a spiculated mass in the upper outer quadrant of the breast with irregular stellate margins radiating outward from a dense central opacity, associated with pleomorphic microcalcifications in a segmental distribution](../../images/general-surgery-breast-carcinoma.jpg)
+> **IBQ tip:** A spiculated (stellate) mass with irregular margins is the mammographic hallmark of malignancy — the spicules represent tumour cells pulling on surrounding stroma (desmoplastic reaction). Microcalcifications in a segmental or linear distribution suggest DCIS. Contrast with a benign lesion: a fibroadenoma has a smooth, well-defined oval or lobulated margin with a halo sign and no calcifications; a cyst is round with sharp margins and posterior acoustic enhancement on ultrasound.
+
 The most important molecular classification of breast cancer is by **receptor status**: **oestrogen receptor (ER), progesterone receptor (PR), and HER2** (human epidermal growth factor receptor 2). This classification determines biology, prognosis, and treatment.
 
 **ER/PR-positive (luminal) breast cancer** (approximately 70%): These tumours are driven by oestrogen signalling — oestrogen binds the ER, acting as a transcription factor driving proliferation genes. They tend to be slower growing, well-differentiated, and have a better prognosis. But they can be treated with hormonal therapies that block oestrogen: **tamoxifen** (selective oestrogen receptor modulator — blocks ER in breast tissue, used pre- and peri-menopausal) or **aromatase inhibitors** (anastrozole, letrozole — block the peripheral aromatase enzyme that converts androgens to oestrogen, used post-menopausal because the ovaries are no longer the main oestrogen source). These hormonal therapies have transformed survival in ER-positive breast cancer — 5 years of tamoxifen reduces recurrence by 50%.
@@ -426,6 +396,9 @@ The **5 Fs** — Fat, Fertile (female), Forty, Fair (historically cited but actu
 
 Gallstones are classified by composition. **Cholesterol stones** (80% in developed countries): yellow-white, solitary or few, large, floatable (because cholesterol-rich and gas-forming bacteria colonise them). **Pigment stones** (brown or black): composed of calcium bilirubinate. Black pigment stones form in haemolytic conditions (sickle cell disease, hereditary spherocytosis, thalassaemia) — excess bilirubin production overwhelms conjugation capacity, unconjugated bilirubin precipitates. Brown pigment stones form in infected bile (bacteria produce beta-glucuronidase, which deconjugates bilirubin glucuronide → free bilirubin precipitates with calcium).
 
+![Ultrasound image of the gallbladder showing a gallstone as a bright echogenic focus (hyperechoic) with a clean posterior acoustic shadow below it and the stone mobile on repositioning the patient](../../images/general-surgery-gallstones.jpg)
+> **IBQ tip:** The posterior acoustic shadow is the key sign — sound cannot penetrate the calcified stone and is reflected back, leaving an anechoic (black) shadow behind the stone; this distinguishes a true calculus from a gallbladder polyp (which is echogenic but casts no shadow and does not move with gravity). Porcelain gallbladder appears as a curvilinear echogenic rim at the gallbladder wall with posterior shadowing — the entire wall is calcified, distinguishable from a stone by its fixed wall location rather than intraluminal position.
+
 ### The Gallstone Cascade — From Asymptomatic to Emergency
 
 Most gallstones are asymptomatic (approximately 80%) and are discovered incidentally on ultrasound. The decision to operate on asymptomatic gallstones is generally conservative — prophylactic cholecystectomy is not recommended for the majority of asymptomatic gallstones because the lifetime risk of developing a complication is lower than the risk of elective cholecystectomy in many patients.
@@ -451,6 +424,9 @@ The ATLS (Advanced Trauma Life Support) primary survey is a protocol built on a 
 **A — Airway (with cervical spine protection):** The first priority because airway obstruction kills in 3-4 minutes. In a trauma patient, the commonest cause of airway obstruction is the tongue falling back (in unconscious patients), followed by blood, vomit, or foreign material. But before securing the airway, you must consider **cervical spine injury** — forced extension of the neck to open the airway could dislocate an unstable C-spine and convert a partial cord injury into a complete one. Hence, jaw thrust instead of head tilt-chin lift, and manual inline stabilisation during intubation. A patient who is talking is protecting their own airway — but continuously reassess.
 
 **B — Breathing:** An open airway does not mean adequate ventilation. The major immediately life-threatening ventilatory problems are the **five that kill** in the primary survey: tension pneumothorax, open pneumothorax, massive haemothorax, flail chest, and cardiac tamponade. **Tension pneumothorax** is the most time-critical: air enters the pleural space (through a lung tear or chest wall injury) and cannot escape. Each breath pumps more air in. The pleural pressure rises above atmospheric. The mediastinum is pushed to the opposite side, kinking the superior vena cava → venous return drops catastrophically → cardiovascular collapse. Clinical signs: absent breath sounds on the affected side, tracheal deviation away from the side (late sign), distended neck veins (because venous return is obstructed), hypotension, and hypoxia. Treatment: do NOT wait for a chest X-ray. Immediate needle decompression (14G cannula in the 2nd intercostal space, midclavicular line) followed by chest drain.
+
+![CXR showing right-sided tension pneumothorax in a trauma patient: complete absence of lung markings on the right with ipsilateral lung collapse, trachea sharply deviated to the left, right hemidiaphragm depressed, and intercostal spaces widened](../../images/general-surgery-pneumoperitoneum.jpg)
+> **IBQ tip:** In tension pneumothorax the diaphragm on the affected side is depressed (the trapped air pushes it down) while the mediastinum and trachea are pushed away — this combination of ipsilateral depression + contralateral mediastinal shift distinguishes it from a massive pleural effusion (where the diaphragm is elevated on the affected side and opacification replaces the lucency). Clinically, this is a diagnosis made at the bedside, not on X-ray — needle decompression precedes imaging.
 
 **C — Circulation (with haemorrhage control):** The ATLS algorithm recognises that haemorrhage is the most common cause of preventable death after trauma. The principle: find the bleeding and stop it. There are only five places where life-threatening haemorrhage can occur: external (visible), chest (haemothorax), abdomen (intraperitoneal), pelvis (retroperitoneal pelvic haematoma), and long bones (particularly femur — up to 2 litres per fracture). External haemorrhage: direct pressure, tourniquet if limb. Chest: large-bore chest drain (drains haemothorax, re-expands lung). Abdomen: FAST scan (focused assessment with sonography in trauma) → if positive with haemodynamic instability → immediate laparotomy. Pelvis: pelvic binder to close the ring and tamponade retroperitoneal bleeding.
 

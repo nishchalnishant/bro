@@ -1,5 +1,31 @@
 # Community Medicine (SPM/PSM) - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#community-medicine--spm) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](spm-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 15 | 15 | 16 | 16 | 17 | 17 | **16** |
+
+**Trend:** Rising — SPM is increasingly important; now rivals Pharmacology in question count.
+
+### Top 10 High-Yield Topics
+1. Epidemiological measures (incidence, prevalence, RR, OR, NNT)
+2. Screening tests — sensitivity, specificity, PPV, NPV
+3. National health programs (NHM, RNTCP/NTEP, NPCDCS, RCH)
+4. Vaccine schedule — NIS, EPI
+5. Nutrition — PEM grades, deficiency diseases, RDA values
+6. Water quality standards and purification
+7. Occupational health — diseases, permissible limits
+8. Family welfare — contraception failure rates, methods
+9. Disease surveillance and outbreak investigation
+10. Health indicators (IMR, MMR, TFR, life expectancy definitions)
+
+> **Strategy:** Biostatistics (topics 1–2) and national programs (topic 3) are the most reliable. National programs are updated frequently — check for NTEP/NHM recent changes.
+
+---
+
 ---
 
 ## CONCEPTS OF HEALTH AND DISEASE

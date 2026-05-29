@@ -1,30 +1,48 @@
+> **Diagram note:** Mermaid mindmap — renders in VS Code (Markdown Preview), Obsidian, or GitHub with the Mermaid extension. Plain-text overview below.
+
+```mermaid
+graph TD
+    A["🤰 OBG — NEET PG<br/>7 Major Domains"]
+
+    A --> B["Normal Obstetrics"]
+    A --> C["Hypertensive Disorders"]
+    A --> D["Antepartum Hemorrhage"]
+    A --> E["Labor & Delivery"]
+    A --> F["Postpartum"]
+    A --> G["Gynecology"]
+
+    B --> B1["ANC<br/>10 visits / USG dating / Booking visit"]
+    B --> B2["Fetal Surveillance<br/>NST / BPP / AFI normal 5-25 cm"]
+    B --> B3["Screening Tests<br/>Down: ↑hCG ↓AFP ↓estriol / GDM 24-28wk"]
+
+    C --> C1["Preeclampsia<br/>BP ≥140/90 + proteinuria after 20wk"]
+    C --> C2["Eclampsia<br/>MgSO4 Pritchard / Antidote: Ca gluconate"]
+    C --> C3["HELLP Syndrome<br/>Hemolysis + ELFTs + Low platelets → Deliver"]
+
+    D --> D1["Placenta Previa<br/>Painless bright-red / No PV exam"]
+    D --> D2["Abruptio Placentae<br/>Painful dark blood / Woody uterus"]
+    D --> D3["Vasa Previa<br/>Fetal vessel bleeding / Sinusoidal CTG"]
+
+    E --> E1["Stages of Labor<br/>1st (effacement/dilation) / 2nd / 3rd"]
+    E --> E2["Bishop Score<br/>≥8 favorable / Induction methods"]
+    E --> E3["Instrumental Delivery<br/>Forceps vs Ventouse / Indications"]
+
+    F --> F1["PPH<br/>>500mL vaginal / Atony most common"]
+    F --> F2["4 T's<br/>Tone / Tissue / Trauma / Thrombin"]
+    F --> F3["Puerperal Sepsis<br/>Endomyometritis / Pyrexia day 2-10"]
+
+    G --> G1["Menstrual Disorders<br/>DUB / PCOD / Endometriosis"]
+    G --> G2["Gynecological Tumors<br/>Cervical (SCC) / Endometrial / Ovarian"]
+    G --> G3["Contraception<br/>OCP / IUCD / Sterilization / Emergency"]
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│               OBSTETRICS & GYNECOLOGY — NEET PG OVERVIEW                    │
-└───────────────────────────────────┬─────────────────────────────────────────┘
-                                    │
-          ┌─────────────────────────┼──────────────────────────┐
-          │                         │                          │
-          ▼                         ▼                          ▼
-┌─────────────────┐      ┌──────────────────────┐   ┌──────────────────────┐
-│  OBSTETRICS     │      │  COMPLICATIONS        │   │  GYNECOLOGY          │
-└────────┬────────┘      └──────────┬───────────┘   └──────────┬───────────┘
-         │                          │                           │
-    ┌────┴─────┐             ┌──────┴──────┐             ┌─────┴──────┐
-    ▼          ▼             ▼             ▼             ▼            ▼
-┌───────┐ ┌───────┐  ┌────────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
-│Normal │ │Ectopic│  │Pre-eclamp- │ │   PPH    │ │Cancers   │ │Infertil- │
-│Labor  │ │Preg-  │  │sia/        │ │  (4 Ts)  │ │          │ │ity &     │
-│       │ │nancy  │  │Eclampsia   │ │          │ │          │ │Contracep-│
-└───┬───┘ └───────┘  └─────┬──────┘ └────┬─────┘ └────┬─────┘ │tion      │
-    │                      │             │             │       └──────────┘
-    ├── Cardinal movements  ├── BP >140/90│  ├── Tone  ├── Cervical
-    ├── Stages of labor     ├── Proteinuria│  ├── Tissue│   (HPV, Pap)
-    ├── CTG interpretation  ├── Seizure   │  ├── Trauma├── Endometrial
-    └── Mechanisms          │   → Eclamp- │  └── Thrombin  (PTEN, Lynch)
-                            └── MgSO4 Rx  │       └── Ovarian (BRCA)
-                                          └── Oxytocin/Ergometrine/TXA
-```
+
+**Subject Overview (plain text):**
+- Normal Obstetrics: ANC (10 visits/USG dating/Booking visit), Fetal Surveillance (NST/BPP/AFI), Screening Tests (Down syndrome/GDM 24-28wk)
+- Hypertensive Disorders: Preeclampsia (BP ≥140/90+proteinuria after 20wk), Eclampsia (MgSO4 Pritchard/Ca gluconate antidote), HELLP Syndrome
+- Antepartum Hemorrhage: Placenta Previa (Painless bright-red/No PV exam), Abruptio Placentae (Painful dark blood/Woody uterus), Vasa Previa
+- Labor & Delivery: Stages of Labor (1st/2nd/3rd), Bishop Score (≥8 favorable/Induction methods), Instrumental Delivery (Forceps vs Ventouse)
+- Postpartum: PPH (>500mL vaginal/Atony most common), 4 T's (Tone/Tissue/Trauma/Thrombin), Puerperal Sepsis
+- Gynecology: Menstrual Disorders (DUB/PCOD/Endometriosis), Gynecological Tumors (Cervical/Endometrial/Ovarian), Contraception
 
 # Obstetrics and Gynecology — Lecture Notes for NEET PG
 
@@ -66,9 +84,23 @@ Electronic fetal monitoring gives us a window into fetal wellbeing during labor,
 
 **Early decelerations** are gradual, symmetric decelerations that mirror contractions — they begin and end with the contraction. The mechanism is pure vagal reflex: uterine contraction compresses the fetal head → brief rise in intracranial pressure → vagal stimulation → heart rate slows. This is physiological. Early decelerations do not indicate fetal distress. They simply mean the head is in the pelvis and being compressed during contractions. No intervention is needed.
 
+![CTG strip showing early decelerations: symmetric V-shaped dips that mirror uterine contraction peaks, nadir coinciding exactly with contraction peak, rapid return to baseline 110-160 bpm](../../images/ctg-early-decelerations.jpg)
+> **IBQ tip:** Look for the nadir of the dip to be perfectly synchronised with the contraction peak — the deceleration starts and ends with the contraction. Contrast with late decelerations, where the nadir is shifted rightward (delayed) relative to the contraction peak.
+
 **Late decelerations** are the worrying ones. They begin after the contraction peak and return to baseline after the contraction ends — the nadir of the deceleration is delayed relative to the contraction peak. The mechanism: during a uterine contraction, intervillous blood flow temporarily decreases. In a well-perfused placenta, the fetus has sufficient oxygen reserve to tolerate this brief interruption. But in uteroplacental insufficiency — in pre-eclampsia, post-term pregnancy, intrauterine growth restriction, placental abruption — the placenta is already operating at marginal reserve. When contractions further reduce flow, fetal hypoxia occurs → chemoreceptors detect falling PO2 → vagal reflex → late deceleration. Late decelerations signal a struggling fetus. Persistent late decelerations with loss of variability are an ominous sign demanding urgent delivery.
 
+![CTG strip showing late decelerations: shallow, uniform decelerations whose nadir occurs 20-30 seconds after the contraction peak, returning to baseline only after the contraction ends; note reduced baseline variability](../../images/ctg-late-decelerations.jpg)
+> **IBQ tip:** The key feature is the time delay — the dip starts AFTER the contraction peak and the heart rate does not recover until the contraction is over. Reduced baseline variability alongside late decelerations is especially ominous; early decelerations by contrast mirror the contraction with no time offset.
+
 **Variable decelerations** have a variable relationship to contractions — they can occur anytime, are rapid in onset and offset, and are characteristically V-shaped or U-shaped. The mechanism is cord compression: when the umbilical cord is compressed (nuchal cord, cord prolapse, oligohydramnios reducing the fluid buffer around the cord), blood flow through the cord is transiently obstructed. The response is a baroreceptor-mediated vagal reflex causing rapid heart rate deceleration. Most variable decelerations are benign, but severe variables (lasting >60 seconds, falling below 60 bpm, with slow recovery) or those associated with loss of variability suggest the fetus is no longer compensating.
+
+![CTG strip showing variable decelerations: abrupt-onset, abrupt-offset V-shaped dips with no fixed temporal relationship to contractions; some dips have characteristic "shoulders" (brief accelerations immediately before and after the deceleration)](../../images/ctg-variable-decelerations.jpg)
+> **IBQ tip:** The hallmark is abruptness — the heart rate drops and returns nearly vertically on the trace. "Shoulders" (small accelerations flanking the dip) are reassuring and indicate intact autonomic response. Loss of shoulders or a slow return to baseline upgrades severity.
+
+**Sinusoidal pattern** — a smooth, undulating sine-wave baseline with no variability, amplitude 5-15 bpm, frequency 2-5 cycles per minute, persisting for >20 minutes. It indicates severe fetal anemia (classically Rh isoimmunization, vasa previa bleeding, or fetomaternal hemorrhage).
+
+![CTG strip showing sinusoidal pattern: regular, smooth sine-wave oscillations replacing normal baseline variability, no accelerations, no decelerations; the monotonous wave form resembles a sine curve](../../images/ctg-sinusoidal-pattern.jpg)
+> **IBQ tip:** Normal CTG has an irregular, "fuzzy" baseline variability (6-25 bpm fluctuations). The sinusoidal pattern is pathologically smooth and regular — like a perfect sine wave — with complete absence of the normal beat-to-beat irregularity. It must be distinguished from a pseudosinusoidal pattern (induced by opioid analgesia), which is transient and has some preserved variability.
 
 > **Key exam insight:** Late decelerations = uteroplacental insufficiency. They require position change (left lateral, to take the uterus off the inferior vena cava), oxygen, IV fluids, stopping oxytocin, and if persistent, delivery. Do not confuse them with early decelerations — the timing relative to the contraction is everything.
 
@@ -185,6 +217,24 @@ The Pap smear is a sampling of cells from the transformation zone — specifical
 
 **Clinical connection:** A single abnormal Pap smear does not mean cancer — it means you need to look more closely. Colposcopy (magnified examination of the cervix with acetic acid and Lugol's iodine) identifies areas of acetowhite change (abnormal cells lose glycogen and don't stain brown with iodine — Schiller's test), mosaic pattern, punctation, and atypical vessels. These areas are biopsied. Only the biopsy provides histological diagnosis.
 
+![Colposcopy image showing acetowhite areas on the transformation zone: dense, opaque white patches appearing within 60 seconds of acetic acid application, with sharp geographic margins at the squamocolumnar junction](../../images/colposcopy-acetowhite.jpg)
+> **IBQ tip:** Dense, opaque acetowhitening that appears rapidly and persists is higher grade than thin, translucent whitening that fades quickly. The borders matter — geographic, sharp-edged acetowhite areas close to the SCJ are more suspicious than diffuse, fading whitening away from the junction.
+
+![Colposcopy image showing mosaic pattern: reddish vessels arranged in a tile or mosaic grid pattern within an acetowhite area, with uniform inter-capillary distances indicating low-grade change](../../images/colposcopy-mosaic.jpg)
+> **IBQ tip:** Coarse mosaic (irregular, widely spaced blocks with varying inter-capillary distances) suggests high-grade CIN or invasion; fine mosaic (regular, small, uniform blocks) is low-grade. Distinguish from punctation by the pattern — mosaic forms a 2D grid, punctation forms isolated red dots (punctate capillaries seen end-on).
+
+![Colposcopy image showing punctation: red stippled dots (capillary tips seen end-on) scattered within an acetowhite area; fine, evenly spaced dots indicate low-grade CIN](../../images/colposcopy-punctation.jpg)
+> **IBQ tip:** Coarse punctation — irregular, widely separated, large red dots with varying inter-dot distances — indicates high-grade CIN. Fine punctation is regular and small. Both differ from mosaic in that punctation shows individual dots rather than a polygonal grid.
+
+![Colposcopy image showing Schiller's test (Lugol's iodine application): normal glycogen-rich squamous epithelium stains mahogany brown; abnormal (CIN) areas lacking glycogen remain iodine-negative (pale yellow/mustard coloured — Schiller-positive = iodine-negative)](../../images/colposcopy-schiller-test.jpg)
+> **IBQ tip:** In Schiller's test, "positive" test (Schiller-positive) means the area FAILS to stain — it remains pale yellow/mustard — and is abnormal. Normal squamous epithelium is glycogen-rich and stains dark brown. Do not confuse the naming convention: iodine-negative = Schiller-positive = abnormal.
+
+![Histology slide showing CIN I: dysplastic cells confined to the lower third of the epithelium, koilocytes (cells with perinuclear clearing/halo) prominent in the upper layers, normal maturation in the upper two-thirds](../../images/histology-cin1.jpg)
+> **IBQ tip:** The fraction of the epithelial thickness replaced by immature, dysplastic cells defines the CIN grade — CIN I = lower third, CIN II = lower two-thirds, CIN III = full thickness (carcinoma in situ). Koilocytes (the HPV cytopathic effect) are most prominent in CIN I/II and represent productive viral infection.
+
+![Histology slide showing CIN III / carcinoma in situ: full-thickness replacement of the squamous epithelium by immature dysplastic cells with large hyperchromatic nuclei, high nuclear-to-cytoplasmic ratio, numerous mitotic figures including abnormal mitoses; basement membrane intact](../../images/histology-cin3.jpg)
+> **IBQ tip:** The basement membrane remains intact in CIN III — this is the single feature that distinguishes CIN III from invasive carcinoma. Once the dysplastic cells breach the basement membrane and enter the stroma, the lesion is invasive carcinoma regardless of extent.
+
 The HPV vaccine (Gardasil 9, nonavalent) is the primary prevention strategy. It is most effective when given before sexual debut (before HPV exposure). In India, it is recommended for girls aged 9-14, with a two-dose schedule. The vaccine does not treat existing HPV infection — it prevents new infection. Girls and women who have received the vaccine still need cervical screening, because the vaccine does not cover all oncogenic HPV types.
 
 ### Endometrial and Ovarian Cancers
@@ -194,6 +244,15 @@ Endometrial cancer divides into two pathogenetically distinct types. **Type I** 
 **Type II** endometrial cancer (serous, clear cell) is not driven by estrogen. It arises in atrophic endometrium, typically in older women, through a TP53 mutation pathway. It is far more aggressive, typically presenting at advanced stage, with a much worse prognosis.
 
 The classic symptom of endometrial cancer is **postmenopausal bleeding** — any bleeding after 12 months of amenorrhea demands endometrial sampling. In premenopausal women, intermenstrual or heavy bleeding in the context of PCOS or obesity should prompt evaluation. Transvaginal ultrasound showing endometrial thickness >4mm (postmenopausal) or suspicious irregularity warrants pipelle biopsy or hysteroscopy.
+
+![Hysteroscopy image showing endometrial polyp: smooth, pedunculated or sessile vascular frond projecting into the uterine cavity, covered by pale glandular epithelium, with a distinct stalk visible at its base](../../images/hysteroscopy-endometrial-polyp.jpg)
+> **IBQ tip:** A polyp is a focal, smooth projection with a stalk — compare with a submucous fibroid, which is a broad-based, firm, white/pale mass that distorts the cavity contour but has no stalk. On hysteroscopy, polyps are soft and move with fluid irrigation; fibroids are hard and immobile.
+
+![Hysteroscopy image showing submucous fibroid: firm, broad-based, rounded pale mass projecting into the uterine cavity, with prominent surface vessels; the overlying endometrium is stretched and thinned](../../images/hysteroscopy-submucous-fibroid.jpg)
+> **IBQ tip:** The key distinguishing feature from a polyp is the surface texture and firmness — fibroids appear white/pale with a harder contour and distort the cavity without a clear stalk. Polyps are softer, more vascular-appearing (pinkish), and have a defined stalk.
+
+![Hysteroscopy image showing uterine septum: a central fibromuscular ridge dividing the uterine cavity into two chambers; a septum appears avascular and pale, distinguishing it from a bicornuate uterus where the ridge is muscular with a convex fundal contour](../../images/hysteroscopy-uterine-septum.jpg)
+> **IBQ tip:** On hysteroscopy, a septum is a pale, avascular midline ridge. On 3D ultrasound or MRI (the gold standard distinguishing test), a septum shows a flat or concave external fundal contour, whereas a bicornuate uterus shows a convex external fundal notch >10 mm deep.
 
 Ovarian cancer is the "silent killer" because it has no screening test of proven efficacy and presents late. The majority (75%) present at Stage III or IV, when 5-year survival is only 20-30%. Understanding the risk factors requires understanding the ovulatory theory: every ovulation causes a small injury to the ovarian surface epithelium, which must be repaired by cell division. Repeated cell division = cumulative DNA replication errors = cancer risk. Hence: high parity, prolonged OCP use, breastfeeding (all reduce lifetime ovulations) are protective. Early menarche, late menopause, nulliparity increase risk. BRCA1/2 mutations dramatically increase ovarian cancer risk (BRCA1: 40-60% lifetime risk; BRCA2: 15-20% lifetime risk) — these warrant risk-reducing bilateral salpingo-oophorectomy at 35-40 after childbearing is complete.
 
@@ -214,6 +273,12 @@ Ovarian cancer is the "silent killer" because it has no screening test of proven
 The placenta implants wherever the blastocyst lands, and normally this is in the upper uterine segment, away from the internal cervical os. In placenta previa, the placenta implants low in the uterus, partially or completely covering the internal os. As the lower uterine segment forms in the third trimester (a physiological process of progressive thinning and elongation), the lower segment and cervix dilate away from the placenta, causing placental separation and maternal bleeding.
 
 The classic presentation is **painless, bright red, antepartum hemorrhage** in the third trimester, often beginning with a "warning bleed" — a modest, self-limited bleed that can be the only opportunity to diagnose and plan management before a massive hemorrhage. The painlessness distinguishes it from placental abruption (painful). The management principle: if the patient is stable and preterm, conservative management (hospitalization, corticosteroids for lung maturity, blood transfusion as needed) to delay delivery. The definitive delivery is by cesarean section — vaginal delivery is impossible when the placenta blocks the cervical os.
+
+![Transvaginal ultrasound showing complete placenta previa: the placenta (homogeneous echogenic mass) completely covers the internal cervical os; the distance from the placental edge to the os is 0 mm with overlap](../../images/usg-placenta-previa-complete.jpg)
+> **IBQ tip:** On TVUSS, complete previa shows placental tissue overlying the internal os (the os appears as the V-shaped notch at the cervical canal end). Low-lying placenta is defined as the placental edge within 2 cm of the os without covering it; marginal previa means the edge just reaches the os. The measurement is from the leading edge of the placenta to the centre of the os.
+
+![Ultrasound image showing loss of retroplacental hypoechoic zone in placenta accreta: the normal thin dark band between placenta and myometrium is absent; the placental lacunae (irregular vascular spaces within the placenta giving a "Swiss cheese" appearance) are visible](../../images/usg-placenta-accreta.jpg)
+> **IBQ tip:** The retroplacental clear (hypoechoic) zone is the normal sonographic landmark separating placenta from myometrium. Its disappearance — especially combined with irregular lacunae within the placenta and reduced myometrial thickness (<1 mm) — is the most reliable USS sign of placenta accreta. Colour Doppler shows turbulent intraplacental flow within the lacunae.
 
 **Analogy:** The placenta is like a doormat blocking the only exit. The baby cannot leave the building without disturbing it.
 
@@ -258,6 +323,9 @@ Understanding semen analysis parameters requires understanding what each paramet
 The ovulatory cycle is orchestrated by a precisely timed hormonal cascade. The hypothalamus releases GnRH in pulses → the pituitary responds with FSH and LH secretion → FSH acts on granulosa cells of the developing follicle → granulosa cells proliferate and produce estrogen → rising estrogen feeds back positively on the pituitary (the positive feedback switch occurs at around day 12-13 when estrogen rises above a threshold for 24-36 hours) → the pituitary generates the LH surge → the LH surge triggers ovulation (rupture of the dominant follicle) and luteinization of the remaining granulosa cells → the corpus luteum produces progesterone → progesterone prepares the endometrium for implantation.
 
 **PCOS (Polycystic Ovary Syndrome)** is the most common cause of ovulatory dysfunction, accounting for 70-80% of anovulatory infertility. Understanding it requires tracing the pathophysiology through the axis. The core abnormality is excess androgen production — from the theca cells of ovarian follicles and from the adrenal glands. Several mechanisms converge: insulin resistance (present in 60-80% of PCOS women, related to intrinsic signaling defects in insulin receptor pathways) → hyperinsulinemia → excess insulin acts synergistically with LH on theca cells → excess androgen production. The excess androgens are aromatized to estrogens in peripheral adipose tissue, creating a state of chronic, non-cyclical estrogen exposure. This sustained estrogen does not produce the sharp peak needed for positive feedback → no LH surge → no ovulation. The follicles begin to develop (FSH is not profoundly deficient) but stall before reaching maturity, accumulating as the subcortical "cysts" (really arrested antral follicles) visible on ultrasound — the so-called "necklace sign."
+
+![Transvaginal ultrasound showing polycystic ovarian morphology (necklace sign): enlarged ovary with ≥20 small peripheral follicles (each 2-9 mm diameter) arranged around an echogenic central stroma, giving a "string of pearls" or necklace appearance](../../images/usg-pcos-necklace-sign.jpg)
+> **IBQ tip:** The follicles in PCOS are arranged at the periphery (subcortical) around an echogenic, enlarged stroma — this peripheral arrangement creates the necklace/string-of-pearls pattern. A normal ovary has follicles scattered throughout the parenchyma without this subcortical predominance. Rotterdam criteria requires ≥20 follicles per ovary OR ovarian volume >10 mL.
 
 The LH/FSH ratio >2 in PCOS reflects the tonic LH elevation (driven by the chronic estrogen milieu) and the relatively suppressed FSH (suppressed by estrogen, with no cyclical rise). High LH further stimulates theca cells → more androgens → the cycle perpetuates itself. Insulin resistance makes this worse: hyperinsulinemia also suppresses SHBG (sex hormone binding globulin), increasing free androgen bioavailability.
 
@@ -308,6 +376,9 @@ The **classic triad** of ectopic pregnancy — amenorrhea (typically 6-8 weeks),
 **The β-hCG discriminatory zone:** In a normal intrauterine pregnancy, β-hCG rises by at least 66% every 48 hours (doubling time approximately 48 hours) as the trophoblast proliferates rapidly in the well-supported, well-nourished uterine environment. In ectopic pregnancy, the trophoblast is poorly implanted — it is invasive but not well-supplied, and the tube cannot support the same exponential proliferation. The result is a **sluggishly rising or plateauing β-hCG** — suboptimal doublings, often rising by only 20-50% in 48 hours.
 
 The **discriminatory zone** is the β-hCG level above which an intrauterine pregnancy should be visible on transvaginal ultrasound. Typically set at 1500-2000 mIU/mL for transvaginal ultrasound. If β-hCG exceeds the discriminatory zone and no intrauterine pregnancy is seen on TVUSS, ectopic pregnancy (or a failed pregnancy) must be strongly suspected. A "pregnancy of unknown location" (PUL) — positive β-hCG with no visible intrauterine or ectopic pregnancy on ultrasound — is a common and challenging clinical scenario, managed with serial β-hCG measurements and repeated ultrasound.
+
+![Transvaginal ultrasound showing ectopic pregnancy with adnexal ring sign: empty uterine cavity (no gestational sac); in the adnexa, a hyperechoic ring (the trophoblastic tissue surrounding the ectopic sac) encircling an anechoic centre, distinct from the ipsilateral ovary; free fluid in the Pouch of Douglas](../../images/usg-ectopic-adnexal-ring-sign.jpg)
+> **IBQ tip:** The adnexal ring sign is an echogenic ring separate from the ovary — this is the key distinguishing feature from a corpus luteum cyst, which is within the ovary and surrounded by ovarian stroma. Free fluid (blood) in the Pouch of Douglas alongside an empty uterus and a positive βhCG makes ectopic the working diagnosis until proven otherwise.
 
 **Management** depends on hemodynamic stability and clinical presentation. **Surgical:** laparoscopic salpingectomy (removal of the affected tube) is the standard for ruptured or unstable ectopics. Salpingostomy (incision into the tube to remove the pregnancy, preserving the tube) may be considered if the contralateral tube is damaged and future fertility is critical — but carries a higher risk of persistent trophoblast and recurrent ectopic. **Medical:** methotrexate (a folic acid antagonist that inhibits dihydrofolate reductase → impairs rapidly dividing cells, especially trophoblast) is appropriate for unruptured, hemodynamically stable ectopics meeting specific criteria: β-hCG <5000 mIU/mL, no fetal cardiac activity, ectopic mass <4 cm, no contraindications (renal/hepatic disease, immunodeficiency, active pulmonary disease). Success rate with single-dose methotrexate: approximately 90%.
 

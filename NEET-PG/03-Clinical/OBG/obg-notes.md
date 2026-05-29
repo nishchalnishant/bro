@@ -1,5 +1,31 @@
 # Obstetrics & Gynecology — NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#obg) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](obg-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 16 | 16 | 15 | 15 | 15 | 15 | **15** |
+
+**Trend:** Stable — 15–16 questions per year.
+
+### Top 10 High-Yield Topics
+1. Antepartum hemorrhage — placenta previa vs abruption
+2. Pre-eclampsia and eclampsia — criteria and management
+3. Labor — stages, partograph, Bishop score
+4. Postpartum hemorrhage — 4Ts, Syntocinon, surgical options
+5. Contraception — failure rates, mechanisms
+6. Ectopic pregnancy — risk factors, management
+7. Cervical cancer — screening (Pap, VIA), HPV, staging
+8. PCOS — criteria (Rotterdam), management
+9. Thyroid in pregnancy — changes, management
+10. Infections in pregnancy — TORCH, GBS
+
+> **Strategy:** APH differentiation (topic 1) and eclampsia management (topic 2) appear every year. Contraception failure rates (Pearl Index) are direct recall marks.
+
+---
+
 ---
 
 ## OBSTETRICS

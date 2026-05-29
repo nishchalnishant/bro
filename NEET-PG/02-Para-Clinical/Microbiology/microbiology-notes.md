@@ -1,5 +1,29 @@
 # Microbiology - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#microbiology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](microbiology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 13 | 13 | 12 | 13 | 12 | 13 | **13** |
+
+**Trend:** Stable — consistent 12–13 questions every year.
+
+### Top 10 High-Yield Topics
+1. Gram staining and bacterial identification
+2. Staphylococcus vs Streptococcus — key differences, virulence factors
+3. Mycobacterium tuberculosis — culture, diagnosis, drug resistance
+4. Hepatitis viruses — serology markers, window period
+5. HIV — CD4 count thresholds, OI prophylaxis
+6. Malaria — species differences, treatment
+7. Sterilization and disinfection methods
+8. Fungal infections — Candida, Aspergillus, Cryptococcus
+9. Sexually transmitted infections
+10. Vaccine types and cold chain
+
+> **Strategy:** Serology (hepatitis, HIV) and sterilization methods are the most direct mark-scorers. Hepatitis serology markers appear almost every year.
+
 ---
 
 ## 1. BACTERIOLOGY BASICS

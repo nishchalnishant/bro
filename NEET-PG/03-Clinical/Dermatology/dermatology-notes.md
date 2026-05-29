@@ -1,5 +1,29 @@
 # Dermatology - NEET PG High-Yield Notes
 
+> 📊 [PYQ Analysis for this subject](../../04-PYQ-Analysis/Subject-Wise/subject-wise-pyq.md#dermatology) | 🗂️ [Master Index](../../00-Master-Index/master-index.md) | 📝 [MCQs](dermatology-mcqs.md)
+
+## 📊 PYQ Snapshot (NEET PG 2019–2024)
+
+| Year | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Avg |
+|------|------|------|------|------|------|------|-----|
+| Questions | 7 | 7 | 7 | 7 | 7 | 7 | **7** |
+
+**Trend:** Stable — exactly 7 questions every year.
+
+### Top 10 High-Yield Topics
+1. Pemphigus vulgaris vs bullous pemphigoid — differences
+2. Psoriasis — lesion description, investigations, biologics
+3. Leprosy — classification, treatment regimens
+4. Acne vulgaris — grading, treatment ladder
+5. Scabies — sites, treatment, Norwegian scabies
+6. Tinea — dermatophytes, Wood's lamp findings
+7. Stevens-Johnson Syndrome/TEN — causes, management
+8. Melanoma — ABCDE criteria, staging
+9. Lichen planus — 6 Ps, Wickham's striae, oral LP
+10. Urticaria — types, antihistamine choice
+
+> **Strategy:** Pemphigus vs bullous pemphigoid (topic 1) and leprosy classification (topic 3) appear almost every year. Both are IBQ-heavy topics.
+
 ---
 
 ## MORPHOLOGY OF SKIN LESIONS
