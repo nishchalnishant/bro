@@ -104,7 +104,7 @@ The trunks then each divide into anterior and posterior divisions behind the cla
 
 The five terminal branches are: **musculocutaneous, median, ulnar, radial, axillary** — a mnemonic: "My Mother Used Rear Axle" (or choose your own).
 
-![Brachial plexus anatomical diagram showing roots C5–T1, three trunks, six divisions (anterior and posterior), three cords (lateral, medial, posterior) and five terminal branches with colour coding](../../images/brachial-plexus-roots-trunks-divisions-cords-branches.jpg)
+![Brachial plexus anatomical diagram showing roots C5–T1, three trunks, six divisions (anterior and posterior), three cords (lateral, medial, posterior) and five terminal branches with colour coding](https://commons.wikimedia.org/wiki/Special:FilePath/Brachial_plexus.svg)
 > **IBQ tip:** Trace the lateral cord (C5–C7 anterior divisions) giving musculocutaneous + lateral root of median, and the posterior cord (all posterior divisions) giving radial + axillary — this colour-coded diagram is the fastest way to answer "which cord is injured" questions. Differentiate a cord-level lesion from a root-level lesion by the presence of long thoracic nerve (C5–C7, root-level) or dorsal scapular nerve involvement.
 
 Each cord's branches make functional sense:
@@ -123,7 +123,7 @@ Imagine a baby being born with shoulder dystocia, or an adult thrown from a moto
 
 C5, C6 supply: shoulder abduction (deltoid), elbow flexion (biceps, brachialis), forearm supination (biceps), and wrist extension partially. When these are lost, the *unopposed* muscles produce the deformity. With no deltoid, the arm hangs. With no biceps, the elbow extends (triceps unopposed). With no supinator and biceps, the forearm pronates. The result is the classic "waiter's tip" position: arm adducted, elbow extended, forearm pronated, wrist flexed slightly. The baby looks like a waiter holding a hand out to receive a tip — palm facing backward and upward.
 
-![Erb's palsy waiter's tip position — infant with right arm hanging adducted at side, elbow extended, forearm pronated, wrist slightly flexed, palm facing posteriorly](../../images/erb-palsy-waiters-tip.jpg)
+![Erb's palsy waiter's tip position — infant with right arm hanging adducted at side, elbow extended, forearm pronated, wrist slightly flexed, palm facing posteriorly](https://commons.wikimedia.org/wiki/Special:FilePath/Brachial_plexus_in_axilla.png)
 > **IBQ tip:** The key visual is the forearm pronation combined with elbow extension — the palm faces backward (posteriorly), not just downward. Differentiate from Klumpke's palsy, which spares shoulder and elbow but claws all four fingers, and from a clavicle fracture, which produces pseudoparalysis with a normal arm posture when the limb is supported.
 
 The reason C5,C6 injury is "upper" — the upper roots are the most lateral, and when the neck and shoulder are forcibly separated, these uppermost fibers get the most traction stress.
@@ -146,7 +146,7 @@ Additionally, T1 fibers carry sympathetic fibers to the eye — specifically to 
 
 A man falls asleep with his arm hanging over a park bench, or a chair edge, compressing the radial nerve in the spiral (radial) groove of the humerus. At this point, the radial nerve has already given off its branch to triceps (the long and medial heads of triceps get their branches proximally, before the groove), but has not yet given branches to the forearm extensors. Result: triceps works (elbow can extend), but wrist drop occurs — the patient cannot extend the wrist, cannot extend the fingers at the MCPJs, and cannot extend the thumb.
 
-![Saturday night palsy wrist drop — right hand hanging limp at the wrist with fingers semiflexed, patient unable to extend wrist or fingers at MCPJs, but elbow extension intact](../../images/saturday-night-palsy-wrist-drop-radial-nerve.jpg)
+![Saturday night palsy wrist drop — right hand hanging limp at the wrist with fingers semiflexed, patient unable to extend wrist or fingers at MCPJs, but elbow extension intact](https://commons.wikimedia.org/wiki/Special:FilePath/Wrist_drop.jpg)
 > **IBQ tip:** The hallmark is wrist drop with preserved triceps function (elbow extension intact) — confirm by asking the patient to extend the elbow against resistance before testing the wrist. Differentiate from a more proximal radial nerve or posterior cord injury (triceps also weak) and from PIN palsy (finger drop only, wrist extension preserved via ECRL). The reason for wrist drop is the loss of extensor carpi radialis longus, extensor carpi radialis brevis, extensor digitorum, and extensor carpi ulnaris.
 
 > **Why wrist drop causes functional grip weakness:** Even though the flexors are intact, you cannot grip powerfully with a dropped wrist. The flexor tendons cross the wrist — if the wrist is flexed (dropped), the finger flexors are shortened and cannot generate full tension. This is why wrist extension actually potentiates grip — you can test this yourself. Radial nerve palsy thus weakens grip indirectly even though the grip muscles themselves are fine.
@@ -159,10 +159,10 @@ A man falls asleep with his arm hanging over a park bench, or a chair edge, comp
 | Axillary nerve (surgical neck) | C5, C6 | Humeral neck fracture, shoulder dislocation | Flat shoulder | Deltoid (abduction 15–90°) |
 | Long thoracic nerve | C5, C6, C7 | Neck dissection, compression | Winged scapula | Serratus anterior |
 
-![Winged scapula — posterior view of the back showing the right scapula's medial border and inferior angle protruding prominently away from the thoracic wall when the patient pushes against a wall with arms extended, due to serratus anterior paralysis](../../images/winged-scapula-long-thoracic-nerve.jpg)
+![Winged scapula — posterior view of the back showing the right scapula's medial border and inferior angle protruding prominently away from the thoracic wall when the patient pushes against a wall with arms extended, due to serratus anterior paralysis](https://commons.wikimedia.org/wiki/Special:FilePath/Winged_scapula.jpg)
 > **IBQ tip:** Winging is maximal when the patient pushes forward against a wall (protracts the scapula against resistance) — this is the standard provocative test. Differentiate serratus anterior palsy (long thoracic nerve, medial border and inferior angle wing posteriorly) from trapezius palsy (spinal accessory nerve, CN XI — the superior angle wings and the shoulder droops, with inability to shrug).
 
-![Axilla cross-section — transverse anatomical diagram showing the axillary artery at the centre, with the three cords of the brachial plexus (lateral, medial, posterior) in their named positions relative to the artery, the axillary vein medially, and the axillary lymph node levels](../../images/axilla-cross-section-brachial-plexus-cords.jpg)
+![Axilla cross-section — transverse anatomical diagram showing the axillary artery at the centre, with the three cords of the brachial plexus (lateral, medial, posterior) in their named positions relative to the artery, the axillary vein medially, and the axillary lymph node levels](https://commons.wikimedia.org/wiki/Special:FilePath/Brachial_plexus_in_axilla.png)
 > **IBQ tip:** The posterior cord lies directly behind the axillary artery — a shoulder dislocation (anterior) or surgical neck of humerus fracture can stretch or compress the posterior cord, producing combined radial + axillary nerve palsy (wrist drop + deltoid paralysis). Differentiate from an isolated axillary nerve injury (deltoid loss only, patch of sensory loss over the regimental badge area of the upper lateral arm).
 
 ---
@@ -220,7 +220,7 @@ When the ulnar nerve is injured at the wrist (affecting interossei and lumbrical
 
 Lumbricals 3 and 4 normally flex the MCPJs and extend the IPJs. Without them, the extensor digitorum pulls the MCPJs into hyperextension, and the FDP (whose medial head to ring/little is still working because its branch came off at the elbow) pulls the IPs into flexion. Result: clawing of ring and little fingers (hyperextended MCP + flexed IP).
 
-![Ulnar claw hand — ring and little fingers hyperextended at MCPJs and flexed at IPJs, index and middle fingers unaffected, with hypothenar wasting visible](../../images/claw-hand-ulnar-nerve.jpg)
+![Ulnar claw hand — ring and little fingers hyperextended at MCPJs and flexed at IPJs, index and middle fingers unaffected, with hypothenar wasting visible](https://commons.wikimedia.org/wiki/Special:FilePath/Claw_hand.jpg)
 > **IBQ tip:** Only ring and little fingers claw in ulnar nerve injury (lumbricals 3 and 4 lost) — index and middle fingers are spared because their lumbricals (1 and 2) are median-innervated and intact. Differentiate from Klumpke's total claw (all four fingers) and from a combined median + ulnar lesion (all four fingers claw with complete intrinsic wasting).
 
 > **"Ulnar paradox" — why wrist-level ulnar injury causes MORE clawing than elbow-level injury:** At the wrist, FDP to ring/little is intact (branch came off at elbow), so it actively pulls the IPs into flexion — producing visible clawing. At the elbow, both intrinsics AND FDP medial head are lost, so there is no active IP flexion — less dramatic claw. More proximal injury = less claw. This seems paradoxical (more muscles lost = less deformity) but makes mechanistic sense.
@@ -238,7 +238,7 @@ At the elbow, it divides into two branches:
 - **Superficial radial nerve** (purely sensory — dorsum of hand, lateral 3.5 fingers on the back)
 - **Posterior interosseous nerve (PIN)** (purely motor — enters the posterior compartment by piercing supinator muscle, supplies all finger extensors, thumb extensors, abductors)
 
-![Anatomical snuffbox — dorsal view of the right wrist showing the triangular depression between extensor pollicis longus (medially) and abductor pollicis longus + extensor pollicis brevis (laterally), with the scaphoid and radial styloid palpable at its floor](../../images/anatomical-snuffbox-surface-marking.jpg)
+![Anatomical snuffbox — dorsal view of the right wrist showing the triangular depression between extensor pollicis longus (medially) and abductor pollicis longus + extensor pollicis brevis (laterally), with the scaphoid and radial styloid palpable at its floor](https://commons.wikimedia.org/wiki/Special:FilePath/Anatomical_snuff_box.jpg)
 > **IBQ tip:** Tenderness in the anatomical snuffbox after a fall on an outstretched hand indicates scaphoid fracture until proven otherwise — scaphoid X-rays may be normal initially (10–15% false negative), so MRI or bone scan is needed if clinical suspicion is high. Differentiate from de Quervain's tenosynovitis (tenderness along the tendons forming the lateral border of the snuffbox, positive Finkelstein's test) rather than at the floor.
 
 PIN entrapment at the supinator (Arcade of Frohse) causes finger drop without sensory loss and without wrist drop (because extensor carpi radialis longus gets its branch before the division). Classic PIN palsy: patient can extend the wrist (ECRL intact) but cannot extend fingers. This is different from spiral groove injury where wrist drop is present.
@@ -258,7 +258,7 @@ The femoral triangle is bounded by: inguinal ligament (superiorly), sartorius mu
 
 The structures within the triangle from lateral to medial follow the mnemonic **NAVY** (Nerve-Artery-Vein-Y-lymphatics) where Y stands for the empty space (the femoral canal containing lymph node of Cloquet):
 
-![Femoral triangle cross-section showing NAVY arrangement — femoral Nerve (most lateral, outside sheath), femoral Artery, femoral Vein, and Y (femoral canal with Cloquet's node) from lateral to medial beneath the inguinal ligament](../../images/femoral-triangle-navy-cross-section.jpg)
+![Femoral triangle cross-section showing NAVY arrangement — femoral Nerve (most lateral, outside sheath), femoral Artery, femoral Vein, and Y (femoral canal with Cloquet's node) from lateral to medial beneath the inguinal ligament](https://commons.wikimedia.org/wiki/Special:FilePath/Femoral_triangle.png)
 > **IBQ tip:** The femoral nerve lies OUTSIDE the femoral sheath (most lateral) while artery and vein are inside — this single fact explains why femoral nerve is unaffected by femoral hernias but femoral vein compression causes DVT. Differentiate the femoral triangle from the femoral canal: the canal is the most medial compartment of the femoral sheath and is the path of femoral hernias, not the entire triangle.
 
 - Nerve (femoral nerve) — most lateral, *outside* the femoral sheath
@@ -289,7 +289,7 @@ At the neck of fibula, the common peroneal (fibular) nerve winds around the head
 
 When the common peroneal nerve is injured, ALL these muscles are lost. Result: the foot cannot dorsiflex (foot drop) and cannot evert. The foot is pulled into plantarflexion and inversion by the unopposed tibialis posterior and gastrocnemius (both tibial nerve). Walking becomes a "steppage gait" — the patient lifts the knee high to clear the dropped foot with each step. Sensory loss is over the dorsum of the foot and lateral leg.
 
-![Foot drop from common peroneal nerve injury — right foot hanging in plantarflexion and inversion, patient demonstrating steppage gait with exaggerated knee flexion to clear the dropped foot during the swing phase](../../images/foot-drop-common-peroneal-nerve.jpg)
+![Foot drop from common peroneal nerve injury — right foot hanging in plantarflexion and inversion, patient demonstrating steppage gait with exaggerated knee flexion to clear the dropped foot during the swing phase](https://commons.wikimedia.org/wiki/Special:FilePath/Foot_drop.jpg)
 > **IBQ tip:** The foot hangs in plantarflexion AND inversion (tibialis posterior unopposed) — the inversion component distinguishes common peroneal palsy from an L5 root lesion, where hip abduction weakness (gluteus medius) accompanies the foot drop. Absent dorsal foot sensation confirms the peripheral nerve (not root) location of the lesion.
 
 > **Why foot drop at fibular neck but NOT in L4/L5 disc prolapse:** Disc prolapse at L4/5 compresses L5 root, affecting tibialis anterior (foot drop) but also causing weakness of hip abduction (gluteus medius, L5). If hip abduction is weak along with foot drop, think L5 radiculopathy. If only foot drop with no hip abduction weakness, think common peroneal nerve at fibular neck.
@@ -400,7 +400,7 @@ If the processus vaginalis fails to close, you have a patent channel from the pe
 
 **Direct inguinal hernia** is an acquired weakness — it pushes directly through the *posterior wall* of the inguinal canal (specifically Hesselbach's triangle: medial to inferior epigastric vessels, lateral to rectus abdominis, above inguinal ligament). It does not pass through the internal ring — it pushes directly forward through weakened transversalis fascia. Direct hernias are almost never in the scrotum, because they protrude medially, not down the canal path.
 
-![Hesselbach's triangle on laparoscopy — intraperitoneal view showing the triangle bounded by the inferior epigastric vessels laterally, rectus abdominis medially, and inguinal ligament inferiorly, with a direct hernia defect visible as a bulge through the posterior wall within the triangle](../../images/hesselbachs-triangle-laparoscopy-direct-hernia.jpg)
+![Hesselbach's triangle on laparoscopy — intraperitoneal view showing the triangle bounded by the inferior epigastric vessels laterally, rectus abdominis medially, and inguinal ligament inferiorly, with a direct hernia defect visible as a bulge through the posterior wall within the triangle](https://commons.wikimedia.org/wiki/Special:FilePath/Hesselbach%27s_triangle.png)
 > **IBQ tip:** On laparoscopy, the inferior epigastric vessels are the landmark — a direct hernia defect lies MEDIAL to these vessels (inside Hesselbach's triangle), while an indirect hernia enters through the internal ring LATERAL to the vessels. This medial vs. lateral relationship to the inferior epigastric artery is the single most reliable intraoperative differentiator.
 
 > **The coverings tell the story:** Indirect hernias acquire three coverings (internal spermatic fascia from transversalis fascia, cremasteric fascia from internal oblique, external spermatic fascia from external oblique) because the hernial sac passes through all three layers. Direct hernias only acquire external spermatic fascia (they push through the posterior wall, not through the internal ring).
@@ -448,7 +448,7 @@ Now, blood under high pressure seeks alternative routes — collateral channels 
 
 McBurney's point is located one-third of the way from the anterior superior iliac spine (ASIS) to the umbilicus. This point overlies the base of the appendix on the surface of the abdomen. But why does appendicitis cause *pain at this specific point*?
 
-![McBurney's point surface marking — anterior abdominal wall diagram showing the ASIS and umbilicus with a dot marked one-third of the distance from the ASIS to the umbilicus, overlying the right iliac fossa](../../images/mcburneys-point-surface-marking.jpg)
+![McBurney's point surface marking — anterior abdominal wall diagram showing the ASIS and umbilicus with a dot marked one-third of the distance from the ASIS to the umbilicus, overlying the right iliac fossa](https://commons.wikimedia.org/wiki/Special:FilePath/McBurneys_point.jpg)
 > **IBQ tip:** The point is one-third from the ASIS (not one-third from the umbilicus) — a common reversal error in MCQs. On clinical examination, maximum tenderness here combined with a history of pain that migrated from the periumbilical region (T10 dermatome) to this spot is pathognomonic of appendicitis; Rovsing's sign (left-side pressure causing right-sided pain) further confirms peritoneal irritation at this location.
 
 The logic is in dermatomes. The appendix is supplied by visceral afferent nerves traveling with sympathetic fibers at the **T10** level. When inflammation first begins (acute visceral phase), the pain is referred to the **T10 dermatome** — which is the periumbilical region. This is classic appendicitis: starts with central, periumbilical, dull, poorly localized pain.
@@ -472,7 +472,7 @@ The cavernous sinus is not a true sinus in the sense of a hollow channel — it 
 
 What runs *through* the cavernous sinus (within its substance or its lateral wall):
 
-![Cavernous sinus on coronal MRI — T1 post-contrast coronal section showing paired cavernous sinuses on either side of the pituitary gland (sella turcica), with the internal carotid artery visible as a flow void within the sinus and the lateral wall structures including CN III, IV, V1, V2](../../images/cavernous-sinus-coronal-mri.jpg)
+![Cavernous sinus on coronal MRI — T1 post-contrast coronal section showing paired cavernous sinuses on either side of the pituitary gland (sella turcica), with the internal carotid artery visible as a flow void within the sinus and the lateral wall structures including CN III, IV, V1, V2](../../images/cavernous-sinus-coronal-mri.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/cavernous-sinus))*
 > **IBQ tip:** On coronal MRI, the cavernous sinus appears as a signal-enhancing structure flanking the pituitary — asymmetric enhancement or lateral wall bulging indicates pathology. Differentiate cavernous sinus thrombosis (bilateral involvement, fever, chemosis) from a carotid-cavernous fistula (pulsatile proptosis, bruit audible over the orbit, arterialized conjunctival vessels).
 
 **Inside the sinus itself (surrounded by venous blood):**

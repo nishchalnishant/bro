@@ -7,7 +7,7 @@
 
 **Q1.**
 
-![Bat-wing sign — pulmonary oedema](../../images/radiology-bat-wing-sign-pulmonary-oedema.jpg)
+![Bat-wing sign — pulmonary oedema](../../images/radiology-bat-wing-sign-pulmonary-oedema.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/bat-wing-sign-pulmonary-oedema))*
 
 **The chest X-ray finding shown above is MOST consistent with:**
 - A) Lobar pneumonia
@@ -26,7 +26,7 @@
 
 **Q2.**
 
-![Westermark sign — pulmonary embolism](../../images/radiology-westermark-sign.jpg)
+![Westermark sign — pulmonary embolism](../../images/radiology-westermark-sign.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/westermark-sign))*
 
 **The radiological finding shown is the Westermark sign. This is MOST associated with:**
 - A) Tension pneumothorax
@@ -45,7 +45,7 @@
 
 **Q3.**
 
-![Hampton's Hump — pulmonary embolism](../../images/radiology-hampton-hump.jpg)
+![Hampton's Hump — pulmonary embolism](../../images/radiology-hampton-hump.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/hampton-hump-sign))*
 
 **The wedge-shaped peripheral opacity shown (Hampton's Hump) indicates:**
 - A) Pleural effusion
@@ -64,7 +64,7 @@
 
 **Q4.**
 
-![Coffee bean sign — sigmoid volvulus](../../images/radiology-coffee-bean-sign-sigmoid-volvulus.jpg)
+![Coffee bean sign — sigmoid volvulus](../../images/radiology-coffee-bean-sign-sigmoid-volvulus.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/sigmoid-volvulus))*
 
 **The abdominal X-ray sign shown is the "coffee bean sign." This finding is diagnostic of:**
 - A) Intussusception
@@ -83,7 +83,7 @@
 
 **Q5.**
 
-![Rigler sign — pneumoperitoneum](../../images/radiology-rigler-sign.jpg)
+![Rigler sign — pneumoperitoneum](../../images/radiology-rigler-sign.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/riglers-sign))*
 
 **The finding of gas outlining both sides of the bowel wall (Rigler/double wall sign) on AXR indicates:**
 - A) Intramural gas (pneumatosis intestinalis)
@@ -102,7 +102,7 @@
 
 **Q6.**
 
-![Thumbprinting sign — ischaemic colitis](../../images/radiology-thumbprinting-sign-large-bowel.jpg)
+![Thumbprinting sign — ischaemic colitis](../../images/radiology-thumbprinting-sign-large-bowel.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/thumbprinting-sign-colon))*
 
 **The "thumbprinting" pattern shown on this large bowel study is MOST consistent with:**
 - A) Sigmoid volvulus
@@ -121,7 +121,7 @@
 
 **Q7.**
 
-![String sign of Kantor — Crohn's disease](../../images/radiology-string-sign-of-kantor.jpg)
+![String sign of Kantor — Crohn's disease](../../images/radiology-string-sign-of-kantor.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/string-sign-of-kantor))*
 
 **The "string sign of Kantor" shown on barium follow-through is characteristic of:**
 - A) Ulcerative colitis
@@ -140,7 +140,7 @@
 
 **Q8.**
 
-![Silhouette sign — consolidation](../../images/radiology-silhouette-sign-cardiorespiratory.jpg)
+![Silhouette sign — consolidation](../../images/radiology-silhouette-sign-cardiorespiratory.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/silhouette-sign-cardiomediastinal))*
 
 **The "silhouette sign" on chest X-ray (loss of a normal border) localises pathology. Loss of the right heart border indicates consolidation in which lobe?**
 - A) Right lower lobe
@@ -159,7 +159,7 @@
 
 **Q9.**
 
-![Air bronchogram sign](../../images/radiology-air-bronchogram.jpg)
+![Air bronchogram sign](../../images/radiology-air-bronchogram.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/air-bronchogram))*
 
 **Air bronchograms (visible air-filled airways within opacification) are MOST characteristic of:**
 - A) Pleural effusion
@@ -178,7 +178,7 @@
 
 **Q10.**
 
-![Kerley B lines — interstitial oedema](../../images/radiology-kerley-lines.jpg)
+![Kerley B lines — interstitial oedema](../../images/radiology-kerley-lines.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/kerley-lines))*
 
 **Kerley B lines on a chest X-ray represent:**
 - A) Pleural plaques
@@ -197,7 +197,7 @@
 
 **Q11.**
 
-![Sunburst pattern — osteosarcoma](../../images/radiology-sunburst-pattern-osteosarcoma.jpg)
+![Sunburst pattern — osteosarcoma](../../images/radiology-sunburst-pattern-osteosarcoma.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/sunburst-pattern-1))*
 
 **The "sunburst" periosteal reaction shown on this X-ray is the classic radiological sign of:**
 - A) Ewing sarcoma
@@ -216,7 +216,7 @@
 
 **Q12.**
 
-![Codman triangle — aggressive bone tumour](../../images/radiology-codman-triangle.jpg)
+![Codman triangle — aggressive bone tumour](../../images/radiology-codman-triangle.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/codmans-triangle))*
 
 **The Codman triangle (periosteal elevation) is seen in this X-ray. This finding indicates:**
 - A) A benign, slow-growing lesion
@@ -235,7 +235,7 @@
 
 **Q13.**
 
-![Ewing sarcoma — onion peel periosteal reaction](../../images/radiology-ewing-sarcoma-of-bone.jpg)
+![Ewing sarcoma — onion peel periosteal reaction](../../images/radiology-ewing-sarcoma-of-bone.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/ewings-sarcoma))*
 
 **The "onion peel/lamellated" periosteal reaction shown is the classic finding in:**
 - A) Osteosarcoma
@@ -254,7 +254,7 @@
 
 **Q14.**
 
-![Crescent sign — avascular necrosis](../../images/radiology-crescent-sign-avascular-necrosis.jpg)
+![Crescent sign — avascular necrosis](../../images/radiology-crescent-sign-avascular-necrosis.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/crescent-sign-avascular-necrosis))*
 
 **The "crescent sign" shown subchondrally in the femoral head represents:**
 - A) Stress fracture through the femoral head
@@ -273,7 +273,7 @@
 
 **Q15.**
 
-![Double-line sign AVN — MRI](../../images/radiology-double-line-sign-avascular-necrosis.jpg)
+![Double-line sign AVN — MRI](../../images/radiology-double-line-sign-avascular-necrosis.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/crescent-sign-avascular-necrosis))*
 
 **The "double-line sign" on MRI of the femoral head (bright inner rim, dark outer rim on T2) is pathognomonic of:**
 - A) Transient osteoporosis of the hip
@@ -292,7 +292,7 @@
 
 **Q16.**
 
-![Lemon sign — spina bifida](../../images/radiology-lemon-sign.jpg)
+![Lemon sign — spina bifida](../../images/radiology-lemon-sign.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/lemon-sign))*
 
 **The "lemon sign" on fetal ultrasound (flattening of the frontal bones giving a lemon shape) is associated with:**
 - A) Anencephaly
@@ -311,7 +311,7 @@
 
 **Q17.**
 
-![Banana sign — Arnold-Chiari II](../../images/radiology-banana-sign.jpg)
+![Banana sign — Arnold-Chiari II](../../images/radiology-banana-sign.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/banana-sign))*
 
 **The "banana sign" on fetal cranial ultrasound represents:**
 - A) Aqueductal stenosis with hydrocephalus
@@ -349,7 +349,7 @@
 
 **Q19.**
 
-![Aspergilloma — crescent sign chest X-ray](../../images/aspergilloma-crescent-sign-chest-xray-fungal-ball-cavity.jpg)
+![Aspergilloma — crescent sign chest X-ray](../../images/aspergilloma-crescent-sign-chest-xray-fungal-ball-cavity.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/aspergilloma))*
 
 **The "air crescent sign" showing a soft tissue ball within a pulmonary cavity (Monod sign) is diagnostic of:**
 - A) Lung abscess
@@ -368,7 +368,7 @@
 
 **Q20.**
 
-![Halo sign — invasive aspergillosis CT](../../images/halo-sign-invasive-aspergillosis-ct-chest-ground-glass-halo.jpg)
+![Halo sign — invasive aspergillosis CT](../../images/halo-sign-invasive-aspergillosis-ct-chest-ground-glass-halo.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/halo-sign-pulmonary))*
 
 **The CT chest "halo sign" (ground-glass opacity surrounding a nodule) in an immunocompromised patient is MOST suggestive of:**
 - A) Metastatic disease
@@ -425,7 +425,7 @@
 
 **Q23.**
 
-![Scotty dog sign — pars interarticularis](../../images/orthopedics-scotty-dog-sign.jpg)
+![Scotty dog sign — pars interarticularis](../../images/orthopedics-scotty-dog-sign.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/scottie-dog-sign))*
 
 **The "Scotty dog sign" on oblique lumbar spine X-ray, with a lucent collar around the dog's neck (pars defect), indicates:**
 - A) Lumbar disc prolapse

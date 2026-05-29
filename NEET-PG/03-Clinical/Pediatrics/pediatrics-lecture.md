@@ -359,7 +359,7 @@ Why periventricular calcifications specifically? This is a direct consequence of
 
 Nutritional rickets (Vitamin D deficiency causing failure of osteoid mineralisation) produces characteristic radiological changes at the growth plates (metaphyses) of rapidly growing bones — most readily seen at the wrist (distal radius and ulna).
 
-![Wrist X-ray showing rickets: widening, irregularity (fraying), and cupping of the metaphyses of the distal radius and ulna; the zone of provisional calcification is indistinct; the metaphysis has a brush-like, frayed edge resembling a paintbrush or moth-eaten appearance; the growth plate appears widened and the cortex may be thin](../../images/xray-rickets-wrist.jpg)
+![Wrist X-ray showing rickets: widening, irregularity (fraying), and cupping of the metaphyses of the distal radius and ulna; the zone of provisional calcification is indistinct; the metaphysis has a brush-like, frayed edge resembling a paintbrush or moth-eaten appearance; the growth plate appears widened and the cortex may be thin](../../images/xray-rickets-wrist.jpg) *([Source: Radiopaedia](https://radiopaedia.org/articles/rickets))*
 > **IBQ tip:** The three key rickets X-ray findings are cupping (concave depression of the metaphyseal end), fraying (irregular, brush-like lateral margin of the metaphysis), and widening (increased distance between metaphysis and epiphysis due to uncalcified osteoid expanding the growth plate). These are most prominent at the wrist and the anterior ribs (rachitic rosary). Contrast with normal X-ray: sharp, well-defined metaphyseal margins with no cupping.
 
 ---

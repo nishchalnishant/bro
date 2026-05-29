@@ -130,7 +130,7 @@ Muscarinic receptors are G-protein coupled receptors for acetylcholine that medi
 
 The mnemonic **SLUDGE** captures muscarinic agonist effects: **S**alivation, **L**acrimation, **U**rination (incontinence), **D**efecation, **G**I motility, **E**mesis. Add bradycardia and bronchoconstriction to complete the picture. This describes the clinical picture of organophosphate poisoning (insecticides and nerve agents inhibit acetylcholinesterase → acetylcholine accumulates at all cholinergic synapses → massive muscarinic activation). The antidote is atropine (muscarinic blocker) plus pralidoxime (regenerates acetylcholinesterase before "aging" occurs).
 
-![General medicine hyperkalaemia ECG changes: peaked tall T waves (earliest), flattening then loss of P waves, widening QRS, and eventually sine-wave pattern preceding VF — serial ECG panels with potassium levels labelled beside each](../../images/general-medicine-hyperkalaemia-ecg-changes.jpg)
+![General medicine hyperkalaemia ECG changes: peaked tall T waves (earliest), flattening then loss of P waves, widening QRS, and eventually sine-wave pattern preceding VF — serial ECG panels with potassium levels labelled beside each](https://commons.wikimedia.org/wiki/Special:FilePath/Hyperkalemia_changes_ECG.png)
 *Caption: Organophosphate poisoning causes a cholinergic crisis — but the ECG changes to monitor include bradycardia (excess vagal M2 stimulation) and QT prolongation from the cholinergic-mediated electrolyte shifts. More broadly, hyperkalaemia ECG changes (peaked T waves → wide QRS → sine wave) are essential for any drug causing potassium release — including succinylcholine in at-risk patients (burns, denervation) and ACE inhibitor-induced hyperkalaemia. Identify the serial progression in these panels.*
 
 ### Atropine: Blocking All Muscarinic Receptors
@@ -263,7 +263,7 @@ The toxicity of aminoglycosides reflects their tissue concentration profile. The
 
 **Analogy:** Aminoglycosides are like a guided missile with collateral damage — highly effective against bacteria, but their concentration in specific human tissues (kidney tubules, cochlear hair cells) causes predictable, organ-specific toxicity. Once-daily dosing (taking advantage of the concentration-dependent killing and post-antibiotic effect of aminoglycosides) minimizes nephrotoxicity while maintaining efficacy.
 
-![Gram stain of Staphylococcus aureus: gram-positive cocci (purple) arranged in grape-like clusters; compare with the blue counterstained background organisms](../../images/gram-stain-s-aureus-gram-positive-cocci-clusters.jpg)
+![Gram stain of Staphylococcus aureus: gram-positive cocci (purple) arranged in grape-like clusters; compare with the blue counterstained background organisms](https://commons.wikimedia.org/wiki/Special:FilePath/Staphylococcus_aureus_gram_stain.jpg)
 *Caption: Aminoglycosides are used in combination against gram-positive pathogens (including S. aureus endocarditis — gentamicin + beta-lactam synergy) and are the backbone against gram-negative sepsis. Gram stain identification is the first step in targeted antimicrobial selection. Gram-positive cocci in clusters = Staphylococci (not Streptococci, which are in chains or pairs). This visual is the most tested microbiology image in NEET PG and should be immediately recognisable.*
 
 ### Fluoroquinolones: Paralyzing DNA Replication
@@ -274,7 +274,7 @@ There are two critical contraindications based on tissue distribution. First, fl
 
 > **Key exam fact:** Fluoroquinolones have important interactions: (1) They chelate multivalent cations (Ca2+, Mg2+, Al3+, Fe2+) → absorption is dramatically reduced by antacids, calcium supplements, and iron supplements — take 2 hours apart. (2) They inhibit CYP1A2 → theophylline toxicity. (3) They prolong the QT interval — avoid in patients on other QT-prolonging drugs or with hypokalemia.
 
-![ECG strip showing QT prolongation with a long flat segment between the end of the QRS complex and the T wave peak, compared to a normal QT interval; a second strip showing torsades de pointes (polymorphic VT) with characteristic twisting of QRS complexes around the isoelectric baseline](../../images/ecg-qt-prolongation-torsades.jpg)
+![ECG strip showing QT prolongation with a long flat segment between the end of the QRS complex and the T wave peak, compared to a normal QT interval; a second strip showing torsades de pointes (polymorphic VT) with characteristic twisting of QRS complexes around the isoelectric baseline](https://commons.wikimedia.org/wiki/Special:FilePath/Torsades_de_pointes.png)
 > **IBQ tip:** QT prolongation is measured from the start of the QRS to the end of the T wave — a corrected QT (QTc) >450 ms in men or >470 ms in women is abnormal. Torsades de pointes is identified by the hallmark twisting of QRS polarity around the baseline (complexes appear to "twist" from positive to negative and back) with a rate of 150-250 bpm; it degenerates to VF if untreated. Distinguishes from monomorphic VT (uniform QRS morphology, no twisting).
 
 ### Metronidazole: A Drug That Requires a Living Organism to Activate It

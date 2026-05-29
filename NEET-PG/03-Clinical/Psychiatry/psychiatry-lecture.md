@@ -133,7 +133,7 @@ The kindling model also explains the neuroprotective rationale for mood stabiliz
 
 > **Key exam insight:** Lithium has the most evidence for anti-suicidal effects of any mood stabilizer — reducing suicidal behavior by 2-3-fold compared to placebo in bipolar patients. This is independent of its mood-stabilizing effect and may be related to its serotonergic effects. When a bipolar patient presents with suicidality, lithium should be strongly considered if not already prescribed. Therapeutic lithium levels: 0.8-1.2 mEq/L for acute mania, 0.6-0.8 mEq/L for maintenance. Signs of toxicity: tremor (at therapeutic levels — benign), coarse tremor, ataxia, confusion, seizures (at toxic levels >1.5 mEq/L).
 
-![ECG strip showing QT prolongation: long flat isoelectric segment between the end of the QRS and the T-wave peak, with corrected QTc measurement marked; second panel showing torsades de pointes with characteristic twisting of QRS polarity around the baseline at 150-250 bpm](../../images/ecg-qt-prolongation-torsades.jpg)
+![ECG strip showing QT prolongation: long flat isoelectric segment between the end of the QRS and the T-wave peak, with corrected QTc measurement marked; second panel showing torsades de pointes with characteristic twisting of QRS polarity around the baseline at 150-250 bpm](https://commons.wikimedia.org/wiki/Special:FilePath/Torsades_de_pointes.png)
 *Caption: Lithium toxicity and many psychotropic drugs (TCAs, antipsychotics, methadone) prolong the QT interval and can precipitate torsades de pointes — a polymorphic VT that "twists" around the baseline. QTc >500 ms demands urgent action. Tested as: "lithium patient develops palpitations; ECG shows?"*
 
 **Analogy:** Think of bipolar disorder as a brain with a thermostat that has become increasingly sensitive and unstable. Early on, large temperature swings (major stressors) are needed to trigger the system to overshoot. With kindling, the thermostat becomes hair-trigger — small inputs cause wild temperature swings, and eventually the thermostat oscillates on its own. Mood stabilizers reset the sensitivity of the thermostat.
@@ -311,7 +311,7 @@ The reasoning: thiamine-dependent enzymes are responsible for metabolizing gluco
 
 **Analogy:** Giving glucose without thiamine to a depleted patient is like running a factory at full speed with no oil in the machines. The increased activity only accelerates the damage.
 
-![Ophthalmology fundus photograph showing papilloedema: blurred disc margins, absent venous pulsations, disc hyperaemia, and peripapillary flame haemorrhages in both eyes — bilateral disc swelling from raised intracranial pressure](../../images/ophthalmology-papilloedema.jpg)
+![Ophthalmology fundus photograph showing papilloedema: blurred disc margins, absent venous pulsations, disc hyperaemia, and peripapillary flame haemorrhages in both eyes — bilateral disc swelling from raised intracranial pressure](https://commons.wikimedia.org/wiki/Special:FilePath/Papilledema.jpg)
 *Caption: Wernicke's encephalopathy can produce raised intracranial pressure in severe cases, causing papilloedema visible on fundoscopy. More importantly, the ocular motor signs (ophthalmoplegia, nystagmus) are the most specific features of the classic triad and should be specifically sought. Blurred disc margins here vs the normal sharp disc edge is the key visual discriminator.*
 
 ---
