@@ -10,6 +10,7 @@
 * [Daily Revision](NEET-PG/00-Master-Index/DAILY-REVISION.md)
 * [Progress Tracker](NEET-PG/00-Master-Index/PROGRESS.md)
 * [Mind Map](NEET-PG/00-Master-Index/mindmap.md)
+  * [Mind Map & Flowcharts](NEET-PG/00-Master-Index/mindmap-flowcharts.md)
 
 ## Pre-Clinical
 
