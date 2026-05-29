@@ -1,5 +1,7 @@
 # Master Mnemonics — NEET PG
 
+> **Quick Revision:** [Last-Day Notes](../Last-Day-Notes/last-day-notes.md) · [One-Liners](../One-Liners/master-one-liners.md) · [Comparison Tables](../High-Yield-Tables/comparison-tables.md) · [Normal Values](../Normal-Values/normal-values.md) · [High-Yield Topics](../../04-PYQ-Analysis/High-Yield-Topics/high-yield-topics.md)
+
 All mnemonics are organized by subject. Each entry includes the mnemonic, what it stands for, and brief context.
 
 ---

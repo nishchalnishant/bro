@@ -1,5 +1,7 @@
 # Normal Values and Lab Reference — NEET PG Quick Reference
 
+> **Quick Revision:** [Last-Day Notes](../Last-Day-Notes/last-day-notes.md) · [Mnemonics](../Mnemonics/master-mnemonics.md) · [One-Liners](../One-Liners/master-one-liners.md) · [Comparison Tables](../High-Yield-Tables/comparison-tables.md) · [High-Yield Topics](../../04-PYQ-Analysis/High-Yield-Topics/high-yield-topics.md)
+
 Comprehensive exam-focused reference organized by system. PYQ HOTSPOT markers indicate values directly tested in MCQs.
 
 ---

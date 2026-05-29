@@ -30,6 +30,8 @@
 
 ## Anatomy
 
+> **Study resources:** [Notes](../../01-Pre-Clinical/Anatomy/anatomy-notes.md) · [MCQs](../../01-Pre-Clinical/Anatomy/anatomy-mcqs.md) · [Lecture](../../01-Pre-Clinical/Anatomy/anatomy-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Anatomy/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 15–18 (Pre-clinical; weight has reduced post-2022)
 
 ### Top Recurring Topics
@@ -83,6 +85,8 @@
 
 ## Physiology
 
+> **Study resources:** [Notes](../../01-Pre-Clinical/Physiology/physiology-notes.md) · [MCQs](../../01-Pre-Clinical/Physiology/physiology-mcqs.md) · [Lecture](../../01-Pre-Clinical/Physiology/physiology-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Physiology/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 14–17
 
 ### Top Recurring Topics
@@ -134,6 +138,8 @@
 ---
 
 ## Biochemistry
+
+> **Study resources:** [Notes](../../01-Pre-Clinical/Biochemistry/biochemistry-notes.md) · [MCQs](../../01-Pre-Clinical/Biochemistry/biochemistry-mcqs.md) · [Lecture](../../01-Pre-Clinical/Biochemistry/biochemistry-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Biochemistry/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 12–15
 
@@ -187,6 +193,8 @@
 ---
 
 ## Pathology
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Pathology/pathology-notes.md) · [MCQs](../../02-Para-Clinical/Pathology/pathology-mcqs.md) · [Lecture](../../02-Para-Clinical/Pathology/pathology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Pathology/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 18–22 (highest yield pre-clinical subject)
 
@@ -243,6 +251,8 @@
 
 ## Pharmacology
 
+> **Study resources:** [Notes](../../02-Para-Clinical/Pharmacology/pharmacology-notes.md) · [MCQs](../../02-Para-Clinical/Pharmacology/pharmacology-mcqs.md) · [Lecture](../../02-Para-Clinical/Pharmacology/pharmacology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Pharmacology/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 18–22 (clinical years highest relevance)
 
 ### Top Recurring Topics
@@ -296,6 +306,8 @@
 ---
 
 ## Microbiology
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Microbiology/microbiology-notes.md) · [MCQs](../../02-Para-Clinical/Microbiology/microbiology-mcqs.md) · [Lecture](../../02-Para-Clinical/Microbiology/microbiology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Microbiology/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 16–20
 
@@ -351,6 +363,8 @@
 
 ## Forensic Medicine
 
+> **Study resources:** [Notes](../../02-Para-Clinical/Forensic-Medicine/forensic-notes.md) · [MCQs](../../02-Para-Clinical/Forensic-Medicine/forensic-mcqs.md) · [Lecture](../../02-Para-Clinical/Forensic-Medicine/forensic-lecture.md) · [Weak Topics](../../02-Para-Clinical/Forensic-Medicine/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 8–12
 
 ### Top Recurring Topics
@@ -403,6 +417,8 @@
 ---
 
 ## Community Medicine / SPM
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Community-Medicine-SPM/spm-notes.md) · [MCQs](../../02-Para-Clinical/Community-Medicine-SPM/spm-mcqs.md) · [Lecture](../../02-Para-Clinical/Community-Medicine-SPM/spm-lecture.md) · [Weak Topics](../../02-Para-Clinical/Community-Medicine-SPM/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 18–22 (consistently high, increasing trend)
 
@@ -457,6 +473,8 @@
 
 ## General Medicine
 
+> **Study resources:** [Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [MCQs](../../03-Clinical/General-Medicine/medicine-mcqs.md) · [Lecture](../../03-Clinical/General-Medicine/medicine-lecture.md) · [Weak Topics](../../03-Clinical/General-Medicine/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 22–28 (largest share of clinical paper)
 
 ### Top Recurring Topics
@@ -508,6 +526,8 @@
 ---
 
 ## Psychiatry
+
+> **Study resources:** [Notes](../../03-Clinical/Psychiatry/psychiatry-notes.md) · [MCQs](../../03-Clinical/Psychiatry/psychiatry-mcqs.md) · [Lecture](../../03-Clinical/Psychiatry/psychiatry-lecture.md) · [Weak Topics](../../03-Clinical/Psychiatry/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 10–14
 
@@ -562,6 +582,8 @@
 
 ## Dermatology
 
+> **Study resources:** [Notes](../../03-Clinical/Dermatology/dermatology-notes.md) · [MCQs](../../03-Clinical/Dermatology/dermatology-mcqs.md) · [Lecture](../../03-Clinical/Dermatology/dermatology-lecture.md) · [Weak Topics](../../03-Clinical/Dermatology/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 8–12
 
 ### Top Recurring Topics
@@ -611,6 +633,8 @@
 ---
 
 ## General Surgery
+
+> **Study resources:** [Notes](../../03-Clinical/General-Surgery/surgery-notes.md) · [MCQs](../../03-Clinical/General-Surgery/surgery-mcqs.md) · [Lecture](../../03-Clinical/General-Surgery/surgery-lecture.md) · [Weak Topics](../../03-Clinical/General-Surgery/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 18–22
 
@@ -664,6 +688,8 @@
 
 ## Orthopedics
 
+> **Study resources:** [Notes](../../03-Clinical/Orthopedics/orthopedics-notes.md) · [MCQs](../../03-Clinical/Orthopedics/orthopedics-mcqs.md) · [Lecture](../../03-Clinical/Orthopedics/orthopedics-lecture.md) · [Weak Topics](../../03-Clinical/Orthopedics/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 12–16
 
 ### Top Recurring Topics
@@ -715,6 +741,8 @@
 
 ## Anesthesia
 
+> **Study resources:** [Notes](../../03-Clinical/Anesthesia/anesthesia-notes.md) · [MCQs](../../03-Clinical/Anesthesia/anesthesia-mcqs.md) · [Lecture](../../03-Clinical/Anesthesia/anesthesia-lecture.md) · [Weak Topics](../../03-Clinical/Anesthesia/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 8–12
 
 ### Top Recurring Topics
@@ -764,6 +792,8 @@
 ---
 
 ## Radiology
+
+> **Study resources:** [Notes](../../03-Clinical/Radiology/radiology-notes.md) · [MCQs](../../03-Clinical/Radiology/radiology-mcqs.md) · [Lecture](../../03-Clinical/Radiology/radiology-lecture.md) · [Weak Topics](../../03-Clinical/Radiology/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 8–12
 
@@ -819,6 +849,8 @@
 
 ## OBG
 
+> **Study resources:** [Notes](../../03-Clinical/OBG/obg-notes.md) · [MCQs](../../03-Clinical/OBG/obg-mcqs.md) · [Lecture](../../03-Clinical/OBG/obg-lecture.md) · [Weak Topics](../../03-Clinical/OBG/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 22–28 (consistently high)
 
 ### Top Recurring Topics
@@ -871,6 +903,8 @@
 ---
 
 ## Pediatrics
+
+> **Study resources:** [Notes](../../03-Clinical/Pediatrics/pediatrics-notes.md) · [MCQs](../../03-Clinical/Pediatrics/pediatrics-mcqs.md) · [Lecture](../../03-Clinical/Pediatrics/pediatrics-lecture.md) · [Weak Topics](../../03-Clinical/Pediatrics/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 20–25
 
@@ -925,6 +959,8 @@
 
 ## ENT
 
+> **Study resources:** [Notes](../../03-Clinical/ENT/ent-notes.md) · [MCQs](../../03-Clinical/ENT/ent-mcqs.md) · [Lecture](../../03-Clinical/ENT/ent-lecture.md) · [Weak Topics](../../03-Clinical/ENT/WEAK-TOPICS.md)
+
 **Approximate questions/year:** 10–14
 
 ### Top Recurring Topics
@@ -975,6 +1011,8 @@
 ---
 
 ## Ophthalmology
+
+> **Study resources:** [Notes](../../03-Clinical/Ophthalmology/ophthalmology-notes.md) · [MCQs](../../03-Clinical/Ophthalmology/ophthalmology-mcqs.md) · [Lecture](../../03-Clinical/Ophthalmology/ophthalmology-lecture.md) · [Weak Topics](../../03-Clinical/Ophthalmology/WEAK-TOPICS.md)
 
 **Approximate questions/year:** 10–14
 

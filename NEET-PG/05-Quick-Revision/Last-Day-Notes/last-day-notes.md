@@ -1,5 +1,7 @@
 # NEET PG Last Day Notes — Read Before Exam
 
+> **Quick Revision:** [Mnemonics](../Mnemonics/master-mnemonics.md) · [One-Liners](../One-Liners/master-one-liners.md) · [Comparison Tables](../High-Yield-Tables/comparison-tables.md) · [Normal Values](../Normal-Values/normal-values.md) · [PYQ Analysis](../../04-PYQ-Analysis/README.md)
+
 ## Instructions
 - Read each subject section in sequence; do NOT revisit weak areas — only reinforce what you already know
 - Allocate ~15 min per subject section; full read-through = ~5 hours; leave 1 hour for Exam Day Strategy + rest

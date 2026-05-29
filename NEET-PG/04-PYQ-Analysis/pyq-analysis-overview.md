@@ -1,5 +1,7 @@
 # NEET PG PYQ Analysis — Complete Guide
 
+> **See also:** [Subject-Wise PYQ](Subject-Wise/subject-wise-pyq.md) · [Year-Wise PYQ](Year-Wise/year-wise-pyq.md) · [High-Yield Topics](High-Yield-Topics/high-yield-topics.md) · [Quick Revision](../05-Quick-Revision/README.md)
+
 ## What Are PYQs and Why They Are Non-Negotiable
 
 Previous Year Questions (PYQs) are the single most reliable predictor of what NEET PG will test. The exam is pattern-driven — examiners return to the same concepts year after year, sometimes with identical stems, sometimes with slight modifications. Solving and analyzing PYQs is not optional; it is the core of any serious preparation strategy.

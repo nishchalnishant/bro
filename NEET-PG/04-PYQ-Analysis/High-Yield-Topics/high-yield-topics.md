@@ -6,6 +6,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## ANATOMY
 
+> **Study resources:** [Notes](../../01-Pre-Clinical/Anatomy/anatomy-notes.md) · [MCQs](../../01-Pre-Clinical/Anatomy/anatomy-mcqs.md) · [Lecture](../../01-Pre-Clinical/Anatomy/anatomy-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Anatomy/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Brachial Plexus**
@@ -77,6 +79,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## PHYSIOLOGY
 
+> **Study resources:** [Notes](../../01-Pre-Clinical/Physiology/physiology-notes.md) · [MCQs](../../01-Pre-Clinical/Physiology/physiology-mcqs.md) · [Lecture](../../01-Pre-Clinical/Physiology/physiology-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Physiology/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Cardiac Cycle and Pressure-Volume Loop**
@@ -128,6 +132,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## BIOCHEMISTRY
+
+> **Study resources:** [Notes](../../01-Pre-Clinical/Biochemistry/biochemistry-notes.md) · [MCQs](../../01-Pre-Clinical/Biochemistry/biochemistry-mcqs.md) · [Lecture](../../01-Pre-Clinical/Biochemistry/biochemistry-lecture.md) · [Weak Topics](../../01-Pre-Clinical/Biochemistry/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -186,6 +192,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## PATHOLOGY
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Pathology/pathology-notes.md) · [MCQs](../../02-Para-Clinical/Pathology/pathology-mcqs.md) · [Lecture](../../02-Para-Clinical/Pathology/pathology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Pathology/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -260,6 +268,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## PHARMACOLOGY
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Pharmacology/pharmacology-notes.md) · [MCQs](../../02-Para-Clinical/Pharmacology/pharmacology-mcqs.md) · [Lecture](../../02-Para-Clinical/Pharmacology/pharmacology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Pharmacology/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -336,6 +346,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## MICROBIOLOGY
 
+> **Study resources:** [Notes](../../02-Para-Clinical/Microbiology/microbiology-notes.md) · [MCQs](../../02-Para-Clinical/Microbiology/microbiology-mcqs.md) · [Lecture](../../02-Para-Clinical/Microbiology/microbiology-lecture.md) · [Weak Topics](../../02-Para-Clinical/Microbiology/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Hepatitis Serology**
@@ -404,6 +416,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## FORENSIC MEDICINE
 
+> **Study resources:** [Notes](../../02-Para-Clinical/Forensic-Medicine/forensic-notes.md) · [MCQs](../../02-Para-Clinical/Forensic-Medicine/forensic-mcqs.md) · [Lecture](../../02-Para-Clinical/Forensic-Medicine/forensic-lecture.md) · [Weak Topics](../../02-Para-Clinical/Forensic-Medicine/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Rigor Mortis**
@@ -462,6 +476,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## SPM / COMMUNITY MEDICINE
+
+> **Study resources:** [Notes](../../02-Para-Clinical/Community-Medicine-SPM/spm-notes.md) · [MCQs](../../02-Para-Clinical/Community-Medicine-SPM/spm-mcqs.md) · [Lecture](../../02-Para-Clinical/Community-Medicine-SPM/spm-lecture.md) · [Weak Topics](../../02-Para-Clinical/Community-Medicine-SPM/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -528,6 +544,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## GENERAL MEDICINE
 
+> **Study resources:** [Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [MCQs](../../03-Clinical/General-Medicine/medicine-mcqs.md) · [Lecture](../../03-Clinical/General-Medicine/medicine-lecture.md) · [Weak Topics](../../03-Clinical/General-Medicine/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Diabetes Mellitus**
@@ -583,6 +601,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## GENERAL SURGERY
 
+> **Study resources:** [Notes](../../03-Clinical/General-Surgery/surgery-notes.md) · [MCQs](../../03-Clinical/General-Surgery/surgery-mcqs.md) · [Lecture](../../03-Clinical/General-Surgery/surgery-lecture.md) · [Weak Topics](../../03-Clinical/General-Surgery/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Hernia**
@@ -615,6 +635,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## OBG
+
+> **Study resources:** [Notes](../../03-Clinical/OBG/obg-notes.md) · [MCQs](../../03-Clinical/OBG/obg-mcqs.md) · [Lecture](../../03-Clinical/OBG/obg-lecture.md) · [Weak Topics](../../03-Clinical/OBG/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -658,6 +680,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## PEDIATRICS
+
+> **Study resources:** [Notes](../../03-Clinical/Pediatrics/pediatrics-notes.md) · [MCQs](../../03-Clinical/Pediatrics/pediatrics-mcqs.md) · [Lecture](../../03-Clinical/Pediatrics/pediatrics-lecture.md) · [Weak Topics](../../03-Clinical/Pediatrics/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -710,6 +734,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## ENT
 
+> **Study resources:** [Notes](../../03-Clinical/ENT/ent-notes.md) · [MCQs](../../03-Clinical/ENT/ent-mcqs.md) · [Lecture](../../03-Clinical/ENT/ent-lecture.md) · [Weak Topics](../../03-Clinical/ENT/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Tuning Fork Tests**
@@ -736,6 +762,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## OPHTHALMOLOGY
+
+> **Study resources:** [Notes](../../03-Clinical/Ophthalmology/ophthalmology-notes.md) · [MCQs](../../03-Clinical/Ophthalmology/ophthalmology-mcqs.md) · [Lecture](../../03-Clinical/Ophthalmology/ophthalmology-lecture.md) · [Weak Topics](../../03-Clinical/Ophthalmology/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -777,6 +805,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## PSYCHIATRY
 
+> **Study resources:** [Notes](../../03-Clinical/Psychiatry/psychiatry-notes.md) · [MCQs](../../03-Clinical/Psychiatry/psychiatry-mcqs.md) · [Lecture](../../03-Clinical/Psychiatry/psychiatry-lecture.md) · [Weak Topics](../../03-Clinical/Psychiatry/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Schizophrenia**
@@ -807,6 +837,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## DERMATOLOGY
 
+> **Study resources:** [Notes](../../03-Clinical/Dermatology/dermatology-notes.md) · [MCQs](../../03-Clinical/Dermatology/dermatology-mcqs.md) · [Lecture](../../03-Clinical/Dermatology/dermatology-lecture.md) · [Weak Topics](../../03-Clinical/Dermatology/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Pemphigus vs Bullous Pemphigoid**
@@ -836,6 +868,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 
 ## ORTHOPEDICS
 
+> **Study resources:** [Notes](../../03-Clinical/Orthopedics/orthopedics-notes.md) · [MCQs](../../03-Clinical/Orthopedics/orthopedics-mcqs.md) · [Lecture](../../03-Clinical/Orthopedics/orthopedics-lecture.md) · [Weak Topics](../../03-Clinical/Orthopedics/WEAK-TOPICS.md)
+
 ### Must-Know Topics
 
 **1. Fracture Classifications**
@@ -860,6 +894,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## ANESTHESIA
+
+> **Study resources:** [Notes](../../03-Clinical/Anesthesia/anesthesia-notes.md) · [MCQs](../../03-Clinical/Anesthesia/anesthesia-mcqs.md) · [Lecture](../../03-Clinical/Anesthesia/anesthesia-lecture.md) · [Weak Topics](../../03-Clinical/Anesthesia/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 
@@ -900,6 +936,8 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 ---
 
 ## RADIOLOGY
+
+> **Study resources:** [Notes](../../03-Clinical/Radiology/radiology-notes.md) · [MCQs](../../03-Clinical/Radiology/radiology-mcqs.md) · [Lecture](../../03-Clinical/Radiology/radiology-lecture.md) · [Weak Topics](../../03-Clinical/Radiology/WEAK-TOPICS.md)
 
 ### Must-Know Topics
 

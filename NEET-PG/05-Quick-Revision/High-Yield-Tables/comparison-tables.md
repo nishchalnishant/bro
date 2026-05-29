@@ -1,5 +1,7 @@
 # Comparison Tables — NEET PG High-Yield
 
+> **Quick Revision:** [Last-Day Notes](../Last-Day-Notes/last-day-notes.md) · [Mnemonics](../Mnemonics/master-mnemonics.md) · [One-Liners](../One-Liners/master-one-liners.md) · [Normal Values](../Normal-Values/normal-values.md) · [High-Yield Topics](../../04-PYQ-Analysis/High-Yield-Topics/high-yield-topics.md)
+
 Frequently tested comparison tables. Each table covers distinguishing features between conditions that are commonly confused in MCQs.
 
 ---
@@ -794,3 +796,158 @@ Mnemonic for causes of hypercalcemia — **CHIMPANZEES**: Calcium supplementatio
 | PCWP vs CVP | Both ↓ | Both ↑ | Both ↓ | Both ↑ in tamponade (equalization of pressures — hallmark) |
 
 **Key Distinguishing Feature:** PCWP ↑ + CO ↓ + SVR ↑ = cardiogenic shock. PCWP ↓ + CO ↓ + SVR ↑ = hypovolemic. PCWP ↓ + CO ↑ + SVR ↓ = distributive (early septic). Equalization of all filling pressures (CVP = RVEDP = PCWP) = cardiac tamponade.
+
+---
+
+## 41. SPM — Epidemiological Study Designs
+
+> **Deep dive:** [SPM Notes](../../02-Para-Clinical/Community-Medicine-SPM/spm-notes.md) · [SPM MCQs](../../02-Para-Clinical/Community-Medicine-SPM/spm-mcqs.md)
+
+| Feature | RCT | Cohort | Case-Control | Cross-Sectional |
+|---------|-----|--------|-------------|-----------------|
+| Direction | Forward (prospective) | Forward | Backward (retrospective) | Snapshot |
+| Starts with | Exposure (randomized) | Exposure | Outcome (cases) | Population sample |
+| Control group | Yes (randomized) | Yes (unexposed) | Yes (controls) | N/A |
+| Measures | Incidence, Efficacy | Incidence, RR, AR | Odds Ratio | Prevalence |
+| Best for | Causation (gold standard) | Rare exposure; multiple outcomes | Rare disease; quick/cheap | Prevalence; hypothesis generation |
+| Confounding | Minimized by randomization | Prone to selection bias | Prone to recall bias | Moderate |
+| Blinding possible | Yes (single/double) | No | No | No |
+| Time/cost | Long, expensive | Long, expensive | Short, cheap | Short, cheap |
+| Key bias | None (if done correctly) | Loss to follow-up | Recall bias | Prevalence-incidence bias |
+
+**Key numbers:**
+- RR (Relative Risk) = used in cohort studies; RR > 1 = risk factor
+- OR (Odds Ratio) = used in case-control; OR approximates RR when disease is rare
+- NNT (Number Needed to Treat) = 1/ARR
+
+---
+
+## 42. SPM — Vaccine Schedule Comparison
+
+> **Deep dive:** [SPM Notes](../../02-Para-Clinical/Community-Medicine-SPM/spm-notes.md)
+
+| Vaccine | Type | Route | Age | Doses | Cold Chain temp |
+|---------|------|-------|-----|-------|-----------------|
+| BCG | Live attenuated | ID (left arm) | Birth | 1 | +2 to +8°C |
+| OPV | Live attenuated | Oral | Birth, 6w, 10w, 14w | 4 (+ boosters) | -15 to -25°C (freezer) |
+| Hepatitis B | Recombinant | IM | Birth, 6w, 10w, 14w | 4 | +2 to +8°C |
+| DPT | Killed (toxoid+killed) | IM | 6w, 10w, 14w + 16–24m + 5y | 5 | +2 to +8°C |
+| IPV | Killed | IM/SC | 6w, 14w | 2 | +2 to +8°C |
+| MMR | Live attenuated | SC | 9m, 15m | 2 | +2 to +8°C |
+| Typhoid | Vi capsular polysaccharide | IM | >2y | 1 (repeat 3y) | +2 to +8°C |
+| Hep A | Killed | IM | 12m, 18m | 2 | +2 to +8°C |
+| Varicella | Live attenuated | SC | 15m, 4–6y | 2 | +2 to +8°C |
+| Td booster | Toxoid | IM | 10y, 16y | 2 | +2 to +8°C |
+
+**PYQ hotspots:** Most heat-sensitive vaccine = OPV (stores at −15 to −25°C). Most freeze-sensitive = Hepatitis B, DPT (never freeze). BCG: left deltoid, intradermal, produces a wheal.
+
+---
+
+## 43. Forensic — Manner vs Cause vs Mode of Death
+
+> **Deep dive:** [Forensic Notes](../../02-Para-Clinical/Forensic-Medicine/forensic-notes.md) · [Forensic MCQs](../../02-Para-Clinical/Forensic-Medicine/forensic-mcqs.md)
+
+| Concept | Definition | Example |
+|---------|-----------|---------|
+| Cause of death | Disease/injury initiating the chain of events | Stab wound to abdomen |
+| Manner of death | Circumstances — natural/accident/suicide/homicide/undetermined | Homicide |
+| Mode of death | Immediate physiological mechanism | Hemorrhagic shock |
+| Underlying cause | Root cause for death certificates | Peritonitis from stab wound |
+
+### Asphyxia Types Comparison
+
+| Feature | Hanging | Manual Strangulation | Throttling | Smothering |
+|---------|---------|---------------------|------------|------------|
+| Ligature mark | Oblique, discontinuous, above thyroid | Horizontal, continuous, below thyroid cartilage | Fingernail/finger marks on neck | None on neck |
+| Hyoid bone # | Rare (high suspension) | Common | Common (thumbs compress) | Absent |
+| Petechiae | Rare (jugular compressed with arterial) | Present | Present | Present (face/conjunctiva) |
+| Cause of death | Cerebral anemia (judicial) / asphyxia (suicidal) | Asphyxia + venous obstruction | Compression of airway | Obstruction of external airway |
+| Manner | Suicidal (most common), homicidal, accidental | Homicidal (virtually always) | Homicidal | Homicidal/accidental |
+| Contusions in strap muscles | Absent | Present | Present | Absent |
+
+**PYQ hotspot:** Throttling = homicidal always (cannot throttle yourself). Hanging can be self-inflicted.
+
+---
+
+## 44. Psychiatry — Psychosis vs Neurosis vs Personality Disorder
+
+> **Deep dive:** [Psychiatry Notes](../../03-Clinical/Psychiatry/psychiatry-notes.md) · [Psychiatry MCQs](../../03-Clinical/Psychiatry/psychiatry-mcqs.md)
+
+| Feature | Psychosis | Neurosis | Personality Disorder |
+|---------|----------|----------|---------------------|
+| Reality testing | Impaired | Intact | Intact but distorted |
+| Insight | Absent | Present (source of distress) | Variable (often poor) |
+| Ego-dystonic | No (feels normal to patient) | Yes (patient suffers) | Variable |
+| Examples | Schizophrenia, mania with psychosis | OCD, GAD, phobias | ASPD, BPD, NPD |
+| Age of onset | Late teens/20s (schizophrenia) | Any age | By early adulthood |
+| Treatment | Antipsychotics ± mood stabilizers | Psychotherapy + anxiolytics/antidepressants | Psychotherapy (limited pharmacotherapy) |
+
+### Schizophrenia vs Schizoaffective vs Brief Psychotic Disorder
+
+| Feature | Schizophrenia | Schizoaffective | Brief Psychotic |
+|---------|--------------|-----------------|-----------------|
+| Duration | >6 months | >1 month (mood episode concurrent) | 1 day–1 month |
+| Mood episodes | Absent or brief | Prominent (≥50% of total duration) | Absent |
+| Prognosis | Chronic, poor | Better than schizophrenia | Best |
+| First-line Rx | Atypical antipsychotics | Atypical antipsychotic ± mood stabilizer | Antipsychotics short-term |
+| Negative symptoms | Prominent | Less prominent | Absent |
+
+---
+
+## 45. Dermatology — Bullous/Vesicular Disorders
+
+> **Deep dive:** [Dermatology Notes](../../03-Clinical/Dermatology/dermatology-notes.md) · [Dermatology MCQs](../../03-Clinical/Dermatology/dermatology-mcqs.md)
+
+| Feature | Pemphigus Vulgaris | Bullous Pemphigoid | Dermatitis Herpetiformis | Steven-Johnson Syndrome |
+|---------|-------------------|-------------------|--------------------------|------------------------|
+| Blister level | Intraepidermal (suprabasal) | Subepidermal | Subepidermal | Subepidermal (full-thickness epidermal necrosis) |
+| Nikolsky sign | Positive | Negative | Negative | Positive (TEN variant) |
+| Mucosal involvement | Always (oral > skin) | Rare | Rare | Always (>2 mucosal surfaces) |
+| Antibody target | Desmoglein 1 & 3 (desmosomes) | BP180 & BP230 (hemidesmosome) | Tissue transglutaminase (IgA) | Drug-induced T-cell mediated |
+| Associated condition | None specific | Elderly; autoimmune | Celiac disease (gluten-sensitive) | Drug reaction (sulfa, AEDs) |
+| Pruritus | Absent | Prominent | Very prominent | Absent (painful) |
+| Treatment | Steroids + immunosuppressants | Steroids (topical/systemic) | Dapsone + gluten-free diet | Stop drug; supportive (burn unit) |
+| Age group | Middle-aged | Elderly (>60) | Young adults | Any age |
+
+### Acne vs Rosacea vs Perioral Dermatitis
+
+| Feature | Acne Vulgaris | Rosacea | Perioral Dermatitis |
+|---------|--------------|---------|---------------------|
+| Comedones | Present (open/closed) | Absent | Absent |
+| Location | Face, back, chest | Central face (nose, cheeks) | Around mouth/nose/eyes |
+| Trigger | Androgens, P. acnes | Heat, alcohol, sun, spicy food | Topical steroids, fluoride |
+| Rhinophyma | No | Yes (late-stage) | No |
+| Treatment | Benzoyl peroxide, retinoids, antibiotics | Metronidazole, azelaic acid, doxycycline | Stop steroid; oral tetracycline |
+
+---
+
+## 46. Orthopedics — Fracture Types and Complications
+
+> **Deep dive:** [Orthopedics Notes](../../03-Clinical/Orthopedics/orthopedics-notes.md) · [Orthopedics MCQs](../../03-Clinical/Orthopedics/orthopedics-mcqs.md)
+
+| Fracture | Eponym/Type | Classic Deformity | Common Complication | Nerve at Risk |
+|---------|-------------|-------------------|---------------------|---------------|
+| Clavicle (mid-shaft) | — | Drooping shoulder | Brachial plexus injury | Brachial plexus |
+| Proximal humerus | — | Loss of shoulder contour | AVN of humeral head | Axillary nerve |
+| Surgical neck humerus | — | — | Axillary nerve palsy | Axillary nerve |
+| Mid-shaft humerus | Holstein-Lewis | Wrist drop | Radial nerve palsy | Radial nerve |
+| Supracondylar humerus | Extension type (Gartland) | Cubitus varus (gun-stock) | Anterior interosseous n. / Volkmann's ischemia | Anterior interosseous nerve |
+| Lateral condyle | — | Cubitus valgus | Tardy ulnar nerve palsy | Ulnar nerve (late) |
+| Colles' fracture | Distal radius (dorsally angulated) | Dinner fork deformity | Median nerve compression, CRPS | Median nerve |
+| Smith's fracture | Distal radius (volar angulation) | Garden spade deformity | — | — |
+| Scaphoid | — | Snuffbox tenderness | AVN of proximal fragment | — |
+| Femoral neck | — | Shortened, externally rotated | AVN (most common), non-union | — |
+| Mid-shaft femur | — | Shortened, externally rotated | Fat embolism, popliteal artery injury | Sciatic nerve |
+| Tibial plateau | — | Valgus/varus deformity | Compartment syndrome, popliteal artery | Common peroneal nerve |
+| Ankle (bimalleolar) | Pott's fracture | Eversion injury | Syndesmotic injury | Peroneal nerve |
+| Calcaneum | — | Broadened heel, flattened arch | Compartment syndrome | — |
+
+### Compartment Syndrome vs Ischemia
+
+| Feature | Compartment Syndrome | Acute Limb Ischemia |
+|---------|---------------------|---------------------|
+| 6 Ps | Pain (disproportionate), Pressure ↑, Paresthesia, Paralysis, Pallor, Pulselessness (late) | Painful, Pale, Pulseless, Paresthesia, Paralysis, Perishing cold |
+| Pulses | Present early (lost late) | Absent from onset |
+| Compartment pressure | >30 mmHg (or within 30 of diastolic) | Normal |
+| Treatment | Urgent fasciotomy | Embolectomy/thrombolysis |
+| Cause | Tight cast, crush injury, reperfusion | Embolism (AF), thrombosis (atherosclerosis) |

@@ -1,5 +1,7 @@
 # Master One-Liners — NEET PG
 
+> **Quick Revision:** [Last-Day Notes](../Last-Day-Notes/last-day-notes.md) · [Mnemonics](../Mnemonics/master-mnemonics.md) · [Comparison Tables](../High-Yield-Tables/comparison-tables.md) · [Normal Values](../Normal-Values/normal-values.md) · [High-Yield Topics](../../04-PYQ-Analysis/High-Yield-Topics/high-yield-topics.md)
+
 Format: Q: [what is asked] → A: [answer]
 
 One-liners are organized by subject. Each covers a frequently tested single fact. Use these for rapid-fire revision, spaced repetition, and last-day review.
