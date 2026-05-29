@@ -951,3 +951,152 @@ Mnemonic for causes of hypercalcemia — **CHIMPANZEES**: Calcium supplementatio
 | Compartment pressure | >30 mmHg (or within 30 of diastolic) | Normal |
 | Treatment | Urgent fasciotomy | Embolectomy/thrombolysis |
 | Cause | Tight cast, crush injury, reperfusion | Embolism (AF), thrombosis (atherosclerosis) |
+
+---
+
+### Table 47: Shock Types — Hemodynamic Profile
+
+| Parameter | Cardiogenic | Hypovolemic | Distributive (Septic) | Obstructive (PE/Tamponade) | Neurogenic |
+|-----------|------------|-------------|----------------------|---------------------------|-----------|
+| Cardiac Output | ↓↓ | ↓ | ↑ (early) / ↓ (late) | ↓ | ↓ |
+| PCWP/CVP | ↑↑ (PCWP ↑) | ↓↓ | ↓ | ↑ (CVP ↑) | ↓ |
+| SVR | ↑↑ | ↑↑ | ↓↓ | ↑↑ | ↓↓ |
+| Skin | Cold, clammy | Cold, clammy | Warm, flushed (early) | Cold | Warm, dry (below lesion) |
+| Pulse | Weak, thready | Weak | Bounding (early) | Weak | Bradycardic (paradox) |
+| JVP | ↑ | ↓ | ↓ | ↑↑ (tamponade: pulsus paradoxus) | ↓ |
+| Treatment focus | Inotropes, diuretics | IV fluids (RL/NS) | Antibiotics + fluids + vasopressors | Treat cause (thrombolysis/pericardiocentesis) | Fluids + vasopressors, avoid bradycardia |
+
+> **Deep dive:** [Medicine Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [Medicine MCQs](../../03-Clinical/General-Medicine/medicine-mcqs.md)
+
+---
+
+### Table 48: Types of Jaundice — Differentiation
+
+| Feature | Pre-Hepatic (Hemolytic) | Hepatic (Hepatocellular) | Post-Hepatic (Obstructive/Cholestatic) |
+|---------|------------------------|--------------------------|---------------------------------------|
+| Bilirubin type | Unconjugated ↑↑ | Both ↑ (conjugated > unconjugated) | Conjugated ↑↑ |
+| Urine bilirubin | Absent (not filtered) | Present (conjugated = water soluble) | Present (dark urine = "cola-colored") |
+| Urine urobilinogen | ↑↑ | ↑ (early) / ↓ (late, liver failure) | ↓ or absent (no bile reaching gut) |
+| Stool color | Normal or dark | Pale | Pale/clay-colored (acholic stools) |
+| LFTs (ALT/AST) | Normal | ↑↑↑ | Mildly ↑ |
+| ALP/GGT | Normal | ↑ | ↑↑↑ |
+| Pruritus | Absent | Variable | Severe (bile salts in skin) |
+| Examples | Malaria, G6PD, sickle cell, hereditary spherocytosis | Viral hepatitis, alcoholic hepatitis, drug-induced | Choledocholithiasis, cholangiocarcinoma, pancreatic head CA, primary biliary cholangitis |
+
+> **Deep dive:** [Medicine Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [Surgery Notes](../../03-Clinical/General-Surgery/surgery-notes.md)
+
+---
+
+### Table 49: Fever Patterns and Associated Diagnoses
+
+| Pattern | Description | Classic Association |
+|---------|-------------|---------------------|
+| Continuous | Sustained fever, no remissions >0.5°C | Typhoid (rose spots, step-ladder initial but then sustained), lobar pneumonia |
+| Remittent | Daily fluctuations >0.5°C but never reaches normal | Viral infections, infective endocarditis, most bacterial infections |
+| Intermittent | Fever spikes with return to normal (afebrile intervals) | Malaria (tertian/quartan), pyemia, septicemia with bacteremia |
+| Tertian | Fever every 3rd day (48h cycle) | P. vivax, P. ovale (benign tertian); P. falciparum (malignant tertian) |
+| Quartan | Fever every 4th day (72h cycle) | P. malariae |
+| Quotidian | Daily fever spikes | Double infection vivax (two brood cycles), P. knowlesi |
+| Pel-Ebstein | Alternate weeks of fever and afebrile period | Hodgkin's lymphoma (classic, but rare) |
+| Undulant | Gradual rise and fall over weeks | Brucellosis |
+| Hectic/Septic | Spikes with rigors, wide swings | Pyogenic abscess, empyema, septicemia |
+| Saddle-back (biphasic) | Two fever phases separated by brief remission | Dengue fever, leptospirosis, yellow fever |
+
+> **Deep dive:** [Medicine Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [Microbiology Notes](../../02-Para-Clinical/Microbiology/microbiology-notes.md)
+
+---
+
+### Table 50: Drug-Induced Disorders — Classic Associations
+
+| Drug | Classic Adverse Effect | Mechanism/Note |
+|------|----------------------|----------------|
+| Isoniazid (INH) | Peripheral neuropathy; hepatotoxicity; drug-induced lupus | Pyridoxine (B6) depletion; prevent with B6 supplementation |
+| Rifampicin | Orange discoloration of body fluids; hepatotoxicity; drug interactions (CYP450 inducer) | Warn patient about urine/tears/sweat color change |
+| Ethambutol | Optic neuritis (retrobulbar) — red-green color blindness + decreased acuity | Dose-dependent; reversible if stopped early |
+| Pyrazinamide | Hyperuricemia; hepatotoxicity | Inhibits urate excretion |
+| Metformin | Lactic acidosis (rare); Vit B12 deficiency; GI side effects | Avoid if eGFR <30; hold before contrast |
+| Amiodarone | Pulmonary fibrosis, corneal deposits, thyroid (hypo + hyper), photosensitivity, peripheral neuropathy | Iodine-rich drug; check TFT, PFT, LFT |
+| Chloroquine/Hydroxychloroquine | Retinopathy (bull's-eye maculopathy) | Screen with annual ophthalmology review |
+| Lithium | Nephrogenic DI; hypothyroidism; tremor; narrow therapeutic index | Toxic signs: coarse tremor, ataxia, confusion |
+| Methotrexate | Hepatic fibrosis; pulmonary toxicity (interstitial pneumonitis); bone marrow suppression; mucositis | Folate supplementation given concurrently |
+| Clozapine | Agranulocytosis (mandatory WBC monitoring); metabolic syndrome; seizures; hypersalivation | Weekly CBC for first 18 weeks |
+| Cisplatin | Nephrotoxicity; ototoxicity (sensorineural deafness); peripheral neuropathy; hypomagnesemia | Aggressive IV hydration before; monitor Mg |
+| Vincristine | Peripheral neuropathy (most common vinca alkaloid SE); SIADH | Neurotoxicity is dose-limiting |
+| Bleomycin | Pulmonary fibrosis (dose-limiting); skin hyperpigmentation; Raynaud's | Avoid high FiO2 (worsens lung toxicity) |
+| Cyclophosphamide | Hemorrhagic cystitis; bladder cancer; SIADH | Give mesna + hydration to prevent bladder toxicity |
+| Corticosteroids | Osteoporosis; hyperglycemia; Cushingoid; infection risk; glaucoma; cataracts; adrenal suppression | Give bisphosphonate prophylaxis if >3 months use |
+| NSAIDs | GI ulceration; renal (AIN, papillary necrosis); platelet inhibition; NSAID-induced asthma | COX-2 selective (celecoxib) = less GI risk but CV risk |
+| Sulfonamides | Stevens-Johnson syndrome; photosensitivity; G6PD hemolysis; kernicterus in neonates | Avoid in G6PD deficiency and near-term pregnancy |
+| Tetracyclines | Teeth discoloration and inhibition of bone growth (children <8 years); photosensitivity | Contraindicated in children <8 and pregnancy |
+| Quinine | Cinchonism (tinnitus, deafness, visual disturbance); hypoglycemia; blackwater fever | Monitor blood glucose during IV therapy |
+
+> **Deep dive:** [Pharmacology Notes](../../02-Para-Clinical/Pharmacology/pharmacology-notes.md) · [Pharmacology MCQs](../../02-Para-Clinical/Pharmacology/pharmacology-mcqs.md)
+
+---
+
+### Table 51: Major Clinical Scoring Systems
+
+| Score | Disease/Setting | Components | Interpretation |
+|-------|----------------|------------|----------------|
+| CURB-65 | Community-acquired pneumonia | Confusion, Urea >7, RR ≥30, BP <90/60, Age ≥65 | 0–1: outpatient; 2: admit; ≥3: ICU |
+| Wells (DVT) | Deep vein thrombosis | Clinical probability score (0–8) | Low (<2), Moderate (2–6), High (>6) |
+| Wells (PE) | Pulmonary embolism | Clinical probability | Low (<2), Moderate (2–6), High (>6) |
+| CHADS2-VASC | AF stroke risk | CHF, HTN, Age ≥75(×2), DM, Stroke(×2), Vasc, Age 65-74, Sex | ≥2 (men) or ≥3 (women) = anticoagulate |
+| GRACE | ACS risk stratification | Age, HR, BP, creatinine, Killip, arrest, ST deviation, enzymes | Low/Med/High risk guides early invasive strategy |
+| Ranson's | Acute pancreatitis | 5 criteria at admission + 6 at 48h | ≥3 = severe; mortality rises sharply |
+| Glasgow (Pancreatitis) | Acute pancreatitis severity | PaO2 <60, Age >55, WBC >15k, Glucose >10, Urea >16, LDH, Albumin, Ca²⁺ | ≥3 = severe |
+| Revised Atlanta | Acute pancreatitis | Local/systemic complications + organ failure | Mild/Moderately Severe/Severe |
+| Child-Pugh | Liver cirrhosis | Bilirubin, Albumin, PT/INR, Ascites, Encephalopathy | A(5–6) / B(7–9) / C(10–15) |
+| MELD | Liver transplant priority | Creatinine, Bilirubin, INR | Higher score = higher urgency for transplant |
+| NIHSS | Acute stroke severity | 11 domains (consciousness, gaze, visual, facial, motor, etc.) | 0 = normal; ≥15 = severe stroke |
+| GCS | Consciousness level | Eye(4) + Verbal(5) + Motor(6) | Max 15; ≤8 = severe TBI, consider intubation |
+| APACHE II | ICU severity | 12 acute physiology params + age + chronic health | Higher = greater mortality prediction |
+| SOFA | Sepsis organ dysfunction | PaO2/FiO2, GCS, MAP/vasopressors, Cr, Bilirubin, Platelets | ≥2 = organ dysfunction = sepsis |
+| qSOFA | Rapid sepsis screen (non-ICU) | Altered mental status, RR ≥22, SBP ≤100 | ≥2 = high sepsis suspicion |
+| Bishop Score | Cervical ripening/induction | Dilation, Effacement, Station, Consistency, Position | ≥8 = favorable; <6 = needs ripening |
+| APGAR | Neonatal status | Appearance, Pulse, Grimace, Activity, Respiration | 7–10 normal; 4–6 moderate; 0–3 severe |
+
+> **Deep dive:** [Medicine Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [Surgery Notes](../../03-Clinical/General-Surgery/surgery-notes.md) · [OBG Notes](../../03-Clinical/OBG/obg-notes.md)
+
+---
+
+### Table 52: Antibiotic Classes and Key Mechanisms
+
+| Antibiotic Class | Key Members | Mechanism | Spectrum/Key Use | Resistance Mechanism |
+|-----------------|------------|-----------|-----------------|---------------------|
+| Penicillins | Amoxicillin, Piperacillin | Beta-lactam — inhibit cell wall transpeptidase (PBP) | Gram+, some Gram- | Beta-lactamase (penicillinase) |
+| Cephalosporins (1st–5th) | Cefazolin(1st), Cefuroxime(2nd), Ceftriaxone(3rd), Cefepime(4th), Ceftaroline(5th) | Same as penicillin | Broader spectrum, 3rd crosses BBB | ESBL, AmpC |
+| Carbapenems | Imipenem, Meropenem, Ertapenem | Broadest beta-lactam; stable to most beta-lactamases | Broad; reserve for ESBL/MDR | Carbapenemases (KPC, NDM) |
+| Glycopeptides | Vancomycin, Teicoplanin | Inhibits cell wall (D-Ala-D-Ala terminus) — NOT a beta-lactam | Gram+ only; MRSA | VanA/VanB gene — D-Ala-D-Lac |
+| Aminoglycosides | Gentamicin, Amikacin, Tobramycin | Binds 30S ribosome → misreading of mRNA | Gram- (synergistic with beta-lactams for Gram+); TB | Modifying enzymes (acetyltransferase) |
+| Macrolides | Azithromycin, Clarithromycin, Erythromycin | Binds 50S ribosome (23S rRNA) — inhibits translocation | Atypicals (Mycoplasma, Legionella, Chlamydia); community Gram+ | Methylation of 23S rRNA (erm gene) |
+| Fluoroquinolones | Ciprofloxacin, Levofloxacin, Moxifloxacin | Inhibit DNA gyrase (Gram-) and Topoisomerase IV (Gram+) | Broad; UTI, respiratory, TB (later-line) | Mutation in gyrA/parC; efflux pumps |
+| Tetracyclines | Doxycycline, Minocycline | Binds 30S ribosome — blocks aminoacyl-tRNA binding | Broad; Rickettsia, Chlamydia, Brucella, atypicals | Efflux pumps (tet genes) |
+| Linezolid | Linezolid | Binds 23S rRNA of 50S — blocks initiation complex formation | MRSA, VRE | Mutation in 23S rRNA |
+| Metronidazole | Metronidazole | Reduces to toxic radical in anaerobes/protozoa → DNA strand break | Anaerobes, Giardia, Amoebiasis, H. pylori (in triple therapy), C. difficile | Nitroimidazole reductase mutation |
+| Polymyxins | Colistin (Polymyxin E), Polymyxin B | Binds LPS of outer membrane → disrupts membrane | MDR Gram- (last resort) | LPS modifications (mcr-1 gene) |
+
+> **Deep dive:** [Microbiology Notes](../../02-Para-Clinical/Microbiology/microbiology-notes.md) · [Pharmacology Notes](../../02-Para-Clinical/Pharmacology/pharmacology-notes.md)
+
+---
+
+### Table 53: Tumour Markers — Clinical Reference
+
+| Marker | Associated Tumour(s) | Also Elevated In | Notes |
+|--------|---------------------|-----------------|-------|
+| AFP (Alpha-fetoprotein) | HCC, Yolk sac tumour (germ cell) | Pregnancy, NTDs (maternal serum AFP), Ataxia telangiectasia | Normal <10 ng/mL; >400 in HCC |
+| CEA (Carcinoembryonic antigen) | Colorectal cancer (monitoring), also lung, breast, pancreas | Smokers, IBD, cirrhosis | Not diagnostic; used for recurrence monitoring |
+| CA 19-9 | Pancreatic cancer, cholangiocarcinoma | Pancreatitis, cholangitis, biliary obstruction | Elevated in jaundice even without malignancy |
+| CA 125 | Ovarian cancer (serous type) | Endometriosis, PID, pregnancy, any peritoneal disease | Not specific; used with ROMA score |
+| CA 15-3 | Breast cancer (monitoring) | Benign breast disease | For monitoring, not screening |
+| PSA (Prostate-Specific Antigen) | Prostate cancer | BPH, prostatitis, recent DRE/cystoscopy | Free PSA % ↓ in cancer vs BPH |
+| hCG (beta-hCG) | Choriocarcinoma, gestational trophoblastic disease, mixed germ cell; ectopic pregnancy | Normal pregnancy | Markedly elevated in hydatidiform mole |
+| LDH | Non-Hodgkin lymphoma (staging), germ cell tumours, haematological malignancies | Hemolysis, MI, any tissue destruction | Non-specific marker of tumour burden |
+| NSE (Neuron-Specific Enolase) | Small cell lung cancer (SCLC), neuroblastoma, carcinoid | — | SCLC = paraneoplastic syndromes |
+| Calcitonin | Medullary thyroid carcinoma (MTC) | — | Screen family members; part of MEN2 |
+| Chromogranin A | Carcinoid tumour, pheochromocytoma, NETs | — | Best overall NET marker |
+| S-100 | Melanoma, schwannoma, histiocytosis | — | Also used in brain injury (S-100B) |
+| PLAP | Seminoma | — | Placental alkaline phosphatase |
+| VMA/HVA | Pheochromocytoma (VMA), Neuroblastoma (HVA, VMA) | — | 24-hour urine catecholamines |
+
+> **Deep dive:** [Pathology Notes](../../02-Para-Clinical/Pathology/pathology-notes.md) · [Medicine Notes](../../03-Clinical/General-Medicine/medicine-notes.md) · [Surgery Notes](../../03-Clinical/General-Surgery/surgery-notes.md)

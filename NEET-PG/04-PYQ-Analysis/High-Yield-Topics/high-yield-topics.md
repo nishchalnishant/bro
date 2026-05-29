@@ -759,6 +759,22 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 - Mild hearing loss: 26–40 dB; moderate: 41–60 dB; severe: 61–80 dB; profound: >80 dB
 - Pure tone average (PTA): average of 500, 1000, 2000, 4000 Hz thresholds
 
+### Examiner Traps
+
+- **"Which test for SNHL?"** — Rinne positive, Weber to better ear. Trap: students say "Weber to affected ear" (that's CHL). Distinguish carefully: SNHL lateralizes to the BETTER (unaffected) ear.
+- **"Meniere's vs BPPV"** — Trap: both cause vertigo. Key: Meniere's has hearing loss + tinnitus + prolonged vertigo (minutes–hours); BPPV is seconds only, positional, no hearing loss.
+- **"Quinsy vs peritonsillar cellulitis"** — Quinsy = peritonsillar ABSCESS (uvula pushed to opposite side, trismus, bulging of soft palate) → needs aspiration/drainage. Cellulitis = no collection.
+- **"Acoustic neuroma (Vestibular Schwannoma)"** — most common CPA (cerebellopontine angle) tumour. Presents with unilateral SNHL (first symptom), then tinnitus, then facial nerve. NOT vertigo as first symptom typically.
+- **"Otosclerosis"** — autosomal dominant; conductive hearing loss in a young adult woman; Carhart notch (dip at 2000 Hz in bone conduction) = diagnostic. Treated with stapedectomy.
+- **"Singers' nodule"** — bilateral vocal cord nodules at junction of anterior 1/3 and posterior 2/3 (maximum vibration point). NOT the same as polyp (unilateral, sessile base).
+
+### Must-Know Numbers (ENT)
+- Normal hearing threshold: < 25 dB HL
+- Mild hearing loss: 26–40 dB; Moderate: 41–60 dB; Severe: 61–80 dB; Profound: >80 dB
+- ABG (air-bone gap): CHL > 15 dB gap; SNHL = no significant gap
+- Safe SNHL for school children: < 40 dB (otherwise hearing aids needed)
+- Middle ear pressure measured by: Tympanometry (Type B = flat curve = OME with effusion)
+
 ---
 
 ## OPHTHALMOLOGY
@@ -801,6 +817,22 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 - Visual acuity: expressed as 6/6 (metric) or 20/20 (Snellen)
 - Snellen chart: 6/60 = legally blind in India; <3/60 = economically blind; <6/60 = social blindness
 
+### Examiner Traps
+
+- **"Glaucoma: open-angle vs closed-angle"** — Primary open-angle glaucoma (POAG): painless, insidious, most common; cup:disc ratio >0.6; treated with timolol + latanoprost. Closed-angle (PACG): acute, painful, red eye, corneal haze, fixed mid-dilated pupil, raised IOP — ophthalmological emergency (laser iridotomy).
+- **"Cataract vs Glaucoma"** — Trap: both reduce vision. Cataract = cloudy lens, normal IOP, treated surgically. Glaucoma = optic nerve damage, raised IOP (usually), treated medically/surgically.
+- **"Retinal detachment symptoms"** — Flashes (photopsia) + floaters → curtain/shadow coming across vision. Macula-off = reduced central vision (worse prognosis). B-scan ultrasound if cannot see fundus (vitreous hemorrhage).
+- **"Diabetic retinopathy: NPDR vs PDR"** — NPDR: dot/blot hemorrhages, microaneurysms, hard exudates, cotton-wool spots. PDR: new vessels (NVD/NVE) = proliferative, high-risk feature; treat with PRP (pan-retinal photocoagulation). Clinically significant macular edema (CSME) at any stage → treat with laser/bevacizumab.
+- **"Trachoma"** — chlamydia trachomatis; leading cause of preventable blindness; WHO grading: TF (follicular), TI (intense), TS (scarring), TT (trichiasis), CO (corneal opacity). Treatment: azithromycin (SAFE strategy — Surgery, Antibiotics, Facial hygiene, Environmental improvement).
+- **"Rods vs Cones"** — Rods: peripheral retina, dim light (scotopic), no color; Cones: central (fovea/macula), bright light (photopic), color vision. Night blindness = rod disease (Vit A deficiency, retinitis pigmentosa).
+
+### Must-Know Numbers (Ophthalmology)
+- Normal IOP: 10–21 mmHg (Goldmann applanation tonometry)
+- IOP in acute glaucoma: often >40–50 mmHg
+- Normal cup:disc ratio: ≤ 0.5; >0.6 = suspicious; >0.8 = high suspicion of glaucoma
+- Visual acuity notation: 6/6 = normal (or 20/20 in feet notation)
+- Legally blind: VA < 6/60 in better eye OR visual field < 20° in better eye (WHO); India: VA <6/60 or VF <20°
+
 ---
 
 ## PSYCHIATRY
@@ -832,6 +864,32 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 - Major depressive episode: ≥2 weeks, ≥5 symptoms including depressed mood or anhedonia
 - Bipolar I: manic episode ≥7 days (or any if hospitalization); depressive episode common but not required for diagnosis
 - ECT: typically 6–12 sessions; most effective in severe/treatment-resistant depression, catatonia
+
+### Examiner Traps
+
+- **"Schizophrenia vs Schizoaffective"** — Schizoaffective = psychosis + prominent mood episode (depression or mania) occurring simultaneously. If mood features occupy majority of the illness = schizoaffective. If psychosis predominates + mood symptoms brief = schizophrenia.
+- **"Delirium vs Dementia"** — Delirium: ACUTE onset, fluctuating consciousness, impaired attention, usually reversible, has clear cause. Dementia: INSIDIOUS onset, clear consciousness, progressive memory loss. Delirium can be superimposed on dementia (common in elderly post-op).
+- **"OCD vs OCPD"** — OCD: ego-dystonic (patient distressed by obsessions), wants help, has insight. OCPD (personality disorder): ego-syntonic (perfectionism feels normal to patient), no insight.
+- **"Pseudoseizures (PNES)"** — psychogenic non-epileptic seizures: no EEG changes during event, eyes closed (epileptic seizures usually open), occur in stressful situations, can be bizarre movements. Video-EEG is gold standard for diagnosis. Normal prolactin (epileptic seizures raise prolactin within 30 min).
+- **"First-rank symptoms of schizophrenia (Schneider)"** — Thought insertion, withdrawal, broadcasting; Passivity/made phenomena; Third-person auditory hallucinations (commenting/arguing); Delusional perception. These are NOT pathognomonic of schizophrenia (can occur in bipolar, organic).
+- **"Neuroleptic Malignant Syndrome (NMS)"** — antipsychotic + lead-pipe rigidity + fever + autonomic instability + raised CK. Medical emergency. Stop the drug, give dantrolene + bromocriptine + supportive care. Differentiate from serotonin syndrome (hyperreflexia/clonus, not rigidity; caused by serotonergic drugs).
+
+### Must-Know Numbers (Psychiatry)
+- Schizophrenia duration criterion: symptoms ≥1 month (ICD-11); in DSM-5: ≥6 months total (1 month active)
+- Brief psychotic disorder: duration 1 day to <1 month
+- MDD: depressive symptoms ≥2 weeks; must cause functional impairment
+- Bipolar I: ≥1 manic episode (≥7 days or requiring hospitalization); Bipolar II: hypomania + major depression (never full mania)
+- GAD duration criterion: ≥6 months of excessive worry
+- Anorexia BMI: <17.5 kg/m² (ICD); severely low weight in DSM-5
+- ECT current indications: severe MDD unresponsive to meds, MDD with psychotic features, severe catatonia, acute suicidality with need for rapid response
+
+### Classic One-Liners (Psychiatry)
+- Most common psychiatric complication after MI: **Depression** (not anxiety)
+- Drug of choice for lithium-induced tremor: **Propranolol**
+- Drug of choice for neuroleptic-induced parkinsonism: **Trihexyphenidyl** (anticholinergic)
+- Most common psychiatric disorder in elderly: **Depression** (not dementia, though dementia is common)
+- "Token economy" = **operant conditioning** (positive reinforcement); used in schizophrenia rehabilitation
+- Systematic desensitization = **classical conditioning**; used in phobias
 
 ---
 
@@ -964,3 +1022,39 @@ Topics in this file appear in NEET PG every year or with very high frequency. Fo
 - Normal aorta on CT: ascending <4 cm, descending <3 cm; aneurysm = >4.5 cm (ascending) or >3 cm (descending)
 - Hounsfield Units: water = 0; fat = −100; blood (acute) = 40–80; bone = +400 to +1000; air = −1000
 - USG: cystic lesion = anechoic; liver is reference echogenicity; spleen > liver > kidney (normal echogenicity)
+
+### Examiner Traps
+
+- **"Chest X-ray: which side for right-sided pleural effusion?"** — Haziness on right side; obliteration of costophrenic angle; trachea shifts to LEFT (opposite) if large. Mediastinal shift to SAME side = collapse (atelectasis).
+- **"Consolidation vs collapse on CXR"** — Consolidation: airspace opacity + air bronchogram (bronchi remain patent) + no volume loss + trachea/mediastinum unchanged. Collapse: opacity + volume loss + trachea shifts TO the affected side.
+- **"CT vs MRI — which for what"** —
+  - CT better for: bone, acute hemorrhage (brain), lung parenchyma (HRCT), abdominal organs, trauma screening
+  - MRI better for: soft tissue, brain (posterior fossa, white matter, pituitary), spinal cord, joints, small structures
+  - CT faster: acute settings, unstable patients
+- **"Pulmonary embolism imaging"** — CTPA (CT pulmonary angiography) = investigation of choice. V/Q scan if contrast contraindicated (renal failure, allergy). D-dimer negative = rules out PE if pretest probability LOW. D-dimer positive alone does not diagnose PE.
+- **"Bone scan (Tc-99m MDP) hot spots vs cold spots"** — Hot spots = ↑osteoblastic activity (bone mets from prostate/breast, Paget's, healing fracture). Cold spots = ↓blood supply (avascular necrosis, multiple myeloma — classically shows cold spots unlike most cancers).
+- **"Radiation dose concern"** — Avoid unnecessary CT in young patients (especially pregnant women and children). Alternative: USS (no radiation) or MRI. If unavoidable, shield gonads. Always justify-optimize-limit (3 principles: justification, optimization, dose limitation).
+
+### Imaging Modality of Choice — Quick Table
+
+| Condition | Modality of Choice |
+|-----------|-------------------|
+| Acute stroke (first 6 hours) | CT brain (non-contrast) — hemorrhage vs ischemia |
+| Stroke subacute / lacunar | MRI brain (DWI most sensitive) |
+| Subarachnoid hemorrhage | CT brain → if negative + high suspicion: LP (xanthochromia) |
+| Pulmonary embolism | CTPA |
+| Abdominal aortic aneurysm | USS (screening); CT angiography (operative planning) |
+| Renal colic (ureteric stone) | Non-contrast CT KUB (NCCT) |
+| Appendicitis (adult) | CT abdomen/pelvis with contrast |
+| Appendicitis (child/pregnant) | USS first; MRI if USS inconclusive |
+| Cholecystitis | USS abdomen |
+| Choledocholithiasis (CBD stone) | MRCP (non-invasive); ERCP (therapeutic) |
+| Breast mass | USS (< 35 years), mammography (≥ 35 years); MRI for implants/dense breast |
+| Prostate cancer staging | MRI pelvis (mpMRI) |
+| Spinal cord compression | MRI spine (emergency) |
+| Bone metastases | Bone scan (Tc-99m); PET-CT for soft tissue mets |
+| Multiple myeloma | Whole-body low-dose CT (or PET-CT); X-ray skeletal survey less sensitive now |
+| Pituitary adenoma | MRI pituitary (gadolinium-enhanced) |
+| Adrenal incidentaloma | CT adrenal (non-contrast density + washout characteristics) |
+
+> **Deep dive:** [Radiology Notes](../../03-Clinical/Radiology/radiology-notes.md) · [Radiology MCQs](../../03-Clinical/Radiology/radiology-mcqs.md)

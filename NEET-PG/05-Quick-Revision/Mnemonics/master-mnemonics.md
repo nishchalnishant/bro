@@ -429,6 +429,37 @@ Total = 100%
 **"4 × kg × %TBSA = mL of Ringer's Lactate"**
 Give half in first 8 hours (from time of burn, not arrival), other half in next 16 hours
 
+### Thyroid Surgery Complications — "R-H-P-H"
+**R**ecurrent laryngeal nerve injury (hoarseness) — **H**ypoparathyroidism (tetany, ↓Ca) — **P**neumo**t**horax — **H**ypothyroidism
+
+### Appendicitis Signs
+- **McBurney's**: max tenderness 1/3 from ASIS to umbilicus
+- **Rovsing's sign**: LIF pressure → RIF pain (peritoneal irritation)
+- **Psoas sign**: RIF pain on passive extension of hip (retrocaecal appendix)
+- **Obturator sign**: RIF pain on internal rotation of hip (pelvic appendix)
+
+### GI Bleeding — "UPPER vs LOWER"
+Upper GI (proximal to ligament of Treitz):
+- BUN/Creatinine ratio **>20** = upper GI source (blood digested → urea absorbed)
+Lower GI (distal to ligament of Treitz):
+- Bright red PR bleeding = typically lower (except massive upper GI + fast transit)
+
+### Wound Healing — "PRIMARY, SECONDARY, TERTIARY"
+- **Primary intention**: clean wound, edges apposed, minimal scarring
+- **Secondary intention**: wound left open, healing by granulation + contraction (infected/contaminated)
+- **Tertiary (delayed primary)**: wound left open initially, closed after 4–5 days when clean
+**"PPP = Primary Pretty, Secondary Scarring, Tertiary Time-delayed"**
+
+### Most Common GI Cancers — Priority Order
+**"Colon → Stomach → Pancreas"** in descending frequency globally
+India: **Oesophageal CA** is more common than global average (squamous cell > adenocarcinoma)
+
+### TNM Cancer Staging
+- **T**: Primary Tumor size/invasion
+- **N**: Regional Lymph Node involvement
+- **M**: Distant Metastasis
+Stage IV = any T, any N, **M1** (distant mets) regardless of T or N
+
 ---
 
 ## OBG
@@ -452,6 +483,37 @@ Associated with severe pre-eclampsia; requires immediate delivery
 ### Bishop Score Components — "DECCP" or "DEPP C"
 **D**ilation, **E**ffacement, **S**tation, **C**onsistency, **P**osition (of cervix)
 Score >8 = favorable cervix; score <6 = needs cervical ripening
+
+### Cardinal Movements of Labor — "DIFIRE-E"
+**D**escent → **I**nternal rotation (face down at pelvic inlet) → **F**lexion → **I**nternal rotation (complete to OA) → **E**xtension (head born) → **R**estitution → **E**xternal rotation
+Mnemonic: **"Doesn't It Feel Right, Extending Restitutes Externally"**
+
+### Contraceptive Failure Rates — "LOWER is better (Pearl Index)"
+**"No Method at All = 85% / Condom = 15% / OCP = 0.3% / IUD = 0.1–0.8% / Sterilization = 0.1%"**
+> Pearl Index = (No. of pregnancies × 1200) / (No. of woman-months of use)
+
+### Obstetric Hemorrhage — CAUSES
+**Antepartum hemorrhage (after 28 weeks):**
+- **"P-A-V"**: Placenta previa, Abruptio placentae, Vasa previa
+- Placenta previa: painless bright red bleeding; "P = Painless"
+- Abruptio placentae: painful, dark blood, uterine tenderness; "A = Agonizing"
+
+**Postpartum hemorrhage:**
+- **4 Ts**: Tone (80%) > Trauma > Tissue > Thrombin
+
+### Gynaecological Tumour Markers
+- **CA-125**: Ovarian serous carcinoma (epithelial ovarian CA)
+- **AFP + hCG**: Yolk sac tumour + mixed germ cell
+- **hCG alone**: Choriocarcinoma, hydatidiform mole
+- **Inhibin A + B**: Granulosa cell tumour
+- **Testosterone**: Sertoli-Leydig cell tumour (virilizing)
+Mnemonic: **"Serous is CA-125, Chorio is hCG, Granulosa is Inhibin"**
+
+### Pre-eclampsia vs HELLP vs Eclampsia
+- **Pre-eclampsia**: BP ≥140/90 after 20 weeks + proteinuria (or severe features without proteinuria)
+- **Severe features**: BP ≥160/110, platelets <100k, creatinine >1.1, liver enzymes >2× normal, severe headache/visual changes
+- **HELLP**: Hemolysis + Elevated Liver enzymes + Low Platelets — variant of severe pre-eclampsia
+- **Eclampsia**: Pre-eclampsia + new-onset seizures — give MgSO4 first, then deliver
 
 ---
 
@@ -482,6 +544,55 @@ Each scored 0–2; total 0–10; normal ≥7
 - 10 weeks: (same vaccines, 2nd dose)
 - 14 weeks: (same vaccines, 3rd dose)
 - 9–12 months: MR-1
+
+### CATCH-22 (DiGeorge Syndrome) — 22q11 deletion
+**C**ardiac defects (Tetralogy of Fallot, VSD), **A**bnormal facies, **T**hymic hypoplasia (↓T cells), **C**left palate, **H**ypocalcemia, **22**q11 deletion
+Also: Interrupted aortic arch, conotruncal heart defects
+
+### Neonatal Jaundice — Pathological vs Physiological
+**Physiological (safe):**
+- Appears **after 24 hours** of birth
+- Resolves by day 7 (term) or day 14 (preterm)
+- Exclusively unconjugated bilirubin
+
+**Pathological (urgent):**
+- Jaundice **within 24 hours** = ALWAYS pathological (think Rh/ABO incompatibility, G6PD)
+- Persists beyond 2 weeks (term) or 3 weeks (preterm)
+- Conjugated bilirubin at ANY level (dark urine = biliary atresia until proven otherwise)
+- Bilirubin rising >5 mg/dL/day
+**Mnemonic: "24 hours = Always Bad"**
+
+### Febrile Seizures — Simple vs Complex
+**"Simple = SAFE, Complex = CAREFUL"**
+- Simple: age 6m–6yr, <15 min, generalized, no recurrence in 24h, normal post-ictal exam
+- Complex: >15 min, focal, multiple in 24h, or Todd's paresis → investigate (LP, MRI)
+Recurrence risk: ~30%; risk of epilepsy: ~1–2% (same as general population for simple FS)
+
+### Dehydration Assessment in Children
+| Degree | % body weight | Signs |
+|--------|--------------|-------|
+| Mild | <5% | Thirsty; slightly dry mucosa |
+| Moderate | 5–10% | Sunken eyes/fontanelle; reduced skin turgor; tachycardia |
+| Severe | >10% | Lethargic/unconscious; no urine; sunken; mottled skin; capillary refill >3s |
+WHO ORS: 75 mEq/L Na, 20 mEq/L K, 65 mEq/L Cl, 10 mmol/L citrate, 75 mmol/L glucose
+
+### Vitamin Deficiencies — "ABCDE" Approach
+- **A**: Night blindness → Bitot's spots → Xerophthalmia → Keratomalacia
+- **B1 (Thiamine)**: Beriberi (wet = cardiac, dry = neuropathy), Wernicke-Korsakoff
+- **B3 (Niacin)**: Pellagra — **3 Ds**: Dermatitis, Diarrhea, Dementia (+ Death = 4Ds)
+- **C (Ascorbic acid)**: Scurvy — Bleeding gums, perifollicular hemorrhage, corkscrew hairs
+- **D**: Rickets (children) / Osteomalacia (adults) — bow legs, rachitic rosary, Harrison's sulcus
+- **K**: Neonatal hemorrhagic disease; bleeding from cord/circumcision; give IM Vit K at birth
+
+### Common Childhood Infections — "The Exanthems"
+| Disease | Causative Agent | Rash | Koplik's/Specific Sign |
+|---------|----------------|------|----------------------|
+| Measles (1st) | Paramyxovirus (rubeola) | Maculopapular, starts behind ears → spreads centrally | Koplik's spots (buccal mucosa) |
+| Scarlet fever (2nd) | Group A Strep | Sandpaper rash, circumoral pallor, strawberry tongue | Pastia's lines (skin creases) |
+| Rubella (3rd) | Togavirus | Fine macular, cephalocaudal, fades in 3 days | Forscheimer's spots (soft palate) |
+| Roseola (6th/exanthem subitum) | HHV-6 | Rash appears AFTER fever breaks | High fever 3–5 days then rash |
+| Chickenpox (varicella) | VZV | Pleomorphic — papule/vesicle/crust simultaneously | Dew drops on rose petals |
+| Hand-foot-mouth | Enterovirus (Coxsackie A16) | Vesicles in mouth + hands + feet | Painful oral ulcers |
 
 ---
 

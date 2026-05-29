@@ -575,6 +575,175 @@ Comprehensive exam-focused reference organized by system. PYQ HOTSPOT markers in
 
 ---
 
+## 10. Hormones and Endocrine Reference
+
+### Reproductive Hormones
+
+| Hormone | Adult Male | Adult Female (Follicular) | Adult Female (Luteal) | Post-Menopause |
+|---------|-----------|--------------------------|----------------------|----------------|
+| LH (mIU/mL) | 1.7–8.6 | 2.4–12.6 | 14–95 (mid-cycle surge) | 7.7–58.5 |
+| FSH (mIU/mL) | 1.5–12.4 | 3.5–12.5 | 4.7–21.5 (mid-cycle) | 25.8–134.8 |
+| Prolactin (ng/mL) | < 15 | < 25 (non-pregnant) | — | — |
+| Estradiol (pg/mL) | 10–40 | 30–120 | 70–300 | < 10 |
+| Progesterone (ng/mL) | 0.1–0.3 | 0.1–0.9 | 1.7–27 | < 0.5 |
+| Testosterone (ng/dL) | 280–1100 | 15–70 | — | — |
+| DHEA-S (μg/dL) | 80–560 | 35–430 | — | Decreases |
+
+> **PYQ HOTSPOT** — Prolactin >100 ng/mL = likely prolactinoma (macroprolactinoma if >200); treat with dopamine agonists (cabergoline/bromocriptine). Post-menopausal FSH/LH markedly elevated (> 25 mIU/mL = diagnostic of menopause if persistent ≥12 months amenorrhea). LH surge triggers ovulation approximately 36 hours later.
+
+---
+
+### Adrenal and Pituitary Hormones
+
+| Hormone | Normal Range | Clinical Significance |
+|---------|-------------|----------------------|
+| Cortisol (AM, 8 AM) | 10–20 μg/dL (280–550 nmol/L) | PM cortisol should be half of AM |
+| Cortisol (PM, 4 PM) | 3–10 μg/dL | Loss of diurnal variation = Cushing's |
+| ACTH (AM) | 10–60 pg/mL | ↑ in Addison's; ↓ in adrenal Cushing's |
+| Aldosterone (supine) | 3–16 ng/dL | Ratio Aldo:Renin >20–30 = primary hyperaldosteronism |
+| Plasma renin activity | 0.2–1.6 ng/mL/hr (supine) | ↑ in renovascular HTN; ↓ in Conn's syndrome |
+| GH (random) | < 1 ng/mL (suppressed post-glucose) | IGF-1 used for screening acromegaly |
+| IGF-1 (somatomedin-C) | Age-dependent; adult: 100–300 ng/mL | Best screening/monitoring test for acromegaly |
+| PTH (intact) | 10–65 pg/mL | ↑ in primary/secondary hyperparathyroidism |
+
+> **PYQ HOTSPOT** — Low-dose dexamethasone suppression test (1 mg overnight): cortisol <1.8 μg/dL = normal (excludes Cushing's). High-dose (8 mg): suppresses pituitary Cushing's (disease) but NOT ectopic or adrenal. 24-hour urinary free cortisol >300 μg = Cushing's syndrome. ACTH-independent Cushing's = adrenal cause.
+
+---
+
+### Thyroid-Specific Reference
+
+| Test | Normal Range | Hypothyroid | Hyperthyroid |
+|------|-------------|-------------|-------------|
+| TSH | 0.4–4.5 mIU/L | ↑↑ | ↓ or undetectable |
+| Free T4 (fT4) | 0.8–1.8 ng/dL | ↓ | ↑ |
+| Free T3 (fT3) | 2.3–4.2 pg/mL | ↓ | ↑ |
+| Total T4 | 5–12 μg/dL | ↓ | ↑ |
+| Anti-TPO antibody | < 35 IU/mL | ↑ in Hashimoto's | ↑ in Graves' |
+| TRAB (TSH-R antibody) | < 1.75 IU/L | — | Positive in Graves' |
+| Thyroglobulin | < 55 ng/mL | — | Monitor after thyroidectomy for differentiated thyroid cancer |
+
+> **PYQ HOTSPOT** — Subclinical hypothyroid: TSH 4.5–10 with normal T4 — treat if TSH >10, symptomatic, pregnant, or trying to conceive. Subclinical hyperthyroid: TSH <0.1 with normal T4/T3 — treat elderly (AF risk) or if osteoporosis/cardiac disease. T3 toxicosis: elevated T3, normal T4, suppressed TSH — rare variant.
+
+---
+
+## 11. Pulmonary Function Tests (PFT)
+
+### Lung Volume Reference Values (Average Adult Male)
+
+| Volume / Capacity | Normal Value | Definition |
+|------------------|-------------|-----------|
+| Tidal Volume (TV) | 500 mL | Air moved in one normal breath |
+| Inspiratory Reserve Volume (IRV) | 3,000 mL | Max inspired above TV |
+| Expiratory Reserve Volume (ERV) | 1,100 mL | Max expired below TV |
+| Residual Volume (RV) | 1,200 mL | Air remaining after max expiration |
+| Inspiratory Capacity (IC) | 3,500 mL | TV + IRV |
+| Functional Residual Capacity (FRC) | 2,300 mL | ERV + RV — NOT measured by spirometry |
+| Vital Capacity (VC) | 4,600 mL | IRV + TV + ERV |
+| Total Lung Capacity (TLC) | 5,800 mL | VC + RV — NOT measured by spirometry |
+
+> **PYQ HOTSPOT** — RV, FRC, TLC cannot be measured by spirometry — require body plethysmography or helium dilution. Dead space = anatomical (150 mL) + alveolar dead space. Physiological dead space = anatomical in healthy persons. Wasted ventilation (dead space): measured by Bohr equation.
+
+---
+
+### Spirometry Patterns
+
+| Parameter | Normal | Obstructive (COPD/Asthma) | Restrictive (ILD/Fibrosis) | Mixed |
+|-----------|--------|--------------------------|---------------------------|-------|
+| FEV1 | >80% predicted | ↓ | ↓ | ↓ |
+| FVC | >80% predicted | Normal or ↓ | ↓↓ | ↓ |
+| FEV1/FVC | >70% | ↓ (<70%) = obstructive | Normal (>70%) or ↑ | ↓ |
+| TLC | 5–7 L | Normal or ↑ | ↓ | Variable |
+| RV | 1.0–1.5 L | ↑↑ (air trapping) | ↓ | ↑ |
+| DLCO | >75% predicted | ↓ (emphysema) / Normal (asthma) | ↓ (ILD) | ↓ |
+
+> **PYQ HOTSPOT** — GOLD criteria for COPD: post-bronchodilator FEV1/FVC <0.70. GOLD 1 (FEV1 ≥80%), GOLD 2 (50–79%), GOLD 3 (30–49%), GOLD 4 (<30%). Bronchodilator reversibility (asthma): FEV1 improvement ≥12% AND ≥200 mL post-SABA. DLCO specifically low in emphysema (alveolar destruction) but preserved in chronic bronchitis and asthma.
+
+---
+
+### Peak Flow Rate
+
+| Status | PEFR | Action |
+|--------|------|--------|
+| Green zone | >80% predicted | Continue regular treatment |
+| Yellow zone | 50–80% predicted | Increase bronchodilator use; review treatment |
+| Red zone | <50% predicted | Emergency treatment; systemic steroids |
+
+> **PYQ HOTSPOT** — PEFR diurnal variation >20% = diagnosis of asthma (even with normal spirometry). PEFR <200 L/min = severe airflow obstruction. Normal PEFR in adult male: ~600–650 L/min; adult female: ~400–450 L/min.
+
+---
+
+## 12. Cerebrospinal Fluid (CSF) — Extended Reference
+
+### Normal CSF Values
+
+| Parameter | Normal Value |
+|-----------|-------------|
+| Opening pressure | 70–180 mm H₂O (lateral decubitus) |
+| Appearance | Crystal clear ("gin clear") |
+| Cell count | 0–5 cells/mm³ (all lymphocytes/monocytes) |
+| Protein | 15–45 mg/dL (lumbar); 15–25 mg/dL (ventricular) |
+| Glucose | 50–75 mg/dL (60–70% of simultaneous blood glucose) |
+| Chloride | 120–130 mEq/L |
+| pH | 7.31–7.34 (slightly more acidic than plasma) |
+| Lactate | < 2.0 mmol/L |
+
+---
+
+### CSF Patterns — Extended Comparison
+
+| Parameter | Normal | Bacterial | Viral (Aseptic) | TB | Fungal | Subarachnoid Haemorrhage |
+|-----------|--------|-----------|-----------------|-----|--------|--------------------------|
+| Appearance | Clear | Turbid/purulent | Clear | Fibrin web/xanthochromic | Clear/slightly turbid | Xanthochromic (after 4h) |
+| Pressure | Normal | ↑↑ | Normal–↑ | ↑ | ↑ | ↑↑ |
+| Cells (/mm³) | 0–5 lymph | 1000–10000 PMNs | 50–1000 lymph | 100–500 lymph | 20–500 lymph | RBCs (fresh) |
+| Protein (mg/dL) | 15–45 | >100 (often 100–500) | 50–100 | 100–500 | 50–200 | ↑ (xanthochromia due to Hb breakdown) |
+| Glucose | Normal (>2/3 serum) | ↓↓ (<45 mg/dL) | Normal | ↓ (<45) | ↓ | Normal |
+| Key feature | — | PMN pleocytosis | Lymphocytic pleocytosis; normal glucose | AFB smear/culture; raised ADA | India ink positive; CrAg antigen | Xanthochromia; D-dimers, no organisms |
+| Gram stain | Negative | Positive (60–90%) | Negative | Negative (rarely AFB+) | India ink positive | Negative |
+
+> **PYQ HOTSPOT** — Xanthochromia (yellow discoloration of CSF): best evidence of SAH if >4 hours after ictus; spectrophotometry more sensitive than visual inspection. Raised adenosine deaminase (ADA) >10 U/L in CSF = strongly suggests TB meningitis. Normal opening pressure in lateral decubitus: values >200 mm H₂O = raised ICP; values >250 = definitive raised ICP.
+
+---
+
+## 13. Obstetric Reference Values
+
+### Blood Volume and Hematologic Changes in Normal Pregnancy
+
+| Parameter | Non-Pregnant | Change in Pregnancy | Clinical Significance |
+|-----------|-------------|--------------------|-----------------------|
+| Blood volume | 4–5 L | ↑ 40–50% by 32–34 weeks | Dilutional anemia |
+| Plasma volume | 2.5–3 L | ↑ 45–55% | Greater than RBC increase |
+| RBC volume | 1.5–2 L | ↑ 20–30% | Dilutional effect |
+| Hemoglobin | 12–15 g/dL | ↓ ~1–2 g/dL | Physiological anemia |
+| Hematocrit | 36–47% | ↓ to 32–35% | Normal in pregnancy |
+| Fibrinogen | 200–400 mg/dL | ↑ to 400–600 mg/dL | Pro-thrombotic; protects against PPH |
+| WBC | 4,000–11,000 | ↑ to 6,000–16,000 | Leukocytosis normal in pregnancy |
+| ESR | <20 mm/hr | ↑↑ (unreliable in pregnancy) | Cannot use ESR in pregnancy |
+| Platelets | 150,000–400,000 | May decrease slightly | Gestational thrombocytopenia (>70,000 — benign) |
+
+> **PYQ HOTSPOT** — Physiological anemia of pregnancy: Hb >11 g/dL is acceptable per WHO; treat with iron if <11 g/dL. Iron requirement increases 3× in pregnancy (especially 2nd/3rd trimester). Cardiac output increases by 40–50% (mainly by 20 weeks); HR increases by ~15 bpm; BP decreases in 1st/2nd trimester (progesterone-mediated vasodilation), returns to normal by term.
+
+---
+
+### Key Obstetric Thresholds
+
+| Parameter | Value | Significance |
+|-----------|-------|-------------|
+| Preeclampsia BP cutoff | ≥140/90 mmHg after 20 weeks | + proteinuria or severe features |
+| Severe preeclampsia | ≥160/110 mmHg | Start MgSO4 and antihypertensives |
+| Proteinuria (preeclampsia) | ≥300 mg/24h or PCR ≥0.3 | Diagnostic criterion |
+| Gestational diabetes (OGTT) | FPG ≥92, 1h ≥180, 2h ≥153 mg/dL | IADPSG criteria (any one value sufficient) |
+| Fetal HR normal | 110–160 bpm | >160 = fetal tachycardia; <110 = bradycardia |
+| Oligohydramnios (AFI) | AFI <5 cm or deepest pocket <2 cm | Associated with IUGR, post-dates, fetal renal anomalies |
+| Polyhydramnios (AFI) | AFI >24 cm or deepest pocket >8 cm | Fetal swallowing abnormalities, maternal diabetes |
+| Normal fetal weight gain (3rd trim) | ~200–250 g/week | IUGR: <10th centile for gestational age |
+| Bishop score favorable | ≥8 | Safe to induce labor |
+| Cord pH (arterial) | >7.20 | <7.00 = severe acidemia (neonatal asphyxia) |
+
+> **PYQ HOTSPOT** — MgSO4 for eclampsia: Pritchard regimen (4g IV loading + 10g IM) vs Zuspan regimen (4g IV loading + 1–2g/hr infusion). Therapeutic Mg level: 4–7 mEq/L. Toxicity signs: loss of patellar reflex (>7), respiratory depression (>10), cardiac arrest (>15). Antidote: calcium gluconate 1g IV.
+
+---
+
 ## Quick-Reference Summary Card
 
 | System | Key Number to Remember |

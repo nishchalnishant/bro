@@ -247,6 +247,14 @@
 - CEA = colon cancer; AFP = HCC/germ cell; CA-125 = ovary; CA 19-9 = pancreas; PSA = prostate
 - **Most common type of renal cell carcinoma** = clear cell (75%)
 
+### Predicted 2025 High-Probability Topics
+1. **Molecular pathology** — oncogenes (RAS, MYC, HER2/ERBB2) vs tumour suppressor genes (TP53, RB1, BRCA1/2); loss of heterozygosity concept
+2. **Liquid biopsy** — circulating tumour DNA (ctDNA) for early detection and monitoring; cell-free DNA; clinical applications in lung and colorectal cancer
+3. **PD-L1 expression** — tumour testing before checkpoint inhibitor therapy; companion diagnostics concept
+4. **Updated WHO tumour classifications** — WHO 5th edition (CNS tumours 2021): IDH mutation + 1p/19q co-deletion (oligodendroglioma) vs IDH-mutant astrocytoma; glioblastoma now = IDH-wildtype only
+5. **Amyloid in Alzheimer's** — amyloid PET imaging; beta-amyloid 42/40 ratio in CSF; lecanemab (anti-amyloid antibody) approval
+6. **CAR-T cell therapy** — mechanism, indications (ALL, large B-cell lymphoma); cytokine release syndrome as key complication
+
 ---
 
 ## Pharmacology
@@ -302,6 +310,20 @@
 - **Only β-blocker that is cardioselective AND has ISA** = acebutolol
 - **Penicillin** mechanism = inhibit transpeptidase (final cross-linking step)
 - **Rifampicin** = enzyme inducer; Isoniazid = enzyme inhibitor (of CYP2C9)
+
+### Predicted 2025 High-Probability Topics
+1. **Biologics and targeted therapy**: Mechanism of JAK inhibitors (tofacitinib, baricitinib) in RA; checkpoint inhibitors (nivolumab/pembrolizumab) mechanism and irAEs
+2. **SGLT2 inhibitors** — non-diabetic indications: CKD (empagliflozin EMPA-KIDNEY), HFpEF (dapagliflozin), atherosclerotic CVD
+3. **Vaccines — mechanism types**: mRNA (COVID-19), live attenuated vs inactivated vs subunit vs VLP vs toxoid — examples and key differences
+4. **Drug interactions** — warfarin interactions (CYP2C9): increase effect (amiodarone, metronidazole, fluconazole) vs decrease (rifampicin, carbamazepine); INR monitoring
+5. **New antibiotics** — ceftazidime-avibactam (KPC/OXA-48 resistant Gram−); cefiderocol (siderophore cephalosporin); omadacycline (newer tetracycline for CAP)
+6. **Pharmacogenomics** — CYP2D6 poor metabolizers (codeine toxicity, tamoxifen failure); G6PD before primaquine; HLA-B*5701 before abacavir; HLA-B*1502 before carbamazepine (SJS in Asians)
+
+### Examiner Traps (Pharmacology)
+- **"Drug of choice" vs "preferred drug"**: NEET PG asks drug of CHOICE not drug of LAST resort. Verify the context — DOC changes with patient population (e.g., DOC for UTI in pregnancy = nitrofurantoin 1st/2nd trimester; cephalexin is alternative).
+- **Beta-blocker contraindications**: asthma (absolute for non-selective); AVOID in vasospastic angina (Prinzmetal — worsens coronary spasm by leaving alpha-mediated vasoconstriction unopposed).
+- **Aminoglycosides + loop diuretics**: both ototoxic — combination avoided. Aminoglycosides also nephrotoxic + ototoxic — monitor renal function and trough levels.
+- **Lithium toxicity levels**: therapeutic 0.6–1.2 mEq/L; toxic >1.5 mEq/L; signs start at >1.5 (fine tremor → coarse tremor → ataxia → confusion → seizures/cardiac at >3). Many drugs increase lithium levels (NSAIDs, thiazides, ACEi — all reduce renal lithium clearance).
 
 ---
 
@@ -469,6 +491,20 @@
 - **Millstone of public health** = malaria (most important tropical disease historically)
 - **Universal immunization schedule** in India: BCG at birth, OPV/IPV, Penta, Rota, PCV, Measles-Rubella
 
+### Predicted 2025 High-Probability Topics
+1. **Updated National Immunization Schedule** — any new vaccines added in 2023–2024 (rotavirus phase-out/expansion, pneumococcal PCV13, HPV in adolescent girls, adult vaccination)
+2. **One Health concept** — zoonotic diseases (Nipah, avian influenza, SARS-CoV-2 origins); animal-human-environment interface
+3. **AYUSHMAN BHARAT (PM-JAY)** — coverage (₹5 lakh per family/year), target population (bottom 40% economically deprived), services covered
+4. **National Health Mission (NHM)** — merger of NRHM + NUHM; goals, ASHA workers roles, SBA training
+5. **Sustainable Development Goals (SDGs)** — SDG 3 (Health): targets for U5 mortality (<25/1000), MMR (<70/lakh), HIV/TB elimination
+6. **New RNTCP/NTEP developments** — Nikshay Poshan Yojana (₹500/month nutrition support); 4-month regimen for drug-sensitive TB (2HRZE/2HRE vs standard); bedaquiline in MDR-TB
+
+### Examiner Traps (SPM)
+- **Sensitivity vs Specificity vs PPV** — Sensitivity = TP/(TP+FN): used when missing a case is costly (screening tests must be sensitive). Specificity = TN/(TN+FP): used when false positives are costly (confirmatory tests must be specific). PPV depends on PREVALENCE — same test has higher PPV in high-prevalence population.
+- **Attack rate vs Incidence** — Attack rate = proportion of exposed who develop disease during an outbreak (used in epidemics). Incidence rate = new cases per population per unit time (used in general epidemiology). Attack rate has NO denominator for time.
+- **Case fatality rate vs Mortality rate** — CFR = deaths among cases (diseased population denominator). Mortality rate = deaths per general population. CFR measures disease severity; mortality rate measures population-level burden.
+- **"Outbreak vs Epidemic vs Pandemic"** — Outbreak = localized geographic area. Epidemic = large-scale, defined region. Pandemic = worldwide. Endemic = constant, background level in a community. Hyperendemic = consistently high level.
+
 ---
 
 ## General Medicine
@@ -522,6 +558,21 @@
 - **ABCD2 score** in TIA — predicts 2-day stroke risk; ≥4 = high risk, admit
 - **Anti-GBM disease** (Goodpasture) = anti-glomerular basement membrane antibody; lung + kidney
 - **Most common cause of secondary hypertension** in young = renal artery stenosis (fibromuscular dysplasia)
+
+### Predicted 2025 High-Probability Topics
+1. **GLP-1 receptor agonists** — semaglutide, tirzepatide: CV outcomes (SUSTAIN, LEADER trials), renal protection, weight loss mechanism
+2. **HFpEF management** — SGLT2 inhibitors in HFpEF (EMPEROR-Preserved, DELIVER trials); diuretics for congestion
+3. **Frailty and geriatric syndromes** — Clinical Frailty Scale; polypharmacy risks; falls prevention
+4. **Non-alcoholic fatty liver disease (NAFLD/MASLD)** — new nomenclature MASLD (metabolic-associated steatotic liver disease); FIB-4 scoring; emerging drugs (resmetirom)
+5. **Monkeypox/Mpox** — clinical features, transmission, diagnosis (PCR of vesicle fluid), treatment (tecovirimat), vaccination (MVA-BN/Jynneos)
+6. **Autoimmune hepatitis** — AIH vs PBC vs PSC: ANA/ASMA (AIH), AMA (PBC), p-ANCA/ERCP beads-on-string (PSC)
+7. **Antimicrobial resistance** — ESKAPE organisms; carbapenem resistance mechanisms; colistin as last resort
+
+### Examiner Traps (General Medicine)
+- **Troponin in non-ACS conditions**: troponin elevation occurs in PE, myocarditis, severe sepsis, renal failure, defibrillation. Not every troponin rise = STEMI — always interpret with clinical context and rise/fall pattern.
+- **Hepatorenal syndrome (HRS)** — creatinine rises in cirrhosis WITHOUT structural kidney disease. Exclude pre-renal AKI first (fluid challenge). HRS-AKI (type 1 = rapid, <2 weeks) vs HRS-CKD (type 2 = gradual). Treated with vasoconstrictors (terlipressin + albumin).
+- **Hyponatremia SIADH vs CSWS**: SIADH = euvolemic-hypervolemic, urine Na >40, treat with fluid restriction. CSWS (cerebral salt wasting) = hypovolemic, urine Na also high, treat with sodium replacement. Common post-SAH. Never fluid restrict CSWS.
+- **BNP vs NT-proBNP**: BNP <100 pg/mL rules out heart failure; NT-proBNP age-adjusted. Both elevated in renal failure, sepsis, PE (not specific for heart failure). Trending values more useful than single readings.
 
 ---
 
@@ -899,6 +950,13 @@
 - **MacRobert's maneuver** = first step for shoulder dystocia (hyperflexion of maternal thighs)
 - **Kallmann syndrome** = hypogonadotropic hypogonadism + anosmia
 - **Most common cancer of female genital tract** = endometrial carcinoma (in developed countries); cervical (in India)
+
+### Predicted 2025 High-Probability Topics
+1. **Fetal medicine advances** — NIPT (non-invasive prenatal testing) for chromosomal anomalies; cfDNA; nuchal translucency + PAPP-A + free beta-hCG in 1st trimester screening
+2. **Updated cervical cancer screening** — primary HPV testing replacing Pap smear in many guidelines; HPV 16/18 genotyping; LEEP vs CKC for HSIL
+3. **Postpartum hemorrhage prevention** — heat-stable oxytocin (Carbetocin); tranexamic acid (WOMAN trial — reduces PPH mortality); uterine balloon tamponade; B-Lynch suture
+4. **Endometriosis management** — dienogest (progestogen); GnRH antagonist (elagolix/relugolix); laparoscopic surgery principles; endometrioma and IVF
+5. **Gestational trophoblastic disease** — molar pregnancy classification (complete vs partial); serum hCG monitoring post-evacuation; when to treat (persistent trophoblastic disease = rising/plateauing hCG)
 
 ---
 
